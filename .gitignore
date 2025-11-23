@@ -13,8 +13,6 @@ Electron/
 *.db-wal
 
 # API Keys and Secrets
-**/config.json
-**/hosts.yml
 **/*secret*
 **/*password*
 **/*credential*
@@ -25,6 +23,13 @@ Electron/
 *.crt
 *.p12
 *.pfx
+
+# Specific sensitive config files (allow dotfiles config.json)
+!**/config.json
+!**/config.jsonc
+!**/hosts.yml
+Signal/config.json
+obs-studio/**/config.json
 
 # Environment files
 .env
