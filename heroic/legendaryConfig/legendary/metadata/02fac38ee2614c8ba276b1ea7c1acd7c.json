@@ -1,0 +1,345 @@
+{
+  "app_name": "02fac38ee2614c8ba276b1ea7c1acd7c",
+  "app_title": "The Dungeon Of Naheulbeuk: The Amulet Of Chaos",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "02fac38ee2614c8ba276b1ea7c1acd7c",
+      "asset_id": "02fac38ee2614c8ba276b1ea7c1acd7c",
+      "build_version": "Windows_1.7_51_47889_UnityPatch",
+      "catalog_item_id": "4e76076db8e7438ba1cff559f71bc4be",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "456d95ca54814c8d98db2f52346ff5de",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi456750xgC3MDwDRX4uD5QZxWj0wK",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-06-29T16:24:16.515Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Artefacts Studio/Naheulbeuk/Save/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/Artefacts Studio/Naheulbeuk/Save/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DungeonOfNaheulbeuk"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "500"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "456d95ca54814c8d98db2f52346ff5de"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The Dungeon Of Naheulbeuk: The Amulet Of Chaos",
+    "developer": "Plug In Digital SAS",
+    "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-10T01:20:19.069Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Naheulbeuk Ruins Of Limis Audience",
+        "developer": "Plug In Digital SAS",
+        "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+        "endOfSupport": false,
+        "entitlementName": "a4bb78b36389408db9fb6e6aa74ef06e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a4bb78b36389408db9fb6e6aa74ef06e",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-11-04T20:58:20.846Z",
+        "mainGameItem": {
+          "id": "4e76076db8e7438ba1cff559f71bc4be",
+          "namespace": "456d95ca54814c8d98db2f52346ff5de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4e76076db8e7438ba1cff559f71bc4be",
+            "namespace": "456d95ca54814c8d98db2f52346ff5de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "456d95ca54814c8d98db2f52346ff5de",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Naheulbeuk Ruins Of Limis Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-05-21T19:10:56.444Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Naheulbeuk Season Pass Audience",
+        "developer": "Plug In Digital SAS",
+        "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+        "endOfSupport": false,
+        "entitlementName": "2c14b7463c894d1ea86f7a7287ceee80",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2c14b7463c894d1ea86f7a7287ceee80",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-10-03T14:57:21.030Z",
+        "mainGameItem": {
+          "id": "4e76076db8e7438ba1cff559f71bc4be",
+          "namespace": "456d95ca54814c8d98db2f52346ff5de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4e76076db8e7438ba1cff559f71bc4be",
+            "namespace": "456d95ca54814c8d98db2f52346ff5de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "456d95ca54814c8d98db2f52346ff5de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Naheulbeuk Season Pass Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-05-21T19:12:08.637Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "The Dungeon Of Naheulbeuk - Splat Jaypak's Arenas",
+        "developer": "Plug In Digital SAS",
+        "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+        "endOfSupport": false,
+        "entitlementName": "338b0dfa5ca344bf997f6ea5f41a78c2",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "338b0dfa5ca344bf997f6ea5f41a78c2",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "b78964d35af01b66560cc564b42cc766",
+            "size": 922604,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-09T10:03:10.533Z",
+            "url": "https://cdn1.epicgames.com/item/456d95ca54814c8d98db2f52346ff5de/EGS_TheDungeonOfNaheulbeukSplatJaypaksArenas_ArtefactsStudio_DLC_S2_1200x1600-b78964d35af01b66560cc564b42cc766",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "8493d5da594452e004d6370716e2cefc",
+            "size": 998782,
+            "type": "DieselGameBoxWide",
+            "uploadedDate": "2021-11-09T10:03:15.598Z",
+            "url": "https://cdn1.epicgames.com/item/456d95ca54814c8d98db2f52346ff5de/EGS_TheDungeonOfNaheulbeukSplatJaypaksArenas_ArtefactsStudio_DLC_S1_2560x1440-8493d5da594452e004d6370716e2cefc",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2021-12-03T16:43:47.687Z",
+        "mainGameItem": {
+          "id": "4e76076db8e7438ba1cff559f71bc4be",
+          "namespace": "456d95ca54814c8d98db2f52346ff5de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4e76076db8e7438ba1cff559f71bc4be",
+            "namespace": "456d95ca54814c8d98db2f52346ff5de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "456d95ca54814c8d98db2f52346ff5de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "The Dungeon Of Naheulbeuk - Splat Jaypak's Arenas",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-05-21T19:12:44.521Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Naheulbeuk DLC 3 Audience",
+        "developer": "Plug In Digital SAS",
+        "developerId": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+        "endOfSupport": false,
+        "entitlementName": "16f0a3e899df4c5e904ff45321c81dbc",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "16f0a3e899df4c5e904ff45321c81dbc",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-10-03T14:57:28.173Z",
+        "mainGameItem": {
+          "id": "4e76076db8e7438ba1cff559f71bc4be",
+          "namespace": "456d95ca54814c8d98db2f52346ff5de",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "4e76076db8e7438ba1cff559f71bc4be",
+            "namespace": "456d95ca54814c8d98db2f52346ff5de",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "456d95ca54814c8d98db2f52346ff5de",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Naheulbeuk DLC 3 Audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "4e76076db8e7438ba1cff559f71bc4be",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "4e76076db8e7438ba1cff559f71bc4be",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "b9f0201b134b1a6a57fe46bc43fdf859",
+        "size": 976796,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-06-29T19:54:36.803Z",
+        "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/item/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S1-2560x1440-b9f0201b134b1a6a57fe46bc43fdf859.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "c6e41542f7fd54417e77bc9ed7eee0e1",
+        "size": 872674,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-06-29T19:54:50.800Z",
+        "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/item/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S2-1200x1600-c6e41542f7fd54417e77bc9ed7eee0e1.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-05-31T14:19:08.056Z",
+    "mainGameItemList": [],
+    "namespace": "456d95ca54814c8d98db2f52346ff5de",
+    "releaseInfo": [
+      {
+        "appId": "02fac38ee2614c8ba276b1ea7c1acd7c",
+        "compatibleApps": [],
+        "dateAdded": "2020-06-29T00:00:00.000Z",
+        "id": "1463e377698b44ebb236a58b0a5d3614",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "The Dungeon Of Naheulbeuk: The Amulet Of Chaos",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

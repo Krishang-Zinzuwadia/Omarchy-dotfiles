@@ -1,0 +1,97 @@
+{
+  "app_name": "e3c0d11648554383b33da58d075fd101",
+  "app_title": "Astro Duel 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "e3c0d11648554383b33da58d075fd101",
+      "asset_id": "e3c0d11648554383b33da58d075fd101",
+      "build_version": "59",
+      "catalog_item_id": "59fdf842adb843c1a07d714c410e107d",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "284d972fee2f491197c16c32096ff0f1"
+      },
+      "namespace": "4a681a809a094e2c8dcc68353c68fed6",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567JwpTWhUQFy96iuyOI6WPqjZC",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-05-24T13:34:45.500Z",
+    "customAttributes": {
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "ad2_eos_save.xml"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/AstroDuel2_EOS/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/Astro Duel 2 EOS/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "AstroDuel2"
+      }
+    },
+    "description": "Astro Duel 2 is a sci-fi combat game combining top-down space dog fights with up-close platforming action. Whether versus or co-op, battle through space and on foot at the same time! Strike within the fully-destructible arenas or just nuke \u2018em from orbit.",
+    "developer": "Wild Rooster",
+    "developerId": "o-bkftz4vh5gcrv3aks6zkrtkulrgctm",
+    "endOfSupport": false,
+    "entitlementName": "59fdf842adb843c1a07d714c410e107d",
+    "entitlementType": "EXECUTABLE",
+    "id": "59fdf842adb843c1a07d714c410e107d",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Astro Duel 2 Offer",
+        "height": 1440,
+        "md5": "878f1dab0304e8faa0d6454c7fe2b2d4",
+        "size": 3169923,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-12-08T21:22:38.647Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/3251b927449a471c883aab00c076d63c/astro-duel-2-1y34f.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Astro Duel 2 Offer",
+        "height": 1600,
+        "md5": "adcedda7f658a0ad2036c9eb82ba59fb",
+        "size": 1840889,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-12-08T21:22:40.926Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/3251b927449a471c883aab00c076d63c/astro-duel-2-1hv9q.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-02-12T17:03:51.912Z",
+    "mainGameItemList": [],
+    "namespace": "4a681a809a094e2c8dcc68353c68fed6",
+    "releaseInfo": [
+      {
+        "appId": "e3c0d11648554383b33da58d075fd101",
+        "id": "913c00c2d2ae47c6b32a5a5735ba61da",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Astro Duel 2",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

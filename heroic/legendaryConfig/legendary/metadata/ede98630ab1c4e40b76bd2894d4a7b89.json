@@ -1,0 +1,548 @@
+{
+  "app_name": "ede98630ab1c4e40b76bd2894d4a7b89",
+  "app_title": "Book of Yog Idle RPG",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ede98630ab1c4e40b76bd2894d4a7b89",
+      "asset_id": "ede98630ab1c4e40b76bd2894d4a7b89",
+      "build_version": "20251114_2138_x64_release_2025_1113",
+      "catalog_item_id": "e8d733237d4a4441aea91ee31bc94136",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "3ebda2d36bbf4b99adb1a3d78d321652",
+        "update_type": "PATCH"
+      },
+      "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi45678ptyzvC4osTS4pc2nz8N56s5",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-03-21T08:07:37.436Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "BookofYogIdleRPGRILnc"
+      }
+    },
+    "description": "The Book of Yog is a 3D idle RPG game. You can rally heroes, develop the kingdom and explore the secrets of a lost world. Dozens of heroes, hundreds of skills, thousands of loot for you to combine freely. Come to embark on a journey to build the strongest team!",
+    "developer": "YuanQI Studio",
+    "developerId": "o-v2ex6rfuzy9dygaagqccmx6j7n9edn",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-05-05T06:15:22.308Z",
+        "description": "Book_of_Yog_99_ConsumableAudience",
+        "developer": "YuanQI Studio",
+        "developerId": "o-v2ex6rfuzy9dygaagqccmx6j7n9edn",
+        "endOfSupport": false,
+        "entitlementName": "5d46f96748ae4d06aed9408fa3008f3b",
+        "entitlementType": "AUDIENCE",
+        "id": "5d46f96748ae4d06aed9408fa3008f3b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-09T03:26:42.300Z",
+        "mainGameItem": {
+          "id": "e8d733237d4a4441aea91ee31bc94136",
+          "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e8d733237d4a4441aea91ee31bc94136",
+            "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Book_of_Yog_99_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-05-05T06:36:33.124Z",
+        "description": "Book_of_Yog_9999_ConsumableAudience",
+        "developer": "YuanQI Studio",
+        "developerId": "o-v2ex6rfuzy9dygaagqccmx6j7n9edn",
+        "endOfSupport": false,
+        "entitlementName": "6d180c771d254cb2b2e5c91a152f87c1",
+        "entitlementType": "AUDIENCE",
+        "id": "6d180c771d254cb2b2e5c91a152f87c1",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-09T03:26:42.300Z",
+        "mainGameItem": {
+          "id": "e8d733237d4a4441aea91ee31bc94136",
+          "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e8d733237d4a4441aea91ee31bc94136",
+            "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Book_of_Yog_9999_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-05-05T06:31:46.864Z",
+        "description": "Book_of_Yog_499_ConsumableAudience",
+        "developer": "YuanQI Studio",
+        "developerId": "o-v2ex6rfuzy9dygaagqccmx6j7n9edn",
+        "endOfSupport": false,
+        "entitlementName": "0eb045ee96714f7a9d683d3aacba6d21",
+        "entitlementType": "AUDIENCE",
+        "id": "0eb045ee96714f7a9d683d3aacba6d21",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-09T03:26:42.300Z",
+        "mainGameItem": {
+          "id": "e8d733237d4a4441aea91ee31bc94136",
+          "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e8d733237d4a4441aea91ee31bc94136",
+            "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Book_of_Yog_499_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-05-05T06:32:21.300Z",
+        "description": "Book_of_Yog_999_ConsumableAudience",
+        "developer": "YuanQI Studio",
+        "developerId": "o-v2ex6rfuzy9dygaagqccmx6j7n9edn",
+        "endOfSupport": false,
+        "entitlementName": "a7a2a7f071624be8803027dbdf658194",
+        "entitlementType": "AUDIENCE",
+        "id": "a7a2a7f071624be8803027dbdf658194",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-09T03:26:42.300Z",
+        "mainGameItem": {
+          "id": "e8d733237d4a4441aea91ee31bc94136",
+          "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e8d733237d4a4441aea91ee31bc94136",
+            "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Book_of_Yog_999_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-05-05T06:36:09.728Z",
+        "description": "Book_of_Yog_4999_ConsumableAudience",
+        "developer": "YuanQI Studio",
+        "developerId": "o-v2ex6rfuzy9dygaagqccmx6j7n9edn",
+        "endOfSupport": false,
+        "entitlementName": "5c3d97233a3140d6bd3601f917058ab7",
+        "entitlementType": "AUDIENCE",
+        "id": "5c3d97233a3140d6bd3601f917058ab7",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-09T03:26:43.126Z",
+        "mainGameItem": {
+          "id": "e8d733237d4a4441aea91ee31bc94136",
+          "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e8d733237d4a4441aea91ee31bc94136",
+            "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Book_of_Yog_4999_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-05-05T06:35:08.860Z",
+        "description": "Book_of_Yog_2699_ConsumableAudience",
+        "developer": "YuanQI Studio",
+        "developerId": "o-v2ex6rfuzy9dygaagqccmx6j7n9edn",
+        "endOfSupport": false,
+        "entitlementName": "06477f22b4a94af8afe5d8470f4644dd",
+        "entitlementType": "AUDIENCE",
+        "id": "06477f22b4a94af8afe5d8470f4644dd",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-09T03:26:43.126Z",
+        "mainGameItem": {
+          "id": "e8d733237d4a4441aea91ee31bc94136",
+          "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e8d733237d4a4441aea91ee31bc94136",
+            "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Book_of_Yog_2699_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-12-25T03:49:26.176Z",
+        "description": "Yog Points_648000_ConsumableAudience",
+        "developer": "YuanQI Studio",
+        "developerId": "o-v2ex6rfuzy9dygaagqccmx6j7n9edn",
+        "endOfSupport": false,
+        "entitlementName": "b6213a037ad2409983a4e1269b9dc024",
+        "entitlementType": "AUDIENCE",
+        "id": "b6213a037ad2409983a4e1269b9dc024",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-09T03:26:43.126Z",
+        "mainGameItem": {
+          "id": "e8d733237d4a4441aea91ee31bc94136",
+          "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e8d733237d4a4441aea91ee31bc94136",
+            "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Yog Points_648000_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-12-25T03:36:54.407Z",
+        "description": "Yog Points_3000_ConsumableAudience",
+        "developer": "YuanQI Studio",
+        "developerId": "o-v2ex6rfuzy9dygaagqccmx6j7n9edn",
+        "endOfSupport": false,
+        "entitlementName": "a40f9099992841eda95c5e10cc43ab90",
+        "entitlementType": "AUDIENCE",
+        "id": "a40f9099992841eda95c5e10cc43ab90",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-09T03:26:42.300Z",
+        "mainGameItem": {
+          "id": "e8d733237d4a4441aea91ee31bc94136",
+          "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e8d733237d4a4441aea91ee31bc94136",
+            "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Yog Points_3000_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-12-25T03:37:10.596Z",
+        "description": "Yog Points_6800_ConsumableAudience",
+        "developer": "YuanQI Studio",
+        "developerId": "o-v2ex6rfuzy9dygaagqccmx6j7n9edn",
+        "endOfSupport": false,
+        "entitlementName": "f3dcd0b1ac5d411e9359f907d9ef6111",
+        "entitlementType": "AUDIENCE",
+        "id": "f3dcd0b1ac5d411e9359f907d9ef6111",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-09T03:26:42.300Z",
+        "mainGameItem": {
+          "id": "e8d733237d4a4441aea91ee31bc94136",
+          "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e8d733237d4a4441aea91ee31bc94136",
+            "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Yog Points_6800_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-12-25T03:48:48.390Z",
+        "description": "Yog Points_16800_ConsumableAudience",
+        "developer": "YuanQI Studio",
+        "developerId": "o-v2ex6rfuzy9dygaagqccmx6j7n9edn",
+        "endOfSupport": false,
+        "entitlementName": "1cb78f450360445aab66aec865df6dfd",
+        "entitlementType": "AUDIENCE",
+        "id": "1cb78f450360445aab66aec865df6dfd",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-09T03:26:42.300Z",
+        "mainGameItem": {
+          "id": "e8d733237d4a4441aea91ee31bc94136",
+          "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e8d733237d4a4441aea91ee31bc94136",
+            "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Yog Points_16800_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-12-25T03:49:02.736Z",
+        "description": "Yog Points_328000_ConsumableAudience",
+        "developer": "YuanQI Studio",
+        "developerId": "o-v2ex6rfuzy9dygaagqccmx6j7n9edn",
+        "endOfSupport": false,
+        "entitlementName": "52d92bc6c3544bd78bd6ef68fb09e20c",
+        "entitlementType": "AUDIENCE",
+        "id": "52d92bc6c3544bd78bd6ef68fb09e20c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-09T03:26:42.300Z",
+        "mainGameItem": {
+          "id": "e8d733237d4a4441aea91ee31bc94136",
+          "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e8d733237d4a4441aea91ee31bc94136",
+            "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Yog Points_328000_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-12-25T03:29:35.103Z",
+        "description": "Yog Points_600_ConsumableAudience",
+        "developer": "YuanQI Studio",
+        "developerId": "o-v2ex6rfuzy9dygaagqccmx6j7n9edn",
+        "endOfSupport": false,
+        "entitlementName": "1f2accea1375412ebede0987cbe31fb1",
+        "entitlementType": "AUDIENCE",
+        "id": "1f2accea1375412ebede0987cbe31fb1",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-09T03:26:42.300Z",
+        "mainGameItem": {
+          "id": "e8d733237d4a4441aea91ee31bc94136",
+          "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e8d733237d4a4441aea91ee31bc94136",
+            "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Yog Points_600_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "e8d733237d4a4441aea91ee31bc94136",
+    "entitlementType": "EXECUTABLE",
+    "id": "e8d733237d4a4441aea91ee31bc94136",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Book of Yog Idle RPG Offer",
+        "height": 1440,
+        "md5": "897fb87ee8491124b9fbc64f73d24acf",
+        "size": 2378683,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-05-13T07:27:03.014Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/716cc8e4266f424082a2a1ad139f06fa/book-of-yog-idle-rpg-1v3tp.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Book of Yog Idle RPG Offer",
+        "height": 1600,
+        "md5": "f43f810b87c67ccb588e03c5d5c6b46b",
+        "size": 1242715,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-05-13T07:27:01.098Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/716cc8e4266f424082a2a1ad139f06fa/book-of-yog-idle-rpg-18lu1.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-06-09T03:26:42.300Z",
+    "mainGameItemList": [],
+    "namespace": "f04733aedc1c43d985ef8e1fe8a8b04b",
+    "releaseInfo": [
+      {
+        "appId": "ede98630ab1c4e40b76bd2894d4a7b89",
+        "id": "dd64ac0b75d44f6d923d43764a60f6d5",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Book of Yog Idle RPG",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "e31fea83b3ed4d208e9c8d08438c77a7"
+    },
+    "rev": 1
+  }
+}

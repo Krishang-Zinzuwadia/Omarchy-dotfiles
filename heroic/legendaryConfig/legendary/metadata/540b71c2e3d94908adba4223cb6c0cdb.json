@@ -1,0 +1,88 @@
+{
+  "app_name": "540b71c2e3d94908adba4223cb6c0cdb",
+  "app_title": "Paragon: The Overprime",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "540b71c2e3d94908adba4223cb6c0cdb",
+      "asset_id": "540b71c2e3d94908adba4223cb6c0cdb",
+      "build_version": "1.0.68",
+      "catalog_item_id": "c65d459e6ffe4e3988aaa6bd978df21d",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "4c25f01090d8494d9f1637c52534eab3"
+      },
+      "namespace": "7bb9b09415a544f78fadf6390b2e3a80",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567PRy7LoDKZr1ydOkCk8MxRGHs",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-08-24T02:54:12.365Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "PARAGON"
+      }
+    },
+    "description": "Paragon : The Overprime is a team-based TPS MOBA game.",
+    "developer": "NETMARBLE",
+    "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+    "endOfSupport": false,
+    "entitlementName": "c65d459e6ffe4e3988aaa6bd978df21d",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && paragon_the_overprime)"
+    ],
+    "id": "c65d459e6ffe4e3988aaa6bd978df21d",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Paragon The Overprime Offer",
+        "height": 1440,
+        "md5": "4ca6a5be83d5adb06f08903f9ed3a892",
+        "size": 495222,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-01-25T04:11:32.148Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/127ead8a4ed24442966c9596b7abff06/paragon-the-overprime-3spsh.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Paragon The Overprime Offer",
+        "height": 1600,
+        "md5": "da08a43125172498eb90b413cf19f1e7",
+        "size": 759506,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-01-25T04:11:33.986Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/127ead8a4ed24442966c9596b7abff06/paragon-the-overprime-1txfd.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-04-22T00:49:05.346Z",
+    "mainGameItemList": [],
+    "namespace": "7bb9b09415a544f78fadf6390b2e3a80",
+    "releaseInfo": [
+      {
+        "appId": "540b71c2e3d94908adba4223cb6c0cdb",
+        "id": "c2e604ffe84744a9aaff4e62717d0196",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Paragon: The Overprime",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

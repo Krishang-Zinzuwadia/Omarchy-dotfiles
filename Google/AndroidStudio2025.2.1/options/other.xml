@@ -1,0 +1,63 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="12.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "ATTACHED_TOOL_WINDOW.Compose Preview.TOOL_ORDER": "",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Compose Preview.TOOL_ORDER": "",
+    "GEMINI_INTELLIJ_INSTALLATION_ID": "62900ba6-b92a-403c-8d24-aedc1218a1d9",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "0",
+    "NEXT_SURVEY_TIMESTAMP": "2025-11-23T06:18:00.255627665Z",
+    "NextRunPlatformUpdateBuild": "AI-252.25557.131.2521.14432022",
+    "NextRunPlatformUpdateSelfBuild": "AI-252.25557.131.2521.14344949",
+    "NextRunPlatformUpdateVersion": "Otter | 2025.2.1 Patch 1",
+    "RunOnceActivity.TerminalOptionsProvider.migration.2025.1.1": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.cidr.test.framework.showIndexingAsTask": "true",
+    "RunOnceActivity.cidr.test.roots.only": "true",
+    "RunOnceActivity.git.modal.commit.toggle": "true",
+    "RunOnceActivity.set.chat.model.provider.canary4": "true",
+    "Source Code Editor With PreviewLayout": "Editor only",
+    "StudioBot.Agent.isAutoApprove": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "experimental.ui.used.version": "252.25557.131.2521.14344949",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "idea.islands.enabled": "true",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "252.25557.131.2521.14344949-AS",
+    "kotlin.lastUpdateCheck": "1763414094386",
+    "kotlin.updates.whats.new.shown.for": "2.1.21",
+    "last_opened_file_path": "/home/krishang/Work/Icarus-DevJams/icarus-android-app",
+    "migrate.android.sdk.path.to.roamable.storage": "false",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "AI-252.25557.131.2521.14344949",
+    "studio.bot.shown": "true",
+    "studio.ml.bot.history.legacySessionRestored": "true",
+    "terminal.gen.one.option.visible": "false",
+    "terminal.is.new.user": "true"
+  },
+  "keyToStringList": {
+    "DAILY_ACTION_TIMESTAMPS": [
+      "2025-11-16T06:18:00.235576351Z",
+      "2025-11-17T21:11:49.345585183Z"
+    ],
+    "file.chooser.recent.files": [
+      "/home/krishang/Work/Icarus-DevJams/icarus-android-app"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.jetbrains.cidr.lang.OCHeaderFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

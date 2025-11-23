@@ -1,0 +1,94 @@
+{
+  "app_name": "73c3ffec37e3451a811d9cbad460e106",
+  "app_title": "Kamaeru",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "73c3ffec37e3451a811d9cbad460e106",
+      "asset_id": "73c3ffec37e3451a811d9cbad460e106",
+      "build_version": "2.6",
+      "catalog_item_id": "dbcdb14475534f8bbe1cf14cb6a66ee4",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c34cf5d3612143759a96557a183e8baa",
+        "update_type": "MINOR"
+      },
+      "namespace": "a1fb482c4c6c4dcd855a1cbef1ad79d1",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-10-23T12:40:50.811Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../Roaming/Kamaeru/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/Kamaeru/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "KamaeruRznbw"
+      }
+    },
+    "description": "Kamaeru",
+    "developer": "Armor Games Studios",
+    "developerId": "o-ttudgfyffrswppq6pflnkwfzdm6qc3",
+    "endOfSupport": false,
+    "entitlementName": "dbcdb14475534f8bbe1cf14cb6a66ee4",
+    "entitlementType": "EXECUTABLE",
+    "id": "dbcdb14475534f8bbe1cf14cb6a66ee4",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Kamaeru Offer",
+        "height": 1440,
+        "md5": "288ba830ff7718b8487d0405e07c394d",
+        "size": 3709518,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-10-23T15:57:34.375Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/44313cfbb62b4df5801d0c8d541c2624/kamaeru-1yhz3.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Kamaeru Offer",
+        "height": 1600,
+        "md5": "c7ef7a589570b5d37559ec794a035264",
+        "size": 1884321,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-10-23T15:43:38.863Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/44313cfbb62b4df5801d0c8d541c2624/kamaeru-1v77g.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-12-04T16:36:40.875Z",
+    "mainGameItemList": [],
+    "namespace": "a1fb482c4c6c4dcd855a1cbef1ad79d1",
+    "releaseInfo": [
+      {
+        "appId": "73c3ffec37e3451a811d9cbad460e106",
+        "id": "b561da252c674e71b433a53591029320",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Kamaeru",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

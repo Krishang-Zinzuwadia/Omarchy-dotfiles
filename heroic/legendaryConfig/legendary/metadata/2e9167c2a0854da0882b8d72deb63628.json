@@ -1,0 +1,84 @@
+{
+  "app_name": "2e9167c2a0854da0882b8d72deb63628",
+  "app_title": "Zeeverse",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "2e9167c2a0854da0882b8d72deb63628",
+      "asset_id": "2e9167c2a0854da0882b8d72deb63628",
+      "build_version": "1.7.4.2a-windows",
+      "catalog_item_id": "50267b29c83744ae970c58baf7b2e89c",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "821b35b845dd45778a72d2ecbcda2368"
+      },
+      "namespace": "a99f555b20ad4e49a077ae50ebbd1238",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-11-08T21:05:35.212Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "ZeeverseSEpYE"
+      }
+    },
+    "description": "Zeeverse",
+    "developer": "Zeeverse",
+    "developerId": "o-29kdj7vl7dmrvj4v39mh8zduq4lwb2",
+    "endOfSupport": false,
+    "entitlementName": "50267b29c83744ae970c58baf7b2e89c",
+    "entitlementType": "EXECUTABLE",
+    "id": "50267b29c83744ae970c58baf7b2e89c",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Zeeverse Offer",
+        "height": 1440,
+        "md5": "b341274eb1b4b715a27a9a9654f226f7",
+        "size": 810595,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-12-05T15:29:34.586Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6124ac616544470e8400561a04115210/zeeverse-stvyw.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Zeeverse Offer",
+        "height": 1600,
+        "md5": "26f912da9d1a99eb086fa5edb829f315",
+        "size": 612272,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-12-05T15:32:26.431Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6124ac616544470e8400561a04115210/zeeverse-1rw2h.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-04-30T08:58:39.517Z",
+    "mainGameItemList": [],
+    "namespace": "a99f555b20ad4e49a077ae50ebbd1238",
+    "releaseInfo": [
+      {
+        "appId": "2e9167c2a0854da0882b8d72deb63628",
+        "id": "8d01472b399c484eae3bf8af3d044594",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Zeeverse",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

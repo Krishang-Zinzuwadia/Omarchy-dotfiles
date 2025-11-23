@@ -1,0 +1,147 @@
+{
+  "app_name": "4d7c1e25955644e9afe7054071f39603",
+  "app_title": "Ghost Recon Breakpoint Demo",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "4d7c1e25955644e9afe7054071f39603",
+      "asset_id": "4d7c1e25955644e9afe7054071f39603",
+      "build_version": "1.0.0.0.3",
+      "catalog_item_id": "09342951051244918f8d8babd810dee0",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-03-23T16:03:13.051Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "BreakpointDemo"
+      },
+      "GameID": {
+        "type": "STRING",
+        "value": "11903"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "NeverUpdate": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "2dbd2f64abdc4bbab077424d5c85e01b"
+      },
+      "RegistryKey": {
+        "type": "STRING",
+        "value": "InstallDir"
+      },
+      "RegistryPath": {
+        "type": "STRING",
+        "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\11903"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "ThirdPartyManagedProvider": {
+        "type": "STRING",
+        "value": "UbisoftConnect"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "extraLaunchOption_001_Args": {
+        "type": "STRING",
+        "value": "-ExeId 1"
+      },
+      "extraLaunchOption_001_Name": {
+        "type": "STRING",
+        "value": "Launch Ghost Recon Breakpoint \u2013 Vulkan"
+      },
+      "partnerLinkId": {
+        "type": "STRING",
+        "value": "366ad72c018a4c3893ecf209b2171763"
+      },
+      "partnerLinkType": {
+        "type": "STRING",
+        "value": "ubisoft"
+      }
+    },
+    "description": "Ghost Recon Breakpoint Demo",
+    "developer": "Ubisoft Entertainment",
+    "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "endOfSupport": false,
+    "entitlementName": "09342951051244918f8d8babd810dee0",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "09342951051244918f8d8babd810dee0",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 440,
+        "md5": "70b00886176ffa2e22b86eaa389c7a50",
+        "size": 325115,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-04-01T16:01:03.447Z",
+        "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/CodeRedemptionTCGRB-330x440-70b00886176ffa2e22b86eaa389c7a50-330x440-70b00886176ffa2e22b86eaa389c7a50.png",
+        "width": 330
+      },
+      {
+        "height": 150,
+        "md5": "5ab21bd4317595c4650335460350cdd2",
+        "size": 22492,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-04-01T16:01:22.397Z",
+        "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/item/CAPSULE-Standard-267x150-e2f17b0ea3c75401e8d4be947cbeab18aef7e8f2-267x150-5ab21bd4317595c4650335460350cdd2.jpg",
+        "width": 267
+      }
+    ],
+    "lastModifiedDate": "2024-05-13T12:41:15.840Z",
+    "mainGameItemList": [],
+    "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+    "releaseInfo": [
+      {
+        "appId": "4d7c1e25955644e9afe7054071f39603",
+        "dateAdded": "2019-08-29T00:00:00.000Z",
+        "id": "83458aede9324395bf5b73a6e802d608",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Ghost Recon Breakpoint Demo",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

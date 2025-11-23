@@ -1,0 +1,85 @@
+{
+  "app_name": "0dc5b56e6e0145d58423c2a0dc1f7e9f",
+  "app_title": "Arkbound-\u30a2\u30fc\u30af\u30d0\u30a6\u30f3\u30c9-",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "0dc5b56e6e0145d58423c2a0dc1f7e9f",
+      "asset_id": "0dc5b56e6e0145d58423c2a0dc1f7e9f",
+      "build_version": "1.2",
+      "catalog_item_id": "8b2abe4fda434002b50554229c9ce5d8",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "0461e7120aa1475886891fa5673a4db1",
+        "update_type": "MINOR"
+      },
+      "namespace": "9fd854316dca49c6bdd72da6c287e81b",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567amXuOWTzzJltqSFwEzBRs5N8",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-06-29T08:41:35.589Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "Arkbound"
+      }
+    },
+    "description": "Arkbound-\u30a2\u30fc\u30af\u30d0\u30a6\u30f3\u30c9-",
+    "developer": "Black Tower Studios",
+    "developerId": "o-g6xx4e4auet9r9mqbnemntta8juyv4",
+    "endOfSupport": false,
+    "entitlementName": "8b2abe4fda434002b50554229c9ce5d8",
+    "entitlementType": "EXECUTABLE",
+    "id": "8b2abe4fda434002b50554229c9ce5d8",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Arkbound Offer",
+        "height": 1440,
+        "md5": "c703b0f8fadbc8f95c938541f8458a74",
+        "size": 1603880,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-11-21T06:49:15.582Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/1336a54a4eee40df879500d7b5db03a4/arkbound-1dvii.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Arkbound Offer",
+        "height": 1600,
+        "md5": "9cb1628d957f5241e66d49eacfcd698d",
+        "size": 624066,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-11-27T06:51:15.686Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/1336a54a4eee40df879500d7b5db03a4/arkbound-184z4.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-02-06T15:00:02.003Z",
+    "mainGameItemList": [],
+    "namespace": "9fd854316dca49c6bdd72da6c287e81b",
+    "releaseInfo": [
+      {
+        "appId": "0dc5b56e6e0145d58423c2a0dc1f7e9f",
+        "id": "a4f46810a318491daac45cc264f4079a",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Arkbound-\u30a2\u30fc\u30af\u30d0\u30a6\u30f3\u30c9-",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

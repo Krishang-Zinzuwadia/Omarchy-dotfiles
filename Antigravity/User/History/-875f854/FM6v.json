@@ -1,0 +1,18 @@
+{
+  "title": "Cross-Platform Screenshot Implementation",
+  "summary": "Best practices and implementation details for capturing screenshots programmatically on Windows, macOS, and Linux (specifically Wayland/Hyprland vs X11). Emphasizes strict dependency usage (mss for Windows, grim for Wayland) over generic fallbacks like pyautogui for better reliability.",
+  "references": [
+    {
+      "type": "file",
+      "value": "ai-agents/mainmlfile/perception/pipeline_runner.py"
+    },
+    {
+      "type": "file",
+      "value": "ai-agents/mainmlfile/perception/requirements.txt"
+    },
+    {
+      "type": "file",
+      "value": "ai-agents/mainmlfile/perception/verify_screenshot.py"
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "app_name": "ea28cf776392440181e7eda9248b14f7",
+  "app_title": "Motorbike Evolution 2024",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ea28cf776392440181e7eda9248b14f7",
+      "asset_id": "ea28cf776392440181e7eda9248b14f7",
+      "build_version": "2025.0.4.0",
+      "catalog_item_id": "b0fae73d287842c98afc21a4c9b543f5",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "81e877d3d87d4d608b1cfe22bb5fb76a"
+      },
+      "namespace": "e278531bc44245d29329e60389bd04ad",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567KGJOLSCxQp63idQPQ2Vy8d0x",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-01-02T08:57:36.300Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "MotorbikeEvolution205DQa1"
+      }
+    },
+    "description": "The first ever true MMO motorbike racing game is here! Play with up to 39 friends!",
+    "developer": "Petr Simunek",
+    "developerId": "o-hwk4hn2umbqufzeupp44yd9lzls8xc",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-01-02T23:23:10.993Z",
+        "description": "25000 gold_ConsumableAudience",
+        "developer": "Petr Simunek",
+        "developerId": "o-hwk4hn2umbqufzeupp44yd9lzls8xc",
+        "endOfSupport": false,
+        "entitlementName": "b7a799b846264064a5929b11659e235d",
+        "entitlementType": "AUDIENCE",
+        "id": "b7a799b846264064a5929b11659e235d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-27T13:25:43.187Z",
+        "mainGameItem": {
+          "id": "b0fae73d287842c98afc21a4c9b543f5",
+          "namespace": "e278531bc44245d29329e60389bd04ad",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b0fae73d287842c98afc21a4c9b543f5",
+            "namespace": "e278531bc44245d29329e60389bd04ad",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "e278531bc44245d29329e60389bd04ad",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "25000 gold_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-01-02T23:22:11.258Z",
+        "description": "10000 gold_ConsumableAudience",
+        "developer": "Petr Simunek",
+        "developerId": "o-hwk4hn2umbqufzeupp44yd9lzls8xc",
+        "endOfSupport": false,
+        "entitlementName": "d9921521a6914105a5862338e2ee0ce1",
+        "entitlementType": "AUDIENCE",
+        "id": "d9921521a6914105a5862338e2ee0ce1",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-27T13:25:43.187Z",
+        "mainGameItem": {
+          "id": "b0fae73d287842c98afc21a4c9b543f5",
+          "namespace": "e278531bc44245d29329e60389bd04ad",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b0fae73d287842c98afc21a4c9b543f5",
+            "namespace": "e278531bc44245d29329e60389bd04ad",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "e278531bc44245d29329e60389bd04ad",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "10000 gold_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-01-02T23:20:56.368Z",
+        "description": "2500 gold_ConsumableAudience",
+        "developer": "Petr Simunek",
+        "developerId": "o-hwk4hn2umbqufzeupp44yd9lzls8xc",
+        "endOfSupport": false,
+        "entitlementName": "d3b038bc1e134448844444c889ced67c",
+        "entitlementType": "AUDIENCE",
+        "id": "d3b038bc1e134448844444c889ced67c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-27T13:25:43.187Z",
+        "mainGameItem": {
+          "id": "b0fae73d287842c98afc21a4c9b543f5",
+          "namespace": "e278531bc44245d29329e60389bd04ad",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b0fae73d287842c98afc21a4c9b543f5",
+            "namespace": "e278531bc44245d29329e60389bd04ad",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "e278531bc44245d29329e60389bd04ad",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "2500 gold_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-01-02T23:20:40.920Z",
+        "description": "1000 gold_ConsumableAudience",
+        "developer": "Petr Simunek",
+        "developerId": "o-hwk4hn2umbqufzeupp44yd9lzls8xc",
+        "endOfSupport": false,
+        "entitlementName": "15853fbb7fcd4bb28ff9a7308643eb7f",
+        "entitlementType": "AUDIENCE",
+        "id": "15853fbb7fcd4bb28ff9a7308643eb7f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-27T13:25:43.187Z",
+        "mainGameItem": {
+          "id": "b0fae73d287842c98afc21a4c9b543f5",
+          "namespace": "e278531bc44245d29329e60389bd04ad",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b0fae73d287842c98afc21a4c9b543f5",
+            "namespace": "e278531bc44245d29329e60389bd04ad",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "e278531bc44245d29329e60389bd04ad",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1000 gold_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-01-02T23:22:59.083Z",
+        "description": "50000 gold_ConsumableAudience",
+        "developer": "Petr Simunek",
+        "developerId": "o-hwk4hn2umbqufzeupp44yd9lzls8xc",
+        "endOfSupport": false,
+        "entitlementName": "60458741759e40db90e77e489f060aa9",
+        "entitlementType": "AUDIENCE",
+        "id": "60458741759e40db90e77e489f060aa9",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-27T13:25:43.187Z",
+        "mainGameItem": {
+          "id": "b0fae73d287842c98afc21a4c9b543f5",
+          "namespace": "e278531bc44245d29329e60389bd04ad",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b0fae73d287842c98afc21a4c9b543f5",
+            "namespace": "e278531bc44245d29329e60389bd04ad",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "e278531bc44245d29329e60389bd04ad",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "50000 gold_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-01-02T23:21:47.453Z",
+        "description": "5000 gold_ConsumableAudience",
+        "developer": "Petr Simunek",
+        "developerId": "o-hwk4hn2umbqufzeupp44yd9lzls8xc",
+        "endOfSupport": false,
+        "entitlementName": "0a57ec0c7c7e4e4f85c5fc929b3f0699",
+        "entitlementType": "AUDIENCE",
+        "id": "0a57ec0c7c7e4e4f85c5fc929b3f0699",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-03-27T13:25:43.187Z",
+        "mainGameItem": {
+          "id": "b0fae73d287842c98afc21a4c9b543f5",
+          "namespace": "e278531bc44245d29329e60389bd04ad",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "b0fae73d287842c98afc21a4c9b543f5",
+            "namespace": "e278531bc44245d29329e60389bd04ad",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "e278531bc44245d29329e60389bd04ad",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "5000 gold_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "b0fae73d287842c98afc21a4c9b543f5",
+    "entitlementType": "EXECUTABLE",
+    "id": "b0fae73d287842c98afc21a4c9b543f5",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Motorbike Evolution 2024 Offer",
+        "height": 1440,
+        "md5": "6b14a981e40882b9e2452fe639f1697d",
+        "size": 1132753,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-01-03T12:27:45.875Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/fb43da055fc842e58874ebb3b8cb5589/motorbike-evolution-2024-5b6nv.jpeg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Motorbike Evolution 2024 Offer",
+        "height": 1600,
+        "md5": "60604bda24d978e1f21f1bcc4307d6cb",
+        "size": 640542,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-01-03T12:27:46.217Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/fb43da055fc842e58874ebb3b8cb5589/motorbike-evolution-2024-irfeb.jpeg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-03-27T13:25:43.187Z",
+    "mainGameItemList": [],
+    "namespace": "e278531bc44245d29329e60389bd04ad",
+    "releaseInfo": [
+      {
+        "appId": "ea28cf776392440181e7eda9248b14f7",
+        "id": "99d5957ee7244deaaa561e54e203658c",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Motorbike Evolution 2024",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

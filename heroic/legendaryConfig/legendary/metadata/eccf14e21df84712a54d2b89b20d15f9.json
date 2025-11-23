@@ -1,0 +1,96 @@
+{
+  "app_name": "eccf14e21df84712a54d2b89b20d15f9",
+  "app_title": "Super Space Club",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "eccf14e21df84712a54d2b89b20d15f9",
+      "asset_id": "eccf14e21df84712a54d2b89b20d15f9",
+      "build_version": "1.2.17.4",
+      "catalog_item_id": "98c1c9199d2f4df4ba4ac1b549da7802",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "4f4721cfa69a477991a667cfcd4e2f00",
+        "update_type": "PATCH"
+      },
+      "namespace": "5d6924bd68114aab9e48f1ed17ce1883",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567XfemVecWkTAXhplSVzUh6192",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-10-22T17:36:09.832Z",
+    "customAttributes": {
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "ssc.game"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/GrahamOfLegend/SuperSpaceClub/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "SuperSpaceClub7lGTx"
+      }
+    },
+    "description": "Super Space Club is a lo-fi arcade space shooter to chill to. Defend a vibrant galaxy as a club of misfit heroes and battle endless waves of spacecrafts to the tune of atmospheric beats. Outlast your enemies and vibe to the rhythm of the stars.",
+    "developer": "GrahamOfLegend",
+    "developerId": "o-w5juz4p54jnbqrtqfw5x65yd6p6lpx",
+    "endOfSupport": false,
+    "entitlementName": "98c1c9199d2f4df4ba4ac1b549da7802",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [],
+    "id": "98c1c9199d2f4df4ba4ac1b549da7802",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Super Space Club Offer",
+        "height": 1440,
+        "md5": "0757f1f45e2e3eb1c8b620847e9af62f",
+        "size": 3207413,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-10-28T21:12:41.072Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/d23691af8c7d42729f66d929c8609676/super-space-club-otvqs.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Super Space Club Offer",
+        "height": 1600,
+        "md5": "73bed956ebd7bb65d96c7c868aaac60e",
+        "size": 1495279,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-10-28T21:12:42.212Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/d23691af8c7d42729f66d929c8609676/super-space-club-tju4y.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-04-29T15:55:46.050Z",
+    "mainGameItemList": [],
+    "namespace": "5d6924bd68114aab9e48f1ed17ce1883",
+    "releaseInfo": [
+      {
+        "appId": "eccf14e21df84712a54d2b89b20d15f9",
+        "id": "667691d3991f4a64b13dbc471371caaf",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Super Space Club",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

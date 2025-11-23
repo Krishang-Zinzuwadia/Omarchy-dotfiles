@@ -1,0 +1,354 @@
+2025-10-12 09:38:43.409 [error] Error getting repo info: Failed to execute git
+2025-10-12 09:38:43.409 [error] Error: Failed to execute git
+	at t.Git._exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:34408)
+	at async t.Git.exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:33531)
+	at async t.GitProvider.executeGitCommandStable (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1312259)
+	at async t.GitProvider.getRepoInfo (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1288211)
+2025-10-12 09:38:43.409 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-10-12 09:38:43.409 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-10-12 09:38:43.409 [error] NoWorkspaceUriError
+2025-10-12 09:38:43.769 [warning] Failed to get symbolic ref: Failed to execute git
+2025-10-12 09:38:44.593 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '.git/HEAD')
+2025-10-12 09:38:45.021 [warning] Failed to get branches from remote: Failed to execute git
+2025-10-12 09:44:11.642 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-10-12 09:44:11.642 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-10-12 09:44:11.642 [info] Making keys for a new index
+2025-10-12 09:44:11.642 [info] Making keys for a new index
+2025-10-12 09:44:11.973 [info] Using the default key from the server for a new index
+2025-10-12 09:44:11.973 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-10-12 09:44:11.975 [info] Using the default key from the server for a new index
+2025-10-12 09:44:11.975 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-10-12 09:44:12.226 [info] Doing a startup handshake.
+2025-10-12 09:44:15.225 [info] Finished computing merkle tree in 829.4776620000011 ms.
+2025-10-12 09:44:15.459 [info] Doing the initial handshake with hash: b97f81203dc3790e39c6ee33abb3af0d2722e8c653aa1ce27ce4cc0c315571cc
+2025-10-12 09:44:15.536 [warning] Error reading high level folder description. Ignoring. Error: ENOENT: no such file or directory, open '/home/krishang/.config/Cursor/User/workspaceStorage/5bf8c4acdf1df91127784a61ff151595/anysphere.cursor-retrieval/high_level_folder_description.txt'
+2025-10-12 09:44:15.553 [info] Computed simhash vector of length: 256
+2025-10-12 09:44:15.553 [info] Path key hash: 4d4a31e900cc00fa9611089cbdfa0982509f8d8f7eb046ef0ff14e4d6dc9c397
+2025-10-12 09:44:15.553 [info] Handshake start
+2025-10-12 09:44:19.554 [warning] Retrying handshake with timeout 4000. Error:  [deadline_exceeded] the operation timed out
+2025-10-12 09:44:19.554 [info] Handshake start
+2025-10-12 09:44:20.230 [info] Handshake timing: 677.4393999999993, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"5c5a287b-c874-44e6-ac35-3b1dfc91c1f1","status":"STATUS_EMPTY","copyTaskHandle":""}]}
+2025-10-12 09:44:20.230 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"5c5a287b-c874-44e6-ac35-3b1dfc91c1f1","status":"STATUS_EMPTY","copyTaskHandle":""}]}
+2025-10-12 09:44:20.231 [info] Starting fast remote sync.
+2025-10-12 09:44:20.232 [info] Total num embeddable files: 142
+2025-10-12 09:44:20.233 [info] Root hash: b97f81203dc3790e39c6ee33abb3af0d2722e8c653aa1ce27ce4cc0c315571cc
+2025-10-12 09:44:20.234 [info] Starting repository upload from scratch.
+2025-10-12 09:44:20.239 [info] Uploading 142 files.
+2025-10-12 09:44:20.242 [info] Total number of files to embed: 142
+2025-10-12 09:44:20.242 [info] Not aborted
+2025-10-12 09:44:20.242 [info] Starting while loop.
+2025-10-12 09:44:20.254 [info] syncing batch of 2 files and 1581 bytes
+2025-10-12 09:44:20.921 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./tsconfig.json
+2025-10-12 09:44:20.922 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./tailwind.config.ts
+2025-10-12 09:44:20.925 [info] syncing batch of 4 files and 5298 bytes
+2025-10-12 09:44:22.555 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./seed-tags.js
+2025-10-12 09:44:22.555 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./middleware.ts
+2025-10-12 09:44:22.555 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./restructure_NPTEL_JSON.js
+2025-10-12 09:44:22.556 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./lib/utils.ts
+2025-10-12 09:44:22.561 [info] syncing batch of 8 files and 18094 bytes
+2025-10-12 09:44:24.693 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./lib/prisma.ts
+2025-10-12 09:44:24.693 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./lib/localStorage.ts
+2025-10-12 09:44:24.694 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./components/ui/use-toast.ts
+2025-10-12 09:44:24.694 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./components/ui/toaster.tsx
+2025-10-12 09:44:24.694 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./components/ui/toast.tsx
+2025-10-12 09:44:24.694 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./components/ui/dialog.tsx
+2025-10-12 09:44:24.694 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./components/ui/SocialMediaToast.tsx
+2025-10-12 09:44:24.694 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./components.json
+2025-10-12 09:44:24.704 [info] syncing batch of 16 files and 343467 bytes
+2025-10-12 09:44:27.899 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/opengraph-image.alt.txt
+2025-10-12 09:44:27.899 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/loading.tsx
+2025-10-12 09:44:27.899 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/layout.tsx
+2025-10-12 09:44:27.900 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/globals.css
+2025-10-12 09:44:27.900 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./public/assets/quizJSON.ts
+2025-10-12 09:44:27.900 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./prisma/schema.prisma
+2025-10-12 09:44:27.901 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./prisma/migrations/migration_lock.toml
+2025-10-12 09:44:27.901 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./prisma/migrations/20250816065728_auth_changes/migration.sql
+2025-10-12 09:44:27.901 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./prisma/migrations/20241008133722_added_view_history_constraint/migration.sql
+2025-10-12 09:44:27.902 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./prisma/migrations/20241008090606_change_to_syllabi_temp/migration.sql
+2025-10-12 09:44:27.902 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./prisma/migrations/20241008082024_added_syllabus_table/migration.sql
+2025-10-12 09:44:27.902 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./prisma/migrations/20240826071822_count_for_analytics/migration.sql
+2025-10-12 09:44:27.902 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./prisma/migrations/20240724230804_tag_aliases/migration.sql
+2025-10-12 09:44:27.903 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/favicon.ico
+2025-10-12 09:44:27.903 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./prisma/migrations/20240719205257_rating_thumbnail_fixes/migration.sql
+2025-10-12 09:44:27.903 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./prisma/migrations/20240719164851_kairav_daan_pt2/migration.sql
+2025-10-12 09:44:27.946 [info] syncing batch of 20 files and 39772 bytes
+2025-10-12 09:44:28.110 [info] syncing batch of 12 files and 51801 bytes
+2025-10-12 09:44:30.029 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/filter/FilterComp.tsx
+2025-10-12 09:44:30.029 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./prisma/migrations/20240629195355_user_session_and_account/migration.sql
+2025-10-12 09:44:30.029 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./postcss.config.mjs
+2025-10-12 09:44:30.029 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./package.json
+2025-10-12 09:44:30.029 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./next.config.mjs
+2025-10-12 09:44:30.030 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/ModuleDropdown.tsx
+2025-10-12 09:44:30.030 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/create-forum.tsx
+2025-10-12 09:44:30.030 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/ModeratorDashBoard.tsx
+2025-10-12 09:44:30.030 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/common/ThemeToggle.tsx
+2025-10-12 09:44:30.030 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/common/ExamCookerLogo.tsx
+2025-10-12 09:44:30.030 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/ForumCard.tsx
+2025-10-12 09:44:30.030 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/common/Buttons.tsx
+2025-10-12 09:44:30.037 [info] syncing batch of 20 files and 66733 bytes
+2025-10-12 09:44:30.040 [info] syncing batch of 4 files and 11922 bytes
+2025-10-12 09:44:30.205 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/uploadButtonPaper.tsx
+2025-10-12 09:44:30.206 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/tagsInput.tsx
+2025-10-12 09:44:30.206 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/sign-out.tsx
+2025-10-12 09:44:30.206 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./prisma/migrations/20240719164339_kairav_daan_pt1/migration.sql
+2025-10-12 09:44:30.206 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/sign-in.tsx
+2025-10-12 09:44:30.206 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/pdfviewer.tsx
+2025-10-12 09:44:30.206 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./prisma/migrations/20240708153512_kairav_daan/migration.sql
+2025-10-12 09:44:30.206 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/landing_page/landing_header.tsx
+2025-10-12 09:44:30.206 [info] Completed 50 jobs for absoluteDirectoryPath: undefined
+2025-10-12 09:44:30.206 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./prisma/migrations/20240705064405_god_bless/migration.sql
+2025-10-12 09:44:30.206 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/landing_page/landing.tsx
+2025-10-12 09:44:30.207 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./prisma/migrations/20240629202349_image_in_user/migration.sql
+2025-10-12 09:44:30.207 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/landing_page/land_footer.tsx
+2025-10-12 09:44:30.207 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/header.tsx
+2025-10-12 09:44:30.207 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./prisma/migrations/20240629201753_user_role/migration.sql
+2025-10-12 09:44:30.207 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./prisma/migrations/20240629201037_schema_migrations/migration.sql
+2025-10-12 09:44:30.207 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/forumpost/TagContainer.tsx
+2025-10-12 09:44:30.207 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/forumpost/CommentField.tsx
+2025-10-12 09:44:30.207 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./prisma/migrations/20240629200233_prisma_adapter/migration.sql
+2025-10-12 09:44:30.207 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/forumpost/CommentContainer.tsx
+2025-10-12 09:44:30.207 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/filter/SearchBarFilter.tsx
+2025-10-12 09:44:30.213 [info] syncing batch of 20 files and 43603 bytes
+2025-10-12 09:44:30.232 [info] syncing batch of 20 files and 55621 bytes
+2025-10-12 09:44:31.143 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/actions/uploadFile.ts
+2025-10-12 09:44:31.143 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/PastPaperCard.tsx
+2025-10-12 09:44:31.143 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/actions/revalidateFavourites.ts
+2025-10-12 09:44:31.144 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/actions/moderatorActions.ts
+2025-10-12 09:44:31.146 [info] syncing batch of 4 files and 9093 bytes
+2025-10-12 09:44:32.038 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/favourites/page.tsx
+2025-10-12 09:44:32.038 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/favourites/loading.tsx
+2025-10-12 09:44:32.039 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/past_papers/page.tsx
+2025-10-12 09:44:32.039 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/past_papers/loading.tsx
+2025-10-12 09:44:32.045 [info] syncing batch of 4 files and 4141 bytes
+2025-10-12 09:44:32.203 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/mod/loading.tsx
+2025-10-12 09:44:32.203 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/loading.tsx
+2025-10-12 09:44:32.203 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/resources/page.tsx
+2025-10-12 09:44:32.204 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/resources/loading.tsx
+2025-10-12 09:44:32.204 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/layout.tsx
+2025-10-12 09:44:32.204 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/home/loading.tsx
+2025-10-12 09:44:32.204 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/home/home_footer.tsx
+2025-10-12 09:44:32.204 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/resources/[id]/page.tsx
+2025-10-12 09:44:32.204 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/resources/[id]/loading.tsx
+2025-10-12 09:44:32.205 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/home/home.tsx
+2025-10-12 09:44:32.205 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/home/display_username.tsx
+2025-10-12 09:44:32.205 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/quiz/page.tsx
+2025-10-12 09:44:32.205 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/forum/page.tsx
+2025-10-12 09:44:32.205 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/forum/loading.tsx
+2025-10-12 09:44:32.205 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/forum/create/page.tsx
+2025-10-12 09:44:32.205 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/forum/create/loading.tsx
+2025-10-12 09:44:32.206 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/quiz/[id]/page.tsx
+2025-10-12 09:44:32.206 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/forum/[id]/page.tsx
+2025-10-12 09:44:32.206 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/forum/[id]/loading.tsx
+2025-10-12 09:44:32.206 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/forum/[id]/ForumPost.tsx
+2025-10-12 09:44:32.213 [info] syncing batch of 8 files and 18841 bytes
+2025-10-12 09:44:32.297 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/Pagination.tsx
+2025-10-12 09:44:32.297 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/actions/forumVote.ts
+2025-10-12 09:44:32.297 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/NotesCard.tsx
+2025-10-12 09:44:32.297 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/actions/UpdateFile.ts
+2025-10-12 09:44:32.298 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/NewForumButton.tsx
+2025-10-12 09:44:32.298 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/actions/SignOut.ts
+2025-10-12 09:44:32.298 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/actions/Favourites.ts
+2025-10-12 09:44:32.298 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/actions/CurateQuestions.ts
+2025-10-12 09:44:32.298 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/actions/CreateForumPost.ts
+2025-10-12 09:44:32.298 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/actions/CreateComment.ts
+2025-10-12 09:44:32.298 [info] Completed 100 jobs for absoluteDirectoryPath: undefined
+2025-10-12 09:44:32.298 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/NavBar.tsx
+2025-10-12 09:44:32.298 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@unprotected_routes/page.tsx
+2025-10-12 09:44:32.298 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./README.md
+2025-10-12 09:44:32.299 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./.gitignore
+2025-10-12 09:44:32.299 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@unprotected_routes/[...slug]/page.tsx
+2025-10-12 09:44:32.299 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/syllabus/page.tsx
+2025-10-12 09:44:32.299 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/syllabus/loading.tsx
+2025-10-12 09:44:32.299 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/syllabus/[id]/page.tsx
+2025-10-12 09:44:32.299 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/syllabus/[id]/loading.tsx
+2025-10-12 09:44:32.299 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/mod/page.tsx
+2025-10-12 09:44:33.188 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/clientSide.tsx
+2025-10-12 09:44:33.188 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/page.tsx
+2025-10-12 09:44:33.188 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/past_papers/create/page.tsx
+2025-10-12 09:44:33.188 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/past_papers/create/loading.tsx
+2025-10-12 09:44:34.250 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/notes/page.tsx
+2025-10-12 09:44:34.250 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/notes/loading.tsx
+2025-10-12 09:44:34.250 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/notes/create/page.tsx
+2025-10-12 09:44:34.251 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/notes/create/loading.tsx
+2025-10-12 09:44:34.251 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/past_papers/[id]/page.tsx
+2025-10-12 09:44:34.251 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/past_papers/[id]/loading.tsx
+2025-10-12 09:44:34.251 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/notes/[id]/loading.tsx
+2025-10-12 09:44:34.251 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/@protected_routes/notes/[id]/page.tsx
+2025-10-12 09:44:34.827 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/FilterComponent.tsx
+2025-10-12 09:44:34.828 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/FavFetchFilter.tsx
+2025-10-12 09:44:34.828 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/EditButton.tsx
+2025-10-12 09:44:34.828 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/DeleteButton.tsx
+2025-10-12 09:44:34.828 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/CommonResource.tsx
+2025-10-12 09:44:34.828 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/UploadFile.tsx
+2025-10-12 09:44:34.828 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/BookmarksProvider.tsx
+2025-10-12 09:44:34.828 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/UploadButtonNotes.tsx
+2025-10-12 09:44:34.828 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/blocked/page.tsx
+2025-10-12 09:44:34.828 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/auth.js
+2025-10-12 09:44:34.829 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/TodoListModal.tsx
+2025-10-12 09:44:34.829 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/SyllabusCard.tsx
+2025-10-12 09:44:34.829 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/ShareLink.tsx
+2025-10-12 09:44:34.829 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/SearchBar.tsx
+2025-10-12 09:44:34.829 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/api/auth/init/route.ts
+2025-10-12 09:44:34.829 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/ResourceCard.tsx
+2025-10-12 09:44:34.829 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/api/auth/[...nextauth]/route.js
+2025-10-12 09:44:34.829 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/QuizModalComponent.tsx
+2025-10-12 09:44:34.829 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/actions/viewHistory.ts
+2025-10-12 09:44:34.830 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/QuizCard.tsx
+2025-10-12 09:44:35.616 [info] Finishing sync (hasUpdates: true, isErr: false)
+2025-10-12 09:44:36.232 [info] Finished indexing repository.
+2025-10-12 09:44:36.232 [info] Indexing job successfully done or aborted.
+2025-10-12 09:48:45.225 [info] multiCodebaseIndexingJob dispose
+2025-10-12 09:48:45.225 [info] Aborting indexing job.
+2025-10-12 09:48:45.225 [info] Setting global status from status tracker: synced
+2025-10-12 09:48:45.225 [info] Doing a startup handshake.
+2025-10-12 09:48:45.240 [info] Finished computing merkle tree in 9.51110600004904 ms.
+2025-10-12 09:48:45.241 [info] Doing the initial handshake with hash: 602e6fa9c96c75613fc94ce4504f6e327b302ae9cb8edd2aeab8535b433c7f7c
+2025-10-12 09:48:45.247 [info] Computed simhash vector of length: 256
+2025-10-12 09:48:45.247 [info] Path key hash: 4d4a31e900cc00fa9611089cbdfa0982509f8d8f7eb046ef0ff14e4d6dc9c397
+2025-10-12 09:48:45.247 [info] Handshake start
+2025-10-12 09:48:45.542 [info] Handshake timing: 297.85162500001024, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"5c5a287b-c874-44e6-ac35-3b1dfc91c1f1","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-10-12 09:48:45.542 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"5c5a287b-c874-44e6-ac35-3b1dfc91c1f1","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-10-12 09:48:45.542 [info] Starting fast remote sync.
+2025-10-12 09:48:45.543 [info] Total num embeddable files: 143
+2025-10-12 09:48:45.545 [info] Root hash: 602e6fa9c96c75613fc94ce4504f6e327b302ae9cb8edd2aeab8535b433c7f7c
+2025-10-12 09:48:45.545 [info] In the out of sync case.
+2025-10-12 09:48:45.550 [info] Waiting on semaphore to be released 1
+2025-10-12 09:48:45.748 [info] Waiting on semaphore to be released 1
+2025-10-12 09:48:45.950 [info] setting numJobsToGo to 1
+2025-10-12 09:48:45.950 [info] [startSync]: numJobs: 1
+2025-10-12 09:48:45.951 [info] Uploading 1 files.
+2025-10-12 09:48:45.952 [info] Total number of files to embed: 143
+2025-10-12 09:48:45.953 [info] Not aborted
+2025-10-12 09:48:45.953 [info] Starting while loop.
+2025-10-12 09:48:46.759 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./.git/index
+2025-10-12 09:48:47.074 [info] Finishing sync (hasUpdates: true, isErr: false)
+2025-10-12 09:48:47.651 [info] Finished indexing repository.
+2025-10-12 09:48:47.651 [info] Indexing job successfully done or aborted.
+2025-10-12 09:53:18.226 [info] multiCodebaseIndexingJob dispose
+2025-10-12 09:53:18.226 [info] Aborting indexing job.
+2025-10-12 09:53:18.226 [info] Setting global status from status tracker: synced
+2025-10-12 09:53:18.226 [info] Doing a startup handshake.
+2025-10-12 09:53:18.236 [info] Finished computing merkle tree in 6.341946000000462 ms.
+2025-10-12 09:53:18.238 [info] Doing the initial handshake with hash: 602e6fa9c96c75613fc94ce4504f6e327b302ae9cb8edd2aeab8535b433c7f7c
+2025-10-12 09:53:18.244 [info] Computed simhash vector of length: 256
+2025-10-12 09:53:18.244 [info] Path key hash: 4d4a31e900cc00fa9611089cbdfa0982509f8d8f7eb046ef0ff14e4d6dc9c397
+2025-10-12 09:53:18.244 [info] Handshake start
+2025-10-12 09:53:19.120 [info] Handshake timing: 878.1515829999698, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"5c5a287b-c874-44e6-ac35-3b1dfc91c1f1","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-10-12 09:53:19.120 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"5c5a287b-c874-44e6-ac35-3b1dfc91c1f1","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-10-12 09:53:19.120 [info] Starting fast remote sync.
+2025-10-12 09:53:19.121 [info] Total num embeddable files: 143
+2025-10-12 09:53:19.122 [info] Root hash: 602e6fa9c96c75613fc94ce4504f6e327b302ae9cb8edd2aeab8535b433c7f7c
+2025-10-12 09:53:19.125 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-10-12 09:53:19.791 [info] Finished indexing repository.
+2025-10-12 09:53:19.791 [info] Indexing job successfully done or aborted.
+2025-10-12 09:54:05.541 [info] Get user commits took 75.31774700002279ms for 10 commits
+2025-10-12 09:57:51.227 [info] multiCodebaseIndexingJob dispose
+2025-10-12 09:57:51.227 [info] Aborting indexing job.
+2025-10-12 09:57:51.227 [info] Setting global status from status tracker: synced
+2025-10-12 09:57:51.227 [info] Doing a startup handshake.
+2025-10-12 09:57:51.238 [info] Finished computing merkle tree in 6.776623000041582 ms.
+2025-10-12 09:57:51.240 [info] Doing the initial handshake with hash: 602e6fa9c96c75613fc94ce4504f6e327b302ae9cb8edd2aeab8535b433c7f7c
+2025-10-12 09:57:51.246 [info] Computed simhash vector of length: 256
+2025-10-12 09:57:51.246 [info] Path key hash: 4d4a31e900cc00fa9611089cbdfa0982509f8d8f7eb046ef0ff14e4d6dc9c397
+2025-10-12 09:57:51.246 [info] Handshake start
+2025-10-12 09:57:52.022 [info] Handshake timing: 779.290096999961, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"5c5a287b-c874-44e6-ac35-3b1dfc91c1f1","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-10-12 09:57:52.023 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"5c5a287b-c874-44e6-ac35-3b1dfc91c1f1","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-10-12 09:57:52.023 [info] Starting fast remote sync.
+2025-10-12 09:57:52.023 [info] Total num embeddable files: 143
+2025-10-12 09:57:52.024 [info] Root hash: 602e6fa9c96c75613fc94ce4504f6e327b302ae9cb8edd2aeab8535b433c7f7c
+2025-10-12 09:57:52.027 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-10-12 09:57:52.967 [info] Finished indexing repository.
+2025-10-12 09:57:52.967 [info] Indexing job successfully done or aborted.
+2025-10-12 09:58:21.762 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/krishang/Work/examcooker/ExamCooker-2024/.gitmodules')
+2025-10-12 09:59:44.377 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/krishang/Work/examcooker/ExamCooker-2024/.gitmodules')
+2025-10-12 10:02:24.228 [info] multiCodebaseIndexingJob dispose
+2025-10-12 10:02:24.228 [info] Aborting indexing job.
+2025-10-12 10:02:24.228 [info] Setting global status from status tracker: synced
+2025-10-12 10:02:24.228 [info] Doing a startup handshake.
+2025-10-12 10:02:24.237 [info] Finished computing merkle tree in 5.718861999921501 ms.
+2025-10-12 10:02:24.239 [info] Doing the initial handshake with hash: 65b5037cecc7c1095cdb3bc754217add0f6dbb7a8265b4335247fb49a61db085
+2025-10-12 10:02:24.244 [info] Computed simhash vector of length: 256
+2025-10-12 10:02:24.244 [info] Path key hash: 4d4a31e900cc00fa9611089cbdfa0982509f8d8f7eb046ef0ff14e4d6dc9c397
+2025-10-12 10:02:24.244 [info] Handshake start
+2025-10-12 10:02:25.020 [info] Handshake timing: 779.201495999936, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"5c5a287b-c874-44e6-ac35-3b1dfc91c1f1","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-10-12 10:02:25.021 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"5c5a287b-c874-44e6-ac35-3b1dfc91c1f1","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-10-12 10:02:25.021 [info] Starting fast remote sync.
+2025-10-12 10:02:25.021 [info] Total num embeddable files: 143
+2025-10-12 10:02:25.022 [info] Root hash: 65b5037cecc7c1095cdb3bc754217add0f6dbb7a8265b4335247fb49a61db085
+2025-10-12 10:02:25.022 [info] In the out of sync case.
+2025-10-12 10:02:25.025 [info] Waiting on semaphore to be released 1
+2025-10-12 10:02:25.224 [info] Waiting on semaphore to be released 1
+2025-10-12 10:02:25.424 [info] Waiting on semaphore to be released 1
+2025-10-12 10:02:25.625 [info] Waiting on semaphore to be released 1
+2025-10-12 10:02:25.826 [info] Waiting on semaphore to be released 1
+2025-10-12 10:02:26.029 [info] Waiting on semaphore to be released 1
+2025-10-12 10:02:26.228 [info] Waiting on semaphore to be released 1
+2025-10-12 10:02:26.429 [info] Waiting on semaphore to be released 1
+2025-10-12 10:02:26.630 [info] Waiting on semaphore to be released 1
+2025-10-12 10:02:26.830 [info] Waiting on semaphore to be released 1
+2025-10-12 10:02:27.032 [info] Waiting on semaphore to be released 1
+2025-10-12 10:02:27.230 [info] Waiting on semaphore to be released 1
+2025-10-12 10:02:27.431 [info] Waiting on semaphore to be released 1
+2025-10-12 10:02:27.632 [info] Waiting on semaphore to be released 1
+2025-10-12 10:02:27.832 [info] Waiting on semaphore to be released 1
+2025-10-12 10:02:28.034 [info] setting numJobsToGo to 1
+2025-10-12 10:02:28.034 [info] [startSync]: numJobs: 1
+2025-10-12 10:02:28.034 [info] Uploading 1 files.
+2025-10-12 10:02:28.036 [info] Total number of files to embed: 143
+2025-10-12 10:02:28.036 [info] Not aborted
+2025-10-12 10:02:28.036 [info] Starting while loop.
+2025-10-12 10:02:30.423 [info] Completed job successfully: 5c5a287b-c874-44e6-ac35-3b1dfc91c1f1 ./app/components/FilterComponent.tsx
+2025-10-12 10:02:31.287 [info] Finishing sync (hasUpdates: true, isErr: false)
+2025-10-12 10:02:31.924 [info] Finished indexing repository.
+2025-10-12 10:02:31.924 [info] Indexing job successfully done or aborted.
+2025-10-12 10:04:05.506 [info] Get user commits took 75.15649199998006ms for 10 commits
+2025-10-12 10:06:57.228 [info] multiCodebaseIndexingJob dispose
+2025-10-12 10:06:57.228 [info] Aborting indexing job.
+2025-10-12 10:06:57.228 [info] Setting global status from status tracker: synced
+2025-10-12 10:06:57.228 [info] Doing a startup handshake.
+2025-10-12 10:06:57.287 [info] Finished computing merkle tree in 54.05034999991767 ms.
+2025-10-12 10:06:57.288 [info] Doing the initial handshake with hash: 1990b8f67a215fb906243d6e10e024339903e2a6449a0da0dfca51e4a2df5bda
+2025-10-12 10:06:57.293 [info] Computed simhash vector of length: 256
+2025-10-12 10:06:57.293 [info] Path key hash: 4d4a31e900cc00fa9611089cbdfa0982509f8d8f7eb046ef0ff14e4d6dc9c397
+2025-10-12 10:06:57.293 [info] Handshake start
+2025-10-12 10:06:58.612 [info] Handshake timing: 1320.6933720000088, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"5c5a287b-c874-44e6-ac35-3b1dfc91c1f1","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-10-12 10:06:58.612 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"5c5a287b-c874-44e6-ac35-3b1dfc91c1f1","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2025-10-12 10:06:58.612 [info] Starting fast remote sync.
+2025-10-12 10:06:58.617 [info] Total num embeddable files: 142
+2025-10-12 10:06:58.618 [info] Root hash: 1990b8f67a215fb906243d6e10e024339903e2a6449a0da0dfca51e4a2df5bda
+2025-10-12 10:06:58.618 [info] In the out of sync case.
+2025-10-12 10:06:58.628 [info] Waiting on semaphore to be released 1
+2025-10-12 10:06:58.822 [info] Waiting on semaphore to be released 1
+2025-10-12 10:06:59.024 [info] Waiting on semaphore to be released 1
+2025-10-12 10:06:59.224 [info] Waiting on semaphore to be released 1
+2025-10-12 10:06:59.424 [info] Waiting on semaphore to be released 1
+2025-10-12 10:06:59.643 [info] Waiting on semaphore to be released 1
+2025-10-12 10:06:59.873 [info] Waiting on semaphore to be released 1
+2025-10-12 10:07:00.095 [info] setting numJobsToGo to 0
+2025-10-12 10:07:00.098 [info] [startSync]: numJobs: 0
+2025-10-12 10:07:01.804 [info] Uploading 0 files.
+2025-10-12 10:07:01.806 [info] Total number of files to embed: 142
+2025-10-12 10:07:01.806 [info] Not aborted
+2025-10-12 10:07:01.806 [info] Starting while loop.
+2025-10-12 10:07:02.372 [info] Finishing sync (hasUpdates: true, isErr: false)
+2025-10-12 10:07:02.984 [info] Finished indexing repository.
+2025-10-12 10:07:02.984 [info] Indexing job successfully done or aborted.
+2025-10-12 10:11:30.228 [info] multiCodebaseIndexingJob dispose
+2025-10-12 10:11:30.228 [info] Aborting indexing job.
+2025-10-12 10:11:30.228 [info] Setting global status from status tracker: synced
+2025-10-12 10:11:30.228 [info] Doing a startup handshake.
+2025-10-12 10:11:30.237 [info] Finished computing merkle tree in 5.129872000077739 ms.
+2025-10-12 10:11:30.239 [info] Doing the initial handshake with hash: 1990b8f67a215fb906243d6e10e024339903e2a6449a0da0dfca51e4a2df5bda
+2025-10-12 10:11:30.244 [info] Computed simhash vector of length: 256
+2025-10-12 10:11:30.244 [info] Path key hash: 4d4a31e900cc00fa9611089cbdfa0982509f8d8f7eb046ef0ff14e4d6dc9c397
+2025-10-12 10:11:30.244 [info] Handshake start
+2025-10-12 10:11:31.515 [info] Handshake timing: 1274.018277999945, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"5c5a287b-c874-44e6-ac35-3b1dfc91c1f1","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-10-12 10:11:31.516 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"5c5a287b-c874-44e6-ac35-3b1dfc91c1f1","status":"STATUS_UP_TO_DATE","copyTaskHandle":""}]}
+2025-10-12 10:11:31.516 [info] Starting fast remote sync.
+2025-10-12 10:11:31.516 [info] Total num embeddable files: 142
+2025-10-12 10:11:31.517 [info] Root hash: 1990b8f67a215fb906243d6e10e024339903e2a6449a0da0dfca51e4a2df5bda
+2025-10-12 10:11:31.519 [info] Finishing sync (hasUpdates: false, isErr: false)
+2025-10-12 10:11:32.423 [info] Finished indexing repository.
+2025-10-12 10:11:32.423 [info] Indexing job successfully done or aborted.
+2025-10-12 10:11:49.133 [info] multiCodebaseIndexingJob dispose
+2025-10-12 10:11:49.133 [info] Aborting indexing job.

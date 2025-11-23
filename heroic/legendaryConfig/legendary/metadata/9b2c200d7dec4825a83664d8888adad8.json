@@ -1,0 +1,118 @@
+{
+  "app_name": "9b2c200d7dec4825a83664d8888adad8",
+  "app_title": "Aerial_Knight's Never Yield",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "9b2c200d7dec4825a83664d8888adad8",
+      "asset_id": "9b2c200d7dec4825a83664d8888adad8",
+      "build_version": "1.9.1fix",
+      "catalog_item_id": "c4e7b40a8b064a7a8e88e68b3c1e5da5",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "PATCH"
+      },
+      "namespace": "2ed7ed64d8604265924b85bbd5670220",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-04-01T17:28:47.748Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Aerial_Knight/AKNY/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "AerialKnightsNeverYield"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "2ed7ed64d8604265924b85bbd5670220"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Aerial_Knight's Never Yield",
+    "developer": "Headup Gmbh",
+    "developerId": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+    "endOfSupport": false,
+    "entitlementName": "c4e7b40a8b064a7a8e88e68b3c1e5da5",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "c4e7b40a8b064a7a8e88e68b3c1e5da5",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "9699d7ad1cbf87e6cb570cba7efb5fa6",
+        "size": 855323,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-02-16T19:18:43.467Z",
+        "url": "https://cdn1.epicgames.com/item/2ed7ed64d8604265924b85bbd5670220/EGS_Aerial_KnightsNeverYield_Aerial_Knight_S1_2560x1440-9699d7ad1cbf87e6cb570cba7efb5fa6",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "59f9c0d51a1810f5f864494fab3107d6",
+        "size": 765530,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-02-16T19:18:47.434Z",
+        "url": "https://cdn1.epicgames.com/item/2ed7ed64d8604265924b85bbd5670220/EGS_Aerial_KnightsNeverYield_Aerial_Knight_S2_1200x1600-59f9c0d51a1810f5f864494fab3107d6",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-04-10T07:09:55.439Z",
+    "mainGameItemList": [],
+    "namespace": "2ed7ed64d8604265924b85bbd5670220",
+    "releaseInfo": [
+      {
+        "appId": "9b2c200d7dec4825a83664d8888adad8",
+        "id": "96971ac7671449a98fc7c925840a3c7f",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Aerial_Knight's Never Yield",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

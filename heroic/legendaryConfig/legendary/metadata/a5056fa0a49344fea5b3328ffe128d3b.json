@@ -1,0 +1,97 @@
+{
+  "app_name": "a5056fa0a49344fea5b3328ffe128d3b",
+  "app_title": "Echo Of The Horizon",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "a5056fa0a49344fea5b3328ffe128d3b",
+      "asset_id": "a5056fa0a49344fea5b3328ffe128d3b",
+      "build_version": "1.2",
+      "catalog_item_id": "34f3bde2835b40efa90c82b54bd586e9",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "7ad2470c62d640a085c11ee468cbd375"
+      },
+      "namespace": "1eb1a02f78034cb39087bc575adff07d",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-11-30T20:14:26.441Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserSavedGames}/Echo Of The Horizon-Saved Games/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Echo Of The Horizon-Saved Games/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "EchoOfTheHorizonARTIFACT"
+      }
+    },
+    "description": "Echo Of The Horizon",
+    "developer": "ECHO OF THE HORIZON For Online Gaming Services CO. L.L.C",
+    "developerId": "o-75rlthju6lwezhs5lazegv9vwab86z",
+    "endOfSupport": false,
+    "entitlementName": "34f3bde2835b40efa90c82b54bd586e9",
+    "entitlementType": "EXECUTABLE",
+    "id": "34f3bde2835b40efa90c82b54bd586e9",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Echo Of The Horizon Offer",
+        "height": 1440,
+        "md5": "ea24ad0d2cb08a80582559190ffa8b0b",
+        "size": 4156543,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-02-16T23:04:43.201Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/7e39868966a642b0bed242b1b13530e9/echo-of-the-horizon-9332z.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Echo Of The Horizon Offer",
+        "height": 1600,
+        "md5": "638825e9546c50f97ae31b387cba3f88",
+        "size": 1251039,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-02-16T23:04:55.362Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/7e39868966a642b0bed242b1b13530e9/echo-of-the-horizon-fn1q8.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-04-26T16:10:59.409Z",
+    "mainGameItemList": [],
+    "namespace": "1eb1a02f78034cb39087bc575adff07d",
+    "releaseInfo": [
+      {
+        "appId": "a5056fa0a49344fea5b3328ffe128d3b",
+        "id": "e4d6235cc582444fbfb95c99ac418b7b",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Echo Of The Horizon",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "447fb4358a384baf9aa2fe3283e69b70"
+    },
+    "rev": 1
+  }
+}

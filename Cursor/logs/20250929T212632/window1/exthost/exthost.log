@@ -1,0 +1,23 @@
+2025-09-29 21:26:34.805 [info] Extension host with pid 129010 started
+2025-09-29 21:26:34.840 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-09-29 21:26:34.867 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-09-29 21:26:34.912 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-09-29 21:26:35.002 [info] Eager extensions activated
+2025-09-29 21:26:35.013 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2025-09-29 21:26:35.222 [info] ExtensionService#_doActivateExtension anysphere.cursor-deeplink, startup: false, activationEvent: 'onStartupFinished'
+2025-09-29 21:26:35.279 [info] ExtensionService#_doActivateExtension anysphere.cursor-mcp, startup: false, activationEvent: 'onStartupFinished'
+2025-09-29 21:26:35.308 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2025-09-29 21:26:35.478 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2025-09-29 21:26:35.552 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-09-29 21:26:35.554 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-09-29 21:37:49.594 [info] Extension host terminating: renderer closed the MessagePort
+2025-09-29 21:37:49.611 [error] Error: Channel has been closed
+	at r (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:3269)
+	at Object.appendLine (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:142:3408)
+	at m (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:217111)
+	at t.deactivate (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:216970)
+	at /usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2516970
+	at t.deactivate (/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:2517028)
+	at async Promise.all (index 0)
+	at async vqt._deactivateAll (file:///usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:12386)
+2025-09-29 21:37:49.611 [info] Extension host with pid 129010 exiting with code 0

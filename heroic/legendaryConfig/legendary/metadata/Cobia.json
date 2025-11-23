@@ -1,0 +1,113 @@
+{
+  "app_name": "Cobia",
+  "app_title": "Saturnalia",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Cobia",
+      "asset_id": "Cobia",
+      "build_version": "2.0.15692",
+      "catalog_item_id": "1dd2d2d4d38e4964a2ebcb3e3a9d10e5",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "MINOR"
+      },
+      "namespace": "c749cd78da34408d8434a46271f4bb79",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567XskjjxtYCs03T3JazfSdPDmA",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-03-19T20:34:51.378Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Saturnalia"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "c749cd78da34408d8434a46271f4bb79"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Saturnalia",
+    "developer": "Santa Ragione",
+    "developerId": "o-cjwnkas5rn476tzk72fbh2ftutnc2y",
+    "endOfSupport": false,
+    "entitlementName": "1dd2d2d4d38e4964a2ebcb3e3a9d10e5",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "1dd2d2d4d38e4964a2ebcb3e3a9d10e5",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "54891524f6479f44cef864c4b48a2a30",
+        "size": 2928365,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-10-05T17:29:08.381Z",
+        "url": "https://cdn1.epicgames.com/item/c749cd78da34408d8434a46271f4bb79/EpicCoverLandscapeSaturnalia_2560x1440-54891524f6479f44cef864c4b48a2a30",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "6db04b612d53e62b761111c15a7162fb",
+        "size": 1513307,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-10-05T17:29:12.948Z",
+        "url": "https://cdn1.epicgames.com/item/c749cd78da34408d8434a46271f4bb79/EpicCoverPortraitSaturnalia_1200x1600-6db04b612d53e62b761111c15a7162fb",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-04-25T17:45:32.717Z",
+    "mainGameItemList": [],
+    "namespace": "c749cd78da34408d8434a46271f4bb79",
+    "releaseInfo": [
+      {
+        "appId": "Cobia",
+        "id": "c3b7ba4d7aa6415986ec94d0e4ae8cde",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Saturnalia",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

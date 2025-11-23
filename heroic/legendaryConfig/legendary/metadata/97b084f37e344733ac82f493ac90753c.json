@@ -1,0 +1,884 @@
+{
+  "app_name": "97b084f37e344733ac82f493ac90753c",
+  "app_title": "Predecessor",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "97b084f37e344733ac82f493ac90753c",
+      "asset_id": "97b084f37e344733ac82f493ac90753c",
+      "build_version": "Release-1.9-526727-Shipping-plive-220243-Release",
+      "catalog_item_id": "2c05ab6afd314e83b5ecc79661365cdf",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "85f0435aa88347d185dbcb147716609b",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567Pgpn9kntgJFnPDCi1pCT1JLd",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-08-18T21:46:11.758Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Predecessor"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "85f0435aa88347d185dbcb147716609b"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Inspired by the legacy of Paragon, built with love by the community, and powered by Unreal Engine 5, Predecessor is the ultimate fusion of shooter action and MOBA strategy. Join more than 2,000,000 players and play for FREE now!",
+    "developer": "Omeda Studios",
+    "developerId": "o-whjslbj96rnahy8ypck8xcb3qzmgh7",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-08-15T23:44:13.013Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "ea_bundle_3 audience",
+        "developer": "Omeda Studios",
+        "developerId": "o-whjslbj96rnahy8ypck8xcb3qzmgh7",
+        "endOfSupport": false,
+        "entitlementName": "98a3019f02164ad2915871f3c01cb093",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "98a3019f02164ad2915871f3c01cb093",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-09-09T19:37:15.862Z",
+        "mainGameItem": {
+          "id": "2c05ab6afd314e83b5ecc79661365cdf",
+          "namespace": "85f0435aa88347d185dbcb147716609b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "2c05ab6afd314e83b5ecc79661365cdf",
+            "namespace": "85f0435aa88347d185dbcb147716609b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "85f0435aa88347d185dbcb147716609b",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ea_bundle_3 audience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-08-15T23:44:13.089Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "ea_bundle_3",
+        "developer": "Omeda Studios",
+        "developerId": "o-whjslbj96rnahy8ypck8xcb3qzmgh7",
+        "endOfSupport": false,
+        "entitlementName": "c1b47897d05a4d17b70fdcb6d2ef2687",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c1b47897d05a4d17b70fdcb6d2ef2687",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-08-16T00:02:52.094Z",
+        "mainGameItem": {
+          "id": "2c05ab6afd314e83b5ecc79661365cdf",
+          "namespace": "85f0435aa88347d185dbcb147716609b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "2c05ab6afd314e83b5ecc79661365cdf",
+            "namespace": "85f0435aa88347d185dbcb147716609b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "85f0435aa88347d185dbcb147716609b",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ea_bundle_3",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-15T16:27:09.855Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "predecessor_test_dlc_2 audience",
+        "developer": "Omeda Studios",
+        "developerId": "o-whjslbj96rnahy8ypck8xcb3qzmgh7",
+        "endOfSupport": false,
+        "entitlementName": "0dd286192911400d9bdb9d9fd03fa46a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0dd286192911400d9bdb9d9fd03fa46a",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-09-09T19:37:15.860Z",
+        "mainGameItem": {
+          "id": "2c05ab6afd314e83b5ecc79661365cdf",
+          "namespace": "85f0435aa88347d185dbcb147716609b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "2c05ab6afd314e83b5ecc79661365cdf",
+            "namespace": "85f0435aa88347d185dbcb147716609b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "85f0435aa88347d185dbcb147716609b",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ea_bundle_2 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-06-15T16:27:09.947Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "predecessor_test_dlc_2",
+        "developer": "Omeda Studios",
+        "developerId": "o-whjslbj96rnahy8ypck8xcb3qzmgh7",
+        "endOfSupport": false,
+        "entitlementName": "48626a7d92614e0d9e90b3005c30bc28",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "48626a7d92614e0d9e90b3005c30bc28",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-08-16T00:02:52.092Z",
+        "mainGameItem": {
+          "id": "2c05ab6afd314e83b5ecc79661365cdf",
+          "namespace": "85f0435aa88347d185dbcb147716609b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "2c05ab6afd314e83b5ecc79661365cdf",
+            "namespace": "85f0435aa88347d185dbcb147716609b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "85f0435aa88347d185dbcb147716609b",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ea_bundle_2",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-06-15T16:26:23.915Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "predecessor_test_dlc_1",
+        "developer": "Omeda Studios",
+        "developerId": "o-whjslbj96rnahy8ypck8xcb3qzmgh7",
+        "endOfSupport": false,
+        "entitlementName": "e549bc8f13a742b88282af69c2a38362",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e549bc8f13a742b88282af69c2a38362",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-08-16T00:02:52.094Z",
+        "mainGameItem": {
+          "id": "2c05ab6afd314e83b5ecc79661365cdf",
+          "namespace": "85f0435aa88347d185dbcb147716609b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "2c05ab6afd314e83b5ecc79661365cdf",
+            "namespace": "85f0435aa88347d185dbcb147716609b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "85f0435aa88347d185dbcb147716609b",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ea_bundle_1",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-08-15T23:46:17.629Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "ea_bundle_4",
+        "developer": "Omeda Studios",
+        "developerId": "o-whjslbj96rnahy8ypck8xcb3qzmgh7",
+        "endOfSupport": false,
+        "entitlementName": "eb1fa8cdc35540faa57962e2fec24f93",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "eb1fa8cdc35540faa57962e2fec24f93",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-08-16T00:02:52.095Z",
+        "mainGameItem": {
+          "id": "2c05ab6afd314e83b5ecc79661365cdf",
+          "namespace": "85f0435aa88347d185dbcb147716609b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "2c05ab6afd314e83b5ecc79661365cdf",
+            "namespace": "85f0435aa88347d185dbcb147716609b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "85f0435aa88347d185dbcb147716609b",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ea_bundle_4",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-08-15T23:46:17.567Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "ea_bundle_4 audience",
+        "developer": "Omeda Studios",
+        "developerId": "o-whjslbj96rnahy8ypck8xcb3qzmgh7",
+        "endOfSupport": false,
+        "entitlementName": "0c5597a1c6e74e37bf804b187766d8ed",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0c5597a1c6e74e37bf804b187766d8ed",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-09-09T19:37:15.859Z",
+        "mainGameItem": {
+          "id": "2c05ab6afd314e83b5ecc79661365cdf",
+          "namespace": "85f0435aa88347d185dbcb147716609b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "2c05ab6afd314e83b5ecc79661365cdf",
+            "namespace": "85f0435aa88347d185dbcb147716609b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "85f0435aa88347d185dbcb147716609b",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ea_bundle_4 audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-15T16:26:23.851Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "predecessor_test_dlc_1 audience",
+        "developer": "Omeda Studios",
+        "developerId": "o-whjslbj96rnahy8ypck8xcb3qzmgh7",
+        "endOfSupport": false,
+        "entitlementName": "11206abcb81c47b3b922d7e411f7183c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "11206abcb81c47b3b922d7e411f7183c",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-09-09T19:37:15.861Z",
+        "mainGameItem": {
+          "id": "2c05ab6afd314e83b5ecc79661365cdf",
+          "namespace": "85f0435aa88347d185dbcb147716609b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "2c05ab6afd314e83b5ecc79661365cdf",
+            "namespace": "85f0435aa88347d185dbcb147716609b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "85f0435aa88347d185dbcb147716609b",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ea_bundle_1 audience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-31T23:33:25.304Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "500 Platinum Coins audience",
+        "developer": "Omeda Studios",
+        "developerId": "o-whjslbj96rnahy8ypck8xcb3qzmgh7",
+        "endOfSupport": false,
+        "entitlementName": "191f91d0087747b5a51238e4b25d51d7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "191f91d0087747b5a51238e4b25d51d7",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-07-23T11:48:55.286Z",
+        "mainGameItem": {
+          "id": "2c05ab6afd314e83b5ecc79661365cdf",
+          "namespace": "85f0435aa88347d185dbcb147716609b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "2c05ab6afd314e83b5ecc79661365cdf",
+            "namespace": "85f0435aa88347d185dbcb147716609b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "85f0435aa88347d185dbcb147716609b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "500 Platinum Coins audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-01-31T23:35:25.800Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "1650 Platinum Coins audience",
+        "developer": "Omeda Studios",
+        "developerId": "o-whjslbj96rnahy8ypck8xcb3qzmgh7",
+        "endOfSupport": false,
+        "entitlementName": "6499ebede857419b84469e78c961d9c1",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6499ebede857419b84469e78c961d9c1",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-10T11:11:55.150Z",
+        "mainGameItem": {
+          "id": "2c05ab6afd314e83b5ecc79661365cdf",
+          "namespace": "85f0435aa88347d185dbcb147716609b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "2c05ab6afd314e83b5ecc79661365cdf",
+            "namespace": "85f0435aa88347d185dbcb147716609b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "85f0435aa88347d185dbcb147716609b",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1650 Platinum Coins audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-01-31T23:36:05.843Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "12200 Platinum Coins audience",
+        "developer": "Omeda Studios",
+        "developerId": "o-whjslbj96rnahy8ypck8xcb3qzmgh7",
+        "endOfSupport": false,
+        "entitlementName": "ac6a0e9b5d7a432eaeee4540f7851f84",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ac6a0e9b5d7a432eaeee4540f7851f84",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-07-23T11:48:55.286Z",
+        "mainGameItem": {
+          "id": "2c05ab6afd314e83b5ecc79661365cdf",
+          "namespace": "85f0435aa88347d185dbcb147716609b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "2c05ab6afd314e83b5ecc79661365cdf",
+            "namespace": "85f0435aa88347d185dbcb147716609b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "85f0435aa88347d185dbcb147716609b",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "12200 Platinum Coins audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-01-31T23:36:15.506Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "2800 Platinum Coins audience",
+        "developer": "Omeda Studios",
+        "developerId": "o-whjslbj96rnahy8ypck8xcb3qzmgh7",
+        "endOfSupport": false,
+        "entitlementName": "dc0fb14efc414c179b4a0f11930c1b6a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "dc0fb14efc414c179b4a0f11930c1b6a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-10T11:11:55.150Z",
+        "mainGameItem": {
+          "id": "2c05ab6afd314e83b5ecc79661365cdf",
+          "namespace": "85f0435aa88347d185dbcb147716609b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "2c05ab6afd314e83b5ecc79661365cdf",
+            "namespace": "85f0435aa88347d185dbcb147716609b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "85f0435aa88347d185dbcb147716609b",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "2800 Platinum Coins audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-01-31T23:36:49.829Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "5900 Platinum Coins audience",
+        "developer": "Omeda Studios",
+        "developerId": "o-whjslbj96rnahy8ypck8xcb3qzmgh7",
+        "endOfSupport": false,
+        "entitlementName": "b7c8442027f84307a85af409dda02355",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b7c8442027f84307a85af409dda02355",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-07-23T11:48:55.286Z",
+        "mainGameItem": {
+          "id": "2c05ab6afd314e83b5ecc79661365cdf",
+          "namespace": "85f0435aa88347d185dbcb147716609b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "2c05ab6afd314e83b5ecc79661365cdf",
+            "namespace": "85f0435aa88347d185dbcb147716609b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "85f0435aa88347d185dbcb147716609b",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "5900 Platinum Coins audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-02-24T01:58:42.154Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "600 Platinum Coins audience",
+        "developer": "Omeda Studios",
+        "developerId": "o-whjslbj96rnahy8ypck8xcb3qzmgh7",
+        "endOfSupport": false,
+        "entitlementName": "43ca0727800e4bc98ba5be68e3d7c528",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "43ca0727800e4bc98ba5be68e3d7c528",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-10T11:11:55.150Z",
+        "mainGameItem": {
+          "id": "2c05ab6afd314e83b5ecc79661365cdf",
+          "namespace": "85f0435aa88347d185dbcb147716609b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "2c05ab6afd314e83b5ecc79661365cdf",
+            "namespace": "85f0435aa88347d185dbcb147716609b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "85f0435aa88347d185dbcb147716609b",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "600 Platinum Coins audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-08-27T13:20:36.310Z",
+        "description": "1300 Platinum Coins_ConsumableAudience",
+        "developer": "Omeda Studios",
+        "developerId": "o-whjslbj96rnahy8ypck8xcb3qzmgh7",
+        "endOfSupport": false,
+        "entitlementName": "f60989a6dcc94c28b3a55d9e6026e5b7",
+        "entitlementType": "AUDIENCE",
+        "id": "f60989a6dcc94c28b3a55d9e6026e5b7",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-07-23T11:48:55.286Z",
+        "mainGameItem": {
+          "id": "2c05ab6afd314e83b5ecc79661365cdf",
+          "namespace": "85f0435aa88347d185dbcb147716609b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "2c05ab6afd314e83b5ecc79661365cdf",
+            "namespace": "85f0435aa88347d185dbcb147716609b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "85f0435aa88347d185dbcb147716609b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1300 Platinum Coins_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-08-27T13:25:38.636Z",
+        "description": "2500 Platinum Coins_ConsumableAudience",
+        "developer": "Omeda Studios",
+        "developerId": "o-whjslbj96rnahy8ypck8xcb3qzmgh7",
+        "endOfSupport": false,
+        "entitlementName": "6bcde2cd38714b078eaf3b6d0e1622d6",
+        "entitlementType": "AUDIENCE",
+        "id": "6bcde2cd38714b078eaf3b6d0e1622d6",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-07-23T11:48:55.286Z",
+        "mainGameItem": {
+          "id": "2c05ab6afd314e83b5ecc79661365cdf",
+          "namespace": "85f0435aa88347d185dbcb147716609b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "2c05ab6afd314e83b5ecc79661365cdf",
+            "namespace": "85f0435aa88347d185dbcb147716609b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "85f0435aa88347d185dbcb147716609b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "2500 Platinum Coins_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "2c05ab6afd314e83b5ecc79661365cdf",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "2c05ab6afd314e83b5ecc79661365cdf",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Predecessor Backend Offer",
+        "height": 1440,
+        "md5": "c0dd375788c5edc6c460668ce769518e",
+        "size": 1238837,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-10-13T22:13:02.995Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/55676b5ac8aa4f898692c1ecd36109fe/predecessor-backend-1d1zs.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Predecessor Backend Offer",
+        "height": 1600,
+        "md5": "e58e4603d3f2dae6d53c801e0522ca4b",
+        "size": 681696,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-10-13T22:13:04.527Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/55676b5ac8aa4f898692c1ecd36109fe/predecessor-backend-1x4kv.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-10-15T07:47:49.848Z",
+    "mainGameItemList": [],
+    "namespace": "85f0435aa88347d185dbcb147716609b",
+    "releaseInfo": [
+      {
+        "appId": "97b084f37e344733ac82f493ac90753c",
+        "id": "4c75d39930e14e24b9c98bf145648cd1",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Predecessor",
+    "unsearchable": true
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "54317af442db4c3599f3c2db52cd515f"
+    },
+    "rev": 1
+  }
+}

@@ -1,0 +1,1283 @@
+{
+  "app_name": "fe4168b810314c2fb93f1803e2fe431e",
+  "app_title": "Call of the Wild: The Angler\u2122",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "fe4168b810314c2fb93f1803e2fe431e",
+      "asset_id": "fe4168b810314c2fb93f1803e2fe431e",
+      "build_version": "tortoise_delivery_2897936_2897936",
+      "catalog_item_id": "f39049d62f8e4db5ab307453983213d0",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567V6P60agUfsKAtltxI2YlvAso",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-02-02T21:21:30.417Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserSavedGames}/Avalanche Studios/CotWTheAngler/Saves/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "CalloftheWildTheAngler"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "From the creators of theHunter: Call of the Wild comes a genre-defying fishing experience! Explore a vast open world in search of the perfect fishing spot. Ride the open waters alone or with friends and embark on your journey to become a master angler.",
+    "developer": "Avalanche Studios Group AB",
+    "developerId": "o-khxvd45cpse53u8sr488mdx8gksqvp",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-08-25T15:44:34.286Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Call of the Wild: The Angler\u2122 - BTCP DLC",
+        "developer": "Avalanche Studios Group AB",
+        "developerId": "o-khxvd45cpse53u8sr488mdx8gksqvp",
+        "endOfSupport": false,
+        "entitlementName": "d0e1de3d1d9046888e725509f57e9f91",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d0e1de3d1d9046888e725509f57e9f91",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Call of the Wild: The Angler\u2122- Classic Tackle Pack-75043",
+            "height": 1440,
+            "md5": "0beee8ec78d85291698d0d1a73e45971",
+            "size": 660601,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-30T13:15:01.765Z",
+            "url": "https://cdn1.epicgames.com/offer/75d74aeb36024d95b8a30bad40dc19c3/EGS_CalloftheWildTheAnglerClassicTacklePack_ExpansiveWorlds_AddOn_S1_2560x1440-0beee8ec78d85291698d0d1a73e45971",
+            "width": 2560
+          },
+          {
+            "alt": "Call of the Wild: The Angler\u2122- Classic Tackle Pack-752849",
+            "height": 1600,
+            "md5": "860253b072bc07b13048473ef9397680",
+            "size": 837429,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-30T13:14:57.124Z",
+            "url": "https://cdn1.epicgames.com/offer/75d74aeb36024d95b8a30bad40dc19c3/EGS_CalloftheWildTheAnglerClassicTacklePack_ExpansiveWorlds_AddOn_S2_1200x1600-860253b072bc07b13048473ef9397680",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T00:07:13.806Z",
+        "mainGameItem": {
+          "id": "f39049d62f8e4db5ab307453983213d0",
+          "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f39049d62f8e4db5ab307453983213d0",
+            "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Call of the Wild: The Angler\u2122 - BTCP DLC",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-02-03T15:25:50.853Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "TortoiseDLC",
+        "developer": "Avalanche Studios Group AB",
+        "developerId": "o-khxvd45cpse53u8sr488mdx8gksqvp",
+        "endOfSupport": false,
+        "entitlementName": "c1f3b7494c9445e08f9710ae4418f95b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c1f3b7494c9445e08f9710ae4418f95b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "TortoiseDLC-784349",
+            "height": 1440,
+            "md5": "1cbd50dac3db204690de80ff6d154fc7",
+            "size": 534185,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-04-05T16:41:23.959Z",
+            "url": "https://cdn1.epicgames.com/offer/75d74aeb36024d95b8a30bad40dc19c3/EGS_CalloftheWildTheAngler_ExpansiveWorlds_S1_2560x1440-1cbd50dac3db204690de80ff6d154fc7",
+            "width": 2560
+          },
+          {
+            "alt": "TortoiseDLC-920597",
+            "height": 1600,
+            "md5": "0d7a89b485ad0eb1299a7e4fcc008051",
+            "size": 288278,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-04-05T16:41:51.586Z",
+            "url": "https://cdn1.epicgames.com/offer/75d74aeb36024d95b8a30bad40dc19c3/EGS_CalloftheWildTheAngler_ExpansiveWorlds_S2_1200x1600-0d7a89b485ad0eb1299a7e4fcc008051",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T00:07:21.393Z",
+        "mainGameItem": {
+          "id": "f39049d62f8e4db5ab307453983213d0",
+          "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f39049d62f8e4db5ab307453983213d0",
+            "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+        "releaseInfo": [
+          {
+            "appId": "0f019cb2f5944aa2aeb79608382f82e0",
+            "compatibleApps": [],
+            "dateAdded": "2022-02-03T18:33:45.261Z",
+            "id": "19a10a235b7946d3a3fa6459e26abb42",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "TortoiseDLC",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-08-25T15:45:10.431Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Call of the Wild: The Angler\u2122 - FCP DLC",
+        "developer": "Avalanche Studios Group AB",
+        "developerId": "o-khxvd45cpse53u8sr488mdx8gksqvp",
+        "endOfSupport": false,
+        "entitlementName": "f5b851dff9d74b16b73158d3c056645f",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f5b851dff9d74b16b73158d3c056645f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Call of the Wild: The Angler\u2122 - Wilderness Cosmetics Pack-605784",
+            "height": 1440,
+            "md5": "52ffd41c8a8ccfa32f08f1e84148b25d",
+            "size": 803225,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-11-28T13:47:41.136Z",
+            "url": "https://cdn1.epicgames.com/offer/75d74aeb36024d95b8a30bad40dc19c3/EGS_CalloftheWildTheAnglerWCP_ExpansiveWorlds_AddOn_S1_2560x1440-52ffd41c8a8ccfa32f08f1e84148b25d",
+            "width": 2560
+          },
+          {
+            "alt": "Call of the Wild: The Angler\u2122 - Wilderness Cosmetics Pack-257458",
+            "height": 1600,
+            "md5": "84432c40bd9306808d5fecbda9c19f3d",
+            "size": 477578,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-11-28T13:47:34.680Z",
+            "url": "https://cdn1.epicgames.com/offer/75d74aeb36024d95b8a30bad40dc19c3/EGS_CalloftheWildTheAnglerWCP_ExpansiveWorlds_AddOn_S2_1200x1600-84432c40bd9306808d5fecbda9c19f3d",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T00:07:13.809Z",
+        "mainGameItem": {
+          "id": "f39049d62f8e4db5ab307453983213d0",
+          "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f39049d62f8e4db5ab307453983213d0",
+            "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Call of the Wild: The Angler\u2122 - FCP DLC",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-04-01T17:38:39.557Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "TortoiseDLC audience",
+        "developer": "Avalanche Studios Group AB",
+        "developerId": "o-khxvd45cpse53u8sr488mdx8gksqvp",
+        "endOfSupport": false,
+        "entitlementName": "30ff3ee48efe407eb4b0a915dd66a252",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "30ff3ee48efe407eb4b0a915dd66a252",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-04-02T00:07:18.892Z",
+        "mainGameItem": {
+          "id": "f39049d62f8e4db5ab307453983213d0",
+          "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f39049d62f8e4db5ab307453983213d0",
+            "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "TortoiseDLC audience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-09-29T23:24:36.751Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Call of the Wild: The Angler\u2122 - TNR DLC",
+        "developer": "Avalanche Studios Group AB",
+        "developerId": "o-khxvd45cpse53u8sr488mdx8gksqvp",
+        "endOfSupport": false,
+        "entitlementName": "805888caaef449e0b20e5450326a054e",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "805888caaef449e0b20e5450326a054e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Call of the Wild: The Angler\u2122 \u2013 Norway Reserve-475749",
+            "height": 1440,
+            "md5": "06fa9815aa28b938c2fd6194dfc08eae",
+            "size": 830248,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-12-06T14:20:28.845Z",
+            "url": "https://cdn1.epicgames.com/offer/75d74aeb36024d95b8a30bad40dc19c3/EGS_CalloftheWildTheAnglerNorwayReserve_ExpansiveWorlds_AddOn_S1_2560x1440-06fa9815aa28b938c2fd6194dfc08eae",
+            "width": 2560
+          },
+          {
+            "alt": "Call of the Wild: The Angler\u2122 \u2013 Norway Reserve-141340",
+            "height": 1600,
+            "md5": "84dfa1116035697b5d6c56332e85f705",
+            "size": 795618,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-12-06T14:20:25.015Z",
+            "url": "https://cdn1.epicgames.com/offer/75d74aeb36024d95b8a30bad40dc19c3/EGS_CalloftheWildTheAnglerNorwayReserve_ExpansiveWorlds_AddOn_S2_1200x1600-84dfa1116035697b5d6c56332e85f705",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T00:07:13.805Z",
+        "mainGameItem": {
+          "id": "f39049d62f8e4db5ab307453983213d0",
+          "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f39049d62f8e4db5ab307453983213d0",
+            "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Call of the Wild: The Angler\u2122 - TNR DLC",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-01-20T08:13:45.750Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Call of the Wild: The Angler\u2122 - Spain Reserve",
+        "developer": "Avalanche Studios Group AB",
+        "developerId": "o-khxvd45cpse53u8sr488mdx8gksqvp",
+        "endOfSupport": false,
+        "entitlementName": "53ff0dbf196b4d0098c5a5569da6b24a",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "53ff0dbf196b4d0098c5a5569da6b24a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Call of the Wild: The Angler\u2122 - Spain Reserve-280377",
+            "height": 1440,
+            "md5": "488d822afb0e3725e1b39f9b681243fb",
+            "size": 353924,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-10-20T13:46:43.570Z",
+            "url": "https://cdn1.epicgames.com/offer/75d74aeb36024d95b8a30bad40dc19c3/EGS_CalloftheWildTheAnglerSpainReserve_ExpansiveWorlds_AddOn_S1_2560x1440-488d822afb0e3725e1b39f9b681243fb",
+            "width": 2560
+          },
+          {
+            "alt": "Call of the Wild: The Angler\u2122 - Spain Reserve-527520",
+            "height": 1600,
+            "md5": "5e1d9c518a2b67e4a454ecfc7fc77f74",
+            "size": 250998,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-10-20T13:46:40.263Z",
+            "url": "https://cdn1.epicgames.com/offer/75d74aeb36024d95b8a30bad40dc19c3/EGS_CalloftheWildTheAnglerSpainReserve_ExpansiveWorlds_AddOn_S2_1200x1600-5e1d9c518a2b67e4a454ecfc7fc77f74",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T00:07:13.813Z",
+        "mainGameItem": {
+          "id": "f39049d62f8e4db5ab307453983213d0",
+          "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f39049d62f8e4db5ab307453983213d0",
+            "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Call of the Wild: The Angler\u2122 - Spain Reserve",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-04-06T15:12:15.409Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Call of the Wild: The Angler - PGP",
+        "developer": "Avalanche Studios Group AB",
+        "developerId": "o-khxvd45cpse53u8sr488mdx8gksqvp",
+        "endOfSupport": false,
+        "entitlementName": "d5b07fdcf21b4dc4a7a8af35bf14f51a",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d5b07fdcf21b4dc4a7a8af35bf14f51a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Call of the Wild: The Angler\u2122 - Fiskespro Gear Pack-220426",
+            "height": 1440,
+            "md5": "a0ed95a24571c2823828976da37aa2a5",
+            "size": 334313,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-14T14:50:53.976Z",
+            "url": "https://cdn1.epicgames.com/offer/75d74aeb36024d95b8a30bad40dc19c3/EGS_CalloftheWildTheAnglerFiskesproGearPack_ExpansiveWorlds_AddOn_S1_2560x1440-a0ed95a24571c2823828976da37aa2a5",
+            "width": 2560
+          },
+          {
+            "alt": "Call of the Wild: The Angler\u2122 - Fiskespro Gear Pack-538864",
+            "height": 1600,
+            "md5": "e82e45bdd1657d1e366044e78dbcf161",
+            "size": 220282,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-14T14:50:50.071Z",
+            "url": "https://cdn1.epicgames.com/offer/75d74aeb36024d95b8a30bad40dc19c3/EGS_CalloftheWildTheAnglerFiskesproGearPack_ExpansiveWorlds_AddOn_S2_1200x1600-e82e45bdd1657d1e366044e78dbcf161",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T00:07:13.806Z",
+        "mainGameItem": {
+          "id": "f39049d62f8e4db5ab307453983213d0",
+          "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f39049d62f8e4db5ab307453983213d0",
+            "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Call of the Wild: The Angler - PGP",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-07-05T12:32:24.837Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Call of the Wild: The Angler\u2122-South Africa Reserve",
+        "developer": "Avalanche Studios Group AB",
+        "developerId": "o-khxvd45cpse53u8sr488mdx8gksqvp",
+        "endOfSupport": false,
+        "entitlementName": "56c260c8a74b4073b34b2e0fa0776d83",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "56c260c8a74b4073b34b2e0fa0776d83",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "ed9f1ec2a649c04e66817d1f76307afd",
+            "size": 958729,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-04-03T19:09:02.691Z",
+            "url": "https://cdn1.epicgames.com/item/75d74aeb36024d95b8a30bad40dc19c3/Wide_2560x1440-ed9f1ec2a649c04e66817d1f76307afd",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "b71a9e8211e2ef7a0a472f6256e7f4fd",
+            "size": 842761,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-04-03T19:09:07.623Z",
+            "url": "https://cdn1.epicgames.com/item/75d74aeb36024d95b8a30bad40dc19c3/Tall_1200x1600-b71a9e8211e2ef7a0a472f6256e7f4fd",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T00:07:13.805Z",
+        "mainGameItem": {
+          "id": "f39049d62f8e4db5ab307453983213d0",
+          "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f39049d62f8e4db5ab307453983213d0",
+            "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Call of the Wild: The Angler\u2122-South Africa Reserve",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-07-05T12:33:39.019Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Call of the Wild: The Angler\u2122 - T-Shirt Pack",
+        "developer": "Avalanche Studios Group AB",
+        "developerId": "o-khxvd45cpse53u8sr488mdx8gksqvp",
+        "endOfSupport": false,
+        "entitlementName": "e447d13f946f411596f5a6eda1b67027",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e447d13f946f411596f5a6eda1b67027",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Call of the Wild: The Angler\u2122 - T-Shirt Pack-444016",
+            "height": 1440,
+            "md5": "910235ca6274771feef68b720bb78865",
+            "size": 921588,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-10-20T13:28:39.007Z",
+            "url": "https://cdn1.epicgames.com/offer/75d74aeb36024d95b8a30bad40dc19c3/EGS_CalloftheWildTheAnglerTShirtPack_ExpansiveWorlds_AddOn_S1_2560x1440-910235ca6274771feef68b720bb78865",
+            "width": 2560
+          },
+          {
+            "alt": "Call of the Wild: The Angler\u2122 - T-Shirt Pack-118251",
+            "height": 1600,
+            "md5": "93f684a7ce7234e0cf9d461acba8f233",
+            "size": 781845,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-10-20T13:28:30.524Z",
+            "url": "https://cdn1.epicgames.com/offer/75d74aeb36024d95b8a30bad40dc19c3/EGS_CalloftheWildTheAnglerTShirtPack_ExpansiveWorlds_AddOn_S2_1200x1600-93f684a7ce7234e0cf9d461acba8f233",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T00:07:13.920Z",
+        "mainGameItem": {
+          "id": "f39049d62f8e4db5ab307453983213d0",
+          "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f39049d62f8e4db5ab307453983213d0",
+            "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Call of the Wild: The Angler\u2122 - T-Shirt Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-09T11:46:06.111Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - ABSP",
+        "developer": "Avalanche Studios Group AB",
+        "developerId": "o-khxvd45cpse53u8sr488mdx8gksqvp",
+        "endOfSupport": false,
+        "entitlementName": "549fa5d990ca4797915385b76aefed0f",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "549fa5d990ca4797915385b76aefed0f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "theHunter: Call of the Wild\u2122 - ABSP-248399",
+            "height": 1440,
+            "md5": "1cbd50dac3db204690de80ff6d154fc7",
+            "size": 534185,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-04-05T16:40:52.585Z",
+            "url": "https://cdn1.epicgames.com/offer/75d74aeb36024d95b8a30bad40dc19c3/EGS_CalloftheWildTheAngler_ExpansiveWorlds_S1_2560x1440-1cbd50dac3db204690de80ff6d154fc7",
+            "width": 2560
+          },
+          {
+            "alt": "theHunter: Call of the Wild\u2122 - ABSP-664024",
+            "height": 1600,
+            "md5": "0d7a89b485ad0eb1299a7e4fcc008051",
+            "size": 288278,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-04-05T16:40:33.005Z",
+            "url": "https://cdn1.epicgames.com/offer/75d74aeb36024d95b8a30bad40dc19c3/EGS_CalloftheWildTheAngler_ExpansiveWorlds_S2_1200x1600-0d7a89b485ad0eb1299a7e4fcc008051",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T00:07:13.897Z",
+        "mainGameItem": {
+          "id": "f39049d62f8e4db5ab307453983213d0",
+          "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f39049d62f8e4db5ab307453983213d0",
+            "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - ABSP",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-10-18T14:33:43.355Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Call of the Wild: The Angler\u2122 - Ultra Cruiser Boat",
+        "developer": "Avalanche Studios Group AB",
+        "developerId": "o-khxvd45cpse53u8sr488mdx8gksqvp",
+        "endOfSupport": false,
+        "entitlementName": "c555d20b1354415cab9182e6669ba643",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c555d20b1354415cab9182e6669ba643",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Call of the Wild: The Angler\u2122 - Ultra Cruiser Boat-688775",
+            "height": 1440,
+            "md5": "9020bc130cbecb365bc6cbaa2774e87e",
+            "size": 245284,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-28T15:49:27.196Z",
+            "url": "https://cdn1.epicgames.com/offer/75d74aeb36024d95b8a30bad40dc19c3/EGS_CalloftheWildTheAnglerUltraCruiserBoat_ExpansiveWorlds_AddOn_S1_2560x1440-9020bc130cbecb365bc6cbaa2774e87e",
+            "width": 2560
+          },
+          {
+            "alt": "Call of the Wild: The Angler\u2122 - Ultra Cruiser Boat-88386",
+            "height": 1600,
+            "md5": "22a1a5e8511d6d19571fe7e7e223a6c2",
+            "size": 142028,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-28T15:49:23.784Z",
+            "url": "https://cdn1.epicgames.com/offer/75d74aeb36024d95b8a30bad40dc19c3/EGS_CalloftheWildTheAnglerUltraCruiserBoat_ExpansiveWorlds_AddOn_S2_1200x1600-22a1a5e8511d6d19571fe7e7e223a6c2",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T00:07:13.903Z",
+        "mainGameItem": {
+          "id": "f39049d62f8e4db5ab307453983213d0",
+          "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f39049d62f8e4db5ab307453983213d0",
+            "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Call of the Wild: The Angler\u2122 - Ultra Cruiser Boat",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-10-18T14:34:25.151Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Call of the Wild: The Angler\u2122 - Winter Vehicle Cosmetics Pack",
+        "developer": "Avalanche Studios Group AB",
+        "developerId": "o-khxvd45cpse53u8sr488mdx8gksqvp",
+        "endOfSupport": false,
+        "entitlementName": "aeda170188ea47eda464118542d4b2bd",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "aeda170188ea47eda464118542d4b2bd",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Call of the Wild: The Angler\u2122 - Winter Vehicle Cosmetics Pack-445074",
+            "height": 1440,
+            "md5": "905c5907f1266198fc6a157795641878",
+            "size": 688690,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-28T16:02:34.401Z",
+            "url": "https://cdn1.epicgames.com/offer/75d74aeb36024d95b8a30bad40dc19c3/EGS_CalloftheWildTheAnglerWinterVehicleSP_ExpansiveWorlds_AddOn_S1_2560x1440-905c5907f1266198fc6a157795641878",
+            "width": 2560
+          },
+          {
+            "alt": "Call of the Wild: The Angler\u2122 - Winter Vehicle Cosmetics Pack-995324",
+            "height": 1600,
+            "md5": "703297e976734aa9131b704b0791bf60",
+            "size": 992102,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-28T16:02:28.844Z",
+            "url": "https://cdn1.epicgames.com/offer/75d74aeb36024d95b8a30bad40dc19c3/EGS_CalloftheWildTheAnglerWinterVehicleSP_ExpansiveWorlds_AddOn_S2_1200x1600-703297e976734aa9131b704b0791bf60",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T00:07:13.887Z",
+        "mainGameItem": {
+          "id": "f39049d62f8e4db5ab307453983213d0",
+          "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f39049d62f8e4db5ab307453983213d0",
+            "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Call of the Wild: The Angler\u2122 - Winter Vehicle Cosmetics Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-10-18T14:35:11.171Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Call of the Wild: The Angler\u2122 - Rushy Gear Pack",
+        "developer": "Avalanche Studios Group AB",
+        "developerId": "o-khxvd45cpse53u8sr488mdx8gksqvp",
+        "endOfSupport": false,
+        "entitlementName": "2929171b40a64c4289fd8bde92087dee",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2929171b40a64c4289fd8bde92087dee",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Call of the Wild: The Angler\u2122 - Rushy Gear Pack-158144",
+            "height": 1440,
+            "md5": "7d33d69c70ec219380c02983cc1a5563",
+            "size": 879742,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-14T14:56:27.328Z",
+            "url": "https://cdn1.epicgames.com/offer/75d74aeb36024d95b8a30bad40dc19c3/EGS_CalloftheWildTheAnglerRushyGearPack_ExpansiveWorlds_AddOn_S1_2560x1440-7d33d69c70ec219380c02983cc1a5563",
+            "width": 2560
+          },
+          {
+            "alt": "Call of the Wild: The Angler\u2122 - Rushy Gear Pack-308159",
+            "height": 1600,
+            "md5": "b68c91ae6cdb0853f8acaab3597887b2",
+            "size": 490232,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-14T14:56:22.108Z",
+            "url": "https://cdn1.epicgames.com/offer/75d74aeb36024d95b8a30bad40dc19c3/EGS_CalloftheWildTheAnglerRushyGearPack_ExpansiveWorlds_AddOn_S2_1200x1600-b68c91ae6cdb0853f8acaab3597887b2",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T00:07:13.907Z",
+        "mainGameItem": {
+          "id": "f39049d62f8e4db5ab307453983213d0",
+          "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f39049d62f8e4db5ab307453983213d0",
+            "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Call of the Wild: The Angler\u2122 - Rushy Gear Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-11-15T13:20:59.624Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Call of the Wild: The Angler\u2122 - WBSP",
+        "developer": "Avalanche Studios Group AB",
+        "developerId": "o-khxvd45cpse53u8sr488mdx8gksqvp",
+        "endOfSupport": false,
+        "entitlementName": "698f2317c1c3413caa45b47d925491eb",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "698f2317c1c3413caa45b47d925491eb",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Call of the Wild: The Angler\u2122 - Winter Blast Style Pack-292734",
+            "height": 1440,
+            "md5": "91bb04325edad3ac78f4017195c3b1de",
+            "size": 865854,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-17T12:51:10.080Z",
+            "url": "https://cdn1.epicgames.com/offer/75d74aeb36024d95b8a30bad40dc19c3/EGS_CalloftheWildTheAnglerWBSP_ExpansiveWorlds_AddOn_S1_2560x1440-91bb04325edad3ac78f4017195c3b1de",
+            "width": 2560
+          },
+          {
+            "alt": "Call of the Wild: The Angler\u2122 - Winter Blast Style Pack-835819",
+            "height": 1600,
+            "md5": "1559053e5162e21811f8bdf6154eb2b0",
+            "size": 820532,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-17T12:51:06.735Z",
+            "url": "https://cdn1.epicgames.com/offer/75d74aeb36024d95b8a30bad40dc19c3/EGS_CalloftheWildTheAnglerWBSP_ExpansiveWorlds_AddOn_S2_1200x1600-1559053e5162e21811f8bdf6154eb2b0",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T00:07:13.901Z",
+        "mainGameItem": {
+          "id": "f39049d62f8e4db5ab307453983213d0",
+          "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f39049d62f8e4db5ab307453983213d0",
+            "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Call of the Wild: The Angler\u2122 - WBSP",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-10T07:34:37.494Z",
+        "description": "Channel your inner cowboy with gear and cosmetics inspired by life on the range. This pack includes apparel, fishing gear, vehicle and boat skins, and an emote.",
+        "developer": "Avalanche Studios Group AB",
+        "developerId": "o-khxvd45cpse53u8sr488mdx8gksqvp",
+        "endOfSupport": false,
+        "entitlementName": "3dd55d6e892e499d8521be5b59ab14f9",
+        "entitlementType": "EXECUTABLE",
+        "id": "3dd55d6e892e499d8521be5b59ab14f9",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Call of the Wild The Angler Call of the Wild: The Angler\u2122 - Mountain Range Pack Offer",
+            "height": 1440,
+            "md5": "fc12a34eab7039061e22b18a6700c17f",
+            "size": 587564,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-05-06T08:53:47.162Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/f2a16892090a4ce5aa034f36acc24ac4/call-of-the-wild-the-angler-bayot.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Call of the Wild The Angler Call of the Wild: The Angler\u2122 - Mountain Range Pack Offer",
+            "height": 1600,
+            "md5": "52615792b53679c8b84793c6519d638c",
+            "size": 476794,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-05-06T08:53:46.986Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/f2a16892090a4ce5aa034f36acc24ac4/call-of-the-wild-the-angler-tajwg.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T00:07:13.904Z",
+        "mainGameItem": {
+          "id": "f39049d62f8e4db5ab307453983213d0",
+          "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f39049d62f8e4db5ab307453983213d0",
+            "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Call of the Wild: The Angler\u2122 - Mountain Range Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-05-14T12:23:45.737Z",
+        "description": "Take your bait game to the next level with the LakePal Bait Boat! This remote-controlled device lets you deploy bait further from the shore with pin-point precision and control.",
+        "developer": "Avalanche Studios Group AB",
+        "developerId": "o-khxvd45cpse53u8sr488mdx8gksqvp",
+        "endOfSupport": false,
+        "entitlementName": "ae9f265d4163405dbff158d500586939",
+        "entitlementType": "EXECUTABLE",
+        "id": "ae9f265d4163405dbff158d500586939",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Call of the Wild The Angler Call of the Wild: The Angler\u2122 - LakePal Bait Boat Pack Offer",
+            "height": 1440,
+            "md5": "77ebfcd6c1494517f5646024358385b4",
+            "size": 208169,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-06-04T09:05:27.040Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/f2a16892090a4ce5aa034f36acc24ac4/call-of-the-wild-the-angler-zp5dn.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Call of the Wild The Angler Call of the Wild: The Angler\u2122 - LakePal Bait Boat Pack Offer",
+            "height": 1600,
+            "md5": "970a4edc2944f59932986d8d0321607d",
+            "size": 264240,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-06-04T09:05:26.894Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/f2a16892090a4ce5aa034f36acc24ac4/call-of-the-wild-the-angler-jopot.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T00:07:13.907Z",
+        "mainGameItem": {
+          "id": "f39049d62f8e4db5ab307453983213d0",
+          "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f39049d62f8e4db5ab307453983213d0",
+            "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Call of the Wild: The Angler\u2122 - LakePal Bait Boat Pack",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-06-10T07:38:35.907Z",
+        "customAttributes": {},
+        "description": "Welcome to Kamuibetsu National Park in Japan! Find the perfect spot to reel in unique new species, explore the untouched landscapes in Hokkaido, and tackle new story missions and challenges.",
+        "developer": "Avalanche Studios Group AB",
+        "developerId": "o-khxvd45cpse53u8sr488mdx8gksqvp",
+        "endOfSupport": false,
+        "entitlementName": "36953572da88418d8d1fdedeb8e713c3",
+        "entitlementType": "EXECUTABLE",
+        "id": "36953572da88418d8d1fdedeb8e713c3",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Call of the Wild The Angler Call of the Wild: The Angler - Japan Fishing Reserve Offer",
+            "height": 1440,
+            "md5": "716ceb6b91c61884a48407a57ee721af",
+            "size": 747028,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-09-24T12:30:39.284Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/f2a16892090a4ce5aa034f36acc24ac4/call-of-the-wild-the-angler-1cwn8.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Call of the Wild The Angler Call of the Wild: The Angler - Japan Fishing Reserve Offer",
+            "height": 1600,
+            "md5": "58ca2be6b1fbf2fd6aa935025f4e6081",
+            "size": 526730,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-09-24T12:30:38.796Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/f2a16892090a4ce5aa034f36acc24ac4/call-of-the-wild-the-angler-32bfy.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-04-02T00:07:13.907Z",
+        "mainGameItem": {
+          "id": "f39049d62f8e4db5ab307453983213d0",
+          "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f39049d62f8e4db5ab307453983213d0",
+            "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Call of the Wild The Angler\u2122 - Japan Fishing Reserve",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-10-01T06:55:30.308Z",
+        "description": "Call of the Wild: The Angler\u2122 - Gold Fishing Bundle_SeasonPassAudience",
+        "developer": "Avalanche Studios Group AB",
+        "developerId": "o-khxvd45cpse53u8sr488mdx8gksqvp",
+        "endOfSupport": false,
+        "entitlementName": "5e2469770d204f4e8cf87b3922d662ba",
+        "entitlementType": "AUDIENCE",
+        "id": "5e2469770d204f4e8cf87b3922d662ba",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-04-02T00:07:13.903Z",
+        "mainGameItem": {
+          "id": "f39049d62f8e4db5ab307453983213d0",
+          "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f39049d62f8e4db5ab307453983213d0",
+            "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Call of the Wild: The Angler\u2122 - Gold Fishing Bundle_SeasonPassAudience",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-10-01T06:57:15.665Z",
+        "description": "Call of the Wild: The Angler\u2122 - Fishing Reserves Bundle_SeasonPassAudience",
+        "developer": "Avalanche Studios Group AB",
+        "developerId": "o-khxvd45cpse53u8sr488mdx8gksqvp",
+        "endOfSupport": false,
+        "entitlementName": "a3f21e62c926449385fa8839898fd267",
+        "entitlementType": "AUDIENCE",
+        "id": "a3f21e62c926449385fa8839898fd267",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-04-02T00:07:13.898Z",
+        "mainGameItem": {
+          "id": "f39049d62f8e4db5ab307453983213d0",
+          "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f39049d62f8e4db5ab307453983213d0",
+            "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Call of the Wild: The Angler\u2122 - Fishing Reserves Bundle_SeasonPassAudience",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "f39049d62f8e4db5ab307453983213d0",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "f39049d62f8e4db5ab307453983213d0",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "1cbd50dac3db204690de80ff6d154fc7",
+        "size": 534185,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-06-09T16:24:25.244Z",
+        "url": "https://cdn1.epicgames.com/item/75d74aeb36024d95b8a30bad40dc19c3/EGS_CalloftheWildTheAngler_ExpansiveWorlds_S1_2560x1440-1cbd50dac3db204690de80ff6d154fc7",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "0d7a89b485ad0eb1299a7e4fcc008051",
+        "size": 288278,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-06-09T16:24:28.496Z",
+        "url": "https://cdn1.epicgames.com/item/75d74aeb36024d95b8a30bad40dc19c3/EGS_CalloftheWildTheAngler_ExpansiveWorlds_S2_1200x1600-0d7a89b485ad0eb1299a7e4fcc008051",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-04-02T00:07:13.815Z",
+    "mainGameItemList": [],
+    "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
+    "releaseInfo": [
+      {
+        "appId": "fe4168b810314c2fb93f1803e2fe431e",
+        "id": "0e3a080a129642ee934c3c71c8caa1b5",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Call of the Wild: The Angler\u2122",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

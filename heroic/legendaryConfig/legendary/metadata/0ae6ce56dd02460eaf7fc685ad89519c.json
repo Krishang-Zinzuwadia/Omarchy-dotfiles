@@ -1,0 +1,83 @@
+{
+  "app_name": "0ae6ce56dd02460eaf7fc685ad89519c",
+  "app_title": "Redline",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "0ae6ce56dd02460eaf7fc685ad89519c",
+      "asset_id": "0ae6ce56dd02460eaf7fc685ad89519c",
+      "build_version": "1.0.2",
+      "catalog_item_id": "90cb58bb17c842eb9c6ac53f36a281e9",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "abaf21c26de1437589e9de1332db99cf"
+      },
+      "namespace": "605a466d713147fdaa8c06d008d31101",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-03-28T16:40:06.771Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "RedlineJLoxY"
+      }
+    },
+    "description": "Redline",
+    "developer": "QChain Game Studio",
+    "developerId": "o-hbj7v436b4myl7f47sjzp3edz7hv4b",
+    "endOfSupport": false,
+    "entitlementName": "90cb58bb17c842eb9c6ac53f36a281e9",
+    "entitlementType": "EXECUTABLE",
+    "id": "90cb58bb17c842eb9c6ac53f36a281e9",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Redline Offer",
+        "height": 1440,
+        "md5": "b2f01c405ba36751c367244713ab07fd",
+        "size": 653031,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-03-29T09:56:19.708Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/72c8b2f7ea394329990c979a4c134b16/redline-19qtm.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Redline Offer",
+        "height": 1600,
+        "md5": "3c10b6fa045a5eece2a899ba44a82b52",
+        "size": 352063,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-03-29T09:56:21.708Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/72c8b2f7ea394329990c979a4c134b16/redline-1ln4e.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-05-02T20:56:54.847Z",
+    "mainGameItemList": [],
+    "namespace": "605a466d713147fdaa8c06d008d31101",
+    "releaseInfo": [
+      {
+        "appId": "0ae6ce56dd02460eaf7fc685ad89519c",
+        "id": "ebfdd4303d964819b15923823c130699",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Redline",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

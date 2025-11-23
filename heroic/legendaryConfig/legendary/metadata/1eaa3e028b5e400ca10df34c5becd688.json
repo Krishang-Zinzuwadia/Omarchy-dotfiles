@@ -1,0 +1,109 @@
+{
+  "app_name": "1eaa3e028b5e400ca10df34c5becd688",
+  "app_title": "Aimlabs",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "1eaa3e028b5e400ca10df34c5becd688",
+      "asset_id": "1eaa3e028b5e400ca10df34c5becd688",
+      "build_version": "v1_37_12-egs-7082",
+      "catalog_item_id": "00bbfb03cd004adfbb4f89bee5eb127f",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "baa1163025994ae3b1cf3d425230e90a",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-08-17T03:56:05.243Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Aimlabs"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "baa1163025994ae3b1cf3d425230e90a"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Aimlabs",
+    "developer": "Statespace",
+    "developerId": "o-jqfv4sqe6vecaf6fmv5jch2fk73spd",
+    "endOfSupport": false,
+    "entitlementName": "00bbfb03cd004adfbb4f89bee5eb127f",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "00bbfb03cd004adfbb4f89bee5eb127f",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "19ed7c3790290146977ec2ede7d5295e",
+        "size": 653107,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-03-09T19:59:23.575Z",
+        "url": "https://cdn1.epicgames.com/item/baa1163025994ae3b1cf3d425230e90a/EGS_Aimlabs_StateSpaceLabsInc_S1_2560x1440-19ed7c3790290146977ec2ede7d5295e",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "adeec4040a02ec05f3881323db86f814",
+        "size": 419752,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-03-09T19:59:26.623Z",
+        "url": "https://cdn1.epicgames.com/item/baa1163025994ae3b1cf3d425230e90a/EGS_Aimlabs_StateSpaceLabsInc_S2_1200x1600-adeec4040a02ec05f3881323db86f814",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-03-09T20:02:22.904Z",
+    "mainGameItemList": [],
+    "namespace": "baa1163025994ae3b1cf3d425230e90a",
+    "releaseInfo": [
+      {
+        "appId": "1eaa3e028b5e400ca10df34c5becd688",
+        "compatibleApps": [],
+        "dateAdded": "2022-01-05T23:30:00.000Z",
+        "id": "42fd5cab44064579b2943afecca587c4",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Aimlabs",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

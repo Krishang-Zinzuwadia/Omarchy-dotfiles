@@ -1,0 +1,1157 @@
+{
+  "app_name": "3efc912d8fe04bbcb2b57c431c7f93f9",
+  "app_title": "SYNCED",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "3efc912d8fe04bbcb2b57c431c7f93f9",
+      "asset_id": "3efc912d8fe04bbcb2b57c431c7f93f9",
+      "build_version": "1.1.36E",
+      "catalog_item_id": "31e65b70d2ec46fba1170ccb69186e2c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "d613614e082c4f648835a32f15c1d29b",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567cBscmwxdddwaoQkAxSw1yy6q",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-03-30T15:13:17.505Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Synced"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "d613614e082c4f648835a32f15c1d29b"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "disable_artifactDirectPromotion": {
+        "type": "STRING",
+        "value": "true"
+      }
+    },
+    "description": "SYNCED",
+    "developer": "Proxima Beta Europe B.V.",
+    "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-09-29T04:00:22.938Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "test10003-12,800 Tokens audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "d6b1995aca044510b49f8ab440c82743",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d6b1995aca044510b49f8ab440c82743",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-08-24T21:33:54.014Z",
+        "mainGameItem": {
+          "id": "31e65b70d2ec46fba1170ccb69186e2c",
+          "namespace": "d613614e082c4f648835a32f15c1d29b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "31e65b70d2ec46fba1170ccb69186e2c",
+            "namespace": "d613614e082c4f648835a32f15c1d29b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d613614e082c4f648835a32f15c1d29b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "test10003-12,800 Tokens audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-09-29T04:00:39.706Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "test10004-32,800 Tokens audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "58b40491a77e4b28a6909320574ed442",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "58b40491a77e4b28a6909320574ed442",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-08-24T21:33:54.008Z",
+        "mainGameItem": {
+          "id": "31e65b70d2ec46fba1170ccb69186e2c",
+          "namespace": "d613614e082c4f648835a32f15c1d29b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "31e65b70d2ec46fba1170ccb69186e2c",
+            "namespace": "d613614e082c4f648835a32f15c1d29b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d613614e082c4f648835a32f15c1d29b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "test10004-32,800 Tokens audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-09-29T03:59:27.594Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "test10001-1,800 Tokens audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "902eb1eb02b94e108d5dd917cfb6920b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "902eb1eb02b94e108d5dd917cfb6920b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-08-24T21:33:54.011Z",
+        "mainGameItem": {
+          "id": "31e65b70d2ec46fba1170ccb69186e2c",
+          "namespace": "d613614e082c4f648835a32f15c1d29b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "31e65b70d2ec46fba1170ccb69186e2c",
+            "namespace": "d613614e082c4f648835a32f15c1d29b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d613614e082c4f648835a32f15c1d29b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "test10001-1,800 Tokens audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-09-29T03:59:51.517Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "test10002-6,800 Tokens audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "72fc0ce18f194ca59f48e0081af13a6b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "72fc0ce18f194ca59f48e0081af13a6b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-08-24T21:33:54.009Z",
+        "mainGameItem": {
+          "id": "31e65b70d2ec46fba1170ccb69186e2c",
+          "namespace": "d613614e082c4f648835a32f15c1d29b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "31e65b70d2ec46fba1170ccb69186e2c",
+            "namespace": "d613614e082c4f648835a32f15c1d29b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d613614e082c4f648835a32f15c1d29b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "test10002-6,800 Tokens audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-09-29T04:00:56.372Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "test10005-64,800 Tokens audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "d1995b03d1fb4a558cb6f8d24c717db3",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d1995b03d1fb4a558cb6f8d24c717db3",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-08-24T21:33:54.013Z",
+        "mainGameItem": {
+          "id": "31e65b70d2ec46fba1170ccb69186e2c",
+          "namespace": "d613614e082c4f648835a32f15c1d29b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "31e65b70d2ec46fba1170ccb69186e2c",
+            "namespace": "d613614e082c4f648835a32f15c1d29b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d613614e082c4f648835a32f15c1d29b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "test10005-64,800 Tokens audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-03-30T15:13:17.498Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "60 Empyrea audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "ff8e70e1af0c4c90b6f72c2f0e8b8a15",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ff8e70e1af0c4c90b6f72c2f0e8b8a15",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-09-09T15:52:24.897Z",
+        "mainGameItem": {
+          "id": "31e65b70d2ec46fba1170ccb69186e2c",
+          "namespace": "d613614e082c4f648835a32f15c1d29b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "31e65b70d2ec46fba1170ccb69186e2c",
+            "namespace": "d613614e082c4f648835a32f15c1d29b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d613614e082c4f648835a32f15c1d29b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "60 Empyrea audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-03-30T15:13:17.508Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "300 Empyrea audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "8de68eb7b0cd49708cac5d172b4ede18",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8de68eb7b0cd49708cac5d172b4ede18",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-09-09T15:52:24.897Z",
+        "mainGameItem": {
+          "id": "31e65b70d2ec46fba1170ccb69186e2c",
+          "namespace": "d613614e082c4f648835a32f15c1d29b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "31e65b70d2ec46fba1170ccb69186e2c",
+            "namespace": "d613614e082c4f648835a32f15c1d29b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d613614e082c4f648835a32f15c1d29b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "300 Empyrea audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-03-30T15:13:17.502Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "600 + 30 Empyrea audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "3394bba206864170b4f5d44cef11a95b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3394bba206864170b4f5d44cef11a95b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-09-09T15:52:25.670Z",
+        "mainGameItem": {
+          "id": "31e65b70d2ec46fba1170ccb69186e2c",
+          "namespace": "d613614e082c4f648835a32f15c1d29b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "31e65b70d2ec46fba1170ccb69186e2c",
+            "namespace": "d613614e082c4f648835a32f15c1d29b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d613614e082c4f648835a32f15c1d29b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "600 + 30 Empyrea audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-09-02T02:16:42.828Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "1200 + 80 Empyrea audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "9980b6c026d342c5a9ae91972630e9e1",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9980b6c026d342c5a9ae91972630e9e1",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-09-09T15:52:25.670Z",
+        "mainGameItem": {
+          "id": "31e65b70d2ec46fba1170ccb69186e2c",
+          "namespace": "d613614e082c4f648835a32f15c1d29b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "31e65b70d2ec46fba1170ccb69186e2c",
+            "namespace": "d613614e082c4f648835a32f15c1d29b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d613614e082c4f648835a32f15c1d29b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1200 + 80 Empyrea audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-03-30T15:13:17.499Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "3000 + 400 Empyrea audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "bad0cff934da4b8590cad006baa44504",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "bad0cff934da4b8590cad006baa44504",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-09-09T15:52:24.897Z",
+        "mainGameItem": {
+          "id": "31e65b70d2ec46fba1170ccb69186e2c",
+          "namespace": "d613614e082c4f648835a32f15c1d29b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "31e65b70d2ec46fba1170ccb69186e2c",
+            "namespace": "d613614e082c4f648835a32f15c1d29b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d613614e082c4f648835a32f15c1d29b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "3000 + 400 Empyrea audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-03-30T15:13:17.477Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Monthly Pass audience",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "f860618ed14948629832e86dc8dcb017",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f860618ed14948629832e86dc8dcb017",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-09-09T15:52:25.670Z",
+        "mainGameItem": {
+          "id": "31e65b70d2ec46fba1170ccb69186e2c",
+          "namespace": "d613614e082c4f648835a32f15c1d29b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "31e65b70d2ec46fba1170ccb69186e2c",
+            "namespace": "d613614e082c4f648835a32f15c1d29b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d613614e082c4f648835a32f15c1d29b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Monthly Pass audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-09-02T02:16:42.227Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Founders Pack",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "6822c65b1c474690a23e6ec4302d3f51",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6822c65b1c474690a23e6ec4302d3f51",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "SYNCED SYNCED - Origin Bundle Offer",
+            "height": 1440,
+            "md5": "e48c5135a7d204e8661df6de3b05ae80",
+            "size": 621056,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-06-11T16:21:07.828Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/74752632250b47eeab0cce4b961605e0/synced-kk599.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download SYNCED SYNCED - Origin Bundle Offer",
+            "height": 1600,
+            "md5": "e878635c559aab6705b703961a825300",
+            "size": 953101,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-06-11T16:21:33.965Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/74752632250b47eeab0cce4b961605e0/synced-8br03.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-09T15:52:24.897Z",
+        "mainGameItem": {
+          "id": "31e65b70d2ec46fba1170ccb69186e2c",
+          "namespace": "d613614e082c4f648835a32f15c1d29b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "31e65b70d2ec46fba1170ccb69186e2c",
+            "namespace": "d613614e082c4f648835a32f15c1d29b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d613614e082c4f648835a32f15c1d29b",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Founders Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-07-09T06:53:33.914Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Welcome Pack",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "7dc2d9deb0e04c868618cc4e845cc325",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7dc2d9deb0e04c868618cc4e845cc325",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "SYNCED SYNCED - Welcome Pack Offer",
+            "height": 1440,
+            "md5": "7d77be89637fdb674f9cfb2186b739f7",
+            "size": 754615,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-06-11T16:22:18.731Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/74752632250b47eeab0cce4b961605e0/synced-1b8c2.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download SYNCED SYNCED - Welcome Pack Offer",
+            "height": 1600,
+            "md5": "6c32b64267641c5f8721e61eeeb29a80",
+            "size": 410077,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-06-11T16:22:20.465Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/74752632250b47eeab0cce4b961605e0/synced-14l1b.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-07-10T02:26:47.114Z",
+        "mainGameItem": {
+          "id": "31e65b70d2ec46fba1170ccb69186e2c",
+          "namespace": "d613614e082c4f648835a32f15c1d29b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "31e65b70d2ec46fba1170ccb69186e2c",
+            "namespace": "d613614e082c4f648835a32f15c1d29b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d613614e082c4f648835a32f15c1d29b",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Welcome Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-07-09T06:53:33.908Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Newbie Bundle",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "2eb39ed61e70470a9d791d12365cb14a",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2eb39ed61e70470a9d791d12365cb14a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "SYNCED SYNCED - Newbie Bundle Offer",
+            "height": 1440,
+            "md5": "c092f8ec64313891fa149097cab0d6c7",
+            "size": 972447,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-06-11T16:27:04.269Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/74752632250b47eeab0cce4b961605e0/synced-1u7an.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download SYNCED SYNCED - Newbie Bundle Offer",
+            "height": 1600,
+            "md5": "ce14d092e17e6849d61bec82f4aab6dc",
+            "size": 964847,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-06-11T16:27:03.410Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/74752632250b47eeab0cce4b961605e0/synced-6ds2q.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-07-10T02:26:47.114Z",
+        "mainGameItem": {
+          "id": "31e65b70d2ec46fba1170ccb69186e2c",
+          "namespace": "d613614e082c4f648835a32f15c1d29b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "31e65b70d2ec46fba1170ccb69186e2c",
+            "namespace": "d613614e082c4f648835a32f15c1d29b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d613614e082c4f648835a32f15c1d29b",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Newbie Bundle",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-07-09T06:53:33.915Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Winterfest Bundle",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "9c4ae233dc57414f862f7b3e8f68a44c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9c4ae233dc57414f862f7b3e8f68a44c",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "SYNCED SYNCED Winterfest Bundle Offer",
+            "height": 1440,
+            "md5": "b5ae16dee321718ef8e3ca3129bd02c9",
+            "size": 729588,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-06-11T16:24:54.341Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/74752632250b47eeab0cce4b961605e0/synced-8i8t6.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download SYNCED SYNCED Winterfest Bundle Offer",
+            "height": 1600,
+            "md5": "f4f2d5e84004159fd8e477298224dcc3",
+            "size": 328487,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-06-11T16:24:55.348Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/74752632250b47eeab0cce4b961605e0/synced-8zh84.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-07-10T02:26:47.114Z",
+        "mainGameItem": {
+          "id": "31e65b70d2ec46fba1170ccb69186e2c",
+          "namespace": "d613614e082c4f648835a32f15c1d29b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "31e65b70d2ec46fba1170ccb69186e2c",
+            "namespace": "d613614e082c4f648835a32f15c1d29b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d613614e082c4f648835a32f15c1d29b",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Winterfest Bundle",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-09-02T02:16:42.226Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Aurora Bundle",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "6205e64b5054452997b294e98079c909",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6205e64b5054452997b294e98079c909",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "SYNCED Aurora Bundle Offer",
+            "height": 1440,
+            "md5": "0ce2ade65932bbb122061e9d632352cc",
+            "size": 845048,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-06-11T16:25:26.328Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/74752632250b47eeab0cce4b961605e0/synced-1vuy5.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download SYNCED Aurora Bundle Offer",
+            "height": 1600,
+            "md5": "981da486770beadf0873ddb096da33fa",
+            "size": 492742,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-06-11T16:25:27.058Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/74752632250b47eeab0cce4b961605e0/synced-1m3bg.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-09T15:52:24.897Z",
+        "mainGameItem": {
+          "id": "31e65b70d2ec46fba1170ccb69186e2c",
+          "namespace": "d613614e082c4f648835a32f15c1d29b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "31e65b70d2ec46fba1170ccb69186e2c",
+            "namespace": "d613614e082c4f648835a32f15c1d29b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d613614e082c4f648835a32f15c1d29b",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Aurora Bundle",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-09-02T02:16:42.224Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Love in the Time of Nanos Bundle",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "5c0977220c384501bc9fcc45e65949d2",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5c0977220c384501bc9fcc45e65949d2",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "SYNCED Love in the Time of Nanos Bundle Offer",
+            "height": 1440,
+            "md5": "0ce2ade65932bbb122061e9d632352cc",
+            "size": 845048,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-06-11T16:25:52.657Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/74752632250b47eeab0cce4b961605e0/synced-s500j.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download SYNCED Love in the Time of Nanos Bundle Offer",
+            "height": 1600,
+            "md5": "981da486770beadf0873ddb096da33fa",
+            "size": 492742,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-06-11T16:25:51.703Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/74752632250b47eeab0cce4b961605e0/synced-unu60.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-09T15:52:24.897Z",
+        "mainGameItem": {
+          "id": "31e65b70d2ec46fba1170ccb69186e2c",
+          "namespace": "d613614e082c4f648835a32f15c1d29b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "31e65b70d2ec46fba1170ccb69186e2c",
+            "namespace": "d613614e082c4f648835a32f15c1d29b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d613614e082c4f648835a32f15c1d29b",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Love in the Time of Nanos Bundle",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-09-02T02:16:42.223Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Spring Festival Bundle",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "488be4998c2a4f6baae5f8121c0dfb41",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "488be4998c2a4f6baae5f8121c0dfb41",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "SYNCED Spring Festival Bundle Offer",
+            "height": 1440,
+            "md5": "0ce2ade65932bbb122061e9d632352cc",
+            "size": 845048,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-06-11T16:23:09.517Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/74752632250b47eeab0cce4b961605e0/synced-107gy.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download SYNCED Spring Festival Bundle Offer",
+            "height": 1600,
+            "md5": "981da486770beadf0873ddb096da33fa",
+            "size": 492742,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-06-11T16:23:07.517Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/74752632250b47eeab0cce4b961605e0/synced-19r6h.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-09T15:52:24.897Z",
+        "mainGameItem": {
+          "id": "31e65b70d2ec46fba1170ccb69186e2c",
+          "namespace": "d613614e082c4f648835a32f15c1d29b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "31e65b70d2ec46fba1170ccb69186e2c",
+            "namespace": "d613614e082c4f648835a32f15c1d29b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d613614e082c4f648835a32f15c1d29b",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Spring Festival Bundle",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-09-02T02:16:42.233Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Futures Past Bundle",
+        "developer": "Proxima Beta Europe B.V.",
+        "developerId": "o-z2du9zzbx8vbdcdk8gm335lhjbrfc9",
+        "endOfSupport": false,
+        "entitlementName": "c6de0acbe7554c07a83e279992fff40d",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c6de0acbe7554c07a83e279992fff40d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "SYNCED Futures Past Bundle Offer",
+            "height": 1440,
+            "md5": "0ce2ade65932bbb122061e9d632352cc",
+            "size": 845048,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-06-11T16:26:23.429Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/74752632250b47eeab0cce4b961605e0/synced-h2zqi.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download SYNCED Futures Past Bundle Offer",
+            "height": 1600,
+            "md5": "981da486770beadf0873ddb096da33fa",
+            "size": 492742,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-06-11T16:26:24.010Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/74752632250b47eeab0cce4b961605e0/synced-1bxm0.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-09-09T15:52:24.897Z",
+        "mainGameItem": {
+          "id": "31e65b70d2ec46fba1170ccb69186e2c",
+          "namespace": "d613614e082c4f648835a32f15c1d29b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "31e65b70d2ec46fba1170ccb69186e2c",
+            "namespace": "d613614e082c4f648835a32f15c1d29b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d613614e082c4f648835a32f15c1d29b",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Futures Past Bundle",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "31e65b70d2ec46fba1170ccb69186e2c",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "31e65b70d2ec46fba1170ccb69186e2c",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "0ce2ade65932bbb122061e9d632352cc",
+        "size": 845048,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-12-14T12:29:02.003Z",
+        "url": "https://cdn1.epicgames.com/item/d613614e082c4f648835a32f15c1d29b/EGS_SYNCED_NExTStudios_S1_2560x1440-0ce2ade65932bbb122061e9d632352cc",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "981da486770beadf0873ddb096da33fa",
+        "size": 492742,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-12-14T12:29:04.845Z",
+        "url": "https://cdn1.epicgames.com/item/d613614e082c4f648835a32f15c1d29b/EGS_SYNCED_NExTStudios_S2_1200x1600-981da486770beadf0873ddb096da33fa",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-09-09T22:21:22.691Z",
+    "mainGameItemList": [],
+    "namespace": "d613614e082c4f648835a32f15c1d29b",
+    "releaseInfo": [
+      {
+        "appId": "3efc912d8fe04bbcb2b57c431c7f93f9",
+        "id": "7a6ebaaa11f14528976ce6a75ea23064",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "SYNCED",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

@@ -1,0 +1,121 @@
+{
+  "app_name": "ba94c39030df477180e5141aadcc8b13",
+  "app_title": "Behind the Frame: The Finest Scenery",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ba94c39030df477180e5141aadcc8b13",
+      "asset_id": "ba94c39030df477180e5141aadcc8b13",
+      "build_version": "2.0.4_01Win",
+      "catalog_item_id": "b18e1911942c4dbebcb4d23676e299f0",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "5fb8093984924ff5bfad61ae28730818",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567wywkmvQy57xL8BHTpC0UPNSk ",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-06-25T15:02:21.783Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "saveData.txt"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Silver Lining Studio/Behind the Frame/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/Silver Lining Studio/Behind the Frame/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "BehindTheFrame"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "5fb8093984924ff5bfad61ae28730818"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Behind the Frame: The Finest Scenery",
+    "developer": "Akupara Games",
+    "developerId": "o-vzv8n7jse99sluj4vaa8522rh45cvg",
+    "endOfSupport": false,
+    "entitlementName": "b18e1911942c4dbebcb4d23676e299f0",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "b18e1911942c4dbebcb4d23676e299f0",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "6aecd08e68bad5772e080342679154d0",
+        "size": 990086,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-08-07T02:28:39.442Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BehindtheFrameTheFinestScenery_SilverLiningStudio_S1_2560x1440-6aecd08e68bad5772e080342679154d0",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "e8ebbaa03f51ba841b061de5fc6eab84",
+        "size": 983296,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-08-07T02:28:35.506Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BehindtheFrameTheFinestScenery_SilverLiningStudio_S2_1200x1600-e8ebbaa03f51ba841b061de5fc6eab84",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-05-21T05:38:58.391Z",
+    "mainGameItemList": [],
+    "namespace": "5fb8093984924ff5bfad61ae28730818",
+    "releaseInfo": [
+      {
+        "appId": "ba94c39030df477180e5141aadcc8b13",
+        "id": "c366b5f98c9a4e4a9afbdfbbb6d21d6e",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Behind the Frame: The Finest Scenery",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

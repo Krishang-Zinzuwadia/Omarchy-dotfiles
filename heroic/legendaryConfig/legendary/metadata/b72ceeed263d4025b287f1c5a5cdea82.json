@@ -1,0 +1,85 @@
+{
+  "app_name": "b72ceeed263d4025b287f1c5a5cdea82",
+  "app_title": "Kneedle Knight",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "b72ceeed263d4025b287f1c5a5cdea82",
+      "asset_id": "b72ceeed263d4025b287f1c5a5cdea82",
+      "build_version": "1.0.0",
+      "catalog_item_id": "cd86d57ab0bb4da3a9e0c618a179498e",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "94958081a4904e02ab5485bc6eee7ade"
+      },
+      "namespace": "04826f20ceb04ea0b4119ad49d6db976",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567eQy3FYnePCiHMXaHNyJx0HIX",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-03-13T17:38:45.709Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "KneedleKnight"
+      }
+    },
+    "description": "Kneedle Knight is a 3rd-person puzzle platformer game. Sir Lukoss the Small wields his magic needle sword to solve puzzles, platform across magical objects, and defeat cursed candle minions to return to normal and defeat the Witch of Fabric!",
+    "developer": "SMU Guildhall",
+    "developerId": "o-lba5bb3nrhte5ycuyl86g7mt9m48ph",
+    "endOfSupport": false,
+    "entitlementName": "cd86d57ab0bb4da3a9e0c618a179498e",
+    "entitlementType": "EXECUTABLE",
+    "id": "cd86d57ab0bb4da3a9e0c618a179498e",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Kneedle Knight Offer",
+        "height": 1440,
+        "md5": "d15cd631247db3b557701dbeb655e047",
+        "size": 691895,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-02-07T22:12:49.107Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/132393743dfd40ddbd1e55db2b5c9d25/kneedle-knight-15mu8.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Kneedle Knight Offer",
+        "height": 1600,
+        "md5": "f604f6a0f47a5fa6b25791d76fb07c1a",
+        "size": 484356,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-02-07T22:12:50.071Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/132393743dfd40ddbd1e55db2b5c9d25/kneedle-knight-nwqws.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-03-13T17:38:45.709Z",
+    "mainGameItemList": [],
+    "namespace": "04826f20ceb04ea0b4119ad49d6db976",
+    "releaseInfo": [
+      {
+        "appId": "b72ceeed263d4025b287f1c5a5cdea82",
+        "id": "ec3682907e6d473baf42836f96e862fc",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Kneedle Knight",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

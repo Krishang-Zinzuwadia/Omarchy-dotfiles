@@ -1,0 +1,1917 @@
+{
+  "app_name": "b5271de997b44ef993d7a84196717452",
+  "app_title": "The Walking Dead No Man's Land",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "b5271de997b44ef993d7a84196717452",
+      "asset_id": "b5271de997b44ef993d7a84196717452",
+      "build_version": "7.3.0.2",
+      "catalog_item_id": "804f8922867e42d1ab051d3c2720919c",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "4edf5fa5a4104a46839c6e88e22f4047",
+        "update_type": "PATCH"
+      },
+      "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567FcvIFXCNaM75mGDIGFcktOhB",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-09-07T02:39:48.881Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheWalkingDeadNoMansLand"
+      }
+    },
+    "description": "The Walking Dead No Man's Land",
+    "developer": "Deca Live Operations GmbH",
+    "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T02:51:00.602Z",
+        "description": "Special Event Bundle J_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "d2bcfda77e534bd687e756872ec00c65",
+        "entitlementType": "AUDIENCE",
+        "id": "d2bcfda77e534bd687e756872ec00c65",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:31.754Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Special Event Bundle J_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:07:05.460Z",
+        "description": "Special Event Bundle G_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "be46b2e2317b49e5bfc232d4921c3c36",
+        "entitlementType": "AUDIENCE",
+        "id": "be46b2e2317b49e5bfc232d4921c3c36",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:31.754Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Special Event Bundle G_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:11:30.704Z",
+        "description": "Pile of Gold_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "aafa0cf569b4462284a97053c7a1dde9",
+        "entitlementType": "AUDIENCE",
+        "id": "aafa0cf569b4462284a97053c7a1dde9",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:31.754Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Pile of Gold_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T02:50:04.609Z",
+        "description": "Double XP for next 24 Hours_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "c317d488d7ae4bc59ed5d26229fce724",
+        "entitlementType": "AUDIENCE",
+        "id": "c317d488d7ae4bc59ed5d26229fce724",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:31.754Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Double XP for next 24 Hours_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:11:20.060Z",
+        "description": "Medium Radio Bundle_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "c30b99dd327640f2a421f0ab24dd436b",
+        "entitlementType": "AUDIENCE",
+        "id": "c30b99dd327640f2a421f0ab24dd436b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:31.754Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Medium Radio Bundle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:11:44.562Z",
+        "description": "Plenty of Gold_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "bb9609ab02e34424b399c05a2ecfafec",
+        "entitlementType": "AUDIENCE",
+        "id": "bb9609ab02e34424b399c05a2ecfafec",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:31.754Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Plenty of Gold_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:08:27.055Z",
+        "description": "Special Event Bundle I_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "775ff1a738a042e89728090829e3c6b9",
+        "entitlementType": "AUDIENCE",
+        "id": "775ff1a738a042e89728090829e3c6b9",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:31.754Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Special Event Bundle I_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T02:50:33.285Z",
+        "description": "Special Bundle A_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "e133e8a07d1a4e76badf1f8c6de3285d",
+        "entitlementType": "AUDIENCE",
+        "id": "e133e8a07d1a4e76badf1f8c6de3285d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:31.754Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Special Bundle A_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:03:30.889Z",
+        "description": "Special Event Bundle O_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "5228455093984ef88972cb71ba40312f",
+        "entitlementType": "AUDIENCE",
+        "id": "5228455093984ef88972cb71ba40312f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:31.754Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Special Event Bundle O_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:02:10.950Z",
+        "description": "Special Event Bundle K_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "c9a42f3716b347c2857211a590cb01fb",
+        "entitlementType": "AUDIENCE",
+        "id": "c9a42f3716b347c2857211a590cb01fb",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:32.414Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Special Event Bundle K_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:08:52.144Z",
+        "description": "Special Event Bundle F_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "ea48870e17dc4cb598a1831eb123d050",
+        "entitlementType": "AUDIENCE",
+        "id": "ea48870e17dc4cb598a1831eb123d050",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-11T14:21:59.660Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Special Event Bundle F_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:10:12.860Z",
+        "description": "Full Gas for next 24 Hours_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "1b6ed5508d8e42afa2d9011aa54c1d58",
+        "entitlementType": "AUDIENCE",
+        "id": "1b6ed5508d8e42afa2d9011aa54c1d58",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:32.414Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Full Gas for next 24 Hours_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:07:37.286Z",
+        "description": "Special Event Bundle Y_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "b8dc2ae63678417cb376e95f38447759",
+        "entitlementType": "AUDIENCE",
+        "id": "b8dc2ae63678417cb376e95f38447759",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:32.414Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Special Event Bundle Y_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:10:45.789Z",
+        "description": "Large Radio Bundle_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "d092bf1bf8734d2ca60aa07f33f6efd5",
+        "entitlementType": "AUDIENCE",
+        "id": "d092bf1bf8734d2ca60aa07f33f6efd5",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:32.414Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Large Radio Bundle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:10:33.812Z",
+        "description": "Huge Radio Bundle_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "865b08ae1bb54b86acccc5bed5441a66",
+        "entitlementType": "AUDIENCE",
+        "id": "865b08ae1bb54b86acccc5bed5441a66",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:32.414Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Huge Radio Bundle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:10:58.173Z",
+        "description": "Little Radio Bundle_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "f69fef438c0a4342a164ef397a77f007",
+        "entitlementType": "AUDIENCE",
+        "id": "f69fef438c0a4342a164ef397a77f007",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:32.414Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Little Radio Bundle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:02:49.804Z",
+        "description": "Special Event Bundle L_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "a7972439cd4c495797e3bbc4518fd0e8",
+        "entitlementType": "AUDIENCE",
+        "id": "a7972439cd4c495797e3bbc4518fd0e8",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:31.754Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Special Event Bundle L_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:12:16.235Z",
+        "description": "Marksman Bundle_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "284473c758c44508b875a8d5d4b0623b",
+        "entitlementType": "AUDIENCE",
+        "id": "284473c758c44508b875a8d5d4b0623b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:32.414Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Marksman Bundle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T02:42:50.262Z",
+        "description": "Big Radio Bundle_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "07837f3fd2d346b4855656b00d341626",
+        "entitlementType": "AUDIENCE",
+        "id": "07837f3fd2d346b4855656b00d341626",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:32.414Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Big Radio Bundle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:12:36.967Z",
+        "description": "Tough Survivor Bundle_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "3c96a4d41d0c4fc09faad08625597919",
+        "entitlementType": "AUDIENCE",
+        "id": "3c96a4d41d0c4fc09faad08625597919",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:33.048Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Tough Survivor Bundle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:04:47.551Z",
+        "description": "Special Event Bundle_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "13d32c9378d549369f9d8619f7312af9",
+        "entitlementType": "AUDIENCE",
+        "id": "13d32c9378d549369f9d8619f7312af9",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:33.048Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Special Event Bundle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:09:13.311Z",
+        "description": "Special Event Bundle S_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "c62e1f2054734648ab88c6d3db0371f6",
+        "entitlementType": "AUDIENCE",
+        "id": "c62e1f2054734648ab88c6d3db0371f6",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:33.048Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Special Event Bundle S_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:12:04.693Z",
+        "description": "Seasoned Survivor Bundle_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "3ea82ef16a8d4d9ca2a64a94287741f6",
+        "entitlementType": "AUDIENCE",
+        "id": "3ea82ef16a8d4d9ca2a64a94287741f6",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:33.048Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Seasoned Survivor Bundle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T02:50:44.743Z",
+        "description": "Special Event Bundle H_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "61e42fda719c4357850fd41466e62ac4",
+        "entitlementType": "AUDIENCE",
+        "id": "61e42fda719c4357850fd41466e62ac4",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:33.048Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Special Event Bundle H_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:03:02.524Z",
+        "description": "Special Event Bundle M_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "b91f041d3a8c45e8a362eb3cb7bee7df",
+        "entitlementType": "AUDIENCE",
+        "id": "b91f041d3a8c45e8a362eb3cb7bee7df",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:33.048Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Special Event Bundle M_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T02:42:25.538Z",
+        "description": "Pocketful of Gold_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "f7f2489ebdf74e5e9ade06cd5a4085ce",
+        "entitlementType": "AUDIENCE",
+        "id": "f7f2489ebdf74e5e9ade06cd5a4085ce",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:33.048Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Pocketful of Gold_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:08:39.649Z",
+        "description": "Event Bundle 4.99_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "a6bcf87f54c241c2a8a044c003423a78",
+        "entitlementType": "AUDIENCE",
+        "id": "a6bcf87f54c241c2a8a044c003423a78",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:32.414Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Event Bundle 4.99_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:07:47.810Z",
+        "description": "Special Event Bundle C_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "0db745b09c154e7dad571f903beeba5d",
+        "entitlementType": "AUDIENCE",
+        "id": "0db745b09c154e7dad571f903beeba5d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:32.414Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Special Event Bundle C_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:09:30.796Z",
+        "description": "Extra Fresh Survivor Bundle_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "bee34eb608214a19b674050f96d478a3",
+        "entitlementType": "AUDIENCE",
+        "id": "bee34eb608214a19b674050f96d478a3",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:33.048Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Extra Fresh Survivor Bundle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:10:23.856Z",
+        "description": "Grinders Delight_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "1def47c39e544674aca99961430d3880",
+        "entitlementType": "AUDIENCE",
+        "id": "1def47c39e544674aca99961430d3880",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:33.723Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Grinders Delight_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:07:17.733Z",
+        "description": "Special Bundle R_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "24520fb660e04415a11ab8f2982c49ab",
+        "entitlementType": "AUDIENCE",
+        "id": "24520fb660e04415a11ab8f2982c49ab",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:33.723Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Special Bundle R_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:12:27.925Z",
+        "description": "Small Radio Bundle_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "249a7e52369a4160a49e6fbb6375bc23",
+        "entitlementType": "AUDIENCE",
+        "id": "249a7e52369a4160a49e6fbb6375bc23",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:33.723Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Small Radio Bundle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:13:13.045Z",
+        "description": "Whirlwind Bundle_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "f3f4ff2e90c246a39509ba87ee4d7520",
+        "entitlementType": "AUDIENCE",
+        "id": "f3f4ff2e90c246a39509ba87ee4d7520",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:33.048Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Whirlwind Bundle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:10:00.023Z",
+        "description": "Fresh Survivor Bundle_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "0063aa35ab4c4a63ba542c29da076783",
+        "entitlementType": "AUDIENCE",
+        "id": "0063aa35ab4c4a63ba542c29da076783",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:33.723Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Fresh Survivor Bundle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:03:15.634Z",
+        "description": "Special Event Bundle N_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "d3c07c0b7fbd48b399c2063102e30612",
+        "entitlementType": "AUDIENCE",
+        "id": "d3c07c0b7fbd48b399c2063102e30612",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:33.723Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Special Event Bundle N_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:11:08.967Z",
+        "description": "Loyalty Bundle_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "4b7c97dede234e54a4c25d2f81d862a5",
+        "entitlementType": "AUDIENCE",
+        "id": "4b7c97dede234e54a4c25d2f81d862a5",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:33.048Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Loyalty Bundle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:07:27.641Z",
+        "description": "Special Event Bundle X_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "fecaaaf4912b4a51b231b00c746b588e",
+        "entitlementType": "AUDIENCE",
+        "id": "fecaaaf4912b4a51b231b00c746b588e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:33.723Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Special Event Bundle X_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T02:39:22.350Z",
+        "description": "Rapid Fire Bundle_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "b73f27070c514efc94f2e454eab8c625",
+        "entitlementType": "AUDIENCE",
+        "id": "b73f27070c514efc94f2e454eab8c625",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:33.723Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Rapid Fire Bundle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-12T10:17:39.246Z",
+        "description": "All the Gold_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "9f13c648135245c4ae899b9e1adbf6ad",
+        "entitlementType": "AUDIENCE",
+        "id": "9f13c648135245c4ae899b9e1adbf6ad",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:33.723Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "All the Gold_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:07:59.926Z",
+        "description": "Special Event Bundle B_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "8d76c03eec904ebda966e954f662902f",
+        "entitlementType": "AUDIENCE",
+        "id": "8d76c03eec904ebda966e954f662902f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:34.326Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Special Event Bundle B_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:06:33.547Z",
+        "description": "Special Event Bundle_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "322115afdfd640d8ba81b5f16c31d019",
+        "entitlementType": "AUDIENCE",
+        "id": "322115afdfd640d8ba81b5f16c31d019",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:33.723Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Special Event Bundle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:08:12.698Z",
+        "description": "Special Event Bundle D_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "bc2928c5dcd741c1bad4ee01638be5ce",
+        "entitlementType": "AUDIENCE",
+        "id": "bc2928c5dcd741c1bad4ee01638be5ce",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:34.326Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Special Event Bundle D_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:13:02.644Z",
+        "description": "Very Fresh Survivor Bundle_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "b7df3263789d42ec956565f3683a7d27",
+        "entitlementType": "AUDIENCE",
+        "id": "b7df3263789d42ec956565f3683a7d27",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:34.326Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Very Fresh Survivor Bundle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:13:24.308Z",
+        "description": "XXL Radio Bundle_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "92dc2fc9316c42e38b6f0b7f13ef4f11",
+        "entitlementType": "AUDIENCE",
+        "id": "92dc2fc9316c42e38b6f0b7f13ef4f11",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:34.326Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "XXL Radio Bundle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T03:11:54.303Z",
+        "description": "Scarred Veteran Bundle_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "be04ddde61a64d4d95b5d50ec00475fb",
+        "entitlementType": "AUDIENCE",
+        "id": "be04ddde61a64d4d95b5d50ec00475fb",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:34.326Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Scarred Veteran Bundle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T02:49:35.558Z",
+        "description": "Knockout Bundle_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "3cd6d44b850f4fd79e042cad851aaf40",
+        "entitlementType": "AUDIENCE",
+        "id": "3cd6d44b850f4fd79e042cad851aaf40",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:34.326Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Knockout Bundle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-11T02:43:27.752Z",
+        "description": "Load of Gold_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "d1853fe0a28b4bf6a21e643e2db5f72a",
+        "entitlementType": "AUDIENCE",
+        "id": "d1853fe0a28b4bf6a21e643e2db5f72a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-01-14T05:29:33.723Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Load of Gold_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-12-18T15:06:14.305Z",
+        "description": "Event Bundle 13.99_ConsumableAudience",
+        "developer": "Deca Live Operations GmbH",
+        "developerId": "o-6aefcpg2wg3xugzppazvcey2ge6qhq",
+        "endOfSupport": false,
+        "entitlementName": "479c8e01d0f743fd87c15458a611391c",
+        "entitlementType": "AUDIENCE",
+        "id": "479c8e01d0f743fd87c15458a611391c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-12-24T06:03:45.163Z",
+        "mainGameItem": {
+          "id": "804f8922867e42d1ab051d3c2720919c",
+          "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "804f8922867e42d1ab051d3c2720919c",
+            "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Event Bundle 13.99_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "804f8922867e42d1ab051d3c2720919c",
+    "entitlementType": "EXECUTABLE",
+    "id": "804f8922867e42d1ab051d3c2720919c",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "The Walking Dead No Man's Land Offer",
+        "height": 1440,
+        "md5": "082ff483271f1e5a1da632b3bd810f06",
+        "size": 1788779,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-12-28T09:52:59.503Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/e3784d83a73a4327912200df080c08e6/the-walking-dead-no-mans-land-b9pix.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download The Walking Dead No Man's Land Offer",
+        "height": 1600,
+        "md5": "b75fa677163bd77a758ce7cd53bda240",
+        "size": 2144484,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-12-28T09:53:02.054Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/e3784d83a73a4327912200df080c08e6/the-walking-dead-no-mans-land-gluqq.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-12-23T06:58:01.497Z",
+    "mainGameItemList": [],
+    "namespace": "7a6c212ee9cf425c82d4b08af3f564a9",
+    "releaseInfo": [
+      {
+        "appId": "b5271de997b44ef993d7a84196717452",
+        "id": "8f0679007f674931bf5f65dfd99bd429",
+        "platform": [
+          "Mac",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "The Walking Dead No Man's Land",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "54619a65044d4a41a8e0e54d4ce5a22d"
+    },
+    "rev": 1
+  }
+}

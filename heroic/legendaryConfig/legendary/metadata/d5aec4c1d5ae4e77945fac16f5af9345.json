@@ -1,0 +1,107 @@
+{
+  "app_name": "d5aec4c1d5ae4e77945fac16f5af9345",
+  "app_title": "Fechtbuch: Real Swordfighting behind Kingdom Come",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "d5aec4c1d5ae4e77945fac16f5af9345",
+      "asset_id": "d5aec4c1d5ae4e77945fac16f5af9345",
+      "build_version": "4",
+      "catalog_item_id": "3da187c4bcce47ca9fd69a733b4ea611",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "digitalextras"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-04-04T20:44:40.239Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "FechtbuchMovie"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "ca4058f18b0a4a9e9e2ccc28f7f33000"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      }
+    },
+    "description": "Fechtbuch: Real Swordfighting behind Kingdom Come",
+    "developer": "Warhorse Studios",
+    "developerId": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
+    "endOfSupport": false,
+    "entitlementName": "3da187c4bcce47ca9fd69a733b4ea611",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "3da187c4bcce47ca9fd69a733b4ea611",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1600,
+        "md5": "461da11374fa116bfc9774778aae9d7a",
+        "size": 824473,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-04-16T15:10:41.765Z",
+        "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/item/EGS_FechtbuchRealSwordfightingbehindKingdomCome_WarhorseStudios_DigitalExtras_S2-1200x1600-461da11374fa116bfc9774778aae9d7a.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "033a43ef0a411619e6ea63ddb662362f",
+        "size": 739157,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-04-16T15:10:51.955Z",
+        "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/item/EGS_FechtbuchRealSwordfightingbehindKingdomCome_WarhorseStudios_DigitalExtras_S1-2560x1440-033a43ef0a411619e6ea63ddb662362f.jpg",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2025-09-18T00:52:42.152Z",
+    "mainGameItemList": [],
+    "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+    "releaseInfo": [
+      {
+        "appId": "d5aec4c1d5ae4e77945fac16f5af9345",
+        "id": "4c024a76b01245049084f9286454a41e",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Fechtbuch: Real Swordfighting behind Kingdom Come",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

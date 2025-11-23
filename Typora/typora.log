@@ -1,0 +1,566 @@
+INFO 9/29/2025, 7:29:50 PM  41  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime]
+INFO 9/29/2025, 7:29:50 PM  113  ------------------start------------------
+DEBUG 9/29/2025, 7:29:50 PM  117  before setting 
+DEBUG 9/29/2025, 7:29:51 PM  136  prepDatabase /home/krishang/.config/Typora/profile.data
+DEBUG 9/29/2025, 7:29:51 PM  140  prepDatabase /home/krishang/.config/Typora/history.data
+INFO 9/29/2025, 7:29:51 PM  142  OS is linux 6.16.8-arch3-1
+INFO 9/29/2025, 7:29:51 PM  142  launchFromDiffVersion, pre version is undefined
+INFO 9/29/2025, 7:29:51 PM  142  start LM in devVersion=false
+INFO 9/29/2025, 7:29:51 PM  151  overwriteThemeFolder
+DEBUG 9/29/2025, 7:29:51 PM  153  after setting 
+INFO 9/29/2025, 7:29:51 PM  153  typora version: 1.12.1
+DEBUG 9/29/2025, 7:29:51 PM  191  app.openFile
+INFO 9/29/2025, 7:29:51 PM  194  [watch L]
+DEBUG 9/29/2025, 7:29:51 PM  194  prepDatabase /home/krishang/.config/Typora/Lq5HsaFVqf
+INFO 9/29/2025, 7:29:51 PM  195  no info
+INFO 9/29/2025, 7:29:51 PM  195  ls put SLicense
+DEBUG 9/29/2025, 7:29:51 PM  196  onUnfillLicense
+DEBUG 9/29/2025, 7:29:51 PM  196  trailRemains is 15
+INFO 9/29/2025, 7:29:51 PM  196  [L] installDate is 9/29/2025, trail remains: 15 days
+DEBUG 9/29/2025, 7:29:51 PM  196  onUnfillLicense
+INFO 9/29/2025, 7:29:51 PM  196  [watch L] hasL: false
+DEBUG 9/29/2025, 7:29:51 PM  231  added recovery 1 null  (0)
+DEBUG 9/29/2025, 7:29:51 PM  242  putAccelerator File -> &File
+DEBUG 9/29/2025, 7:29:51 PM  242  putAccelerator Edit -> &Edit
+DEBUG 9/29/2025, 7:29:51 PM  242  putAccelerator Paragraph -> &Paragraph
+DEBUG 9/29/2025, 7:29:51 PM  243  putAccelerator Format -> F&ormat
+DEBUG 9/29/2025, 7:29:51 PM  243  putAccelerator View -> &View
+DEBUG 9/29/2025, 7:29:51 PM  243  putAccelerator Themes -> &Themes
+DEBUG 9/29/2025, 7:29:51 PM  243  putAccelerator Help -> &Help
+INFO 9/29/2025, 7:29:51 PM  305  synced recovery
+user-dict.json not found
+DEBUG 9/29/2025, 7:29:51 PM  753  onUnfillLicense
+ERROR 9/29/2025, 7:29:51 PM  760  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 9/29/2025, 7:29:51 PM  761  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 9/29/2025, 7:29:51 PM  762  handle document.loadData
+DEBUG 9/29/2025, 7:29:51 PM  762  document.loadData 0
+INFO 9/29/2025, 7:29:51 PM  799  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 9/29/2025, 7:29:51 PM  799  [RenderProcess 1][Log] reset NodeMap
+DEBUG 9/29/2025, 7:29:51 PM  817  added recovery 1   (0)
+INFO 9/29/2025, 7:29:51 PM  818  synced recovery
+INFO 9/29/2025, 7:29:51 PM  986  [RenderProcess 1][Log] onBecomeActive
+INFO 9/29/2025, 7:29:51 PM  986  [RenderProcess 1][Log] File.activeWindow = true
+INFO 9/29/2025, 7:30:09 PM  18836  got argv [/usr/share/typora/Typora, --enable-wayland-ime, --allow-file-access-from-files, --ozone-platform=wayland] from secondary instance
+DEBUG 9/29/2025, 7:30:09 PM  18836  app.openFile
+DEBUG 9/29/2025, 7:30:09 PM  18851  added recovery 2 null  (0)
+INFO 9/29/2025, 7:30:09 PM  18855  synced recovery
+INFO 9/29/2025, 7:30:09 PM  67  secondary instance would exit
+INFO 9/29/2025, 7:30:09 PM  146  exit second instance
+DEBUG 9/29/2025, 7:30:10 PM  19389  onUnfillLicense
+ERROR 9/29/2025, 7:30:10 PM  19399  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 9/29/2025, 7:30:10 PM  19400  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 9/29/2025, 7:30:10 PM  19402  handle document.loadData
+DEBUG 9/29/2025, 7:30:10 PM  19402  document.loadData 0
+INFO 9/29/2025, 7:30:10 PM  19429  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 9/29/2025, 7:30:10 PM  19429  [RenderProcess 2][Log] reset NodeMap
+DEBUG 9/29/2025, 7:30:10 PM  19445  added recovery 2   (0)
+INFO 9/29/2025, 7:30:10 PM  19447  synced recovery
+INFO 9/29/2025, 7:30:10 PM  19617  [RenderProcess 2][Log] onBecomeActive
+INFO 9/29/2025, 7:30:10 PM  19617  [RenderProcess 2][Log] File.activeWindow = true
+INFO 9/29/2025, 7:31:10 PM  79723  [focus] 2
+INFO 9/29/2025, 7:31:10 PM  79750  [blur] 2
+INFO 9/29/2025, 7:31:10 PM  79750  [win] blur
+INFO 9/29/2025, 7:31:10 PM  79751  [focus] 1
+INFO 9/29/2025, 7:31:10 PM  79788  [blur] 1
+INFO 9/29/2025, 7:31:10 PM  79788  [win] blur
+INFO 9/29/2025, 7:31:11 PM  80633  [focus] 2
+INFO 9/29/2025, 7:31:13 PM  82956  [focus] 1
+DEBUG 9/29/2025, 7:31:18 PM  87718  added recovery 1   (0)
+INFO 9/29/2025, 7:31:18 PM  87718  synced recovery
+DEBUG 9/29/2025, 7:31:22 PM  91344  added recovery 1  hegaleeeeee (11)
+INFO 9/29/2025, 7:31:22 PM  91344  synced recovery
+DEBUG 9/29/2025, 7:31:29 PM  98949  added recovery 1   (0)
+INFO 9/29/2025, 7:31:29 PM  98949  synced recovery
+DEBUG 9/29/2025, 7:31:35 PM  104138  added recovery 1  #include  (9)
+INFO 9/29/2025, 7:31:35 PM  104139  synced recovery
+DEBUG 9/29/2025, 7:31:41 PM  110718  added recovery 1  #include <stdio.h (17)
+INFO 9/29/2025, 7:31:41 PM  110719  synced recovery
+DEBUG 9/29/2025, 7:31:42 PM  111870  added recovery 1  #include <stdio.h> (18)
+INFO 9/29/2025, 7:31:42 PM  111871  synced recovery
+DEBUG 9/29/2025, 7:31:45 PM  114335  added recovery 1  #include <stdio.h> (18)
+INFO 9/29/2025, 7:31:45 PM  114336  synced recovery
+INFO 9/29/2025, 7:31:46 PM  115848  [blur] 1
+INFO 9/29/2025, 7:31:46 PM  115848  [win] blur
+DEBUG 9/29/2025, 7:31:46 PM  115851  added recovery 1  #include <stdio.h> (18)
+INFO 9/29/2025, 7:31:46 PM  115851  synced recovery
+INFO 9/29/2025, 7:31:46 PM  116116  [focus] 1
+DEBUG 9/29/2025, 7:31:55 PM  124259  added recovery 1  #include <stdio.h>
+	 (20)
+INFO 9/29/2025, 7:31:55 PM  124260  synced recovery
+DEBUG 9/29/2025, 7:31:58 PM  127166  added recovery 1  #include <stdio.h>
+	les
+	 (25)
+INFO 9/29/2025, 7:31:58 PM  127166  synced recovery
+DEBUG 9/29/2025, 7:32:04 PM  134091  added recovery 1  #include <stdio.h>
+	les
+	voide mai (34)
+INFO 9/29/2025, 7:32:04 PM  134092  synced recovery
+DEBUG 9/29/2025, 7:32:10 PM  139166  added recovery 1   (0)
+INFO 9/29/2025, 7:32:10 PM  139167  synced recovery
+INFO 9/29/2025, 7:32:14 PM  143798  synced recovery
+INFO 9/29/2025, 7:32:14 PM  143798  ----------------before-quit-----------------
+INFO 9/29/2025, 7:32:14 PM  143798  ------------------will-quit------------------
+INFO 9/29/2025, 7:32:14 PM  143800  -----------------quit------------------
+INFO 9/29/2025, 7:32:14 PM  143800  closeLogging
+INFO 9/29/2025, 9:38:26 PM  44  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime]
+INFO 9/29/2025, 9:38:26 PM  122  ------------------start------------------
+DEBUG 9/29/2025, 9:38:26 PM  127  before setting 
+DEBUG 9/29/2025, 9:38:26 PM  145  prepDatabase /home/krishang/.config/Typora/profile.data
+DEBUG 9/29/2025, 9:38:26 PM  151  prepDatabase /home/krishang/.config/Typora/history.data
+INFO 9/29/2025, 9:38:26 PM  154  OS is linux 6.16.8-arch3-1
+INFO 9/29/2025, 9:38:26 PM  154  start LM in devVersion=false
+DEBUG 9/29/2025, 9:38:26 PM  163  after setting 
+INFO 9/29/2025, 9:38:26 PM  163  typora version: 1.12.1
+INFO 9/29/2025, 9:38:26 PM  205  [watch L]
+DEBUG 9/29/2025, 9:38:26 PM  205  prepDatabase /home/krishang/.config/Typora/Lq5HsaFVqf
+INFO 9/29/2025, 9:38:26 PM  208  no info
+INFO 9/29/2025, 9:38:26 PM  209  ls put SLicense
+DEBUG 9/29/2025, 9:38:26 PM  209  onUnfillLicense
+DEBUG 9/29/2025, 9:38:26 PM  210  trailRemains is 15
+INFO 9/29/2025, 9:38:26 PM  210  [L] installDate is 9/29/2025, trail remains: 15 days
+DEBUG 9/29/2025, 9:38:26 PM  210  onUnfillLicense
+INFO 9/29/2025, 9:38:26 PM  238  [watch L] hasL: false
+user-dict.json not found
+DEBUG 9/29/2025, 9:38:26 PM  294  app.openFile
+DEBUG 9/29/2025, 9:38:26 PM  295  putAccelerator File -> &File
+DEBUG 9/29/2025, 9:38:26 PM  295  putAccelerator Edit -> &Edit
+DEBUG 9/29/2025, 9:38:26 PM  296  putAccelerator Paragraph -> &Paragraph
+DEBUG 9/29/2025, 9:38:26 PM  296  putAccelerator Format -> F&ormat
+DEBUG 9/29/2025, 9:38:26 PM  296  putAccelerator View -> &View
+DEBUG 9/29/2025, 9:38:26 PM  296  putAccelerator Themes -> &Themes
+DEBUG 9/29/2025, 9:38:26 PM  296  putAccelerator Help -> &Help
+DEBUG 9/29/2025, 9:38:26 PM  334  added recovery 2 null  (0)
+INFO 9/29/2025, 9:38:26 PM  343  synced recovery
+DEBUG 9/29/2025, 9:38:27 PM  837  onUnfillLicense
+ERROR 9/29/2025, 9:38:57 PM  30730  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 9/29/2025, 9:38:57 PM  30732  handle document.loadData
+DEBUG 9/29/2025, 9:38:57 PM  30732  document.loadData 0
+ERROR 9/29/2025, 9:38:57 PM  30732  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 9/29/2025, 9:38:57 PM  30769  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 9/29/2025, 9:38:57 PM  30769  [RenderProcess 2][Log] reset NodeMap
+DEBUG 9/29/2025, 9:38:57 PM  30787  added recovery 2   (0)
+INFO 9/29/2025, 9:38:57 PM  30788  synced recovery
+INFO 9/29/2025, 9:38:57 PM  30954  [RenderProcess 2][Log] onBecomeActive
+INFO 9/29/2025, 9:38:57 PM  30955  [RenderProcess 2][Log] File.activeWindow = true
+INFO 9/29/2025, 9:39:59 PM  92595  [focus] 1
+INFO 9/29/2025, 9:39:59 PM  92604  [blur] 1
+INFO 9/29/2025, 9:39:59 PM  92604  [focus] 2
+INFO 9/29/2025, 9:40:00 PM  93837  [blur] 2
+INFO 9/29/2025, 9:40:00 PM  93837  [win] blur
+INFO 9/29/2025, 9:40:00 PM  94259  [focus] 1
+INFO 9/29/2025, 9:40:03 PM  96985  [focus] 2
+DEBUG 9/29/2025, 9:40:08 PM  101392  added recovery 2  krisha (6)
+INFO 9/29/2025, 9:40:08 PM  101393  synced recovery
+DEBUG 9/29/2025, 9:40:10 PM  104103  added recovery 2  krishan (7)
+INFO 9/29/2025, 9:40:10 PM  104104  synced recovery
+DEBUG 9/29/2025, 9:40:15 PM  108957  added recovery 2  kris (4)
+INFO 9/29/2025, 9:40:15 PM  108959  synced recovery
+INFO 9/29/2025, 9:40:17 PM  111263  [blur] 2
+INFO 9/29/2025, 9:40:17 PM  111263  [win] blur
+DEBUG 9/29/2025, 9:40:17 PM  111265  added recovery 2  krkrishang (10)
+INFO 9/29/2025, 9:40:17 PM  111266  synced recovery
+INFO 9/29/2025, 9:40:38 PM  131471  [focus] 2
+DEBUG 9/29/2025, 9:40:54 PM  147829  added recovery 2  "krkrishang
+
+
+
+k...nng
+
+krishang
+
+" (58)
+INFO 9/29/2025, 9:40:54 PM  147831  synced recovery
+INFO 9/29/2025, 9:40:56 PM  150088  [blur] 2
+INFO 9/29/2025, 9:40:56 PM  150089  [win] blur
+DEBUG 9/29/2025, 9:40:56 PM  150092  added recovery 2  "krkrishang
+
+
+
+k...ang
+
+krishang
+
+" (68)
+INFO 9/29/2025, 9:40:56 PM  150092  synced recovery
+INFO 9/29/2025, 9:41:58 PM  211437  [focus] 2
+DEBUG 9/29/2025, 9:42:02 PM  215937  added recovery 2  "krkrishang
+
+
+
+k...rishang
+
+krisha" (74)
+INFO 9/29/2025, 9:42:02 PM  215939  synced recovery
+INFO 9/29/2025, 9:42:04 PM  217499  [blur] 2
+INFO 9/29/2025, 9:42:04 PM  217499  [win] blur
+DEBUG 9/29/2025, 9:42:04 PM  217512  added recovery 2  "krkrishang
+
+
+
+k...shang
+
+krishang" (76)
+INFO 9/29/2025, 9:42:04 PM  217514  synced recovery
+INFO 9/29/2025, 9:42:12 PM  226024  [focus] 2
+INFO 9/29/2025, 9:42:13 PM  226898  [blur] 2
+INFO 9/29/2025, 9:42:13 PM  226898  [win] blur
+INFO 9/29/2025, 9:42:16 PM  230242  [focus] 2
+INFO 9/29/2025, 9:42:19 PM  233274  [blur] 2
+INFO 9/29/2025, 9:42:19 PM  233274  [win] blur
+INFO 9/29/2025, 9:42:20 PM  233788  [focus] 2
+INFO 9/29/2025, 9:42:22 PM  235963  synced recovery
+INFO 9/29/2025, 9:42:22 PM  235963  ----------------before-quit-----------------
+INFO 9/29/2025, 9:42:22 PM  235963  ------------------will-quit------------------
+INFO 9/29/2025, 9:42:22 PM  235965  -----------------quit------------------
+INFO 9/29/2025, 9:42:22 PM  235965  closeLogging
+INFO 9/29/2025, 11:07:01 PM  34  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime]
+INFO 9/29/2025, 11:07:01 PM  104  ------------------start------------------
+DEBUG 9/29/2025, 11:07:01 PM  109  before setting 
+DEBUG 9/29/2025, 11:07:01 PM  132  prepDatabase /home/krishang/.config/Typora/profile.data
+DEBUG 9/29/2025, 11:07:01 PM  135  prepDatabase /home/krishang/.config/Typora/history.data
+INFO 9/29/2025, 11:07:01 PM  138  OS is linux 6.16.8-arch3-1
+INFO 9/29/2025, 11:07:01 PM  138  start LM in devVersion=false
+DEBUG 9/29/2025, 11:07:01 PM  146  after setting 
+INFO 9/29/2025, 11:07:01 PM  146  typora version: 1.12.1
+INFO 9/29/2025, 11:07:02 PM  185  [watch L]
+DEBUG 9/29/2025, 11:07:02 PM  185  prepDatabase /home/krishang/.config/Typora/Lq5HsaFVqf
+INFO 9/29/2025, 11:07:02 PM  187  no info
+INFO 9/29/2025, 11:07:02 PM  187  ls put SLicense
+DEBUG 9/29/2025, 11:07:02 PM  187  onUnfillLicense
+DEBUG 9/29/2025, 11:07:02 PM  187  trailRemains is 15
+INFO 9/29/2025, 11:07:02 PM  188  [L] installDate is 9/29/2025, trail remains: 15 days
+DEBUG 9/29/2025, 11:07:02 PM  188  onUnfillLicense
+INFO 9/29/2025, 11:07:02 PM  188  [watch L] hasL: false
+user-dict.json not found
+DEBUG 9/29/2025, 11:07:02 PM  197  app.openFile
+DEBUG 9/29/2025, 11:07:02 PM  197  putAccelerator File -> &File
+DEBUG 9/29/2025, 11:07:02 PM  198  putAccelerator Edit -> &Edit
+DEBUG 9/29/2025, 11:07:02 PM  198  putAccelerator Paragraph -> &Paragraph
+DEBUG 9/29/2025, 11:07:02 PM  198  putAccelerator Format -> F&ormat
+DEBUG 9/29/2025, 11:07:02 PM  198  putAccelerator View -> &View
+DEBUG 9/29/2025, 11:07:02 PM  198  putAccelerator Themes -> &Themes
+DEBUG 9/29/2025, 11:07:02 PM  198  putAccelerator Help -> &Help
+DEBUG 9/29/2025, 11:07:02 PM  245  added recovery 1 null  (0)
+INFO 9/29/2025, 11:07:02 PM  297  synced recovery
+DEBUG 9/29/2025, 11:07:02 PM  757  onUnfillLicense
+ERROR 9/29/2025, 11:07:02 PM  767  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 9/29/2025, 11:07:02 PM  769  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 9/29/2025, 11:07:02 PM  769  handle document.loadData
+DEBUG 9/29/2025, 11:07:02 PM  769  document.loadData 0
+INFO 9/29/2025, 11:07:02 PM  811  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 9/29/2025, 11:07:02 PM  811  [RenderProcess 1][Log] reset NodeMap
+DEBUG 9/29/2025, 11:07:02 PM  821  added recovery 1   (0)
+INFO 9/29/2025, 11:07:02 PM  822  synced recovery
+INFO 9/29/2025, 11:07:02 PM  983  [RenderProcess 1][Log] onBecomeActive
+INFO 9/29/2025, 11:07:02 PM  983  [RenderProcess 1][Log] File.activeWindow = true
+INFO 9/29/2025, 11:08:34 PM  92773  [focus] 1
+INFO 9/29/2025, 11:08:41 PM  99411  synced recovery
+INFO 9/29/2025, 11:08:41 PM  99411  ----------------before-quit-----------------
+INFO 9/29/2025, 11:08:41 PM  99412  ------------------will-quit------------------
+INFO 9/29/2025, 11:08:41 PM  99414  -----------------quit------------------
+INFO 9/29/2025, 11:08:41 PM  99414  closeLogging
+INFO 10/31/2025, 4:05:15 AM  128  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime]
+INFO 10/31/2025, 4:05:15 AM  427  ------------------start------------------
+DEBUG 10/31/2025, 4:05:15 AM  448  before setting 
+DEBUG 10/31/2025, 4:05:15 AM  533  prepDatabase /home/krishang/.config/Typora/profile.data
+DEBUG 10/31/2025, 4:05:15 AM  547  prepDatabase /home/krishang/.config/Typora/history.data
+INFO 10/31/2025, 4:05:15 AM  559  OS is linux 6.17.5-arch1-1
+INFO 10/31/2025, 4:05:15 AM  560  launchFromDiffVersion, pre version is 1.12.1
+INFO 10/31/2025, 4:05:15 AM  560  start LM in devVersion=false
+INFO 10/31/2025, 4:05:15 AM  593  overwriteThemeFolder
+DEBUG 10/31/2025, 4:05:15 AM  600  after setting 
+INFO 10/31/2025, 4:05:15 AM  600  typora version: 1.12.2
+INFO 10/31/2025, 4:05:15 AM  762  [watch L]
+DEBUG 10/31/2025, 4:05:15 AM  762  prepDatabase /home/krishang/.config/Typora/Lq5HsaFVqf
+INFO 10/31/2025, 4:05:15 AM  770  no info
+INFO 10/31/2025, 4:05:15 AM  770  ls put SLicense
+DEBUG 10/31/2025, 4:05:15 AM  771  onUnfillLicense
+DEBUG 10/31/2025, 4:05:15 AM  772  trailRemains is 0
+INFO 10/31/2025, 4:05:15 AM  772  [L] installDate is 9/29/2025, trail remains: 0 days
+DEBUG 10/31/2025, 4:05:15 AM  772  onUnfillLicense
+INFO 10/31/2025, 4:05:16 AM  865  [watch L] hasL: false
+user-dict.json not found
+DEBUG 10/31/2025, 4:05:16 AM  1127  app.openFile
+DEBUG 10/31/2025, 4:05:16 AM  1130  putAccelerator File -> &File
+DEBUG 10/31/2025, 4:05:16 AM  1132  putAccelerator Edit -> &Edit
+DEBUG 10/31/2025, 4:05:16 AM  1133  putAccelerator Paragraph -> &Paragraph
+DEBUG 10/31/2025, 4:05:16 AM  1134  putAccelerator Format -> F&ormat
+DEBUG 10/31/2025, 4:05:16 AM  1134  putAccelerator View -> &View
+DEBUG 10/31/2025, 4:05:16 AM  1134  putAccelerator Themes -> &Themes
+DEBUG 10/31/2025, 4:05:16 AM  1134  putAccelerator Help -> &Help
+DEBUG 10/31/2025, 4:05:16 AM  1227  added recovery 2 null  (0)
+INFO 10/31/2025, 4:05:16 AM  1290  synced recovery
+INFO 10/31/2025, 4:05:17 AM  2708  got argv [/usr/share/typora/Typora, --enable-wayland-ime, --allow-file-access-from-files, --ozone-platform=wayland] from secondary instance
+DEBUG 10/31/2025, 4:05:17 AM  2708  app.openFile
+DEBUG 10/31/2025, 4:05:17 AM  2763  added recovery 3 null  (0)
+INFO 10/31/2025, 4:05:17 AM  2774  synced recovery
+INFO 10/31/2025, 4:05:17 AM  240  secondary instance would exit
+INFO 10/31/2025, 4:05:18 AM  627  exit second instance
+DEBUG 10/31/2025, 4:05:18 AM  3532  onUnfillLicense
+ERROR 10/31/2025, 4:05:18 AM  3579  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 10/31/2025, 4:05:18 AM  3592  handle document.loadData
+DEBUG 10/31/2025, 4:05:18 AM  3592  document.loadData 0
+ERROR 10/31/2025, 4:05:18 AM  3593  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 10/31/2025, 4:05:18 AM  3760  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 10/31/2025, 4:05:18 AM  3760  [RenderProcess 2][Log] reset NodeMap
+DEBUG 10/31/2025, 4:05:19 AM  3855  added recovery 2   (0)
+INFO 10/31/2025, 4:05:19 AM  3860  synced recovery
+INFO 10/31/2025, 4:05:19 AM  4573  [RenderProcess 2][Log] onBecomeActive
+INFO 10/31/2025, 4:05:19 AM  4574  [RenderProcess 2][Log] File.activeWindow = true
+DEBUG 10/31/2025, 4:05:20 AM  4906  onUnfillLicense
+ERROR 10/31/2025, 4:05:20 AM  4939  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 10/31/2025, 4:05:20 AM  4942  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 10/31/2025, 4:05:20 AM  4948  handle document.loadData
+DEBUG 10/31/2025, 4:05:20 AM  4949  document.loadData 0
+INFO 10/31/2025, 4:05:20 AM  5068  [RenderProcess 3][Log] [UndoManager] reset commandStack
+INFO 10/31/2025, 4:05:20 AM  5069  [RenderProcess 3][Log] reset NodeMap
+DEBUG 10/31/2025, 4:05:20 AM  5136  added recovery 3   (0)
+INFO 10/31/2025, 4:05:20 AM  5142  synced recovery
+INFO 10/31/2025, 4:05:20 AM  5636  got argv [/usr/share/typora/Typora, --enable-wayland-ime, --allow-file-access-from-files, --ozone-platform=wayland] from secondary instance
+DEBUG 10/31/2025, 4:05:20 AM  5636  app.openFile
+DEBUG 10/31/2025, 4:05:20 AM  5681  added recovery 4 null  (0)
+INFO 10/31/2025, 4:05:20 AM  5704  synced recovery
+INFO 10/31/2025, 4:05:21 AM  5951  [RenderProcess 3][Log] onBecomeActive
+INFO 10/31/2025, 4:05:21 AM  5951  [RenderProcess 3][Log] File.activeWindow = true
+INFO 10/31/2025, 4:05:20 AM  230  secondary instance would exit
+INFO 10/31/2025, 4:05:21 AM  535  exit second instance
+DEBUG 10/31/2025, 4:05:22 AM  7355  onUnfillLicense
+ERROR 10/31/2025, 4:05:22 AM  7382  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 10/31/2025, 4:05:22 AM  7385  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 10/31/2025, 4:05:22 AM  7390  handle document.loadData
+DEBUG 10/31/2025, 4:05:22 AM  7390  document.loadData 0
+INFO 10/31/2025, 4:05:22 AM  7489  [RenderProcess 4][Log] [UndoManager] reset commandStack
+INFO 10/31/2025, 4:05:22 AM  7490  [RenderProcess 4][Log] reset NodeMap
+DEBUG 10/31/2025, 4:05:22 AM  7545  added recovery 4   (0)
+INFO 10/31/2025, 4:05:22 AM  7550  synced recovery
+INFO 10/31/2025, 4:05:23 AM  8154  [RenderProcess 4][Log] onBecomeActive
+INFO 10/31/2025, 4:05:23 AM  8154  [RenderProcess 4][Log] File.activeWindow = true
+INFO 10/31/2025, 4:05:27 AM  12518  got argv [/usr/share/typora/Typora, --enable-wayland-ime, --allow-file-access-from-files, --ozone-platform=wayland] from secondary instance
+DEBUG 10/31/2025, 4:05:27 AM  12518  app.openFile
+DEBUG 10/31/2025, 4:05:27 AM  12554  added recovery 5 null  (0)
+INFO 10/31/2025, 4:05:27 AM  12564  synced recovery
+INFO 10/31/2025, 4:05:27 AM  162  secondary instance would exit
+INFO 10/31/2025, 4:05:28 AM  416  exit second instance
+DEBUG 10/31/2025, 4:05:29 AM  14044  onUnfillLicense
+ERROR 10/31/2025, 4:05:29 AM  14077  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 10/31/2025, 4:05:29 AM  14083  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 10/31/2025, 4:05:29 AM  14084  handle document.loadData
+DEBUG 10/31/2025, 4:05:29 AM  14084  document.loadData 0
+INFO 10/31/2025, 4:05:29 AM  14179  [RenderProcess 5][Log] [UndoManager] reset commandStack
+INFO 10/31/2025, 4:05:29 AM  14180  [RenderProcess 5][Log] reset NodeMap
+DEBUG 10/31/2025, 4:05:29 AM  14234  added recovery 5   (0)
+INFO 10/31/2025, 4:05:29 AM  14239  synced recovery
+INFO 10/31/2025, 4:05:29 AM  14816  [RenderProcess 5][Log] onBecomeActive
+INFO 10/31/2025, 4:05:29 AM  14816  [RenderProcess 5][Log] File.activeWindow = true
+INFO 10/31/2025, 4:06:53 AM  97853  [focus] 3
+INFO 10/31/2025, 4:06:54 AM  99242  [focus] 5
+INFO 10/31/2025, 4:06:54 AM  99514  [focus] 4
+INFO 10/31/2025, 4:06:55 AM  100142  [focus] 1
+INFO 10/31/2025, 4:06:55 AM  100440  got argv [/usr/share/typora/Typora, --enable-wayland-ime, --allow-file-access-from-files, --ozone-platform=wayland] from secondary instance
+DEBUG 10/31/2025, 4:06:55 AM  100441  app.openFile
+DEBUG 10/31/2025, 4:06:55 AM  100488  added recovery 6 null  (0)
+INFO 10/31/2025, 4:06:55 AM  100517  synced recovery
+INFO 10/31/2025, 4:06:55 AM  100634  [focus] 6
+INFO 10/31/2025, 4:06:55 AM  100665  got argv [/usr/share/typora/Typora, --enable-wayland-ime, --allow-file-access-from-files, --ozone-platform=wayland] from secondary instance
+DEBUG 10/31/2025, 4:06:55 AM  100666  app.openFile
+DEBUG 10/31/2025, 4:06:55 AM  100720  added recovery 7 null  (0)
+INFO 10/31/2025, 4:06:55 AM  100768  synced recovery
+INFO 10/31/2025, 4:06:56 AM  100878  [blur] 6
+INFO 10/31/2025, 4:06:56 AM  100878  [win] blur
+INFO 10/31/2025, 4:06:56 AM  100879  [focus] 7
+INFO 10/31/2025, 4:06:55 AM  250  secondary instance would exit
+INFO 10/31/2025, 4:06:56 AM  696  exit second instance
+INFO 10/31/2025, 4:06:55 AM  278  secondary instance would exit
+INFO 10/31/2025, 4:06:56 AM  686  exit second instance
+INFO 10/31/2025, 4:06:56 AM  101558  got argv [/usr/share/typora/Typora, --enable-wayland-ime, --allow-file-access-from-files, --ozone-platform=wayland] from secondary instance
+DEBUG 10/31/2025, 4:06:56 AM  101558  app.openFile
+DEBUG 10/31/2025, 4:06:56 AM  101611  added recovery 8 null  (0)
+INFO 10/31/2025, 4:06:56 AM  101662  synced recovery
+INFO 10/31/2025, 4:06:56 AM  101760  [blur] 7
+INFO 10/31/2025, 4:06:56 AM  101760  [win] blur
+INFO 10/31/2025, 4:06:56 AM  101760  [focus] 8
+INFO 10/31/2025, 4:06:56 AM  101813  got argv [/usr/share/typora/Typora, --enable-wayland-ime, --allow-file-access-from-files, --ozone-platform=wayland] from secondary instance
+DEBUG 10/31/2025, 4:06:56 AM  101813  app.openFile
+DEBUG 10/31/2025, 4:06:57 AM  101866  added recovery 9 null  (0)
+INFO 10/31/2025, 4:06:57 AM  101908  synced recovery
+INFO 10/31/2025, 4:06:57 AM  101954  [blur] 8
+INFO 10/31/2025, 4:06:57 AM  101954  [win] blur
+INFO 10/31/2025, 4:06:57 AM  101955  [focus] 9
+INFO 10/31/2025, 4:06:56 AM  284  secondary instance would exit
+INFO 10/31/2025, 4:06:57 AM  739  exit second instance
+INFO 10/31/2025, 4:06:57 AM  272  secondary instance would exit
+INFO 10/31/2025, 4:06:57 AM  700  exit second instance
+DEBUG 10/31/2025, 4:06:58 AM  103192  onUnfillLicense
+DEBUG 10/31/2025, 4:06:58 AM  103196  onUnfillLicense
+ERROR 10/31/2025, 4:06:58 AM  103228  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 10/31/2025, 4:06:58 AM  103233  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 10/31/2025, 4:06:58 AM  103236  handle document.loadData
+DEBUG 10/31/2025, 4:06:58 AM  103236  document.loadData 0
+ERROR 10/31/2025, 4:06:58 AM  103240  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 10/31/2025, 4:06:58 AM  103241  handle document.loadData
+DEBUG 10/31/2025, 4:06:58 AM  103241  document.loadData 0
+ERROR 10/31/2025, 4:06:58 AM  103243  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 10/31/2025, 4:06:58 AM  103375  [RenderProcess 7][Log] [UndoManager] reset commandStack
+INFO 10/31/2025, 4:06:58 AM  103376  [RenderProcess 7][Log] reset NodeMap
+INFO 10/31/2025, 4:06:58 AM  103394  [RenderProcess 6][Log] [UndoManager] reset commandStack
+INFO 10/31/2025, 4:06:58 AM  103395  [RenderProcess 6][Log] reset NodeMap
+DEBUG 10/31/2025, 4:06:58 AM  103430  added recovery 7   (0)
+INFO 10/31/2025, 4:06:58 AM  103437  synced recovery
+DEBUG 10/31/2025, 4:06:58 AM  103450  added recovery 6   (0)
+INFO 10/31/2025, 4:06:58 AM  103473  synced recovery
+DEBUG 10/31/2025, 4:06:59 AM  103945  onUnfillLicense
+INFO 10/31/2025, 4:06:59 AM  103990  handle document.loadData
+DEBUG 10/31/2025, 4:06:59 AM  103991  document.loadData 1
+ERROR 10/31/2025, 4:06:59 AM  104000  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 10/31/2025, 4:06:59 AM  104008  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+DEBUG 10/31/2025, 4:06:59 AM  104027  onUnfillLicense
+INFO 10/31/2025, 4:06:59 AM  104071  [blur] 9
+INFO 10/31/2025, 4:06:59 AM  104071  [win] blur
+INFO 10/31/2025, 4:06:59 AM  104072  [focus] 7
+INFO 10/31/2025, 4:06:59 AM  104075  handle document.loadData
+DEBUG 10/31/2025, 4:06:59 AM  104076  document.loadData 1
+ERROR 10/31/2025, 4:06:59 AM  104091  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 10/31/2025, 4:06:59 AM  104098  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 10/31/2025, 4:06:59 AM  104123  [blur] 7
+INFO 10/31/2025, 4:06:59 AM  104123  [win] blur
+INFO 10/31/2025, 4:06:59 AM  104123  [focus] 6
+INFO 10/31/2025, 4:06:59 AM  104133  [RenderProcess 8][Log] [UndoManager] reset commandStack
+INFO 10/31/2025, 4:06:59 AM  104134  [RenderProcess 8][Log] reset NodeMap
+DEBUG 10/31/2025, 4:06:59 AM  104183  added recovery 8   (0)
+INFO 10/31/2025, 4:06:59 AM  104189  synced recovery
+INFO 10/31/2025, 4:06:59 AM  104235  [RenderProcess 9][Log] [UndoManager] reset commandStack
+INFO 10/31/2025, 4:06:59 AM  104236  [RenderProcess 9][Log] reset NodeMap
+INFO 10/31/2025, 4:06:59 AM  104269  [RenderProcess 7][Log] onBecomeActive
+INFO 10/31/2025, 4:06:59 AM  104269  [RenderProcess 7][Log] File.activeWindow = true
+DEBUG 10/31/2025, 4:06:59 AM  104285  added recovery 9   (0)
+INFO 10/31/2025, 4:06:59 AM  104303  synced recovery
+INFO 10/31/2025, 4:06:59 AM  104312  [RenderProcess 6][Log] onBecomeActive
+INFO 10/31/2025, 4:06:59 AM  104314  [RenderProcess 6][Log] File.activeWindow = true
+INFO 10/31/2025, 4:06:59 AM  104799  [blur] 6
+INFO 10/31/2025, 4:06:59 AM  104799  [win] blur
+INFO 10/31/2025, 4:06:59 AM  104800  [focus] 8
+INFO 10/31/2025, 4:06:59 AM  104816  [RenderProcess 8][Log] onBecomeActive
+INFO 10/31/2025, 4:07:00 AM  104818  [RenderProcess 8][Log] File.activeWindow = true
+INFO 10/31/2025, 4:07:00 AM  104908  [blur] 8
+INFO 10/31/2025, 4:07:00 AM  104908  [win] blur
+INFO 10/31/2025, 4:07:00 AM  104908  [focus] 9
+INFO 10/31/2025, 4:07:00 AM  105125  [RenderProcess 9][Log] onBecomeActive
+INFO 10/31/2025, 4:07:00 AM  105126  [RenderProcess 9][Log] File.activeWindow = true
+INFO 10/31/2025, 4:07:01 AM  106364  [blur] 9
+INFO 10/31/2025, 4:07:01 AM  106364  [win] blur
+INFO 10/31/2025, 4:07:02 AM  107532  [focus] 9
+INFO 10/31/2025, 4:07:03 AM  107969  [blur] 9
+INFO 10/31/2025, 4:07:03 AM  107969  [win] blur
+INFO 10/31/2025, 4:07:04 AM  109360  [focus] 9
+INFO 10/31/2025, 4:07:05 AM  109927  [blur] 9
+INFO 10/31/2025, 4:07:05 AM  109927  [win] blur
+INFO 10/31/2025, 4:12:40 AM  445495  [focus] 2
+INFO 10/31/2025, 4:12:43 AM  448433  [focus] 6
+INFO 10/31/2025, 4:12:44 AM  449487  [focus] 8
+INFO 10/31/2025, 4:12:44 AM  449764  [focus] 9
+INFO 10/31/2025, 4:12:45 AM  449965  [focus] 7
+INFO 10/31/2025, 4:12:45 AM  450106  synced recovery
+INFO 10/31/2025, 4:12:45 AM  450106  ----------------before-quit-----------------
+INFO 10/31/2025, 4:12:45 AM  450106  ------------------will-quit------------------
+INFO 10/31/2025, 4:12:45 AM  450110  -----------------quit------------------
+INFO 10/31/2025, 4:12:45 AM  450110  closeLogging
+INFO 11/11/2025, 1:15:13 PM  312  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime]
+INFO 11/11/2025, 1:15:14 PM  1193  ------------------start------------------
+DEBUG 11/11/2025, 1:15:14 PM  1250  before setting 
+DEBUG 11/11/2025, 1:15:14 PM  1447  prepDatabase /home/krishang/.config/Typora/profile.data
+DEBUG 11/11/2025, 1:15:14 PM  1472  prepDatabase /home/krishang/.config/Typora/history.data
+INFO 11/11/2025, 1:15:14 PM  1492  OS is linux 6.17.6-arch1-1
+INFO 11/11/2025, 1:15:14 PM  1492  start LM in devVersion=false
+DEBUG 11/11/2025, 1:15:14 PM  1556  after setting 
+INFO 11/11/2025, 1:15:14 PM  1556  typora version: 1.12.2
+INFO 11/11/2025, 1:15:14 PM  1947  [watch L]
+DEBUG 11/11/2025, 1:15:14 PM  1948  prepDatabase /home/krishang/.config/Typora/Lq5HsaFVqf
+INFO 11/11/2025, 1:15:14 PM  1977  no info
+INFO 11/11/2025, 1:15:14 PM  1977  ls put SLicense
+DEBUG 11/11/2025, 1:15:14 PM  1980  onUnfillLicense
+DEBUG 11/11/2025, 1:15:14 PM  1984  trailRemains is 0
+INFO 11/11/2025, 1:15:14 PM  1988  [L] installDate is 9/29/2025, trail remains: 0 days
+DEBUG 11/11/2025, 1:15:14 PM  1988  onUnfillLicense
+INFO 11/11/2025, 1:15:14 PM  1988  [watch L] hasL: false
+user-dict.json not found
+DEBUG 11/11/2025, 1:15:15 PM  2171  app.openFile
+DEBUG 11/11/2025, 1:15:15 PM  2178  putAccelerator File -> &File
+DEBUG 11/11/2025, 1:15:15 PM  2181  putAccelerator Edit -> &Edit
+DEBUG 11/11/2025, 1:15:15 PM  2183  putAccelerator Paragraph -> &Paragraph
+DEBUG 11/11/2025, 1:15:15 PM  2184  putAccelerator Format -> F&ormat
+DEBUG 11/11/2025, 1:15:15 PM  2185  putAccelerator View -> &View
+DEBUG 11/11/2025, 1:15:15 PM  2190  putAccelerator Themes -> &Themes
+DEBUG 11/11/2025, 1:15:15 PM  2190  putAccelerator Help -> &Help
+DEBUG 11/11/2025, 1:15:15 PM  2833  added recovery 1 null  (0)
+INFO 11/11/2025, 1:15:16 PM  3281  synced recovery
+DEBUG 11/11/2025, 1:16:19 PM  67047  onUnfillLicense
+ERROR 11/11/2025, 1:16:48 PM  95250  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 11/11/2025, 1:16:48 PM  95271  handle document.loadData
+DEBUG 11/11/2025, 1:16:48 PM  95271  document.loadData 0
+ERROR 11/11/2025, 1:16:48 PM  95274  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 11/11/2025, 1:16:48 PM  95757  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 11/11/2025, 1:16:48 PM  95759  [RenderProcess 1][Log] reset NodeMap
+DEBUG 11/11/2025, 1:16:48 PM  95959  added recovery 1   (0)
+INFO 11/11/2025, 1:16:48 PM  95973  synced recovery
+INFO 11/11/2025, 1:16:49 PM  96172  [focus] 1
+INFO 11/11/2025, 1:16:51 PM  98257  [RenderProcess 1][Log] onBecomeActive
+INFO 11/11/2025, 1:16:51 PM  98258  [RenderProcess 1][Log] File.activeWindow = true
+DEBUG 11/11/2025, 1:16:51 PM  98360  added recovery 1  m (1)
+INFO 11/11/2025, 1:16:51 PM  98363  synced recovery
+INFO 11/11/2025, 1:16:55 PM  103023  synced recovery
+INFO 11/11/2025, 1:16:55 PM  103023  ----------------before-quit-----------------
+INFO 11/11/2025, 1:16:55 PM  103023  ------------------will-quit------------------
+INFO 11/11/2025, 1:16:55 PM  103051  -----------------quit------------------
+INFO 11/11/2025, 1:16:55 PM  103051  closeLogging

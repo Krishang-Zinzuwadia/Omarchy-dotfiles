@@ -1,0 +1,940 @@
+{
+  "app_name": "525aa0efd70f4399b9f64bcd2a5b38c7",
+  "app_title": "Zenless Zone Zero",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "525aa0efd70f4399b9f64bcd2a5b38c7",
+      "asset_id": "525aa0efd70f4399b9f64bcd2a5b38c7",
+      "build_version": "2.3.2",
+      "catalog_item_id": "825cd0b5286c404289d456d47561cc1a",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "781f9bade5f54678a7e3bb23c1366834",
+        "update_type": "PATCH"
+      },
+      "namespace": "6827387b744d4a46bd70ea8a145e595b",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-11-15T06:11:10.048Z",
+    "customAttributes": {
+      "AllowMultipleInstances": {
+        "type": "STRING",
+        "value": "FALSE"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "ZenlessZoneZero"
+      },
+      "NeverUpdate": {
+        "type": "STRING",
+        "value": "FALSE"
+      },
+      "ProcessNames": {
+        "type": "STRING",
+        "value": "launcher_epic.exe"
+      }
+    },
+    "description": "Season 2 officially kicks off with anniversary rewards!",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-10-21T10:17:22.156Z",
+        "description": "Monochrome \u00d760_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "6610b612d9584d64a5811eb079fbb242",
+        "entitlementType": "AUDIENCE",
+        "id": "6610b612d9584d64a5811eb079fbb242",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-01-21T22:06:51.361Z",
+        "mainGameItem": {
+          "id": "825cd0b5286c404289d456d47561cc1a",
+          "namespace": "6827387b744d4a46bd70ea8a145e595b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "825cd0b5286c404289d456d47561cc1a",
+            "namespace": "6827387b744d4a46bd70ea8a145e595b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6827387b744d4a46bd70ea8a145e595b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Monochrome \u00d760_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-10-21T10:24:36.099Z",
+        "description": "Favored Invitation Gift_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "56c6f1e5e60f4bf89e0a1595619e4586",
+        "entitlementType": "AUDIENCE",
+        "id": "56c6f1e5e60f4bf89e0a1595619e4586",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-01-21T22:06:51.361Z",
+        "mainGameItem": {
+          "id": "825cd0b5286c404289d456d47561cc1a",
+          "namespace": "6827387b744d4a46bd70ea8a145e595b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "825cd0b5286c404289d456d47561cc1a",
+            "namespace": "6827387b744d4a46bd70ea8a145e595b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6827387b744d4a46bd70ea8a145e595b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Favored Invitation Gift_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-10-21T10:23:30.928Z",
+        "description": "Premium Plan_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "e79c899c95244606a7496361454992da",
+        "entitlementType": "AUDIENCE",
+        "id": "e79c899c95244606a7496361454992da",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-01-21T22:06:51.361Z",
+        "mainGameItem": {
+          "id": "825cd0b5286c404289d456d47561cc1a",
+          "namespace": "6827387b744d4a46bd70ea8a145e595b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "825cd0b5286c404289d456d47561cc1a",
+            "namespace": "6827387b744d4a46bd70ea8a145e595b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6827387b744d4a46bd70ea8a145e595b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Premium Plan_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-10-21T10:24:52.604Z",
+        "description": "Exclusive Invitation Gift_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "9828c5474a3d48b19dea60a29b0f5e1b",
+        "entitlementType": "AUDIENCE",
+        "id": "9828c5474a3d48b19dea60a29b0f5e1b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-01-21T22:06:51.361Z",
+        "mainGameItem": {
+          "id": "825cd0b5286c404289d456d47561cc1a",
+          "namespace": "6827387b744d4a46bd70ea8a145e595b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "825cd0b5286c404289d456d47561cc1a",
+            "namespace": "6827387b744d4a46bd70ea8a145e595b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6827387b744d4a46bd70ea8a145e595b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Exclusive Invitation Gift_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-11-18T09:41:17.370Z",
+        "description": "Limited Gift 98_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "6213a05b337e46c9a464600ccc04b203",
+        "entitlementType": "AUDIENCE",
+        "id": "6213a05b337e46c9a464600ccc04b203",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-01-21T22:06:51.361Z",
+        "mainGameItem": {
+          "id": "825cd0b5286c404289d456d47561cc1a",
+          "namespace": "6827387b744d4a46bd70ea8a145e595b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "825cd0b5286c404289d456d47561cc1a",
+            "namespace": "6827387b744d4a46bd70ea8a145e595b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6827387b744d4a46bd70ea8a145e595b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Limited Gift 98_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-10-21T10:21:19.869Z",
+        "description": "Monochrome \u00d76480_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "e8328a38b2b04b549c8728d747e5878e",
+        "entitlementType": "AUDIENCE",
+        "id": "e8328a38b2b04b549c8728d747e5878e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-01-21T22:06:51.361Z",
+        "mainGameItem": {
+          "id": "825cd0b5286c404289d456d47561cc1a",
+          "namespace": "6827387b744d4a46bd70ea8a145e595b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "825cd0b5286c404289d456d47561cc1a",
+            "namespace": "6827387b744d4a46bd70ea8a145e595b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6827387b744d4a46bd70ea8a145e595b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Monochrome \u00d76480_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-10-21T10:22:41.753Z",
+        "description": "Inter-Knot Membership_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "2944b6d5612f4586a7f7911ce6a55789",
+        "entitlementType": "AUDIENCE",
+        "id": "2944b6d5612f4586a7f7911ce6a55789",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-01-21T22:06:51.361Z",
+        "mainGameItem": {
+          "id": "825cd0b5286c404289d456d47561cc1a",
+          "namespace": "6827387b744d4a46bd70ea8a145e595b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "825cd0b5286c404289d456d47561cc1a",
+            "namespace": "6827387b744d4a46bd70ea8a145e595b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6827387b744d4a46bd70ea8a145e595b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Inter-Knot Membership_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-11-18T09:40:48.898Z",
+        "description": "Limited Gift 6_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "1ea6e43a1d394ba381423f19fbe31ee8",
+        "entitlementType": "AUDIENCE",
+        "id": "1ea6e43a1d394ba381423f19fbe31ee8",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-01-21T22:06:51.361Z",
+        "mainGameItem": {
+          "id": "825cd0b5286c404289d456d47561cc1a",
+          "namespace": "6827387b744d4a46bd70ea8a145e595b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "825cd0b5286c404289d456d47561cc1a",
+            "namespace": "6827387b744d4a46bd70ea8a145e595b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6827387b744d4a46bd70ea8a145e595b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Limited Gift 6_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-10-21T10:23:12.223Z",
+        "description": "Growth Plan_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "0047cba31f6942368b0274c2965e4e2a",
+        "entitlementType": "AUDIENCE",
+        "id": "0047cba31f6942368b0274c2965e4e2a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-01-21T22:06:51.910Z",
+        "mainGameItem": {
+          "id": "825cd0b5286c404289d456d47561cc1a",
+          "namespace": "6827387b744d4a46bd70ea8a145e595b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "825cd0b5286c404289d456d47561cc1a",
+            "namespace": "6827387b744d4a46bd70ea8a145e595b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6827387b744d4a46bd70ea8a145e595b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Growth Plan_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-10-21T10:24:21.015Z",
+        "description": "Sincere Invitation Gift_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "c6463df1757e41c0ab6b23fed2029d7c",
+        "entitlementType": "AUDIENCE",
+        "id": "c6463df1757e41c0ab6b23fed2029d7c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-01-21T22:06:51.910Z",
+        "mainGameItem": {
+          "id": "825cd0b5286c404289d456d47561cc1a",
+          "namespace": "6827387b744d4a46bd70ea8a145e595b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "825cd0b5286c404289d456d47561cc1a",
+            "namespace": "6827387b744d4a46bd70ea8a145e595b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6827387b744d4a46bd70ea8a145e595b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Sincere Invitation Gift_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-10-21T10:19:14.790Z",
+        "description": "Monochrome \u00d7980_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "e43fb07d3a06459aa160f44c02b31467",
+        "entitlementType": "AUDIENCE",
+        "id": "e43fb07d3a06459aa160f44c02b31467",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-01-21T22:06:51.910Z",
+        "mainGameItem": {
+          "id": "825cd0b5286c404289d456d47561cc1a",
+          "namespace": "6827387b744d4a46bd70ea8a145e595b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "825cd0b5286c404289d456d47561cc1a",
+            "namespace": "6827387b744d4a46bd70ea8a145e595b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6827387b744d4a46bd70ea8a145e595b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Monochrome \u00d7980_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-10-21T10:20:53.543Z",
+        "description": "Monochrome \u00d73280_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "d34edde0bdc3418eaf662d0c81fc6004",
+        "entitlementType": "AUDIENCE",
+        "id": "d34edde0bdc3418eaf662d0c81fc6004",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-01-21T22:06:51.361Z",
+        "mainGameItem": {
+          "id": "825cd0b5286c404289d456d47561cc1a",
+          "namespace": "6827387b744d4a46bd70ea8a145e595b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "825cd0b5286c404289d456d47561cc1a",
+            "namespace": "6827387b744d4a46bd70ea8a145e595b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6827387b744d4a46bd70ea8a145e595b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Monochrome \u00d73280_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-10-21T10:18:44.029Z",
+        "description": "Monochrome \u00d7300_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "3a5286250f6b4c9f80c44eb1e605e83f",
+        "entitlementType": "AUDIENCE",
+        "id": "3a5286250f6b4c9f80c44eb1e605e83f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-01-21T22:06:51.910Z",
+        "mainGameItem": {
+          "id": "825cd0b5286c404289d456d47561cc1a",
+          "namespace": "6827387b744d4a46bd70ea8a145e595b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "825cd0b5286c404289d456d47561cc1a",
+            "namespace": "6827387b744d4a46bd70ea8a145e595b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6827387b744d4a46bd70ea8a145e595b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Monochrome \u00d7300_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-10-21T10:24:05.133Z",
+        "description": "Eridu Welcome Gift_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "d506852c3f704a2a822af18374c91524",
+        "entitlementType": "AUDIENCE",
+        "id": "d506852c3f704a2a822af18374c91524",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-01-21T22:06:51.910Z",
+        "mainGameItem": {
+          "id": "825cd0b5286c404289d456d47561cc1a",
+          "namespace": "6827387b744d4a46bd70ea8a145e595b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "825cd0b5286c404289d456d47561cc1a",
+            "namespace": "6827387b744d4a46bd70ea8a145e595b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6827387b744d4a46bd70ea8a145e595b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Eridu Welcome Gift_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-10-21T10:23:47.932Z",
+        "description": "Plan Upgrade_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "65024f8bc60c47608e0bfcb2a1e291c4",
+        "entitlementType": "AUDIENCE",
+        "id": "65024f8bc60c47608e0bfcb2a1e291c4",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-01-21T22:06:51.910Z",
+        "mainGameItem": {
+          "id": "825cd0b5286c404289d456d47561cc1a",
+          "namespace": "6827387b744d4a46bd70ea8a145e595b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "825cd0b5286c404289d456d47561cc1a",
+            "namespace": "6827387b744d4a46bd70ea8a145e595b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6827387b744d4a46bd70ea8a145e595b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Plan Upgrade_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-11-18T09:42:23.957Z",
+        "description": "Hollow Navigator Supply_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "ba49ab3b7ebf475ab51b3a66a44cdd0e",
+        "entitlementType": "AUDIENCE",
+        "id": "ba49ab3b7ebf475ab51b3a66a44cdd0e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-01-21T22:06:51.910Z",
+        "mainGameItem": {
+          "id": "825cd0b5286c404289d456d47561cc1a",
+          "namespace": "6827387b744d4a46bd70ea8a145e595b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "825cd0b5286c404289d456d47561cc1a",
+            "namespace": "6827387b744d4a46bd70ea8a145e595b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6827387b744d4a46bd70ea8a145e595b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Hollow Navigator Supply_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-10-21T10:19:54.140Z",
+        "description": "Monochrome \u00d71980_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "0931f25ad3f841019496e3574ee67286",
+        "entitlementType": "AUDIENCE",
+        "id": "0931f25ad3f841019496e3574ee67286",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-01-21T22:06:51.910Z",
+        "mainGameItem": {
+          "id": "825cd0b5286c404289d456d47561cc1a",
+          "namespace": "6827387b744d4a46bd70ea8a145e595b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "825cd0b5286c404289d456d47561cc1a",
+            "namespace": "6827387b744d4a46bd70ea8a145e595b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6827387b744d4a46bd70ea8a145e595b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Monochrome \u00d71980_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-03-18T07:09:02.097Z",
+        "description": "Master Tape_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "d5003d7e6a08433486b28acdfe194f5e",
+        "entitlementType": "AUDIENCE",
+        "id": "d5003d7e6a08433486b28acdfe194f5e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-24T02:26:46.077Z",
+        "mainGameItem": {
+          "id": "825cd0b5286c404289d456d47561cc1a",
+          "namespace": "6827387b744d4a46bd70ea8a145e595b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "825cd0b5286c404289d456d47561cc1a",
+            "namespace": "6827387b744d4a46bd70ea8a145e595b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6827387b744d4a46bd70ea8a145e595b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Master Tape_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-03-18T07:07:56.681Z",
+        "description": "Encrypted Master Tape_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "c922e0b28f9f42c080e61346d60c85a4",
+        "entitlementType": "AUDIENCE",
+        "id": "c922e0b28f9f42c080e61346d60c85a4",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-24T02:26:46.077Z",
+        "mainGameItem": {
+          "id": "825cd0b5286c404289d456d47561cc1a",
+          "namespace": "6827387b744d4a46bd70ea8a145e595b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "825cd0b5286c404289d456d47561cc1a",
+            "namespace": "6827387b744d4a46bd70ea8a145e595b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6827387b744d4a46bd70ea8a145e595b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Encrypted Master Tape_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-03-18T07:09:16.273Z",
+        "description": "Master Tape_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "985604978a8c4a5eaf7560fc579f5206",
+        "entitlementType": "AUDIENCE",
+        "id": "985604978a8c4a5eaf7560fc579f5206",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-24T02:26:46.077Z",
+        "mainGameItem": {
+          "id": "825cd0b5286c404289d456d47561cc1a",
+          "namespace": "6827387b744d4a46bd70ea8a145e595b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "825cd0b5286c404289d456d47561cc1a",
+            "namespace": "6827387b744d4a46bd70ea8a145e595b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6827387b744d4a46bd70ea8a145e595b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Master Tape_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-03-18T07:08:44.795Z",
+        "description": "Encrypted Master Tape_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "151e6a7372db41d1b15db95cd0f2b3a1",
+        "entitlementType": "AUDIENCE",
+        "id": "151e6a7372db41d1b15db95cd0f2b3a1",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-24T02:26:46.077Z",
+        "mainGameItem": {
+          "id": "825cd0b5286c404289d456d47561cc1a",
+          "namespace": "6827387b744d4a46bd70ea8a145e595b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "825cd0b5286c404289d456d47561cc1a",
+            "namespace": "6827387b744d4a46bd70ea8a145e595b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6827387b744d4a46bd70ea8a145e595b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Encrypted Master Tape_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-03-04T02:20:09.370Z",
+        "description": "Limited LoginFund_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "50b76d85332b42a0afc7a5b4bd312bc5",
+        "entitlementType": "AUDIENCE",
+        "id": "50b76d85332b42a0afc7a5b4bd312bc5",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-24T02:26:46.077Z",
+        "mainGameItem": {
+          "id": "825cd0b5286c404289d456d47561cc1a",
+          "namespace": "6827387b744d4a46bd70ea8a145e595b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "825cd0b5286c404289d456d47561cc1a",
+            "namespace": "6827387b744d4a46bd70ea8a145e595b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "6827387b744d4a46bd70ea8a145e595b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Limited LoginFund_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "825cd0b5286c404289d456d47561cc1a",
+    "entitlementType": "EXECUTABLE",
+    "id": "825cd0b5286c404289d456d47561cc1a",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Zenless Zone Zero Offer",
+        "height": 1440,
+        "md5": "36147898dfb349a63fb62190485264cb",
+        "size": 1190132,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-09-25T10:27:40.326Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/dcd83ace86fb4501bde1316ca03e29ad/zenless-zone-zero-167yv.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Zenless Zone Zero Offer",
+        "height": 1600,
+        "md5": "8e4cf8282362e5c2b5e54b47e58e63ee",
+        "size": 674721,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-09-25T10:27:47.696Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/dcd83ace86fb4501bde1316ca03e29ad/zenless-zone-zero-1w3tr.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-10-14T22:06:07.303Z",
+    "mainGameItemList": [],
+    "namespace": "6827387b744d4a46bd70ea8a145e595b",
+    "releaseInfo": [
+      {
+        "appId": "525aa0efd70f4399b9f64bcd2a5b38c7",
+        "id": "43687cc7c2734a879661afb567849975",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Zenless Zone Zero",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "879d1c1076804a03bea94a7868870a30"
+    },
+    "rev": 1
+  }
+}

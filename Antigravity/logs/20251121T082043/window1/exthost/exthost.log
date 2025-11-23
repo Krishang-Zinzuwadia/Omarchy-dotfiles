@@ -1,0 +1,35 @@
+2025-11-21 08:20:45.831 [info] Extension host with pid 188236 started
+2025-11-21 08:20:45.831 [info] Skipping acquiring lock for /home/krishang/.config/Antigravity/User/workspaceStorage/d8f75eab484e20895d9b4f711be71cab.
+2025-11-21 08:20:46.144 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: google.antigravity
+2025-11-21 08:20:46.199 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: google.antigravity
+2025-11-21 08:20:46.268 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-11-21 08:20:46.385 [info] ExtensionService#_doActivateExtension google.antigravity, startup: true, activationEvent: '*'
+2025-11-21 08:20:46.797 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-11-21 08:20:46.951 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-11-21 08:20:47.162 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-11-21 08:20:54.185 [info] Eager extensions activated
+2025-11-21 08:20:54.194 [info] ExtensionService#_doActivateExtension google.antigravity-browser-launcher, startup: false, activationEvent: 'onStartupFinished'
+2025-11-21 08:20:54.198 [info] ExtensionService#_doActivateExtension Google LLC.antigravity-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-11-21 08:20:54.206 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-11-21 08:20:54.208 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-11-21 08:20:54.267 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2025-11-21 08:20:54.513 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2025-11-21 08:20:55.129 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-11-21 08:21:00.580 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-11-21 08:21:00.594 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-11-21 08:21:01.091 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-11-21 08:21:34.272 [info] Extension host terminating: renderer closed the MessagePort
+2025-11-21 08:21:34.291 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.X [as deactivate] (/home/krishang/.antigravity/extensions/ms-python.vscode-python-envs-1.10.0-universal/dist/extension.js:2:668378)
+	at Rue.eb (file:///home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:13070)
+	at file:///home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11219
+	at Array.map (<anonymous>)
+	at Rue.$ (file:///home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11207)
+	at Rue.terminate (file:///home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11450)
+	at xB.terminate (file:///home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:915)
+	at Fr (file:///home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:13864)
+	at MessagePortMain.<anonymous> (file:///home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:10133)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-11-21 08:21:34.296 [info] Extension host with pid 188236 exiting with code 0

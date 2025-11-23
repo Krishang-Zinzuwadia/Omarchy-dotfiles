@@ -1,0 +1,130 @@
+{
+  "app_name": "Marigold",
+  "app_title": "INSIDE",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Marigold",
+      "asset_id": "Marigold",
+      "build_version": "1.0.1",
+      "catalog_item_id": "6fdb5feba66846cd8623a6d15ca68080",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "MINOR"
+      },
+      "namespace": "13bb5776b9e1424d84ce42d9ba61c0ca",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-03-23T17:14:14.257Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "Game2.sav"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../Roaming/Playdead/Inside/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/com.playdeadgames.inside.osx/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Inside"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "1000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "13bb5776b9e1424d84ce42d9ba61c0ca"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Hunted and alone, a boy finds himself drawn into the center of a dark project.",
+    "developer": "Playdead",
+    "developerId": "o-t88sw9ly7ajm3wz7tll53xt3cmypx8",
+    "endOfSupport": false,
+    "entitlementName": "6fdb5feba66846cd8623a6d15ca68080",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "6fdb5feba66846cd8623a6d15ca68080",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "INSIDE Offer",
+        "height": 1440,
+        "md5": "12f92ce330651d5e46c77bc97dca397e",
+        "size": 3044668,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-09-22T11:52:40.916Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/777fed0fb6b64ddaafa2d331a7f122db/inside-1j6mq.png",
+        "width": 2560
+      },
+      {
+        "height": 440,
+        "md5": "41d8a56cb8602bac574e0c1254c9a9f9",
+        "size": 68276,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-09-25T11:01:45.877Z",
+        "url": "https://cdn1.epicgames.com/13bb5776b9e1424d84ce42d9ba61c0ca/item/INSIDE_340X440-340x440-41d8a56cb8602bac574e0c1254c9a9f9.jpg",
+        "width": 340
+      }
+    ],
+    "lastModifiedDate": "2025-10-09T08:05:40.581Z",
+    "mainGameItemList": [],
+    "namespace": "13bb5776b9e1424d84ce42d9ba61c0ca",
+    "releaseInfo": [
+      {
+        "appId": "Marigold",
+        "id": "ffa9c16b0615445db2970134dee875b9",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "INSIDE",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

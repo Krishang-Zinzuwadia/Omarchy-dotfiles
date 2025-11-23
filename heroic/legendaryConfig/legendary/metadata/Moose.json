@@ -1,0 +1,111 @@
+{
+  "app_name": "Moose",
+  "app_title": "Super Meat Boy Forever",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Moose",
+      "asset_id": "Moose",
+      "build_version": "6755.1848.1962.152",
+      "catalog_item_id": "e42eca8e2aeb48da9ccc5d5ecc212b62",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "moose",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567TAe1TGSM9HTRN4UCWDe1Mjej",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-03-23T18:44:31.979Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/My Games/Super Meat Boy Forever"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "SuperMeatBoyForever"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "moose"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Super Meat Boy Forever",
+    "developer": "Team Meat",
+    "developerId": "o-mj7q3aaq5djq6wuddnrr5mgqjsk2da",
+    "endOfSupport": false,
+    "entitlementName": "e42eca8e2aeb48da9ccc5d5ecc212b62",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "e42eca8e2aeb48da9ccc5d5ecc212b62",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1080,
+        "md5": "9929c76d5f016bb9046fe90b9e897cb4",
+        "size": 229545,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-12-10T19:41:09.751Z",
+        "url": "https://cdn1.epicgames.com/moose/item/EGS_SuperMeatBoyForever_TeamMeat_S5-1920x1080-9929c76d5f016bb9046fe90b9e897cb4.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1600,
+        "md5": "587fb2964079e7467c7320a2de3adac8",
+        "size": 706770,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-12-10T19:41:14.193Z",
+        "url": "https://cdn1.epicgames.com/moose/item/EGS_SuperMeatBoyForever_TeamMeat_S6-1200x1600-587fb2964079e7467c7320a2de3adac8.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-11-05T19:17:54.865Z",
+    "mainGameItemList": [],
+    "namespace": "moose",
+    "releaseInfo": [
+      {
+        "appId": "Moose",
+        "id": "40bf1f31532342b2941b1ed8f3025497",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Super Meat Boy Forever",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

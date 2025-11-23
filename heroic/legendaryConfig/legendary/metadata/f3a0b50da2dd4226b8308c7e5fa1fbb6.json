@@ -1,0 +1,211 @@
+{
+  "app_name": "f3a0b50da2dd4226b8308c7e5fa1fbb6",
+  "app_title": "Songs of Silence",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "f3a0b50da2dd4226b8308c7e5fa1fbb6",
+      "asset_id": "f3a0b50da2dd4226b8308c7e5fa1fbb6",
+      "build_version": "1.5.1-d.9034",
+      "catalog_item_id": "6e159ce574a74cdcb537626b2b1b6807",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "1ac34555dab249d2af4710def5021bb8",
+        "update_type": "PATCH"
+      },
+      "namespace": "900054606a74444badf56b2f2abd7c69",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567QxMPj3XZJWEAY6o1WjRekN2T",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-06-11T09:14:18.967Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Chimera Entertainment GmbH/SongsOfSilence/EPIC_{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "SongsOfSilence"
+      }
+    },
+    "description": "Lead armies, rebuild fallen kingdoms, and rise to greatness in Songs of Silence. Embark on an epic journey through an Art Nouveau-inspired fantasy world with intense battles and captivating storytelling!",
+    "developer": "Chimera Entertainment GmbH",
+    "developerId": "o-g2fagu6m27sra425xsh388cj3lmv35",
+    "dlcItemList": [
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-08-05T08:56:19.037Z",
+        "customAttributes": {},
+        "description": "Wield the arcane powers of the Lighteaters against your opponents in Skirmish, with Songs of Silence's first faction DLC!",
+        "developer": "Chimera Entertainment GmbH",
+        "developerId": "o-g2fagu6m27sra425xsh388cj3lmv35",
+        "endOfSupport": false,
+        "entitlementName": "28649d58a8a84493bd43b0499a6319b7",
+        "entitlementType": "EXECUTABLE",
+        "id": "28649d58a8a84493bd43b0499a6319b7",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Songs of Silence Lighteaters Offer",
+            "height": 1440,
+            "md5": "17ba0830c218ccec3c6a3b3a21e0f9e8",
+            "size": 2852564,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-09-22T12:28:48.445Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/717e784a701e49bba02e27f7774e966a/songs-of-silence-12a14.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Songs of Silence Lighteaters Offer",
+            "height": 1600,
+            "md5": "6fe53df447128c586f194b9261deb62c",
+            "size": 3267139,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-09-22T15:30:12.842Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/717e784a701e49bba02e27f7774e966a/songs-of-silence-14sw6.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-11-07T22:22:51.604Z",
+        "mainGameItem": {
+          "id": "6e159ce574a74cdcb537626b2b1b6807",
+          "namespace": "900054606a74444badf56b2f2abd7c69",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6e159ce574a74cdcb537626b2b1b6807",
+            "namespace": "900054606a74444badf56b2f2abd7c69",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "900054606a74444badf56b2f2abd7c69",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Songs of Silence - Lighteaters",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-11-12T10:07:27.971Z",
+        "description": "Songs of Silence - Celestial Church Expansion",
+        "developer": "Chimera Entertainment GmbH",
+        "developerId": "o-g2fagu6m27sra425xsh388cj3lmv35",
+        "endOfSupport": false,
+        "entitlementName": "c43a01af6f2a4b52959f3cf877520ff5",
+        "entitlementType": "EXECUTABLE",
+        "id": "c43a01af6f2a4b52959f3cf877520ff5",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Songs of Silence Songs of Silence - Celestial Church Expansion Offer",
+            "height": 1440,
+            "md5": "832810932e10a821fd11a2d7257b2444",
+            "size": 2545922,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-11-20T13:23:03.038Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/717e784a701e49bba02e27f7774e966a/songs-of-silence-1faux.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Songs of Silence Songs of Silence - Celestial Church Expansion Offer",
+            "height": 1600,
+            "md5": "9ced04675ad5af7b3d49a03fecb94725",
+            "size": 3269738,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-11-13T21:37:31.104Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/717e784a701e49bba02e27f7774e966a/songs-of-silence-cu950.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-11-22T10:30:48.054Z",
+        "mainGameItem": {
+          "id": "6e159ce574a74cdcb537626b2b1b6807",
+          "namespace": "900054606a74444badf56b2f2abd7c69",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "6e159ce574a74cdcb537626b2b1b6807",
+            "namespace": "900054606a74444badf56b2f2abd7c69",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "900054606a74444badf56b2f2abd7c69",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Songs of Silence - Celestial Church Expansion",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "6e159ce574a74cdcb537626b2b1b6807",
+    "entitlementType": "EXECUTABLE",
+    "id": "6e159ce574a74cdcb537626b2b1b6807",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Songs of Silence Offer",
+        "height": 1440,
+        "md5": "4a1b785cc38dceecddaa1d925ed6e1a6",
+        "size": 3430209,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-08-11T15:27:45.033Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/717e784a701e49bba02e27f7774e966a/songs-of-silence-acb7y.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Songs of Silence Offer",
+        "height": 1600,
+        "md5": "79b9ba2a342e1ef55b9fb8f27b683d72",
+        "size": 3529838,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-08-11T09:25:04.842Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/717e784a701e49bba02e27f7774e966a/songs-of-silence-1dn7t.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-11-21T08:19:54.397Z",
+    "mainGameItemList": [],
+    "namespace": "900054606a74444badf56b2f2abd7c69",
+    "releaseInfo": [
+      {
+        "appId": "f3a0b50da2dd4226b8308c7e5fa1fbb6",
+        "id": "12a5607037394bad99c004be520288bc",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Songs of Silence",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "61e9f3030c3a4cf18932569ddf6e0438"
+    },
+    "rev": 1
+  }
+}

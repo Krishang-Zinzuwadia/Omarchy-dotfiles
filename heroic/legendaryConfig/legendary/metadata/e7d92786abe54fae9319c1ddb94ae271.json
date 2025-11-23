@@ -1,0 +1,112 @@
+{
+  "app_name": "e7d92786abe54fae9319c1ddb94ae271",
+  "app_title": "Cris Tales",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "e7d92786abe54fae9319c1ddb94ae271",
+      "asset_id": "e7d92786abe54fae9319c1ddb94ae271",
+      "build_version": "1.0.7",
+      "catalog_item_id": "c023b5c1c8f044dcabcc4e92fd4899b5",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ef361cdf19514595a8cb0945fb66962e",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567S9T92bNCRItuE8EbZIksKoOa",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-11-18T04:44:44.287Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "CrisTales"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "ef361cdf19514595a8cb0945fb66962e"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Cris Tales",
+    "developer": "Maximum Entertainment",
+    "developerId": "o-a6k23slslegbhbwtel4qx423kuzc3y",
+    "endOfSupport": false,
+    "entitlementName": "c023b5c1c8f044dcabcc4e92fd4899b5",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "c023b5c1c8f044dcabcc4e92fd4899b5",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "8c27d8ecb673f1438c6a4b0da48ff880",
+        "size": 1024603,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-01-28T18:06:31.371Z",
+        "url": "https://cdn1.epicgames.com/ef361cdf19514595a8cb0945fb66962e/item/EGS_AgorgeousindielovelettertoclassicJRPGs_DreamsUncorporatedSYCK_S1-2560x1440-8c27d8ecb673f1438c6a4b0da48ff880.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "1cb9e1f4514ece8e580803edccc2e99e",
+        "size": 858787,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-01-28T18:06:39.482Z",
+        "url": "https://cdn1.epicgames.com/ef361cdf19514595a8cb0945fb66962e/item/EGS_AgorgeousindielovelettertoclassicJRPGs_DreamsUncorporatedSYCK_S2-1200x1600-1cb9e1f4514ece8e580803edccc2e99e.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-01-17T20:23:21.708Z",
+    "mainGameItemList": [],
+    "namespace": "ef361cdf19514595a8cb0945fb66962e",
+    "releaseInfo": [
+      {
+        "appId": "e7d92786abe54fae9319c1ddb94ae271",
+        "dateAdded": "2020-11-18T00:00:00.000Z",
+        "id": "727d0ed41f824ec4b9563cbd844d69e3",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Cris Tales",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

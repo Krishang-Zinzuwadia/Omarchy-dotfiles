@@ -1,0 +1,92 @@
+{
+  "app_name": "89443d0c5afa4ef586c72445c0399a8b",
+  "app_title": "Wizard of Legend",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "89443d0c5afa4ef586c72445c0399a8b",
+      "asset_id": "89443d0c5afa4ef586c72445c0399a8b",
+      "build_version": "1.23.4a",
+      "catalog_item_id": "24cb36289be34527b528cda87cdc925c",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "3ddf885f15c845e08a9f585a175958cf"
+      },
+      "namespace": "194cda74f9024d67860202683a3dab18",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-12-18T20:10:01.537Z",
+    "customAttributes": {
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "GameData.gd,\nGameDataChaos.gd,\nGameSettings.gd"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Contingent99/Wizard of Legend/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "WizardofLegend"
+      }
+    },
+    "description": "Wizard of Legend is a no-nonsense, action-packed take on wizardry that emphasizes precise movements and smart comboing of spells in a rogue-like dungeon crawler that features over a hundred unique spells and relics!",
+    "developer": "Humble Bundle",
+    "developerId": "o-pldxyabsslnt6jth2z634mmr2pw8lu",
+    "endOfSupport": false,
+    "entitlementName": "24cb36289be34527b528cda87cdc925c",
+    "entitlementType": "EXECUTABLE",
+    "id": "24cb36289be34527b528cda87cdc925c",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Wizard of Legend Offer",
+        "height": 1440,
+        "md5": "cd096b43fcb321b119a954660dab9dac",
+        "size": 3838779,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-10-28T20:25:24.777Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/b1d735eb93de4c6da325aa9a6db9a5a5/wizard-of-legend-13r1z.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Wizard of Legend Offer",
+        "height": 1600,
+        "md5": "94dc8e9f4d8141e5291c145861412597",
+        "size": 2796845,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-10-28T20:25:26.075Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/b1d735eb93de4c6da325aa9a6db9a5a5/wizard-of-legend-tkwu2.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-12-18T20:10:01.537Z",
+    "mainGameItemList": [],
+    "namespace": "194cda74f9024d67860202683a3dab18",
+    "releaseInfo": [
+      {
+        "appId": "89443d0c5afa4ef586c72445c0399a8b",
+        "id": "5185601538b9405aa4be626d35ceab8e",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Wizard of Legend",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

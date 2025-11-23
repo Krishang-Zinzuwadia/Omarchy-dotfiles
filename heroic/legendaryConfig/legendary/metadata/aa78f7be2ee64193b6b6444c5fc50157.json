@@ -1,0 +1,123 @@
+{
+  "app_name": "aa78f7be2ee64193b6b6444c5fc50157",
+  "app_title": "Among the Sleep - Enhanced Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "aa78f7be2ee64193b6b6444c5fc50157",
+      "asset_id": "aa78f7be2ee64193b6b6444c5fc50157",
+      "build_version": "Windows.3.1.0.41_Win64_DLL_Fix",
+      "catalog_item_id": "cfc1c26718394677a448a329d9476b41",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "53ef2f4592684c4c97d6d32e40467274",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567EkOOTjT8USiMBTmiOYEEVrp0",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-02-18T21:09:14.458Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Krillbite Studio/Among The Sleep/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/com.amongthesleep/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "AmongTheSleep"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "53ef2f4592684c4c97d6d32e40467274"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Among the Sleep - Enhanced Edition",
+    "developer": "Krillbite Studios AS",
+    "developerId": "o-j9a2hvwhlxthsd9tqnb75ksq2r3pw7",
+    "endOfSupport": false,
+    "entitlementName": "cfc1c26718394677a448a329d9476b41",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "cfc1c26718394677a448a329d9476b41",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "4a28ad52964cf887474fb3938a59e203",
+        "size": 925556,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-10-05T14:18:59.527Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AmongtheSleepEnhancedEdition_KrillbiteStudioAS_S1_2560x1440-4a28ad52964cf887474fb3938a59e203",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "ba43835916e83b6cecc56b71af8e3eb1",
+        "size": 943833,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-10-05T14:18:56.335Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AmongtheSleepEnhancedEdition_KrillbiteStudioAS_S2_1200x1600-ba43835916e83b6cecc56b71af8e3eb1",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-10-14T14:06:13.075Z",
+    "mainGameItemList": [],
+    "namespace": "53ef2f4592684c4c97d6d32e40467274",
+    "releaseInfo": [
+      {
+        "appId": "aa78f7be2ee64193b6b6444c5fc50157",
+        "compatibleApps": [],
+        "dateAdded": "2021-02-18T21:51:57.995Z",
+        "id": "ea927b705e08415a9313e663c40d6058",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Win32"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Among the Sleep - Enhanced Edition",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

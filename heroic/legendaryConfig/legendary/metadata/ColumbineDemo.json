@@ -1,0 +1,124 @@
+{
+  "app_name": "ColumbineDemo",
+  "app_title": "Detroit Become Human (Demo)",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ColumbineDemo",
+      "asset_id": "ColumbineDemo",
+      "build_version": "International_DEMO_RETAIL_2021_10_27_2239",
+      "catalog_item_id": "b85ea1fa27f64c8a889ec71f3cc54e4c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "columbine",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-03-18T18:48:29.463Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DetroitBecomeHumanDemo"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "columbine"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Detroit Become Human (Demo)",
+    "developer": "Quantic Dream",
+    "developerId": "o-m8v47d762atphw94knus7ezawefpcu",
+    "endOfSupport": false,
+    "entitlementName": "b85ea1fa27f64c8a889ec71f3cc54e4c",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "b85ea1fa27f64c8a889ec71f3cc54e4c",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 623,
+        "md5": "8dca9dfb6641fc2909bcbad7cdc46286",
+        "size": 292075,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-03-19T23:07:22.372Z",
+        "url": "https://cdn1.epicgames.com/columbine/item/DETROIT_LOGO-1920x623-8dca9dfb6641fc2909bcbad7cdc46286.png",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "md5": "4e8996468c53706dc02c21d5e51d5b45",
+        "size": 230840,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-03-20T13:03:08.534Z",
+        "url": "https://cdn1.epicgames.com/columbine/item/001_DETROIT_GAMEPAGE_PROMOIMAGE-1920x1080-4e8996468c53706dc02c21d5e51d5b45.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1420,
+        "md5": "7cec122a58dacf56e47ad7478468d9e3",
+        "size": 162726,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-12-11T23:30:43.312Z",
+        "url": "https://cdn1.epicgames.com/columbine/item/002_DETROIT_STOREPORTRAIT-1280x1420-1280x1420-7cec122a58dacf56e47ad7478468d9e3.jpg",
+        "width": 1280
+      }
+    ],
+    "lastModifiedDate": "2025-06-20T16:44:38.414Z",
+    "mainGameItemList": [],
+    "namespace": "columbine",
+    "releaseInfo": [
+      {
+        "appId": "ColumbineDemo",
+        "compatibleApps": [],
+        "dateAdded": "2019-03-18T00:00:00.000Z",
+        "id": "5e716b14a0974b66a937185d8115b25a",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Detroit Become Human (Demo)",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

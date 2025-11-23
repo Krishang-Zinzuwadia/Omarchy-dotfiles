@@ -1,0 +1,110 @@
+{
+  "app_name": "90f9ff166b404502a939ae217ff5109e",
+  "app_title": "Knockout City",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "90f9ff166b404502a939ae217ff5109e",
+      "asset_id": "90f9ff166b404502a939ae217ff5109e",
+      "build_version": "catch_9.0-final-30-259209",
+      "catalog_item_id": "3d65e5a60aaa41f8934dac2e71811863",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "5bb3d43818ae4188850fe1dbad9d57a5",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567OCU1LrTT61xeP9u4zkJGDhGB",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-12-13T19:59:26.133Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "KnockoutCity"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "5bb3d43818ae4188850fe1dbad9d57a5"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Knockout City",
+    "developer": "Velan Studios",
+    "developerId": "o-tccfu5y3rlppva3suhbwr2f9ykr3qe",
+    "endOfSupport": false,
+    "entitlementName": "3d65e5a60aaa41f8934dac2e71811863",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "3d65e5a60aaa41f8934dac2e71811863",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 720,
+        "md5": "d76e479f6319bb968c5af7fa568893de",
+        "size": 514772,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-01-06T21:51:58.615Z",
+        "url": "https://cdn1.epicgames.com/item/5bb3d43818ae4188850fe1dbad9d57a5/S8_Epic_Native-YT-Thumbnail_1280x720-d76e479f6319bb968c5af7fa568893de_1280x720-d76e479f6319bb968c5af7fa568893de",
+        "width": 1280
+      },
+      {
+        "height": 1600,
+        "md5": "21e1d8e02595f364dc6d9b0b060f2106",
+        "size": 539217,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-01-06T21:52:05.611Z",
+        "url": "https://cdn1.epicgames.com/item/5bb3d43818ae4188850fe1dbad9d57a5/S8_Epic_Featured-Carousel-Image-Vert_1200x1600-21e1d8e02595f364dc6d9b0b060f2106_1200x1600-21e1d8e02595f364dc6d9b0b060f2106",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-01-13T23:21:52.461Z",
+    "mainGameItemList": [],
+    "namespace": "5bb3d43818ae4188850fe1dbad9d57a5",
+    "releaseInfo": [
+      {
+        "appId": "90f9ff166b404502a939ae217ff5109e",
+        "compatibleApps": [],
+        "dateAdded": "2021-03-23T01:47:00.000Z",
+        "id": "91180a293b49415f92812da32a15eed1",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Knockout City",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

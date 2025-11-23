@@ -1,0 +1,438 @@
+{
+  "app_name": "0074f9a4082041f1869d9d6f26b99521",
+  "app_title": "Zero Hour",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "0074f9a4082041f1869d9d6f26b99521",
+      "asset_id": "0074f9a4082041f1869d9d6f26b99521",
+      "build_version": "1.1.4",
+      "catalog_item_id": "76bb027fef044b2ea5e82d30b7335fed",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "81a4f0a34214471daea18b0b219929dc"
+      },
+      "namespace": "35d137e3d82640ed9811d302e8067ecd",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi45675SXItmOfKgt7bx6Jhb0tJG8i",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-08-17T07:26:35.049Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/M7 production _ Attrito/Zero Hour/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{AppData}/M7 production _ Attrito/Zero Hour/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "ZeroHourAvjCY"
+      }
+    },
+    "description": "Zero Hour",
+    "developer": "AttritoM7 Productions",
+    "developerId": "o-clfyulnsmfgzecxdqreusnzqey8dpl",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-11-07T23:00:21.269Z",
+        "description": "Savanna Aesthetics Pack",
+        "developer": "AttritoM7 Productions",
+        "developerId": "o-clfyulnsmfgzecxdqreusnzqey8dpl",
+        "endOfSupport": false,
+        "entitlementName": "2258bb4c31fc4644899b0dd4f91bca43",
+        "entitlementType": "EXECUTABLE",
+        "id": "2258bb4c31fc4644899b0dd4f91bca43",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Zero Hour Savanna Aesthetics Pack Offer",
+            "height": 1440,
+            "md5": "c915f29ca9218eb200828430ee27a6c9",
+            "size": 423298,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-10-21T18:59:37.417Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/24397552e51f404d8f89e93ed383d35a/zero-hour-y2637.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Zero Hour Savanna Aesthetics Pack Offer",
+            "height": 1600,
+            "md5": "7d6d1dc4c1af80615c44c04f010dbc77",
+            "size": 1318765,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-10-21T18:59:37.813Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/24397552e51f404d8f89e93ed383d35a/zero-hour-jvjtj.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-11-07T23:00:21.269Z",
+        "mainGameItem": {
+          "id": "76bb027fef044b2ea5e82d30b7335fed",
+          "namespace": "35d137e3d82640ed9811d302e8067ecd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "76bb027fef044b2ea5e82d30b7335fed",
+            "namespace": "35d137e3d82640ed9811d302e8067ecd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "35d137e3d82640ed9811d302e8067ecd",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Savanna Aesthetics Pack",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-09-24T14:03:30.243Z",
+        "customAttributes": {},
+        "description": "Redline Aesthetics Pack",
+        "developer": "AttritoM7 Productions",
+        "developerId": "o-clfyulnsmfgzecxdqreusnzqey8dpl",
+        "endOfSupport": false,
+        "entitlementName": "6a1a8097fe0c41449a3d3f8e2b7a1e08",
+        "entitlementType": "EXECUTABLE",
+        "id": "6a1a8097fe0c41449a3d3f8e2b7a1e08",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Zero Hour Redline Aesthetics Pack Offer",
+            "height": 1440,
+            "md5": "a4c4075186c995fa8b22d0c62cea5ce1",
+            "size": 484760,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-10-21T18:58:29.071Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/24397552e51f404d8f89e93ed383d35a/zero-hour-1ai49.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Zero Hour Redline Aesthetics Pack Offer",
+            "height": 1600,
+            "md5": "8d45dee79147e007a4806622051e4444",
+            "size": 1598533,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-10-21T18:57:16.744Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/24397552e51f404d8f89e93ed383d35a/zero-hour-1mou5.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-11-12T15:25:41.490Z",
+        "mainGameItem": {
+          "id": "76bb027fef044b2ea5e82d30b7335fed",
+          "namespace": "35d137e3d82640ed9811d302e8067ecd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "76bb027fef044b2ea5e82d30b7335fed",
+            "namespace": "35d137e3d82640ed9811d302e8067ecd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "35d137e3d82640ed9811d302e8067ecd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Redline Aesthetics Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-11-07T23:00:21.293Z",
+        "description": "Platinum Aesthetics Pack",
+        "developer": "AttritoM7 Productions",
+        "developerId": "o-clfyulnsmfgzecxdqreusnzqey8dpl",
+        "endOfSupport": false,
+        "entitlementName": "d4607d73945f44bc8f94e6a5ebee92b8",
+        "entitlementType": "EXECUTABLE",
+        "id": "d4607d73945f44bc8f94e6a5ebee92b8",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Zero Hour Platinum Aesthetics Pack Offer",
+            "height": 1440,
+            "md5": "9f5127305d9cde5c25c8074962345530",
+            "size": 463439,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-10-21T18:52:04.462Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/24397552e51f404d8f89e93ed383d35a/zero-hour-qrqxc.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Zero Hour Platinum Aesthetics Pack Offer",
+            "height": 1600,
+            "md5": "71257cad308a23a0da1af237a56c61d8",
+            "size": 1584220,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-10-21T18:52:04.548Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/24397552e51f404d8f89e93ed383d35a/zero-hour-9mxm6.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-11-07T23:00:21.293Z",
+        "mainGameItem": {
+          "id": "76bb027fef044b2ea5e82d30b7335fed",
+          "namespace": "35d137e3d82640ed9811d302e8067ecd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "76bb027fef044b2ea5e82d30b7335fed",
+            "namespace": "35d137e3d82640ed9811d302e8067ecd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "35d137e3d82640ed9811d302e8067ecd",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Platinum Aesthetics Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-11-07T23:00:21.287Z",
+        "description": "Titanium Aesthetics Pack",
+        "developer": "AttritoM7 Productions",
+        "developerId": "o-clfyulnsmfgzecxdqreusnzqey8dpl",
+        "endOfSupport": false,
+        "entitlementName": "b3f4a8adebaa40dd800c35b0ef895bcb",
+        "entitlementType": "EXECUTABLE",
+        "id": "b3f4a8adebaa40dd800c35b0ef895bcb",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Zero Hour Titanium Aesthetics Pack Offer",
+            "height": 1440,
+            "md5": "c159083ad47caf9cb14d3fc410c6d7fd",
+            "size": 529753,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-10-21T19:18:04.680Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/24397552e51f404d8f89e93ed383d35a/zero-hour-1x9z5.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Zero Hour Titanium Aesthetics Pack Offer",
+            "height": 1600,
+            "md5": "f4e1e592e2d85e5b4adeeb9ece21573d",
+            "size": 1339193,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-10-21T19:18:04.633Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/24397552e51f404d8f89e93ed383d35a/zero-hour-h40j4.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-11-07T23:00:21.287Z",
+        "mainGameItem": {
+          "id": "76bb027fef044b2ea5e82d30b7335fed",
+          "namespace": "35d137e3d82640ed9811d302e8067ecd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "76bb027fef044b2ea5e82d30b7335fed",
+            "namespace": "35d137e3d82640ed9811d302e8067ecd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "35d137e3d82640ed9811d302e8067ecd",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Titanium Aesthetics Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-11-07T23:00:21.291Z",
+        "description": "Serpentine Aesthetics Pack",
+        "developer": "AttritoM7 Productions",
+        "developerId": "o-clfyulnsmfgzecxdqreusnzqey8dpl",
+        "endOfSupport": false,
+        "entitlementName": "bcdf738566fa4f8aacee1ea081d8a0ba",
+        "entitlementType": "EXECUTABLE",
+        "id": "bcdf738566fa4f8aacee1ea081d8a0ba",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Zero Hour Serpentine Aesthetics Pack Offer",
+            "height": 1440,
+            "md5": "0b6a2b76fd88cc6cc0253b7912de2842",
+            "size": 549596,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-10-21T19:16:22.585Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/24397552e51f404d8f89e93ed383d35a/zero-hour-nncxm.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Zero Hour Serpentine Aesthetics Pack Offer",
+            "height": 1600,
+            "md5": "03b9864073233d2ea2c6b93c941deab3",
+            "size": 1858473,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-10-21T19:16:23.126Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/24397552e51f404d8f89e93ed383d35a/zero-hour-i3cbf.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-11-07T23:00:21.291Z",
+        "mainGameItem": {
+          "id": "76bb027fef044b2ea5e82d30b7335fed",
+          "namespace": "35d137e3d82640ed9811d302e8067ecd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "76bb027fef044b2ea5e82d30b7335fed",
+            "namespace": "35d137e3d82640ed9811d302e8067ecd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "35d137e3d82640ed9811d302e8067ecd",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Serpentine Aesthetics Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-11-07T23:00:21.279Z",
+        "description": "Gold Aesthetics Pack",
+        "developer": "AttritoM7 Productions",
+        "developerId": "o-clfyulnsmfgzecxdqreusnzqey8dpl",
+        "endOfSupport": false,
+        "entitlementName": "6d676625bc0246fd9874aef3db3d1ec3",
+        "entitlementType": "EXECUTABLE",
+        "id": "6d676625bc0246fd9874aef3db3d1ec3",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Zero Hour Gold Aesthetics Pack Offer",
+            "height": 1440,
+            "md5": "493b67e4e840ae65b6102a5bac7530a3",
+            "size": 469698,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-10-21T18:47:42.975Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/24397552e51f404d8f89e93ed383d35a/zero-hour-jmzff.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Zero Hour Gold Aesthetics Pack Offer",
+            "height": 1600,
+            "md5": "9c77ef8eeeb1a0d4ea102c1b5ed7d5e3",
+            "size": 1424682,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-10-21T18:47:43.243Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/24397552e51f404d8f89e93ed383d35a/zero-hour-f6e5f.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-11-07T23:00:21.279Z",
+        "mainGameItem": {
+          "id": "76bb027fef044b2ea5e82d30b7335fed",
+          "namespace": "35d137e3d82640ed9811d302e8067ecd",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "76bb027fef044b2ea5e82d30b7335fed",
+            "namespace": "35d137e3d82640ed9811d302e8067ecd",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "35d137e3d82640ed9811d302e8067ecd",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Gold Aesthetics Pack",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "76bb027fef044b2ea5e82d30b7335fed",
+    "entitlementType": "EXECUTABLE",
+    "id": "76bb027fef044b2ea5e82d30b7335fed",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Zero Hour Offer",
+        "height": 1440,
+        "md5": "48975a643c4e362b85433a2701b458b0",
+        "size": 1962883,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-10-21T18:43:19.020Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/24397552e51f404d8f89e93ed383d35a/zero-hour-1eeru.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Zero Hour Offer",
+        "height": 1600,
+        "md5": "fbf4caf9cc677f27edfed41f9395fda0",
+        "size": 1033339,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-11-07T21:05:22.610Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/24397552e51f404d8f89e93ed383d35a/zero-hour-yhg9j.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-11-12T15:25:41.490Z",
+    "mainGameItemList": [],
+    "namespace": "35d137e3d82640ed9811d302e8067ecd",
+    "releaseInfo": [
+      {
+        "appId": "0074f9a4082041f1869d9d6f26b99521",
+        "id": "61f59f03af4e4463bb060c2fec561642",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Zero Hour",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "a6960d0de2bc466e9ace13cda715ed17"
+    },
+    "rev": 1
+  }
+}

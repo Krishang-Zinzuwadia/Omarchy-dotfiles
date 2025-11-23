@@ -1,0 +1,326 @@
+{"level":40,"time":"2025-09-29T06:05:01.426Z","msg":"[setupI18nMain] intl.onWarn [@formatjs/intl] \"defaultRichTextElements\" was specified but \"message\" was not pre-compiled. \nPlease consider using \"@formatjs/cli\" to pre-compile your messages for performance.\nFor more details see https://formatjs.github.io/docs/getting-started/message-distribution"}
+{"level":30,"time":"2025-09-29T06:05:01.449Z","msg":"[preconnect] libsignal net url: https://chat.signal.org"}
+{"level":30,"time":"2025-09-29T06:05:01.449Z","msg":"[preconnect] libsignal net environment resolved to prod"}
+{"level":30,"time":"2025-09-29T06:05:01.456Z","msg":"[preconnect] WebAPI: preconnect start"}
+{"level":30,"time":"2025-09-29T06:05:01.703Z","msg":"[profiles] Profile Service initialized"}
+{"level":30,"time":"2025-09-29T06:05:01.897Z","msg":"[preload] complete"}
+{"level":30,"time":"2025-09-29T06:05:01.898Z","msg":"[@signalapp/libsignal-client] Initializing libsignal version:0.81.0 signal_node::logging rust/bridge/node/src/logging.rs:204"}
+{"level":30,"time":"2025-09-29T06:05:02.014Z","msg":"[notifications] NotificationService initialized"}
+{"level":30,"time":"2025-09-29T06:05:02.030Z","msg":"[incrementMessageCounter] initializeMessageCounter: defaulting to Date.now()"}
+{"level":30,"time":"2025-09-29T06:05:02.030Z","msg":"[ourProfileKey] Our profile key service: initializing"}
+{"level":30,"time":"2025-09-29T06:05:02.031Z","msg":"[background] page reloaded"}
+{"level":30,"time":"2025-09-29T06:05:02.031Z","msg":"[background] environment: production"}
+{"level":30,"time":"2025-09-29T06:05:02.070Z","msg":"[indexeddb] Checking for the existence of IndexedDB data..."}
+{"level":30,"time":"2025-09-29T06:05:02.090Z","msg":"[background] Storage fetch"}
+{"level":30,"time":"2025-09-29T06:05:02.094Z","msg":"[buildExpiration] Build expires (local): 2025-12-24T16:22:09.000Z"}
+{"level":40,"time":"2025-09-29T06:05:02.095Z","msg":"[SocketManager] authenticate was called without credentials"}
+{"level":30,"time":"2025-09-29T06:05:02.096Z","msg":"[background] Initializing MessageReceiver"}
+{"level":30,"time":"2025-09-29T06:05:02.097Z","msg":"[senderCertificate] Sender certificate service initialized"}
+{"level":30,"time":"2025-09-29T06:05:02.098Z","msg":"[buildExpiration] Build expires (local): 2025-12-24T16:22:09.000Z"}
+{"level":30,"time":"2025-09-29T06:05:02.098Z","msg":"[buildExpiration] expires in 7467426902ms"}
+{"level":30,"time":"2025-09-29T06:05:02.113Z","msg":"[background] Starting background data migration. Target version: 15"}
+{"level":30,"time":"2025-09-29T06:05:02.113Z","msg":"[retryPlaceholders] constructor: Started with 0 items, lifespan of 3600000"}
+{"level":30,"time":"2025-09-29T06:05:02.114Z","msg":"[ConversationController] starting initial fetch"}
+{"level":30,"time":"2025-09-29T06:05:02.114Z","msg":"[ConversationController] done with initial fetch, got 0 conversations"}
+{"level":30,"time":"2025-09-29T06:05:02.120Z","msg":"[SignalProtocolStore] Finished caching sessions data"}
+{"level":30,"time":"2025-09-29T06:05:02.120Z","msg":"[SignalProtocolStore] Finished caching kyberPreKeys data"}
+{"level":30,"time":"2025-09-29T06:05:02.120Z","msg":"[SignalProtocolStore] Finished caching identityKeys data"}
+{"level":30,"time":"2025-09-29T06:05:02.120Z","msg":"[SignalProtocolStore] Finished caching senderKeys data"}
+{"level":30,"time":"2025-09-29T06:05:02.120Z","msg":"[SignalProtocolStore] Finished caching preKeys data"}
+{"level":30,"time":"2025-09-29T06:05:02.120Z","msg":"[SignalProtocolStore] Finished caching signedPreKeys data"}
+{"level":30,"time":"2025-09-29T06:05:02.123Z","msg":"[ConversationController] checkForConflicts: starting..."}
+{"level":30,"time":"2025-09-29T06:05:02.123Z","msg":"[ConversationController] checkForConflicts: complete!"}
+{"level":30,"time":"2025-09-29T06:05:02.124Z","msg":"[donations] _getWorkflowFromStorage: No workflow found in window.storage"}
+{"level":30,"time":"2025-09-29T06:05:02.124Z","msg":"[Storage] getItemsState: now preparing copy of items..."}
+{"level":30,"time":"2025-09-29T06:05:02.131Z","msg":"[JobQueue] conversation job queue: starting to stream jobs"}
+{"level":30,"time":"2025-09-29T06:05:02.131Z","msg":"[JobQueueDatabaseStore] fetching existing jobs for queue \"conversation\""}
+{"level":30,"time":"2025-09-29T06:05:02.131Z","msg":"[JobQueue] groupAvatar job queue: starting to stream jobs"}
+{"level":30,"time":"2025-09-29T06:05:02.131Z","msg":"[JobQueueDatabaseStore] fetching existing jobs for queue \"groupAvatar\""}
+{"level":30,"time":"2025-09-29T06:05:02.131Z","msg":"[JobQueue] single proto job queue: starting to stream jobs"}
+{"level":30,"time":"2025-09-29T06:05:02.131Z","msg":"[JobQueueDatabaseStore] fetching existing jobs for queue \"single proto\""}
+{"level":30,"time":"2025-09-29T06:05:02.131Z","msg":"[JobQueue] read sync job queue: starting to stream jobs"}
+{"level":30,"time":"2025-09-29T06:05:02.131Z","msg":"[JobQueueDatabaseStore] fetching existing jobs for queue \"read sync\""}
+{"level":30,"time":"2025-09-29T06:05:02.132Z","msg":"[JobQueue] view sync job queue: starting to stream jobs"}
+{"level":30,"time":"2025-09-29T06:05:02.132Z","msg":"[JobQueueDatabaseStore] fetching existing jobs for queue \"view sync\""}
+{"level":30,"time":"2025-09-29T06:05:02.132Z","msg":"[JobQueue] view once open sync job queue: starting to stream jobs"}
+{"level":30,"time":"2025-09-29T06:05:02.132Z","msg":"[JobQueueDatabaseStore] fetching existing jobs for queue \"view once open sync\""}
+{"level":30,"time":"2025-09-29T06:05:02.132Z","msg":"[JobQueue] delete downloads job queue: starting to stream jobs"}
+{"level":30,"time":"2025-09-29T06:05:02.132Z","msg":"[JobQueueDatabaseStore] fetching existing jobs for queue \"delete downloads\""}
+{"level":30,"time":"2025-09-29T06:05:02.132Z","msg":"[JobQueue] remove storage key job queue: starting to stream jobs"}
+{"level":30,"time":"2025-09-29T06:05:02.132Z","msg":"[JobQueueDatabaseStore] fetching existing jobs for queue \"remove storage key\""}
+{"level":30,"time":"2025-09-29T06:05:02.132Z","msg":"[JobQueue] report spam job queue: starting to stream jobs"}
+{"level":30,"time":"2025-09-29T06:05:02.132Z","msg":"[JobQueueDatabaseStore] fetching existing jobs for queue \"report spam\""}
+{"level":30,"time":"2025-09-29T06:05:02.132Z","msg":"[JobQueue] call link refresh job queue: starting to stream jobs"}
+{"level":30,"time":"2025-09-29T06:05:02.132Z","msg":"[JobQueueDatabaseStore] fetching existing jobs for queue \"call link refresh\""}
+{"level":30,"time":"2025-09-29T06:05:02.133Z","msg":"[ExpiringEntityCleanupService] [ChatFolders] start(initializeAllJobQueues) starting"}
+{"level":30,"time":"2025-09-29T06:05:02.133Z","msg":"[ExpiringEntityCleanupService] [ChatFolders] deleting expired entities"}
+{"level":30,"time":"2025-09-29T06:05:02.133Z","msg":"[challenge] loading 0 challenges"}
+{"level":30,"time":"2025-09-29T06:05:02.133Z","msg":"[networkObserver] Initializing network observer"}
+{"level":30,"time":"2025-09-29T06:05:02.134Z","msg":"[badgeImageFileDownloader] BadgeDownloader#checkForFilesToDownload: downloading 0 badge(s)"}
+{"level":30,"time":"2025-09-29T06:05:02.134Z","msg":"[background] Blocked uuids cleanup: starting..."}
+{"level":30,"time":"2025-09-29T06:05:02.134Z","msg":"[background] Blocked uuids cleanup: complete"}
+{"level":30,"time":"2025-09-29T06:05:02.134Z","msg":"[background] Expiration start timestamp cleanup: starting..."}
+{"level":30,"time":"2025-09-29T06:05:02.134Z","msg":"[JobQueueDatabaseStore] finished fetching existing 0 jobs for queue \"conversation\""}
+{"level":30,"time":"2025-09-29T06:05:02.135Z","msg":"[JobQueueDatabaseStore] finished fetching existing 0 jobs for queue \"groupAvatar\""}
+{"level":30,"time":"2025-09-29T06:05:02.135Z","msg":"[JobQueueDatabaseStore] finished fetching existing 0 jobs for queue \"read sync\""}
+{"level":30,"time":"2025-09-29T06:05:02.135Z","msg":"[JobQueueDatabaseStore] finished fetching existing 0 jobs for queue \"single proto\""}
+{"level":30,"time":"2025-09-29T06:05:02.135Z","msg":"[JobQueueDatabaseStore] finished fetching existing 0 jobs for queue \"view sync\""}
+{"level":30,"time":"2025-09-29T06:05:02.135Z","msg":"[JobQueueDatabaseStore] finished fetching existing 0 jobs for queue \"view once open sync\""}
+{"level":30,"time":"2025-09-29T06:05:02.135Z","msg":"[JobQueueDatabaseStore] finished fetching existing 0 jobs for queue \"delete downloads\""}
+{"level":30,"time":"2025-09-29T06:05:02.135Z","msg":"[JobQueueDatabaseStore] finished fetching existing 0 jobs for queue \"remove storage key\""}
+{"level":30,"time":"2025-09-29T06:05:02.135Z","msg":"[JobQueueDatabaseStore] finished fetching existing 0 jobs for queue \"report spam\""}
+{"level":30,"time":"2025-09-29T06:05:02.135Z","msg":"[JobQueueDatabaseStore] finished fetching existing 0 jobs for queue \"call link refresh\""}
+{"level":30,"time":"2025-09-29T06:05:02.135Z","msg":"[CallLinkFinalizeDeleteManager] CallLinkDeleteJobType/enqueueAllDeletedCallLinks: Found 0 call links to delete"}
+{"level":30,"time":"2025-09-29T06:05:02.135Z","msg":"[JobManager] CallLinkFinalizeDeleteManager: starting"}
+{"level":30,"time":"2025-09-29T06:05:02.136Z","msg":"[ExpiringEntityCleanupService] [ChatFolders] deleted 0 entities: "}
+{"level":30,"time":"2025-09-29T06:05:02.137Z","msg":"[background] Expiration start timestamp cleanup: Found 0 messages for cleanup"}
+{"level":30,"time":"2025-09-29T06:05:02.137Z","msg":"[background] Expiration start timestamp cleanup: Canceling update; we don't have our own UUID"}
+{"level":30,"time":"2025-09-29T06:05:02.137Z","msg":"[background] Expiration start timestamp cleanup: complete"}
+{"level":30,"time":"2025-09-29T06:05:02.137Z","msg":"[syncTasks] Fetching tasks"}
+{"level":30,"time":"2025-09-29T06:05:02.137Z","msg":"[ExpiringEntityCleanupService] [ChatFolders] no expiring entity found"}
+{"level":30,"time":"2025-09-29T06:05:02.138Z","msg":"[syncTasks] Startup/syncTasks: No sync tasks to process, stopping"}
+{"level":30,"time":"2025-09-29T06:05:02.152Z","msg":"[Provisioner] starting"}
+{"level":30,"time":"2025-09-29T06:05:02.171Z","msg":"[expiration] Build expires (local): 2025-12-24T16:22:09.000Z"}
+{"level":30,"time":"2025-09-29T06:05:02.408Z","msg":"[@signalapp/libsignal-client] preconnect 2: TCP connection failed: kind=NetworkUnreachable, errno=Some(101) libsignal_net_infra::tcp_ssl rust/net/infra/src/tcp_ssl.rs:124"}
+{"level":30,"time":"2025-09-29T06:05:02.408Z","msg":"[@signalapp/libsignal-client] [preconnect 2] TCP failed after 64.831µs: Failed to establish TCP connection to any of the IPs libsignal_net_infra::route::connect::logging rust/net/infra/src/route/connect/logging.rs:95"}
+{"level":30,"time":"2025-09-29T06:05:02.501Z","msg":"[@signalapp/libsignal-client] [preconnect] connection succeeded after 1.044s libsignal_net::connect_state rust/net/src/connect_state.rs:577"}
+{"level":30,"time":"2025-09-29T06:05:02.501Z","msg":"[preconnect] WebAPI: preconnect done"}
+{"level":30,"time":"2025-09-29T06:05:02.635Z","msg":"[storage] storageServiceUploadJob: called before enabled"}
+{"level":40,"time":"2025-09-29T06:05:02.903Z","msg":"[createHTTPSAgent] createHTTPSAgent.createConnection(chat.signal.org): connected to IPv4 addr after 718ms (attempts v4=1 v6=1)"}
+{"level":30,"time":"2025-09-29T06:05:03.142Z","msg":"[expiringMessagesDeletion] checkExpiringMessages: checking for expiring messages"}
+{"level":30,"time":"2025-09-29T06:05:03.143Z","msg":"[expiringMessagesDeletion] checkExpiringMessages: found no messages to expire"}
+{"level":30,"time":"2025-09-29T06:05:03.194Z","msg":"[SocketManager] WebSocketResource(provisioning) connected in 1041.6ms"}
+{"level":30,"time":"2025-09-29T06:05:03.247Z","msg":"[Provisioner] Provisioner.loop(0): connected, refreshing in 45000ms"}
+{"level":30,"time":"2025-09-29T06:05:06.278Z","msg":"[background] shutdown"}
+{"level":30,"time":"2025-09-29T06:05:06.278Z","msg":"[AttachmentBackupManager] stopping"}
+{"level":40,"time":"2025-09-29T06:05:06.278Z","msg":"[WebAPI] cancelInflightRequests/shutdown: Canceling 0 requests"}
+{"level":40,"time":"2025-09-29T06:05:06.278Z","msg":"[WebAPI] cancelInflightRequests/shutdown: Done"}
+{"level":30,"time":"2025-09-29T06:05:06.278Z","msg":"[background] shutdown: shutting down messageReceiver"}
+{"level":30,"time":"2025-09-29T06:05:06.278Z","msg":"[MessageReceiver] stopProcessing"}
+{"level":30,"time":"2025-09-29T06:05:06.278Z","msg":"[batcher] waitForAllBatchers"}
+{"level":30,"time":"2025-09-29T06:05:06.278Z","msg":"[batcher] Flushing sql.Client.updateConversationBatcher batcher items.length=0"}
+{"level":30,"time":"2025-09-29T06:05:06.279Z","msg":"[batcher] Flushing complete sql.Client.updateConversationBatcher for batcher"}
+{"level":30,"time":"2025-09-29T06:05:06.279Z","msg":"[batcher] Flushing Whisper.deliveryReceiptBatcher batcher items.length=0"}
+{"level":30,"time":"2025-09-29T06:05:06.279Z","msg":"[batcher] Flushing complete Whisper.deliveryReceiptBatcher for batcher"}
+{"level":30,"time":"2025-09-29T06:05:06.279Z","msg":"[batcher] Flushing changedConvoBatcher batcher items.length=0"}
+{"level":30,"time":"2025-09-29T06:05:06.279Z","msg":"[batcher] Flushing complete changedConvoBatcher for batcher"}
+{"level":30,"time":"2025-09-29T06:05:06.279Z","msg":"[batcher] Flushing respondWithProfileKeyBatcher batcher items.length=0"}
+{"level":30,"time":"2025-09-29T06:05:06.279Z","msg":"[batcher] Flushing complete respondWithProfileKeyBatcher for batcher"}
+{"level":30,"time":"2025-09-29T06:05:06.279Z","msg":"[batcher] Flushing MessageReceiver.decryptAndCacheBatcher batcher items.length=0"}
+{"level":30,"time":"2025-09-29T06:05:06.279Z","msg":"[batcher] Flushing complete MessageReceiver.decryptAndCacheBatcher for batcher"}
+{"level":30,"time":"2025-09-29T06:05:06.279Z","msg":"[batcher] Flushing MessageReceiver.cacheRemoveBatcher batcher items.length=0"}
+{"level":30,"time":"2025-09-29T06:05:06.279Z","msg":"[batcher] Flushing complete MessageReceiver.cacheRemoveBatcher for batcher"}
+{"level":30,"time":"2025-09-29T06:05:06.279Z","msg":"[background] shutdown: flushing conversations"}
+{"level":30,"time":"2025-09-29T06:05:06.279Z","msg":"[sleeper] shutting down, settling 0 in-progress sleep calls"}
+{"level":30,"time":"2025-09-29T06:05:06.279Z","msg":"[sleeper] sleep tasks settled"}
+{"level":30,"time":"2025-09-29T06:05:06.279Z","msg":"[background] shutdown: shutting down queues"}
+{"level":30,"time":"2025-09-29T06:05:06.279Z","msg":"[StartupQueue] Waiting for 0 tasks to drain"}
+{"level":30,"time":"2025-09-29T06:05:06.279Z","msg":"[JobQueue] call link refresh job queue: shutdown: stop accepting new work and drain 1 promise queues"}
+{"level":30,"time":"2025-09-29T06:05:06.279Z","msg":"[JobQueue] conversation job queue: shutdown: stop accepting new work and drain 0 promise queues"}
+{"level":30,"time":"2025-09-29T06:05:06.279Z","msg":"[JobQueue] groupAvatar job queue: shutdown: stop accepting new work and drain 1 promise queues"}
+{"level":30,"time":"2025-09-29T06:05:06.279Z","msg":"[JobQueue] single proto job queue: shutdown: stop accepting new work and drain 1 promise queues"}
+{"level":30,"time":"2025-09-29T06:05:06.279Z","msg":"[JobQueue] read sync job queue: shutdown: stop accepting new work and drain 1 promise queues"}
+{"level":30,"time":"2025-09-29T06:05:06.279Z","msg":"[JobQueue] view sync job queue: shutdown: stop accepting new work and drain 1 promise queues"}
+{"level":30,"time":"2025-09-29T06:05:06.279Z","msg":"[JobQueue] view once open sync job queue: shutdown: stop accepting new work and drain 1 promise queues"}
+{"level":30,"time":"2025-09-29T06:05:06.280Z","msg":"[JobQueue] remove storage key job queue: shutdown: stop accepting new work and drain 1 promise queues"}
+{"level":30,"time":"2025-09-29T06:05:06.280Z","msg":"[JobQueue] report spam job queue: shutdown: stop accepting new work and drain 1 promise queues"}
+{"level":30,"time":"2025-09-29T06:05:06.280Z","msg":"[JobManager] CallLinkFinalizeDeleteManager: stopping. There are 0 active job(s)"}
+{"level":30,"time":"2025-09-29T06:05:06.280Z","msg":"[ExpiringEntityCleanupService] [ChatFolders] stop(shutdownAllJobQueues) stopping"}
+{"level":30,"time":"2025-09-29T06:05:06.280Z","msg":"[ExpiringEntityCleanupService] [ChatFolders] deleting expired entities"}
+{"level":30,"time":"2025-09-29T06:05:06.280Z","msg":"[JobQueue] conversation job queue: shutdown: complete"}
+{"level":30,"time":"2025-09-29T06:05:06.280Z","msg":"[JobQueue] call link refresh job queue: shutdown: complete"}
+{"level":30,"time":"2025-09-29T06:05:06.280Z","msg":"[JobQueue] groupAvatar job queue: shutdown: complete"}
+{"level":30,"time":"2025-09-29T06:05:06.280Z","msg":"[JobQueue] single proto job queue: shutdown: complete"}
+{"level":30,"time":"2025-09-29T06:05:06.280Z","msg":"[JobQueue] read sync job queue: shutdown: complete"}
+{"level":30,"time":"2025-09-29T06:05:06.280Z","msg":"[JobQueue] view sync job queue: shutdown: complete"}
+{"level":30,"time":"2025-09-29T06:05:06.280Z","msg":"[JobQueue] view once open sync job queue: shutdown: complete"}
+{"level":30,"time":"2025-09-29T06:05:06.280Z","msg":"[JobQueue] remove storage key job queue: shutdown: complete"}
+{"level":30,"time":"2025-09-29T06:05:06.280Z","msg":"[JobQueue] report spam job queue: shutdown: complete"}
+{"level":30,"time":"2025-09-29T06:05:06.281Z","msg":"[ExpiringEntityCleanupService] [ChatFolders] deleted 0 entities: "}
+{"level":30,"time":"2025-09-29T06:05:06.281Z","msg":"[background] shutdown: shutting down conversation queues"}
+{"level":30,"time":"2025-09-29T06:05:06.281Z","msg":"[conversations] conversation [REDACTED]111 ([REDACTED]d36) jobQueue shutdown start"}
+{"level":30,"time":"2025-09-29T06:05:06.281Z","msg":"[conversations] conversation [REDACTED]111 ([REDACTED]d36) no jobQueue to shutdown"}
+{"level":30,"time":"2025-09-29T06:05:06.281Z","msg":"[background] shutdown: all queues shutdown"}
+{"level":30,"time":"2025-09-29T06:05:06.281Z","msg":"[background] shutdown: waiting for all batchers"}
+{"level":30,"time":"2025-09-29T06:05:06.281Z","msg":"[batcher] waitForAllBatchers"}
+{"level":30,"time":"2025-09-29T06:05:06.281Z","msg":"[batcher] Flushing sql.Client.updateConversationBatcher batcher items.length=0"}
+{"level":30,"time":"2025-09-29T06:05:06.281Z","msg":"[batcher] Flushing complete sql.Client.updateConversationBatcher for batcher"}
+{"level":30,"time":"2025-09-29T06:05:06.281Z","msg":"[batcher] Flushing Whisper.deliveryReceiptBatcher batcher items.length=0"}
+{"level":30,"time":"2025-09-29T06:05:06.281Z","msg":"[batcher] Flushing complete Whisper.deliveryReceiptBatcher for batcher"}
+{"level":30,"time":"2025-09-29T06:05:06.282Z","msg":"[batcher] Flushing changedConvoBatcher batcher items.length=0"}
+{"level":30,"time":"2025-09-29T06:05:06.282Z","msg":"[batcher] Flushing complete changedConvoBatcher for batcher"}
+{"level":30,"time":"2025-09-29T06:05:06.282Z","msg":"[batcher] Flushing respondWithProfileKeyBatcher batcher items.length=0"}
+{"level":30,"time":"2025-09-29T06:05:06.282Z","msg":"[batcher] Flushing complete respondWithProfileKeyBatcher for batcher"}
+{"level":30,"time":"2025-09-29T06:05:06.282Z","msg":"[batcher] Flushing MessageReceiver.decryptAndCacheBatcher batcher items.length=0"}
+{"level":30,"time":"2025-09-29T06:05:06.282Z","msg":"[batcher] Flushing complete MessageReceiver.decryptAndCacheBatcher for batcher"}
+{"level":30,"time":"2025-09-29T06:05:06.282Z","msg":"[batcher] Flushing MessageReceiver.cacheRemoveBatcher batcher items.length=0"}
+{"level":30,"time":"2025-09-29T06:05:06.282Z","msg":"[batcher] Flushing complete MessageReceiver.cacheRemoveBatcher for batcher"}
+{"level":30,"time":"2025-09-29T06:05:06.282Z","msg":"[waitBatcher] waitForAllWaitBatchers"}
+{"level":30,"time":"2025-09-29T06:05:06.282Z","msg":"[background] shutdown: waiting for all attachment backups & downloads to finish"}
+{"level":30,"time":"2025-09-29T06:05:06.282Z","msg":"[background] shutdown: closing the database"}
+{"level":30,"time":"2025-09-29T06:05:06.282Z","msg":"[Client] shutdown"}
+{"level":30,"time":"2025-09-29T06:05:06.282Z","msg":"[channels] data.shutdown: shutdown requested. 0 jobs outstanding"}
+{"level":30,"time":"2025-09-29T06:05:06.292Z","msg":"[notifications] NotificationService: clearing notification and updating"}
+{"level":30,"time":"2025-09-29T06:05:06.292Z","msg":"[notifications] NotificationService not updating notifications. Notifications are disabled; app is not focused; there is no notification data"}
+{"level":40,"time":"2025-09-29T06:23:19.113Z","msg":"[setupI18nMain] intl.onWarn [@formatjs/intl] \"defaultRichTextElements\" was specified but \"message\" was not pre-compiled. \nPlease consider using \"@formatjs/cli\" to pre-compile your messages for performance.\nFor more details see https://formatjs.github.io/docs/getting-started/message-distribution"}
+{"level":30,"time":"2025-09-29T06:23:19.136Z","msg":"[preconnect] libsignal net url: https://chat.signal.org"}
+{"level":30,"time":"2025-09-29T06:23:19.136Z","msg":"[preconnect] libsignal net environment resolved to prod"}
+{"level":30,"time":"2025-09-29T06:23:19.137Z","msg":"[preconnect] WebAPI: preconnect start"}
+{"level":30,"time":"2025-09-29T06:23:19.375Z","msg":"[profiles] Profile Service initialized"}
+{"level":30,"time":"2025-09-29T06:23:19.558Z","msg":"[preload] complete"}
+{"level":30,"time":"2025-09-29T06:23:19.559Z","msg":"[@signalapp/libsignal-client] Initializing libsignal version:0.81.0 signal_node::logging rust/bridge/node/src/logging.rs:204"}
+{"level":30,"time":"2025-09-29T06:23:19.603Z","msg":"[notifications] NotificationService initialized"}
+{"level":30,"time":"2025-09-29T06:23:19.634Z","msg":"[incrementMessageCounter] initializeMessageCounter: picking stored counter"}
+{"level":30,"time":"2025-09-29T06:23:19.635Z","msg":"[ourProfileKey] Our profile key service: initializing"}
+{"level":30,"time":"2025-09-29T06:23:19.635Z","msg":"[background] page reloaded"}
+{"level":30,"time":"2025-09-29T06:23:19.635Z","msg":"[background] environment: production"}
+{"level":30,"time":"2025-09-29T06:23:19.654Z","msg":"[background] Storage fetch"}
+{"level":30,"time":"2025-09-29T06:23:19.674Z","msg":"[buildExpiration] Build expires (local): 2025-12-24T16:22:09.000Z"}
+{"level":40,"time":"2025-09-29T06:23:19.675Z","msg":"[SocketManager] authenticate was called without credentials"}
+{"level":30,"time":"2025-09-29T06:23:19.675Z","msg":"[background] Initializing MessageReceiver"}
+{"level":30,"time":"2025-09-29T06:23:19.676Z","msg":"[senderCertificate] Sender certificate service initialized"}
+{"level":30,"time":"2025-09-29T06:23:19.677Z","msg":"[buildExpiration] Build expires (local): 2025-12-24T16:22:09.000Z"}
+{"level":30,"time":"2025-09-29T06:23:19.677Z","msg":"[buildExpiration] expires in 7466329323ms"}
+{"level":30,"time":"2025-09-29T06:23:19.688Z","msg":"[background] Starting background data migration. Target version: 15"}
+{"level":30,"time":"2025-09-29T06:23:19.688Z","msg":"[retryPlaceholders] constructor: Started with 0 items, lifespan of 3600000"}
+{"level":30,"time":"2025-09-29T06:23:19.689Z","msg":"[ConversationController] starting initial fetch"}
+{"level":30,"time":"2025-09-29T06:23:19.692Z","msg":"[ConversationController] done with initial fetch, got 1 conversations"}
+{"level":30,"time":"2025-09-29T06:23:19.696Z","msg":"[SignalProtocolStore] Finished caching sessions data"}
+{"level":30,"time":"2025-09-29T06:23:19.696Z","msg":"[SignalProtocolStore] Finished caching kyberPreKeys data"}
+{"level":30,"time":"2025-09-29T06:23:19.696Z","msg":"[SignalProtocolStore] Finished caching identityKeys data"}
+{"level":30,"time":"2025-09-29T06:23:19.696Z","msg":"[SignalProtocolStore] Finished caching preKeys data"}
+{"level":30,"time":"2025-09-29T06:23:19.696Z","msg":"[SignalProtocolStore] Finished caching signedPreKeys data"}
+{"level":30,"time":"2025-09-29T06:23:19.696Z","msg":"[SignalProtocolStore] Finished caching senderKeys data"}
+{"level":30,"time":"2025-09-29T06:23:19.701Z","msg":"[ConversationController] checkForConflicts: starting..."}
+{"level":30,"time":"2025-09-29T06:23:19.701Z","msg":"[ConversationController] checkForConflicts: complete!"}
+{"level":30,"time":"2025-09-29T06:23:19.701Z","msg":"[donations] _getWorkflowFromStorage: No workflow found in window.storage"}
+{"level":30,"time":"2025-09-29T06:23:19.702Z","msg":"[Storage] getItemsState: now preparing copy of items..."}
+{"level":30,"time":"2025-09-29T06:23:19.707Z","msg":"[JobQueue] conversation job queue: starting to stream jobs"}
+{"level":30,"time":"2025-09-29T06:23:19.707Z","msg":"[JobQueueDatabaseStore] fetching existing jobs for queue \"conversation\""}
+{"level":30,"time":"2025-09-29T06:23:19.707Z","msg":"[JobQueue] groupAvatar job queue: starting to stream jobs"}
+{"level":30,"time":"2025-09-29T06:23:19.707Z","msg":"[JobQueueDatabaseStore] fetching existing jobs for queue \"groupAvatar\""}
+{"level":30,"time":"2025-09-29T06:23:19.707Z","msg":"[JobQueue] single proto job queue: starting to stream jobs"}
+{"level":30,"time":"2025-09-29T06:23:19.707Z","msg":"[JobQueueDatabaseStore] fetching existing jobs for queue \"single proto\""}
+{"level":30,"time":"2025-09-29T06:23:19.707Z","msg":"[JobQueue] read sync job queue: starting to stream jobs"}
+{"level":30,"time":"2025-09-29T06:23:19.707Z","msg":"[JobQueueDatabaseStore] fetching existing jobs for queue \"read sync\""}
+{"level":30,"time":"2025-09-29T06:23:19.707Z","msg":"[JobQueue] view sync job queue: starting to stream jobs"}
+{"level":30,"time":"2025-09-29T06:23:19.708Z","msg":"[JobQueueDatabaseStore] fetching existing jobs for queue \"view sync\""}
+{"level":30,"time":"2025-09-29T06:23:19.708Z","msg":"[JobQueue] view once open sync job queue: starting to stream jobs"}
+{"level":30,"time":"2025-09-29T06:23:19.708Z","msg":"[JobQueueDatabaseStore] fetching existing jobs for queue \"view once open sync\""}
+{"level":30,"time":"2025-09-29T06:23:19.708Z","msg":"[JobQueue] delete downloads job queue: starting to stream jobs"}
+{"level":30,"time":"2025-09-29T06:23:19.708Z","msg":"[JobQueueDatabaseStore] fetching existing jobs for queue \"delete downloads\""}
+{"level":30,"time":"2025-09-29T06:23:19.708Z","msg":"[JobQueue] remove storage key job queue: starting to stream jobs"}
+{"level":30,"time":"2025-09-29T06:23:19.708Z","msg":"[JobQueueDatabaseStore] fetching existing jobs for queue \"remove storage key\""}
+{"level":30,"time":"2025-09-29T06:23:19.708Z","msg":"[JobQueue] report spam job queue: starting to stream jobs"}
+{"level":30,"time":"2025-09-29T06:23:19.708Z","msg":"[JobQueueDatabaseStore] fetching existing jobs for queue \"report spam\""}
+{"level":30,"time":"2025-09-29T06:23:19.708Z","msg":"[JobQueue] call link refresh job queue: starting to stream jobs"}
+{"level":30,"time":"2025-09-29T06:23:19.708Z","msg":"[JobQueueDatabaseStore] fetching existing jobs for queue \"call link refresh\""}
+{"level":30,"time":"2025-09-29T06:23:19.708Z","msg":"[ExpiringEntityCleanupService] [ChatFolders] start(initializeAllJobQueues) starting"}
+{"level":30,"time":"2025-09-29T06:23:19.709Z","msg":"[ExpiringEntityCleanupService] [ChatFolders] deleting expired entities"}
+{"level":30,"time":"2025-09-29T06:23:19.709Z","msg":"[challenge] loading 0 challenges"}
+{"level":30,"time":"2025-09-29T06:23:19.709Z","msg":"[networkObserver] Initializing network observer"}
+{"level":30,"time":"2025-09-29T06:23:19.710Z","msg":"[badgeImageFileDownloader] BadgeDownloader#checkForFilesToDownload: downloading 0 badge(s)"}
+{"level":30,"time":"2025-09-29T06:23:19.710Z","msg":"[background] Blocked uuids cleanup: starting..."}
+{"level":30,"time":"2025-09-29T06:23:19.710Z","msg":"[background] Blocked uuids cleanup: complete"}
+{"level":30,"time":"2025-09-29T06:23:19.710Z","msg":"[background] Expiration start timestamp cleanup: starting..."}
+{"level":30,"time":"2025-09-29T06:23:19.710Z","msg":"[JobQueueDatabaseStore] finished fetching existing 0 jobs for queue \"conversation\""}
+{"level":30,"time":"2025-09-29T06:23:19.710Z","msg":"[JobQueueDatabaseStore] finished fetching existing 0 jobs for queue \"groupAvatar\""}
+{"level":30,"time":"2025-09-29T06:23:19.710Z","msg":"[JobQueueDatabaseStore] finished fetching existing 0 jobs for queue \"read sync\""}
+{"level":30,"time":"2025-09-29T06:23:19.710Z","msg":"[JobQueueDatabaseStore] finished fetching existing 0 jobs for queue \"single proto\""}
+{"level":30,"time":"2025-09-29T06:23:19.711Z","msg":"[JobQueueDatabaseStore] finished fetching existing 0 jobs for queue \"view sync\""}
+{"level":30,"time":"2025-09-29T06:23:19.711Z","msg":"[JobQueueDatabaseStore] finished fetching existing 0 jobs for queue \"view once open sync\""}
+{"level":30,"time":"2025-09-29T06:23:19.711Z","msg":"[JobQueueDatabaseStore] finished fetching existing 0 jobs for queue \"delete downloads\""}
+{"level":30,"time":"2025-09-29T06:23:19.711Z","msg":"[JobQueueDatabaseStore] finished fetching existing 0 jobs for queue \"remove storage key\""}
+{"level":30,"time":"2025-09-29T06:23:19.711Z","msg":"[JobQueueDatabaseStore] finished fetching existing 0 jobs for queue \"report spam\""}
+{"level":30,"time":"2025-09-29T06:23:19.711Z","msg":"[JobQueueDatabaseStore] finished fetching existing 0 jobs for queue \"call link refresh\""}
+{"level":30,"time":"2025-09-29T06:23:19.711Z","msg":"[CallLinkFinalizeDeleteManager] CallLinkDeleteJobType/enqueueAllDeletedCallLinks: Found 0 call links to delete"}
+{"level":30,"time":"2025-09-29T06:23:19.712Z","msg":"[JobManager] CallLinkFinalizeDeleteManager: starting"}
+{"level":30,"time":"2025-09-29T06:23:19.712Z","msg":"[ExpiringEntityCleanupService] [ChatFolders] deleted 0 entities: "}
+{"level":30,"time":"2025-09-29T06:23:19.713Z","msg":"[background] Expiration start timestamp cleanup: Found 0 messages for cleanup"}
+{"level":30,"time":"2025-09-29T06:23:19.713Z","msg":"[background] Expiration start timestamp cleanup: Canceling update; we don't have our own UUID"}
+{"level":30,"time":"2025-09-29T06:23:19.713Z","msg":"[background] Expiration start timestamp cleanup: complete"}
+{"level":30,"time":"2025-09-29T06:23:19.713Z","msg":"[syncTasks] Fetching tasks"}
+{"level":30,"time":"2025-09-29T06:23:19.713Z","msg":"[ExpiringEntityCleanupService] [ChatFolders] no expiring entity found"}
+{"level":30,"time":"2025-09-29T06:23:19.714Z","msg":"[syncTasks] Startup/syncTasks: No sync tasks to process, stopping"}
+{"level":30,"time":"2025-09-29T06:23:19.724Z","msg":"[Provisioner] starting"}
+{"level":30,"time":"2025-09-29T06:23:19.742Z","msg":"[expiration] Build expires (local): 2025-12-24T16:22:09.000Z"}
+{"level":30,"time":"2025-09-29T06:23:20.004Z","msg":"[@signalapp/libsignal-client] preconnect 2: TCP connection failed: kind=NetworkUnreachable, errno=Some(101) libsignal_net_infra::tcp_ssl rust/net/infra/src/tcp_ssl.rs:124"}
+{"level":30,"time":"2025-09-29T06:23:20.004Z","msg":"[@signalapp/libsignal-client] [preconnect 2] TCP failed after 28.783µs: Failed to establish TCP connection to any of the IPs libsignal_net_infra::route::connect::logging rust/net/infra/src/route/connect/logging.rs:95"}
+{"level":30,"time":"2025-09-29T06:23:20.176Z","msg":"[@signalapp/libsignal-client] [preconnect] connection succeeded after 1.039s libsignal_net::connect_state rust/net/src/connect_state.rs:577"}
+{"level":30,"time":"2025-09-29T06:23:20.176Z","msg":"[preconnect] WebAPI: preconnect done"}
+{"level":40,"time":"2025-09-29T06:23:20.495Z","msg":"[createHTTPSAgent] createHTTPSAgent.createConnection(chat.signal.org): connected to IPv4 addr after 680ms (attempts v4=1 v6=1)"}
+{"level":30,"time":"2025-09-29T06:23:20.716Z","msg":"[expiringMessagesDeletion] checkExpiringMessages: checking for expiring messages"}
+{"level":30,"time":"2025-09-29T06:23:20.717Z","msg":"[expiringMessagesDeletion] checkExpiringMessages: found no messages to expire"}
+{"level":30,"time":"2025-09-29T06:23:20.819Z","msg":"[SocketManager] WebSocketResource(provisioning) connected in 1094.4ms"}
+{"level":30,"time":"2025-09-29T06:23:20.871Z","msg":"[Provisioner] Provisioner.loop(0): connected, refreshing in 45000ms"}
+{"level":30,"time":"2025-09-29T06:23:21.251Z","msg":"[background] shutdown"}
+{"level":30,"time":"2025-09-29T06:23:21.252Z","msg":"[AttachmentBackupManager] stopping"}
+{"level":40,"time":"2025-09-29T06:23:21.252Z","msg":"[WebAPI] cancelInflightRequests/shutdown: Canceling 0 requests"}
+{"level":40,"time":"2025-09-29T06:23:21.252Z","msg":"[WebAPI] cancelInflightRequests/shutdown: Done"}
+{"level":30,"time":"2025-09-29T06:23:21.252Z","msg":"[background] shutdown: shutting down messageReceiver"}
+{"level":30,"time":"2025-09-29T06:23:21.252Z","msg":"[MessageReceiver] stopProcessing"}
+{"level":30,"time":"2025-09-29T06:23:21.253Z","msg":"[batcher] waitForAllBatchers"}
+{"level":30,"time":"2025-09-29T06:23:21.253Z","msg":"[batcher] Flushing sql.Client.updateConversationBatcher batcher items.length=0"}
+{"level":30,"time":"2025-09-29T06:23:21.253Z","msg":"[batcher] Flushing complete sql.Client.updateConversationBatcher for batcher"}
+{"level":30,"time":"2025-09-29T06:23:21.253Z","msg":"[batcher] Flushing Whisper.deliveryReceiptBatcher batcher items.length=0"}
+{"level":30,"time":"2025-09-29T06:23:21.253Z","msg":"[batcher] Flushing complete Whisper.deliveryReceiptBatcher for batcher"}
+{"level":30,"time":"2025-09-29T06:23:21.254Z","msg":"[batcher] Flushing changedConvoBatcher batcher items.length=0"}
+{"level":30,"time":"2025-09-29T06:23:21.254Z","msg":"[batcher] Flushing complete changedConvoBatcher for batcher"}
+{"level":30,"time":"2025-09-29T06:23:21.254Z","msg":"[batcher] Flushing respondWithProfileKeyBatcher batcher items.length=0"}
+{"level":30,"time":"2025-09-29T06:23:21.254Z","msg":"[batcher] Flushing complete respondWithProfileKeyBatcher for batcher"}
+{"level":30,"time":"2025-09-29T06:23:21.254Z","msg":"[batcher] Flushing MessageReceiver.decryptAndCacheBatcher batcher items.length=0"}
+{"level":30,"time":"2025-09-29T06:23:21.254Z","msg":"[batcher] Flushing complete MessageReceiver.decryptAndCacheBatcher for batcher"}
+{"level":30,"time":"2025-09-29T06:23:21.254Z","msg":"[batcher] Flushing MessageReceiver.cacheRemoveBatcher batcher items.length=0"}
+{"level":30,"time":"2025-09-29T06:23:21.254Z","msg":"[batcher] Flushing complete MessageReceiver.cacheRemoveBatcher for batcher"}
+{"level":30,"time":"2025-09-29T06:23:21.254Z","msg":"[background] shutdown: flushing conversations"}
+{"level":30,"time":"2025-09-29T06:23:21.255Z","msg":"[sleeper] shutting down, settling 0 in-progress sleep calls"}
+{"level":30,"time":"2025-09-29T06:23:21.255Z","msg":"[sleeper] sleep tasks settled"}
+{"level":30,"time":"2025-09-29T06:23:21.255Z","msg":"[background] shutdown: shutting down queues"}
+{"level":30,"time":"2025-09-29T06:23:21.255Z","msg":"[StartupQueue] Waiting for 0 tasks to drain"}
+{"level":30,"time":"2025-09-29T06:23:21.256Z","msg":"[JobQueue] call link refresh job queue: shutdown: stop accepting new work and drain 1 promise queues"}
+{"level":30,"time":"2025-09-29T06:23:21.256Z","msg":"[JobQueue] conversation job queue: shutdown: stop accepting new work and drain 0 promise queues"}
+{"level":30,"time":"2025-09-29T06:23:21.256Z","msg":"[JobQueue] groupAvatar job queue: shutdown: stop accepting new work and drain 1 promise queues"}
+{"level":30,"time":"2025-09-29T06:23:21.256Z","msg":"[JobQueue] single proto job queue: shutdown: stop accepting new work and drain 1 promise queues"}
+{"level":30,"time":"2025-09-29T06:23:21.256Z","msg":"[JobQueue] read sync job queue: shutdown: stop accepting new work and drain 1 promise queues"}
+{"level":30,"time":"2025-09-29T06:23:21.257Z","msg":"[JobQueue] view sync job queue: shutdown: stop accepting new work and drain 1 promise queues"}
+{"level":30,"time":"2025-09-29T06:23:21.257Z","msg":"[JobQueue] view once open sync job queue: shutdown: stop accepting new work and drain 1 promise queues"}
+{"level":30,"time":"2025-09-29T06:23:21.257Z","msg":"[JobQueue] remove storage key job queue: shutdown: stop accepting new work and drain 1 promise queues"}
+{"level":30,"time":"2025-09-29T06:23:21.257Z","msg":"[JobQueue] report spam job queue: shutdown: stop accepting new work and drain 1 promise queues"}
+{"level":30,"time":"2025-09-29T06:23:21.257Z","msg":"[JobManager] CallLinkFinalizeDeleteManager: stopping. There are 0 active job(s)"}
+{"level":30,"time":"2025-09-29T06:23:21.258Z","msg":"[ExpiringEntityCleanupService] [ChatFolders] stop(shutdownAllJobQueues) stopping"}
+{"level":30,"time":"2025-09-29T06:23:21.258Z","msg":"[ExpiringEntityCleanupService] [ChatFolders] deleting expired entities"}
+{"level":30,"time":"2025-09-29T06:23:21.259Z","msg":"[JobQueue] conversation job queue: shutdown: complete"}
+{"level":30,"time":"2025-09-29T06:23:21.259Z","msg":"[JobQueue] call link refresh job queue: shutdown: complete"}
+{"level":30,"time":"2025-09-29T06:23:21.259Z","msg":"[JobQueue] groupAvatar job queue: shutdown: complete"}
+{"level":30,"time":"2025-09-29T06:23:21.259Z","msg":"[JobQueue] single proto job queue: shutdown: complete"}
+{"level":30,"time":"2025-09-29T06:23:21.259Z","msg":"[JobQueue] read sync job queue: shutdown: complete"}
+{"level":30,"time":"2025-09-29T06:23:21.259Z","msg":"[JobQueue] view sync job queue: shutdown: complete"}
+{"level":30,"time":"2025-09-29T06:23:21.260Z","msg":"[JobQueue] view once open sync job queue: shutdown: complete"}
+{"level":30,"time":"2025-09-29T06:23:21.260Z","msg":"[JobQueue] remove storage key job queue: shutdown: complete"}
+{"level":30,"time":"2025-09-29T06:23:21.260Z","msg":"[JobQueue] report spam job queue: shutdown: complete"}
+{"level":30,"time":"2025-09-29T06:23:21.260Z","msg":"[ExpiringEntityCleanupService] [ChatFolders] deleted 0 entities: "}
+{"level":30,"time":"2025-09-29T06:23:21.260Z","msg":"[background] shutdown: shutting down conversation queues"}
+{"level":30,"time":"2025-09-29T06:23:21.261Z","msg":"[conversations] conversation [REDACTED]111 ([REDACTED]d36) jobQueue shutdown start"}
+{"level":30,"time":"2025-09-29T06:23:21.261Z","msg":"[conversations] conversation [REDACTED]111 ([REDACTED]d36) no jobQueue to shutdown"}
+{"level":30,"time":"2025-09-29T06:23:21.261Z","msg":"[background] shutdown: all queues shutdown"}
+{"level":30,"time":"2025-09-29T06:23:21.261Z","msg":"[background] shutdown: waiting for all batchers"}
+{"level":30,"time":"2025-09-29T06:23:21.261Z","msg":"[batcher] waitForAllBatchers"}
+{"level":30,"time":"2025-09-29T06:23:21.261Z","msg":"[batcher] Flushing sql.Client.updateConversationBatcher batcher items.length=0"}
+{"level":30,"time":"2025-09-29T06:23:21.261Z","msg":"[batcher] Flushing complete sql.Client.updateConversationBatcher for batcher"}
+{"level":30,"time":"2025-09-29T06:23:21.261Z","msg":"[batcher] Flushing Whisper.deliveryReceiptBatcher batcher items.length=0"}
+{"level":30,"time":"2025-09-29T06:23:21.261Z","msg":"[batcher] Flushing complete Whisper.deliveryReceiptBatcher for batcher"}
+{"level":30,"time":"2025-09-29T06:23:21.262Z","msg":"[batcher] Flushing changedConvoBatcher batcher items.length=0"}
+{"level":30,"time":"2025-09-29T06:23:21.262Z","msg":"[batcher] Flushing complete changedConvoBatcher for batcher"}
+{"level":30,"time":"2025-09-29T06:23:21.262Z","msg":"[batcher] Flushing respondWithProfileKeyBatcher batcher items.length=0"}
+{"level":30,"time":"2025-09-29T06:23:21.262Z","msg":"[batcher] Flushing complete respondWithProfileKeyBatcher for batcher"}
+{"level":30,"time":"2025-09-29T06:23:21.262Z","msg":"[batcher] Flushing MessageReceiver.decryptAndCacheBatcher batcher items.length=0"}
+{"level":30,"time":"2025-09-29T06:23:21.262Z","msg":"[batcher] Flushing complete MessageReceiver.decryptAndCacheBatcher for batcher"}
+{"level":30,"time":"2025-09-29T06:23:21.262Z","msg":"[batcher] Flushing MessageReceiver.cacheRemoveBatcher batcher items.length=0"}
+{"level":30,"time":"2025-09-29T06:23:21.262Z","msg":"[batcher] Flushing complete MessageReceiver.cacheRemoveBatcher for batcher"}
+{"level":30,"time":"2025-09-29T06:23:21.263Z","msg":"[waitBatcher] waitForAllWaitBatchers"}
+{"level":30,"time":"2025-09-29T06:23:21.263Z","msg":"[background] shutdown: waiting for all attachment backups & downloads to finish"}
+{"level":30,"time":"2025-09-29T06:23:21.263Z","msg":"[background] shutdown: closing the database"}
+{"level":30,"time":"2025-09-29T06:23:21.263Z","msg":"[Client] shutdown"}
+{"level":30,"time":"2025-09-29T06:23:21.263Z","msg":"[channels] data.shutdown: shutdown requested. 0 jobs outstanding"}
+{"level":30,"time":"2025-09-29T06:23:21.283Z","msg":"[notifications] NotificationService: clearing notification and updating"}
+{"level":30,"time":"2025-09-29T06:23:21.284Z","msg":"[notifications] NotificationService not updating notifications. Notifications are disabled; app is not focused; there is no notification data"}

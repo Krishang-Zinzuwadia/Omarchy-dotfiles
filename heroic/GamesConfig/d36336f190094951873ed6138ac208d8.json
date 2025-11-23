@@ -1,0 +1,36 @@
+{
+  "d36336f190094951873ed6138ac208d8": {
+    "autoInstallDxvk": true,
+    "autoInstallDxvkNvapi": true,
+    "autoInstallVkd3d": true,
+    "preferSystemLibs": false,
+    "enableEsync": true,
+    "enableMsync": false,
+    "enableFsync": true,
+    "enableWineWayland": false,
+    "enableHDR": false,
+    "enableWoW64": false,
+    "nvidiaPrime": false,
+    "enviromentOptions": [],
+    "wrapperOptions": [],
+    "showFps": false,
+    "useGameMode": false,
+    "battlEyeRuntime": true,
+    "eacRuntime": true,
+    "language": "",
+    "beforeLaunchScriptPath": "",
+    "afterLaunchScriptPath": "",
+    "verboseLogs": true,
+    "advertiseAvxForRosetta": false,
+    "wineVersion": {
+      "bin": "/usr/bin/wine",
+      "name": "Wine Default - wine-10.15",
+      "type": "wine",
+      "wineserver": "/usr/bin/wineserver"
+    },
+    "winePrefix": "/home/krishang/Games/Heroic/Prefixes/default/Sifu",
+    "wineCrossoverBottle": ""
+  },
+  "version": "v0",
+  "explicit": true
+}

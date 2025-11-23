@@ -1,0 +1,85 @@
+{
+  "app_name": "fcab5462c08e47828cde79d053be8aa1",
+  "app_title": "KOMPETE",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "fcab5462c08e47828cde79d053be8aa1",
+      "asset_id": "fcab5462c08e47828cde79d053be8aa1",
+      "build_version": "25357",
+      "catalog_item_id": "fa1bb532bbad4d8a9e2f0ff455bdd56b",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "cf36564634f94769ac77b9a9a80872f8",
+        "update_type": "PATCH"
+      },
+      "namespace": "359ed81fde234ff2a1b190ba60da928e",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567RxQHpRBY7Z3h3hXvZjeRjXKJ",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-09-02T02:07:16.186Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "KOMPETE"
+      }
+    },
+    "description": "KOMPETE is an all-in-one multiplayer game. Current game modes include Blitz Royale and Kart Race, with more coming soon! Now in Early Access.",
+    "developer": "Modernize Games",
+    "developerId": "o-vrxv75qn7m7f7ss9k57atc8xsjt8ay",
+    "endOfSupport": false,
+    "entitlementName": "fa1bb532bbad4d8a9e2f0ff455bdd56b",
+    "entitlementType": "EXECUTABLE",
+    "id": "fa1bb532bbad4d8a9e2f0ff455bdd56b",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "KOMPETE Offer",
+        "height": 1440,
+        "md5": "4f672d939696365d6dc4cbe76c10b8a6",
+        "size": 2735631,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-11-26T19:52:43.154Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/a8a9427750e7427fa950e517a6a36363/kompete-1arr9.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download KOMPETE Offer",
+        "height": 1600,
+        "md5": "3806f1c8d88118ee06960d1f2d141b15",
+        "size": 2423396,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-11-26T19:52:46.688Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/a8a9427750e7427fa950e517a6a36363/kompete-42kt5.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-05-02T16:57:30.641Z",
+    "mainGameItemList": [],
+    "namespace": "359ed81fde234ff2a1b190ba60da928e",
+    "releaseInfo": [
+      {
+        "appId": "fcab5462c08e47828cde79d053be8aa1",
+        "id": "4b0315de84204bd4bb3bb09079fd98c3",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "KOMPETE",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

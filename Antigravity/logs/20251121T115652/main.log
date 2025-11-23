@@ -1,0 +1,35 @@
+2025-11-21 11:56:52.700 [info] Using Cloud Code URL: https://daily-cloudcode-pa.sandbox.googleapis.com
+2025-11-21 11:56:52.700 [info] [BrowserOnboardingClientMainService] Starting browser onboarding server
+2025-11-21 11:56:52.700 [error] Error initializing AntigravityAuthMainService: No OAuth token available. User must be logged in.
+2025-11-21 11:56:52.700 [info] [BrowserOnboardingClientServer] Browser onboarding server started on http://localhost:42937
+2025-11-21 11:56:52.700 [info] [CascadeMonitoringServer] Monitoring server started on http://localhost:9102/antigravity
+2025-11-21 11:56:52.753 [info] update#setState disabled
+2025-11-21 11:56:52.753 [info] update#ctor - updates are disabled by user preference
+2025-11-21 11:56:56.055 [error] Failed to fetch NUXes: HTTP error: 401
+2025-11-21 11:56:58.935 [error] Failed to fetch NUXes: HTTP error: 401
+2025-11-21 11:57:01.572 [warning] Failed to validate trajectory summaries for window 1 [unknown] Failed to fetch
+2025-11-21 11:57:01.809 [error] Failed to fetch NUXes: HTTP error: 401
+2025-11-21 11:57:04.811 [error] Failed to fetch NUXes: HTTP error: 401
+2025-11-21 11:57:05.527 [info] [AgentClientServer] Cascade initializing for worksapce file:///home/krishang/Work/Icarus-DevJams
+2025-11-21 11:57:05.528 [info] [AgentClientServer] Starting server
+2025-11-21 11:57:05.533 [info] [AgentClientServer] Read HTML file, length: 127
+2025-11-21 11:57:05.536 [info] [AgentClientServer] Cascade server started on http://localhost:9090
+2025-11-21 11:57:05.536 [info] [AgentClientServer] Cascade server started on port 9090
+2025-11-21 11:57:07.829 [error] Failed to fetch NUXes: HTTP error: 401
+2025-11-21 11:57:10.832 [error] Failed to fetch NUXes: HTTP error: 401
+2025-11-21 11:57:13.829 [error] Failed to fetch NUXes: HTTP error: 401
+2025-11-21 11:57:16.865 [error] Failed to fetch NUXes: HTTP error: 401
+2025-11-21 11:57:19.879 [error] Failed to fetch NUXes: HTTP error: 401
+2025-11-21 11:57:22.846 [error] Failed to fetch NUXes: HTTP error: 401
+2025-11-21 11:57:25.832 [error] Failed to fetch NUXes: HTTP error: 401
+2025-11-21 11:57:28.885 [error] Failed to fetch NUXes: HTTP error: 401
+2025-11-21 11:57:31.872 [error] Failed to fetch NUXes: HTTP error: 401
+2025-11-21 11:57:34.820 [error] Failed to fetch NUXes: HTTP error: 401
+2025-11-21 11:57:37.892 [error] Failed to fetch NUXes: HTTP error: 401
+2025-11-21 11:57:40.864 [error] Failed to fetch NUXes: HTTP error: 401
+2025-11-21 11:57:43.824 [error] Failed to fetch NUXes: HTTP error: 401
+2025-11-21 11:57:46.822 [error] Failed to fetch NUXes: HTTP error: 401
+2025-11-21 11:57:49.820 [error] Failed to fetch NUXes: HTTP error: 401
+2025-11-21 11:57:52.814 [error] Failed to fetch NUXes: HTTP error: 401
+2025-11-21 11:57:53.843 [info] Extension host with pid 203744 exited with code: 0, signal: unknown.
+2025-11-21 11:57:54.844 [error] Extension host with pid 203744 still exists, forcefully killing it...

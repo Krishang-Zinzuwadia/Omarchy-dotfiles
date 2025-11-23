@@ -1,0 +1,169 @@
+{
+  "app_name": "cavalier",
+  "app_title": "skate.\u2122",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "cavalier",
+      "asset_id": "cavalier",
+      "build_version": "v01.00",
+      "catalog_item_id": "586caad839e14ef29977322a48aa4d9e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "952a41ababd44432b9958babf7d78f22",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-11-15T14:30:32.127Z",
+    "customAttributes": {
+      "AdditionalCommandline": {
+        "type": "STRING",
+        "value": "&platform=epic"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "SkatecKfHR"
+      },
+      "MainWindowProcessName": {
+        "type": "STRING",
+        "value": "Skate.exe"
+      },
+      "ProcessNames": {
+        "type": "STRING",
+        "value": "Skate.exe"
+      },
+      "RegistryKey": {
+        "type": "STRING",
+        "value": "Install Dir"
+      },
+      "RegistryPath": {
+        "type": "STRING",
+        "value": "SOFTWARE\\WOW6432Node\\Full Circle\\Skate"
+      },
+      "ThirdPartyManagedApp": {
+        "type": "STRING",
+        "value": "The EA App"
+      }
+    },
+    "description": "Experience improved Flick-It controls, the rich physics based skateboarding gameplay that provides those \u201conly in skate.\u2122\u201c moments and off-board exploration for full freedom in the online multiplayer world of San Vansterdam.",
+    "developer": "Electronic Arts",
+    "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+    "dlcItemList": [
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2025-04-07T20:13:38.636Z",
+        "customAttributes": {},
+        "description": "Includes:\n-6 Meatman Cosmetics\n-Vans Founders Old Skool Shoes\n-3 skate T-Shirts\n-3,100 San Van Bucks\n\nPlease note that this upgrade requires ownership of the skate.\u2122 - Founder\u2019s Pack.",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "6165f4063fe54566b8401bf1c7f0c6b3",
+        "entitlementType": "EXECUTABLE",
+        "id": "6165f4063fe54566b8401bf1c7f0c6b3",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Skate skate.\u2122 - Founder\u2019s Deluxe Pack Upgrade Offer",
+            "height": 1440,
+            "md5": "ada45d221ea5387f2f3fc1cca5ba265d",
+            "size": 723823,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-09-10T05:38:49.370Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/79c56b7b7fa5447ba6e76ab0e1b5f799/skate-7iz65.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Skate skate.\u2122 - Founder\u2019s Deluxe Pack Upgrade Offer",
+            "height": 1600,
+            "md5": "7644a1d68c7c66350f37c719c1f4bdf4",
+            "size": 627953,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2025-09-10T05:39:01.716Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/79c56b7b7fa5447ba6e76ab0e1b5f799/skate-r7udw.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-10-16T17:59:39.608Z",
+        "mainGameItem": {
+          "id": "586caad839e14ef29977322a48aa4d9e",
+          "namespace": "952a41ababd44432b9958babf7d78f22",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "586caad839e14ef29977322a48aa4d9e",
+            "namespace": "952a41ababd44432b9958babf7d78f22",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "952a41ababd44432b9958babf7d78f22",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "skate.\u2122 - Founder\u2019s Deluxe Pack Upgrade",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "586caad839e14ef29977322a48aa4d9e",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [],
+    "id": "586caad839e14ef29977322a48aa4d9e",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Skate Offer",
+        "height": 1440,
+        "md5": "3cb81e4fa7b13461330896618583fa74",
+        "size": 909652,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-08-29T11:39:53.645Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/79c56b7b7fa5447ba6e76ab0e1b5f799/skate-simv0.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Skate Offer",
+        "height": 1600,
+        "md5": "62f739f10cd80133e31683e201dc8db1",
+        "size": 652804,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-08-29T11:39:58.392Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/79c56b7b7fa5447ba6e76ab0e1b5f799/skate-9ikbb.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-10-28T17:00:20.739Z",
+    "mainGameItemList": [],
+    "namespace": "952a41ababd44432b9958babf7d78f22",
+    "releaseInfo": [
+      {
+        "appId": "cavalier",
+        "id": "1c6dcbd4dda947d28810a4f407a788a6",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "skate.\u2122",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

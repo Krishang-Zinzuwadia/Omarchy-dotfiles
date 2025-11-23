@@ -1,0 +1,1658 @@
+{
+  "app_name": "0ddc48f6812b447e9834bd7a474b627b",
+  "app_title": "My Pet Hooligan",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "0ddc48f6812b447e9834bd7a474b627b",
+      "asset_id": "0ddc48f6812b447e9834bd7a474b627b",
+      "build_version": "0.3.27455",
+      "catalog_item_id": "5835c5d90779470b961e9db51851c652",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "0615720446a243a98e72054774b1b99f",
+        "update_type": "MINOR"
+      },
+      "namespace": "ef233d1e2619445a887f0380266aa4b5",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567iDBsecRTDnm9cVimdt1r7T4m",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-05-05T21:17:36.909Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "MyPetHooligan"
+      }
+    },
+    "description": "My Pet Hooligan",
+    "developer": "AMGI Animation",
+    "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+    "dlcItemList": [
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-08-01T18:04:51.428Z",
+        "customAttributes": {},
+        "description": "My Pet Hooligan - Clownin Around Pack",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "c31c41f6fa8d4f49b62d89e57769b9fc",
+        "entitlementType": "EXECUTABLE",
+        "id": "c31c41f6fa8d4f49b62d89e57769b9fc",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "My Pet Hooligan My Pet Hooligan - Clownin Around Pack Offer",
+            "height": 1440,
+            "md5": "5605abce026a9b7ba5032faf2700f56c",
+            "size": 1190950,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-08-24T21:19:05.298Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-1tp3f.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download My Pet Hooligan My Pet Hooligan - Clownin Around Pack Offer",
+            "height": 1600,
+            "md5": "bc4ae100371047ad17b43f6b764564fa",
+            "size": 526670,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-08-24T21:19:04.979Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-8lxot.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-28T22:35:32.591Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "My Pet Hooligan - Clownin Around Pack",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-08-01T17:50:09.264Z",
+        "customAttributes": {},
+        "description": "My Pet Hooligan - Luchador Pack",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "42506ed19c6446bab9c75c24f1b78519",
+        "entitlementType": "EXECUTABLE",
+        "id": "42506ed19c6446bab9c75c24f1b78519",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "My Pet Hooligan My Pet Hooligan - Luchador Pack Offer",
+            "height": 1440,
+            "md5": "179ded32f86a81646577e4187c7e91d1",
+            "size": 3006295,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-08-24T21:23:47.063Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-1fsda.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download My Pet Hooligan My Pet Hooligan - Luchador Pack Offer",
+            "height": 1600,
+            "md5": "6ee96fceb0a9c706df0bcc057232fe5d",
+            "size": 1586928,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-08-24T21:23:43.490Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-1tpsp.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-28T22:35:29.648Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "My Pet Hooligan - Luchador Pack",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-08-10T20:44:30.074Z",
+        "customAttributes": {},
+        "description": "My Pet Hooligan - Undies Pack",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "abbdb35beb124d63960ed07179cb97df",
+        "entitlementType": "EXECUTABLE",
+        "id": "abbdb35beb124d63960ed07179cb97df",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "My Pet Hooligan My Pet Hooligan - Undies Pack Offer",
+            "height": 1440,
+            "md5": "a89c0e205aa94325feaa2ded7988a12b",
+            "size": 1667806,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-08-24T21:23:27.166Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-1jhyk.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download My Pet Hooligan My Pet Hooligan - Undies Pack Offer",
+            "height": 1600,
+            "md5": "682108243e98426bdf643b2e1dae54c2",
+            "size": 670555,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-08-24T21:23:27.280Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-18de6.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-28T22:35:29.648Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "My Pet Hooligan - Undies Pack",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-08-01T17:55:57.294Z",
+        "customAttributes": {},
+        "description": "My Pet Hooligan - Ninja Pack",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "1c7068eeb13e4959b48efac04719819b",
+        "entitlementType": "EXECUTABLE",
+        "id": "1c7068eeb13e4959b48efac04719819b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "My Pet Hooligan My Pet Hooligan - Ninja Pack Offer",
+            "height": 1440,
+            "md5": "54ad4dcb1b1a4f76770fab7d0f4d07b1",
+            "size": 1588423,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-08-24T21:24:01.790Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-j2vkn.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download My Pet Hooligan My Pet Hooligan - Ninja Pack Offer",
+            "height": 1600,
+            "md5": "1a85b6969a076ac91b824803d11dd941",
+            "size": 951041,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-08-24T21:24:01.532Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-1x3yj.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-28T22:35:32.591Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "My Pet Hooligan - Ninja Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-07-12T17:04:28.156Z",
+        "description": "My Pet Hooligan - Season 0: Founder Pass_SeasonPassAudience",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "1f2469487562472095344e71a4ee1979",
+        "entitlementType": "AUDIENCE",
+        "id": "1f2469487562472095344e71a4ee1979",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-02-28T22:35:30.434Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "My Pet Hooligan - Season 0: Founder Pass_SeasonPassAudience",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-08-09T02:40:00.832Z",
+        "customAttributes": {},
+        "description": "My Pet Hooligan - Amazon Drop 1: Max's Outfit",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "cca946698fb241a1a868c1630c0ad22c",
+        "entitlementType": "EXECUTABLE",
+        "id": "cca946698fb241a1a868c1630c0ad22c",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "My Pet Hooligan Amazon Drop 1 - Max's Outfit Offer",
+            "height": 1440,
+            "md5": "5d7babb89e7750003d44feb1b084208c",
+            "size": 180749,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-08-25T18:57:59.725Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-1sp6u.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download My Pet Hooligan Amazon Drop 1 - Max's Outfit Offer",
+            "height": 1600,
+            "md5": "23c348f5d7fbb0f699d7fd61177683f5",
+            "size": 96304,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-08-25T18:57:59.515Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-1b4ts.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-28T22:35:32.591Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "My Pet Hooligan - Amazon Drop 1: Max's Outfit",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-08-01T18:01:38.314Z",
+        "customAttributes": {},
+        "description": "My Pet Hooligan - Anime Girl Pack",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "1366d7266f414976963ee440a1aef7dc",
+        "entitlementType": "EXECUTABLE",
+        "id": "1366d7266f414976963ee440a1aef7dc",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "My Pet Hooligan My Pet Hooligan - Anime Girl Pack Offer",
+            "height": 1440,
+            "md5": "421cf6b923a46e215d746163ee1613d8",
+            "size": 3058945,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-08-24T21:19:23.005Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-1p05r.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download My Pet Hooligan My Pet Hooligan - Anime Girl Pack Offer",
+            "height": 1600,
+            "md5": "3a906146ff75a4c659b4b194cd5a08bc",
+            "size": 1262785,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-08-24T21:19:22.651Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-yshib.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-28T22:35:32.591Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "My Pet Hooligan - Anime Girl Pack",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-09-14T18:15:25.978Z",
+        "customAttributes": {},
+        "description": "My Pet Hooligan - Real OG Prisoner Pack",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "28efda946a824909a468619c0a7a7e6d",
+        "entitlementType": "EXECUTABLE",
+        "id": "28efda946a824909a468619c0a7a7e6d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "My Pet Hooligan Prisoner Pack for the Real OGs Offer",
+            "height": 1440,
+            "md5": "c1dc24ab37c8b26e416785e2f5790d03",
+            "size": 924648,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-09-14T18:29:05.156Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-1adhf.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download My Pet Hooligan Prisoner Pack for the Real OGs Offer",
+            "height": 1600,
+            "md5": "5d5455ecafe951f076f3dd87fa00ec67",
+            "size": 658620,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-09-14T18:29:05.015Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-jsh1y.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-28T22:35:32.591Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "My Pet Hooligan - Real OG Prisoner Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-07-20T18:06:14.666Z",
+        "description": "My Pet Hooligan - AMGI Developers Pack",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "f5a4eb450b9f42a9994032bd924e664b",
+        "entitlementType": "EXECUTABLE",
+        "id": "f5a4eb450b9f42a9994032bd924e664b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "My Pet Hooligan My Pet Hooligan - AMGI Developers Pack Offer",
+            "height": 1440,
+            "md5": "ca58df6c9076b3ed60916fff009ad64f",
+            "size": 174567,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-09-20T20:54:45.298Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-1wa1q.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download My Pet Hooligan My Pet Hooligan - AMGI Developers Pack Offer",
+            "height": 1600,
+            "md5": "4ea468071c7023031325425621306b52",
+            "size": 144738,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-09-20T20:54:45.224Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-y2ecc.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-28T22:35:32.591Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "My Pet Hooligan - AMGI Developers Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-09-22T18:26:21.936Z",
+        "description": "My Pet Hooligan - Amazon Drop 2: Jack-O-Lantern",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "b25fc3b76bb240c5bde084b0c5ba14f2",
+        "entitlementType": "EXECUTABLE",
+        "id": "b25fc3b76bb240c5bde084b0c5ba14f2",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "My Pet Hooligan My Pet Hooligan - Amazon Drop 2: Jack-O-Lantern Offer",
+            "height": 1440,
+            "md5": "bb462a6b1e095d8a77631e8cf80aa2ad",
+            "size": 1137298,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-09-22T18:35:42.228Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-1liuc.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download My Pet Hooligan My Pet Hooligan - Amazon Drop 2: Jack-O-Lantern Offer",
+            "height": 1600,
+            "md5": "d29c086280ab9aab7832bc9b3044d7cd",
+            "size": 901503,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-09-22T18:35:42.007Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-1mc95.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-28T22:35:32.591Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "My Pet Hooligan - Amazon Drop 2: Jack-O-Lantern",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-09-27T19:05:40.057Z",
+        "customAttributes": {},
+        "description": "My Pet Hooligan - Vampire Pack",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "13e6fab6851f459b8af27faff84bba00",
+        "entitlementType": "EXECUTABLE",
+        "id": "13e6fab6851f459b8af27faff84bba00",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "My Pet Hooligan My Pet Hooligan - Vampire Pack Offer",
+            "height": 1440,
+            "md5": "9cbb8096c062cf52122fa1b9e7b50fc4",
+            "size": 908243,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-10-05T18:45:06.933Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-17i43.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download My Pet Hooligan My Pet Hooligan - Vampire Pack Offer",
+            "height": 1600,
+            "md5": "d7d5a6bb9e52da2a11b2c4c5cb0b55d8",
+            "size": 1171078,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-10-05T18:45:07.090Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-17mlt.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-28T22:35:32.591Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "My Pet Hooligan - Vampire Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-10-13T17:42:12.412Z",
+        "description": "My Pet Hooligan - Amazon Drop 3: November",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "ac24cdf2cfb94307bd7aecf97895004b",
+        "entitlementType": "EXECUTABLE",
+        "id": "ac24cdf2cfb94307bd7aecf97895004b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "My Pet Hooligan My Pet Hooligan - Amazon Drop 3: November Offer",
+            "height": 1440,
+            "md5": "f52648fb8b9558a2a4e097d4f2d31e24",
+            "size": 970506,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-10-13T17:57:42.899Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-102eq.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download My Pet Hooligan My Pet Hooligan - Amazon Drop 3: November Offer",
+            "height": 1600,
+            "md5": "45c34dd4c5eed68fc744f05aa3abd625",
+            "size": 3377184,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-10-13T17:57:46.041Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-p751p.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-28T22:35:32.591Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "My Pet Hooligan - Amazon Drop 3: November",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-11-08T20:30:30.069Z",
+        "description": "MPH Amazon Drop 6: Feb - Heart Boxers",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "ff650cb352ee4c13b1b9394b04073d25",
+        "entitlementType": "EXECUTABLE",
+        "id": "ff650cb352ee4c13b1b9394b04073d25",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "My Pet Hooligan MPH Amazon Drop 6: Feb - Heart Boxers Offer",
+            "height": 1440,
+            "md5": "ada0232a95144e762de2ff2ecbdf8ec6",
+            "size": 799063,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-27T20:16:29.841Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-z0kww.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download My Pet Hooligan MPH Amazon Drop 6: Feb - Heart Boxers Offer",
+            "height": 1600,
+            "md5": "2660bc5947d9dadcf23c18b302d9f256",
+            "size": 488135,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-27T20:16:29.387Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-1ej5f.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-28T22:35:32.591Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "MPH Amazon Drop 6: Feb - Heart Boxers",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-11-08T20:25:47.636Z",
+        "customAttributes": {},
+        "description": "My Pet Hooligan - Mall Santa Pack",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "b32cc67c0b784c13b3ad0d525f0a8c9a",
+        "entitlementType": "EXECUTABLE",
+        "id": "b32cc67c0b784c13b3ad0d525f0a8c9a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "My Pet Hooligan My Pet Hooligan - Mall Santa Pack Offer",
+            "height": 1440,
+            "md5": "8c375ab96361b8ff4556a1ab77d541b6",
+            "size": 2381028,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-27T18:21:00.664Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-s3p2w.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download My Pet Hooligan My Pet Hooligan - Mall Santa Pack Offer",
+            "height": 1600,
+            "md5": "986757525373c647d8fbcc688796d66c",
+            "size": 1170433,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-27T18:21:00.294Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-kgqyq.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-28T22:35:32.591Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "My Pet Hooligan - Mall Santa Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-11-14T18:29:28.250Z",
+        "description": "My Pet Hooligan - Nerd Pack",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "4ac07ab0a78548ddb72196b3d2c303fd",
+        "entitlementType": "EXECUTABLE",
+        "id": "4ac07ab0a78548ddb72196b3d2c303fd",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "My Pet Hooligan My Pet Hooligan - Nerd Pack Offer",
+            "height": 1440,
+            "md5": "2aa7236afe8f349f23f44c2d56a98c2f",
+            "size": 1322295,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-27T20:24:30.839Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-1vsmn.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download My Pet Hooligan My Pet Hooligan - Nerd Pack Offer",
+            "height": 1600,
+            "md5": "4882a103b0199fac197a198820c4bac4",
+            "size": 867015,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-27T20:24:30.527Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-e3b8h.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-28T22:35:32.591Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "My Pet Hooligan - Nerd Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-11-08T20:28:59.431Z",
+        "description": "My Pet Hooligan - New Year New Me Pack",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "16a5248f88a04cf8825f008e7c37141c",
+        "entitlementType": "EXECUTABLE",
+        "id": "16a5248f88a04cf8825f008e7c37141c",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "My Pet Hooligan My Pet Hooligan - New Year New Me Pack Offer",
+            "height": 1440,
+            "md5": "ab2ba04fd57c281443ecd1653349ef1e",
+            "size": 2492561,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-01-04T18:59:01.976Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-t7lk7.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download My Pet Hooligan My Pet Hooligan - New Year New Me Pack Offer",
+            "height": 1600,
+            "md5": "5cd1991f3af6ccb9b70cea0ef8c55cd8",
+            "size": 1387022,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-27T18:42:47.133Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-h5mng.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-28T22:35:29.648Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "My Pet Hooligan - New Year New Me Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-11-08T20:27:28.294Z",
+        "description": "My Pet Hooligan - Ugly Christmas Sweater Pack",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "2b031283fa884e0ca2a9984a908de605",
+        "entitlementType": "EXECUTABLE",
+        "id": "2b031283fa884e0ca2a9984a908de605",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "My Pet Hooligan My Pet Hooligan - Ugly Christmas Sweater Pack Offer",
+            "height": 1440,
+            "md5": "ee84bbe4052ffea199b40415fdbdd456",
+            "size": 2224533,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-20T20:08:53.049Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-11frq.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download My Pet Hooligan My Pet Hooligan - Ugly Christmas Sweater Pack Offer",
+            "height": 1600,
+            "md5": "0df6b1cf8eb6297072ddd9808a2e1f3a",
+            "size": 1147207,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-20T20:08:52.813Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-1knhb.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-28T22:35:32.591Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "My Pet Hooligan - Ugly Christmas Sweater Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-11-08T20:26:43.107Z",
+        "description": "MPH Amazon Drop 4: Dec - Reindeer Antlers",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "12a9a0631a134c89af6eb6c8c2baa43e",
+        "entitlementType": "EXECUTABLE",
+        "id": "12a9a0631a134c89af6eb6c8c2baa43e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "My Pet Hooligan MPH Amazon Drop 4: Dec - Reindeer Antlers Offer",
+            "height": 1440,
+            "md5": "8590ffb5502226add1428f63c0c46036",
+            "size": 3676904,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-27T18:12:26.305Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-u7pzk.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download My Pet Hooligan MPH Amazon Drop 4: Dec - Reindeer Antlers Offer",
+            "height": 1600,
+            "md5": "5cf15e2b06bf8bd22ef9e846500fca9b",
+            "size": 1877348,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-27T18:12:25.205Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-hpph2.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-28T22:35:32.591Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "MPH Amazon Drop 4: Dec - Reindeer Antlers",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-11-08T20:28:22.713Z",
+        "customAttributes": {},
+        "description": "MPH Amazon Drop 5: Jan - New Years Party",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "09ad511098ac4401ad62b5bed9db31d0",
+        "entitlementType": "EXECUTABLE",
+        "id": "09ad511098ac4401ad62b5bed9db31d0",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "My Pet Hooligan MPH Amazon Drop 5: Jan - New Years Party Offer",
+            "height": 1440,
+            "md5": "538f1ad5315dd37375b1a662866a6a37",
+            "size": 1337630,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-27T18:56:41.272Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-174am.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download My Pet Hooligan MPH Amazon Drop 5: Jan - New Years Party Offer",
+            "height": 1600,
+            "md5": "a658eb511fafb3c5b4724090bf060c14",
+            "size": 652513,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-27T18:56:40.859Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-1agsu.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-28T22:35:32.591Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "MPH Amazon Drop 5: Jan - New Years Party",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-11-08T20:31:47.760Z",
+        "description": "My Pet Hooligan - Cheerleader Pack",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "26c0fa858151445f8fa204c8dfce036f",
+        "entitlementType": "EXECUTABLE",
+        "id": "26c0fa858151445f8fa204c8dfce036f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "My Pet Hooligan My Pet Hooligan - Cheerleader Pack Offer",
+            "height": 1440,
+            "md5": "590c8adbfd2b54ba663cade66a1c38d7",
+            "size": 1554147,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-27T19:40:34.495Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-yxz60.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download My Pet Hooligan My Pet Hooligan - Cheerleader Pack Offer",
+            "height": 1600,
+            "md5": "f8b1a513536a76c576d2bad356589556",
+            "size": 901985,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-27T19:40:34.006Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-1wag6.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-28T22:35:32.591Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "My Pet Hooligan - Cheerleader Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-11-08T20:29:39.815Z",
+        "description": "My Pet Hooligan - Cupid Pack",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "38057088257b405aace5dc0f4a9d7b27",
+        "entitlementType": "EXECUTABLE",
+        "id": "38057088257b405aace5dc0f4a9d7b27",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "My Pet Hooligan My Pet Hooligan - Cupid Pack Offer",
+            "height": 1440,
+            "md5": "964a4f4beadde2a554717263ce425bd4",
+            "size": 1468547,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-27T19:52:38.071Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-2p7tb.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download My Pet Hooligan My Pet Hooligan - Cupid Pack Offer",
+            "height": 1600,
+            "md5": "6183ca2ddec6b29659b75c8bb260f172",
+            "size": 917305,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-27T19:52:37.775Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-1q0dy.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-28T22:35:32.591Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "My Pet Hooligan - Cupid Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-12-13T20:43:03.246Z",
+        "description": "Secret Agent Stache",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "7ade4b240b294fa29002dabae814d144",
+        "entitlementType": "EXECUTABLE",
+        "id": "7ade4b240b294fa29002dabae814d144",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "My Pet Hooligan Secret Agent Stache Offer",
+            "height": 1440,
+            "md5": "ca58df6c9076b3ed60916fff009ad64f",
+            "size": 174567,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-12-13T20:45:27.882Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-1dkjp.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download My Pet Hooligan Secret Agent Stache Offer",
+            "height": 1600,
+            "md5": "4ea468071c7023031325425621306b52",
+            "size": 144738,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-12-13T20:45:27.822Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-1677t.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-28T22:35:29.648Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Secret Agent Stache",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-01-03T19:03:52.995Z",
+        "description": "MPH Amazon Drop 8: April - Chug Zone",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "94f9cd0fca2c43d6ae30e9772925b1d9",
+        "entitlementType": "EXECUTABLE",
+        "id": "94f9cd0fca2c43d6ae30e9772925b1d9",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "My Pet Hooligan MPH Amazon Drop 8: April - Chug Zone Offer",
+            "height": 1440,
+            "md5": "5d7babb89e7750003d44feb1b084208c",
+            "size": 180749,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-01-03T20:20:41.386Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-1y8ds.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download My Pet Hooligan MPH Amazon Drop 8: April - Chug Zone Offer",
+            "height": 1600,
+            "md5": "23c348f5d7fbb0f699d7fd61177683f5",
+            "size": 96304,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-01-03T20:20:40.843Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-k377r.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-28T22:35:32.591Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "MPH Amazon Drop 8: April - Chug Zone",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-01-03T19:03:10.550Z",
+        "description": "MPH Amazon Drop 7: March - Kiss Me",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "112aa63a3e934022becf536eadbe7386",
+        "entitlementType": "EXECUTABLE",
+        "id": "112aa63a3e934022becf536eadbe7386",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "My Pet Hooligan MPH Amazon Drop 7: March - Kiss Me Offer",
+            "height": 1440,
+            "md5": "5d7babb89e7750003d44feb1b084208c",
+            "size": 180749,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-01-03T20:16:07.342Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-ab7mh.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download My Pet Hooligan MPH Amazon Drop 7: March - Kiss Me Offer",
+            "height": 1600,
+            "md5": "23c348f5d7fbb0f699d7fd61177683f5",
+            "size": 96304,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-01-03T20:16:07.403Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-unbqf.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-28T22:35:29.648Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "MPH Amazon Drop 7: March - Kiss Me",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-03-07T23:14:16.061Z",
+        "customAttributes": {},
+        "description": "MPH Amazon Drop 9: May - Metal Head",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "bfb60f399fa84680af0a84f12889e813",
+        "entitlementType": "EXECUTABLE",
+        "id": "bfb60f399fa84680af0a84f12889e813",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "My Pet Hooligan MPH Amazon Drop 9: May - Hooli Maiden Offer",
+            "height": 1440,
+            "md5": "5d7babb89e7750003d44feb1b084208c",
+            "size": 180749,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-03-07T23:21:43.087Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-199qb.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download My Pet Hooligan MPH Amazon Drop 9: May - Hooli Maiden Offer",
+            "height": 1600,
+            "md5": "23c348f5d7fbb0f699d7fd61177683f5",
+            "size": 96304,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-03-07T23:21:43.014Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-1tkd4.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-02-28T22:35:32.591Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "MPH Amazon Drop 9: May - Metal Head",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-07-12T16:55:38.418Z",
+        "description": "My Pet Hooligan - 13500 Hoolibux_ConsumableAudience",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "d24dccd6864745b8b99d98495b68c87c",
+        "entitlementType": "AUDIENCE",
+        "id": "d24dccd6864745b8b99d98495b68c87c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-28T22:35:29.648Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "My Pet Hooligan - 13500 Hoolibux_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-07-12T16:54:24.652Z",
+        "description": "My Pet Hooligan - 5000_ConsumableAudience",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "91c2c36aafef4295b038d8ac59f49d2a",
+        "entitlementType": "AUDIENCE",
+        "id": "91c2c36aafef4295b038d8ac59f49d2a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-28T22:35:31.333Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "My Pet Hooligan - 5000_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-07-11T23:38:34.575Z",
+        "description": "1000 Hoolibux_ConsumableAudience",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "ab898527dcb3489787ef6a3ed5f60da1",
+        "entitlementType": "AUDIENCE",
+        "id": "ab898527dcb3489787ef6a3ed5f60da1",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-28T22:35:30.434Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1000 Hoolibux_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-07-12T16:52:12.255Z",
+        "description": "My Pet Hooligan - 2800 Hoolibux_ConsumableAudience",
+        "developer": "AMGI Animation",
+        "developerId": "o-tfd5t9ydf6e6nug3vdvllqud3qklfl",
+        "endOfSupport": false,
+        "entitlementName": "8e3fc58384f1434b957e30930f554fda",
+        "entitlementType": "AUDIENCE",
+        "id": "8e3fc58384f1434b957e30930f554fda",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-28T22:35:31.333Z",
+        "mainGameItem": {
+          "id": "5835c5d90779470b961e9db51851c652",
+          "namespace": "ef233d1e2619445a887f0380266aa4b5",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "5835c5d90779470b961e9db51851c652",
+            "namespace": "ef233d1e2619445a887f0380266aa4b5",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ef233d1e2619445a887f0380266aa4b5",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "My Pet Hooligan - 2800 Hoolibux_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "5835c5d90779470b961e9db51851c652",
+    "entitlementType": "EXECUTABLE",
+    "id": "5835c5d90779470b961e9db51851c652",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "My Pet Hooligan Offer",
+        "height": 1440,
+        "md5": "d13ac0389dadd1a26b97898d72498bd8",
+        "size": 1316678,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-06-15T23:06:17.908Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-2pdte.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download My Pet Hooligan Offer",
+        "height": 1600,
+        "md5": "10067611c61e28b61b0b928a80eb9c75",
+        "size": 2315385,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-06-15T23:06:18.147Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/c7686614cdfc421b933b32a37a5eb6ce/my-pet-hooligan-1t7n4.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-02-28T22:35:32.591Z",
+    "mainGameItemList": [],
+    "namespace": "ef233d1e2619445a887f0380266aa4b5",
+    "releaseInfo": [
+      {
+        "appId": "0ddc48f6812b447e9834bd7a474b627b",
+        "id": "01334eb4ccb744128208dc16976d606a",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "My Pet Hooligan",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "8058c620ecc04ad59ec3c58243682a00"
+    },
+    "rev": 1
+  }
+}

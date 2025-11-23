@@ -1,0 +1,113 @@
+{
+	"f3720f53cccb4a20841a392a8ea0457f": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/egs-aermemoriesofold-forgottenkey-s2-1200x1600-242880341.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Forgotten Key",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Daedalic Entertainment",
+			"description": "**Transform into a bird** and fly to explore and experience a vibrant world of floating islands in the sky. Venture down into lost ancient ruins where each step leads you closer to the end of the world.\n\n**The gods of old are forgotten**, lost in the events that shattered the world, leaving only fragments of islands in the sky. This mystic world of endless skies, colorful islands and ancient ruins is in danger of falling into darkness. As one of the last few shapeshifters, you are sent on a pilgrimage to the Land of Gods. Uncover the secrets that will help save reality itself.\n\n# Features\n\n- Fly and explore by transforming into a bird at will\n- A large open world of hidden secrets and new discoveries\n- A pilgrimage of mysteries, puzzles and temples\n- Strong focus on atmosphere and aesthetics with a vibrant minimalist art style",
+			"shortDescription": "Transform into a bird and fly to explore and experience a vibrant world of floating islands in the sky. Venture down into lost ancient ruins where each step leads you closer to the end of the world.",
+			"title": "AER Memories of Old",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Win 7, 8, 10, 64bit",
+				"recommended": "Win 7, 8, 10, 64bit"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "3 GHz Dual Core CPU",
+				"recommended": "3GHz Quad Core CPU"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "4 GB RAM",
+				"recommended": "4 GB RAM"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Storage",
+				"minimum": "3 GB",
+				"recommended": "3 GB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Direct X",
+				"minimum": "Version 11",
+				"recommended": "Version 11"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": "GeForce GTX 560, AMD HD 6870",
+				"recommended": "GeForce GTX 660TI, AMD HD 7800 series"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/aer-memories-of-old"
+	},
+	"__timestamp": {
+		"f3720f53cccb4a20841a392a8ea0457f": "Sat Oct 11 2025 16:57:13 GMT+0530 (India Standard Time)",
+		"b7b42e2078524ab386a8b2a9856ef557": "Sat Oct 11 2025 17:54:56 GMT+0530 (India Standard Time)"
+	},
+	"b7b42e2078524ab386a8b2a9856ef557": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/egs-greeneye-sloclap-s2-1200x1600-e92cdba50446.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Sloclap",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Sloclap",
+			"description": "# New content available | Enter the Arenas\nItching for some more good ol' Kung Fu action? The Arenas free expansion adds an entirely new game mode, featuring 15 dynamic locations and 120 challenges that will put your Kung Fu to the test! Gear up for spectacular combats, brutal opponents, and endless opportunities to refine your moves.\n\n# Is one life enough to know Kung Fu? \nWhether you choose to play as a male or a female character, in Sifu, you will ponder that question on your path for revenge, hunting down your family’s assassins. One against all, you have no allies, countless enemies, and a mysterious amulet to bring you back to life every time you die. Yet, be warned! Your secret weapon comes with a hefty price to pay: aging and its consequences. \n\n# Learning by fire \nYour enemies don’t wait their turn, and they don’t broadcast their intent. Dodge, parry, strike, use combos and be like water making its way through captivating environments. Learn how to master your art, whether by fighting through the underbelly of a nightclub, scrambling through a refined gallery to avoid getting surrounded, or vertically navigating a towering office building.\n\n# Adaptation is survival\nCareful positioning and clever use of the environment to your advantage are key to your survival. Use everything at your disposal: throwable objects, makeshift weapons, windows, and ledges. The odds are stacked against you, and you will be offered no mercy.\n\n# Training never ends\nKung Fu is mastery through practice, a path for both the body and the mind. Learn from your errors, unlock unique skills, and find the strength within yourself to master the devastating techniques of Pak-Mei Kung Fu.\n\n![sifu Image](https://cdn2.unrealengine.com/egs-sifustandardedition-sloclap-g2-00-700x815-94e54c8030a7.jpg)",
+			"shortDescription": "Sifu is a realistic third-person brawler with tight Kung Fu combat mechanics and cinematic martial arts action embarking you on a path for revenge.",
+			"title": "SIFU",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Windows OS",
+				"minimum": "Windows 8.1",
+				"recommended": "Windows 10"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Windows Processor",
+				"minimum": "AMD FX-4350 or Intel Core i5-3470 or equivalent",
+				"recommended": "AMD FX-9590 or Intel Core i7-6700K or equivalent"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Windows Memory",
+				"minimum": "8 GB RAM",
+				"recommended": "10 GB RAM"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Windows Storage",
+				"minimum": "22 GB",
+				"recommended": "22 GB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Windows Graphics",
+				"minimum": "Radeon R7 250 or GeForce GT 640 or equivalent",
+				"recommended": "GeForce GTX 970 or Radeon R9 390X or equivalent"
+			}
+		],
+		"releaseDate": "2022-02-08T15:00:00",
+		"storeUrl": "https://www.epicgames.com/store/product/sifu"
+	}
+}

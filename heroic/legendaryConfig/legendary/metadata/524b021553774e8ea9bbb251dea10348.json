@@ -1,0 +1,460 @@
+{
+  "app_name": "524b021553774e8ea9bbb251dea10348",
+  "app_title": "REPLIKANT",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "524b021553774e8ea9bbb251dea10348",
+      "asset_id": "524b021553774e8ea9bbb251dea10348",
+      "build_version": "41962",
+      "catalog_item_id": "37d60b5ba882450f8e101062e1051dbf",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "75bb992f5e4041c48c52d887347b77f0",
+        "update_type": "PATCH"
+      },
+      "namespace": "385946aba28e445f990b57c8b706a9ba",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567SthM3CppjX6NFqVSjfYoBg6G",
+    "categories": [
+      {
+        "path": "software"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-09-07T20:22:24.341Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "REPLIKANT73ZNF"
+      }
+    },
+    "description": "Bring your ideas to life with the world's most user-friendly 3D virtual production platform.",
+    "developer": "My Team DNABLOCK",
+    "developerId": "o-v8j3awmdfgp2b35ct5j9zds3zcrqjj",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-11-27T18:28:01.674Z",
+        "description": "1000 Replikant Credits_ConsumableAudience",
+        "developer": "My Team DNABLOCK",
+        "developerId": "o-v8j3awmdfgp2b35ct5j9zds3zcrqjj",
+        "endOfSupport": false,
+        "entitlementName": "a2c9812baf6641759371096f03b58956",
+        "entitlementType": "AUDIENCE",
+        "id": "a2c9812baf6641759371096f03b58956",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-08T14:21:31.680Z",
+        "mainGameItem": {
+          "id": "37d60b5ba882450f8e101062e1051dbf",
+          "namespace": "385946aba28e445f990b57c8b706a9ba",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "37d60b5ba882450f8e101062e1051dbf",
+            "namespace": "385946aba28e445f990b57c8b706a9ba",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "385946aba28e445f990b57c8b706a9ba",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1000 Replikant Credits_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-12-01T13:53:39.881Z",
+        "description": "1 Month CLASSIC Pass_ConsumableAudience",
+        "developer": "My Team DNABLOCK",
+        "developerId": "o-v8j3awmdfgp2b35ct5j9zds3zcrqjj",
+        "endOfSupport": false,
+        "entitlementName": "1dd1c05b89a64afe8f675503e74ee4e1",
+        "entitlementType": "AUDIENCE",
+        "id": "1dd1c05b89a64afe8f675503e74ee4e1",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-08T14:21:31.680Z",
+        "mainGameItem": {
+          "id": "37d60b5ba882450f8e101062e1051dbf",
+          "namespace": "385946aba28e445f990b57c8b706a9ba",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "37d60b5ba882450f8e101062e1051dbf",
+            "namespace": "385946aba28e445f990b57c8b706a9ba",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "385946aba28e445f990b57c8b706a9ba",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1 Month CLASSIC Pass_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-11-29T13:15:47.842Z",
+        "description": "1 Month PROFESSIONAL Pass_ConsumableAudience",
+        "developer": "My Team DNABLOCK",
+        "developerId": "o-v8j3awmdfgp2b35ct5j9zds3zcrqjj",
+        "endOfSupport": false,
+        "entitlementName": "8637ecde8523417babe97d3cca942fb1",
+        "entitlementType": "AUDIENCE",
+        "id": "8637ecde8523417babe97d3cca942fb1",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-08T14:21:32.376Z",
+        "mainGameItem": {
+          "id": "37d60b5ba882450f8e101062e1051dbf",
+          "namespace": "385946aba28e445f990b57c8b706a9ba",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "37d60b5ba882450f8e101062e1051dbf",
+            "namespace": "385946aba28e445f990b57c8b706a9ba",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "385946aba28e445f990b57c8b706a9ba",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1 Month PROFESSIONAL Pass_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-11-27T18:13:21.406Z",
+        "description": "100 Replikant Credits_ConsumableAudience",
+        "developer": "My Team DNABLOCK",
+        "developerId": "o-v8j3awmdfgp2b35ct5j9zds3zcrqjj",
+        "endOfSupport": false,
+        "entitlementName": "ed549b6661e84cf8a24c55513b6fb26f",
+        "entitlementType": "AUDIENCE",
+        "id": "ed549b6661e84cf8a24c55513b6fb26f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-08T14:21:31.680Z",
+        "mainGameItem": {
+          "id": "37d60b5ba882450f8e101062e1051dbf",
+          "namespace": "385946aba28e445f990b57c8b706a9ba",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "37d60b5ba882450f8e101062e1051dbf",
+            "namespace": "385946aba28e445f990b57c8b706a9ba",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "385946aba28e445f990b57c8b706a9ba",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "100 Replikant Credits_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-12-01T13:53:05.276Z",
+        "description": "3 Month CREATOR Pass_ConsumableAudience",
+        "developer": "My Team DNABLOCK",
+        "developerId": "o-v8j3awmdfgp2b35ct5j9zds3zcrqjj",
+        "endOfSupport": false,
+        "entitlementName": "c941ec4fbd734e68ad0ae9ab15f6144b",
+        "entitlementType": "AUDIENCE",
+        "id": "c941ec4fbd734e68ad0ae9ab15f6144b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-08T14:21:31.680Z",
+        "mainGameItem": {
+          "id": "37d60b5ba882450f8e101062e1051dbf",
+          "namespace": "385946aba28e445f990b57c8b706a9ba",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "37d60b5ba882450f8e101062e1051dbf",
+            "namespace": "385946aba28e445f990b57c8b706a9ba",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "385946aba28e445f990b57c8b706a9ba",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "3 Month CREATOR Pass_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-11-29T13:32:53.230Z",
+        "description": "12 Month PROFESSIONAL Pass_ConsumableAudience",
+        "developer": "My Team DNABLOCK",
+        "developerId": "o-v8j3awmdfgp2b35ct5j9zds3zcrqjj",
+        "endOfSupport": false,
+        "entitlementName": "a2a3397a9fb447fbb16f4512b4a7f402",
+        "entitlementType": "AUDIENCE",
+        "id": "a2a3397a9fb447fbb16f4512b4a7f402",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-08T14:21:31.680Z",
+        "mainGameItem": {
+          "id": "37d60b5ba882450f8e101062e1051dbf",
+          "namespace": "385946aba28e445f990b57c8b706a9ba",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "37d60b5ba882450f8e101062e1051dbf",
+            "namespace": "385946aba28e445f990b57c8b706a9ba",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "385946aba28e445f990b57c8b706a9ba",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "12 Month PROFESSIONAL Pass_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-12-01T13:52:49.265Z",
+        "description": "1 Month CREATOR Pass_ConsumableAudience",
+        "developer": "My Team DNABLOCK",
+        "developerId": "o-v8j3awmdfgp2b35ct5j9zds3zcrqjj",
+        "endOfSupport": false,
+        "entitlementName": "4dd1c4fff0d64431a2eba3c76ad00762",
+        "entitlementType": "AUDIENCE",
+        "id": "4dd1c4fff0d64431a2eba3c76ad00762",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-08T14:21:31.680Z",
+        "mainGameItem": {
+          "id": "37d60b5ba882450f8e101062e1051dbf",
+          "namespace": "385946aba28e445f990b57c8b706a9ba",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "37d60b5ba882450f8e101062e1051dbf",
+            "namespace": "385946aba28e445f990b57c8b706a9ba",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "385946aba28e445f990b57c8b706a9ba",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1 Month CREATOR Pass_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-11-29T13:54:28.851Z",
+        "description": "1 Month STARTER Pass_ConsumableAudience",
+        "developer": "My Team DNABLOCK",
+        "developerId": "o-v8j3awmdfgp2b35ct5j9zds3zcrqjj",
+        "endOfSupport": false,
+        "entitlementName": "eb343b7683c348ed91536920d9304e12",
+        "entitlementType": "AUDIENCE",
+        "id": "eb343b7683c348ed91536920d9304e12",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-05-08T14:21:31.680Z",
+        "mainGameItem": {
+          "id": "37d60b5ba882450f8e101062e1051dbf",
+          "namespace": "385946aba28e445f990b57c8b706a9ba",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "37d60b5ba882450f8e101062e1051dbf",
+            "namespace": "385946aba28e445f990b57c8b706a9ba",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "385946aba28e445f990b57c8b706a9ba",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1 Month STARTER Pass_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-02-16T12:30:04.058Z",
+        "customAttributes": {},
+        "description": "Expansion 1 for Replikant subscribers",
+        "developer": "My Team DNABLOCK",
+        "developerId": "o-v8j3awmdfgp2b35ct5j9zds3zcrqjj",
+        "endOfSupport": false,
+        "entitlementName": "250e3333b616423fac85f50d778ca2e1",
+        "entitlementType": "EXECUTABLE",
+        "id": "250e3333b616423fac85f50d778ca2e1",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "REPLIKANT Sport & Music Offer",
+            "height": 1440,
+            "md5": "818283d9a659f2c273b9b5c5bb35f059",
+            "size": 3063792,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-04-02T10:47:51.846Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/a79f60733b8d46e7b3e9568a13d9ef56/replikant-xcqwk.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download REPLIKANT Sport & Music Offer",
+            "height": 1600,
+            "md5": "c5027debf49abe04aef639783736cd87",
+            "size": 1612901,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-04-02T10:47:52.214Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/a79f60733b8d46e7b3e9568a13d9ef56/replikant-8lkih.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-05-08T14:21:31.680Z",
+        "mainGameItem": {
+          "id": "37d60b5ba882450f8e101062e1051dbf",
+          "namespace": "385946aba28e445f990b57c8b706a9ba",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "37d60b5ba882450f8e101062e1051dbf",
+            "namespace": "385946aba28e445f990b57c8b706a9ba",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "385946aba28e445f990b57c8b706a9ba",
+        "releaseInfo": [
+          {
+            "appId": "bc3f875d0f344d56bb012507efcf8f82",
+            "id": "15b85047b3124eac80790a1f93863ca8",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Expansion 1 for Replikant subscribers",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "37d60b5ba882450f8e101062e1051dbf",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [],
+    "id": "37d60b5ba882450f8e101062e1051dbf",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "REPLIKANT Offer",
+        "height": 1440,
+        "md5": "d3bc16394626dec779416a7ff28e8397",
+        "size": 1631904,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-11-20T21:53:50.778Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/a79f60733b8d46e7b3e9568a13d9ef56/replikant-42wc9.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download REPLIKANT Offer",
+        "height": 1600,
+        "md5": "6f487a3bf9500a2f69058de816688888",
+        "size": 833326,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-11-20T21:53:50.529Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/a79f60733b8d46e7b3e9568a13d9ef56/replikant-pwnx5.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-05-08T14:21:31.680Z",
+    "mainGameItemList": [],
+    "namespace": "385946aba28e445f990b57c8b706a9ba",
+    "releaseInfo": [
+      {
+        "appId": "524b021553774e8ea9bbb251dea10348",
+        "id": "af67e749528243d283036eebfd632418",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "REPLIKANT",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

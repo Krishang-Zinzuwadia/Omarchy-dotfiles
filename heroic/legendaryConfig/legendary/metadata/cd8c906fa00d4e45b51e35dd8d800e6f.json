@@ -1,0 +1,112 @@
+{
+  "app_name": "cd8c906fa00d4e45b51e35dd8d800e6f",
+  "app_title": "Armored Warfare",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "cd8c906fa00d4e45b51e35dd8d800e6f",
+      "asset_id": "cd8c906fa00d4e45b51e35dd8d800e6f",
+      "build_version": "200",
+      "catalog_item_id": "6f9b6c2c69a5447db8c2945cc926f64e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "870929e8b7fb4e2b986c1a3f0a6ff38d",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567fKsr46KFIM8kIzrsgYvkz6CV",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-01-15T08:48:44.902Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "ArmoredWarfare"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "870929e8b7fb4e2b986c1a3f0a6ff38d"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Armored Warfare",
+    "developer": "Postmeta Games",
+    "developerId": "o-ptrc3tlq66gg7gsku56pwafjwzs23b",
+    "endOfSupport": false,
+    "entitlementName": "6f9b6c2c69a5447db8c2945cc926f64e",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "6f9b6c2c69a5447db8c2945cc926f64e",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "e88eb8f55a98c97d435840f85b15f0b1",
+        "size": 304098,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-05-24T21:34:48.071Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/4a1a1ef1-5477-4559-b133-617ff13696a7_2560x1440-e88eb8f55a98c97d435840f85b15f0b1",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "676900003da381cf00278052b83524dd",
+        "size": 150286,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-05-24T21:34:57.918Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/3eea8941-8aa8-45e9-bb7a-3b0a4914a0d4_1200x1600-676900003da381cf00278052b83524dd",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-04-21T12:02:29.477Z",
+    "mainGameItemList": [],
+    "namespace": "870929e8b7fb4e2b986c1a3f0a6ff38d",
+    "releaseInfo": [
+      {
+        "appId": "cd8c906fa00d4e45b51e35dd8d800e6f",
+        "dateAdded": "2021-01-15T00:00:00.000Z",
+        "id": "e108472662ae47a5b1ff0b1a04c58315",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Armored Warfare",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

@@ -1,0 +1,483 @@
+{
+  "app_name": "5fc579fbef6a4bf99171861b68b8fcb2",
+  "app_title": "HUMANKIND\u2122",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "5fc579fbef6a4bf99171861b68b8fcb2",
+      "asset_id": "5fc579fbef6a4bf99171861b68b8fcb2",
+      "build_version": "Hg_ShoeBill_1.29.4732+128729ad75_Epic-Windows-Mono-Release",
+      "catalog_item_id": "1708848cdb2842d2bc2ce3b536b26b0d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "02c14a01b7044db98de3f3a10813a42e",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi456749QdWl8Kb50KKN4N4r7XW7qc",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-09-08T17:30:29.527Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/Humankind/Save Files/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/Humankind/Save Files/Cloud"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "HUMANKIND"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "500"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "HUMANKIND\u2122",
+    "developer": "SEGA of Europe",
+    "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-01-12T18:15:15.782Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "ScorpioAmplifiedRewardsDLC",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "dbfeef0120094e648ce7ecf2de30defb",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "dbfeef0120094e648ce7ecf2de30defb",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-01-12T18:15:15.782Z",
+        "mainGameItem": {
+          "id": "1708848cdb2842d2bc2ce3b536b26b0d",
+          "namespace": "02c14a01b7044db98de3f3a10813a42e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "1708848cdb2842d2bc2ce3b536b26b0d",
+            "namespace": "02c14a01b7044db98de3f3a10813a42e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "02c14a01b7044db98de3f3a10813a42e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ScorpioAmplifiedRewardsDLC",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-08-18T18:25:04.960Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "ScorpioDigitalDeluxeUpgradeAudience",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "ce92e88dbc934d7981144450ce981bb7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ce92e88dbc934d7981144450ce981bb7",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-01-18T14:56:04.264Z",
+        "mainGameItem": {
+          "id": "1708848cdb2842d2bc2ce3b536b26b0d",
+          "namespace": "02c14a01b7044db98de3f3a10813a42e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "1708848cdb2842d2bc2ce3b536b26b0d",
+            "namespace": "02c14a01b7044db98de3f3a10813a42e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "02c14a01b7044db98de3f3a10813a42e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "technicalDetails": "this is granting the correct audience. Partner issue made us have to swap the edition audience and the upgrade audience. They are functioning as intended.",
+        "title": "ScorpioDigitalDeluxeUpgradeAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-11-11T22:54:07.368Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "HUMANKIND\u2122 - Cultures of Africa audience",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "488ff8fb35574937944988933ae7f162",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "488ff8fb35574937944988933ae7f162",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-01-18T14:56:04.252Z",
+        "mainGameItem": {
+          "id": "1708848cdb2842d2bc2ce3b536b26b0d",
+          "namespace": "02c14a01b7044db98de3f3a10813a42e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "1708848cdb2842d2bc2ce3b536b26b0d",
+            "namespace": "02c14a01b7044db98de3f3a10813a42e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "02c14a01b7044db98de3f3a10813a42e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "HUMANKIND\u2122 - Cultures of Africa audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-12-02T21:21:05.707Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "NL DLC Audience",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "c7347f8d58b94eca91451f023a1b3b8b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c7347f8d58b94eca91451f023a1b3b8b",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2023-02-01T17:26:58.297Z",
+        "mainGameItem": {
+          "id": "1708848cdb2842d2bc2ce3b536b26b0d",
+          "namespace": "02c14a01b7044db98de3f3a10813a42e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "1708848cdb2842d2bc2ce3b536b26b0d",
+            "namespace": "02c14a01b7044db98de3f3a10813a42e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "02c14a01b7044db98de3f3a10813a42e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "NL DLC Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-11-23T17:21:16.446Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "HUMANKIND\u2122 - Cultures of Latin America Audience",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "a437b81eada3476fb9dc193099cb6f00",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a437b81eada3476fb9dc193099cb6f00",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-01-18T14:56:04.258Z",
+        "mainGameItem": {
+          "id": "1708848cdb2842d2bc2ce3b536b26b0d",
+          "namespace": "02c14a01b7044db98de3f3a10813a42e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "1708848cdb2842d2bc2ce3b536b26b0d",
+            "namespace": "02c14a01b7044db98de3f3a10813a42e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "02c14a01b7044db98de3f3a10813a42e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "HUMANKIND\u2122 - Cultures of Latin America Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-11-29T19:02:37.850Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "HUMANKIND\u2122 - Together We Rule Expansion Pack Audience",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "9b6ef8834ad94d41878774f840dc5d77",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9b6ef8834ad94d41878774f840dc5d77",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-01-18T14:56:04.256Z",
+        "mainGameItem": {
+          "id": "1708848cdb2842d2bc2ce3b536b26b0d",
+          "namespace": "02c14a01b7044db98de3f3a10813a42e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "1708848cdb2842d2bc2ce3b536b26b0d",
+            "namespace": "02c14a01b7044db98de3f3a10813a42e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "02c14a01b7044db98de3f3a10813a42e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "HUMANKIND\u2122 - Together We Rule Expansion Pack Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-04-04T15:24:57.565Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "HUMANKIND\u2122 - Para Bellum Wonders Pack",
+        "developer": "SEGA of Europe",
+        "developerId": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+        "endOfSupport": false,
+        "entitlementName": "2ba567642fbc45c188f43b6359b1478e",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2ba567642fbc45c188f43b6359b1478e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "9a4a8b01df6dc06225bc25c3e697bed4",
+            "size": 923288,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-05-11T14:42:41.024Z",
+            "url": "https://cdn1.epicgames.com/item/02c14a01b7044db98de3f3a10813a42e/EGS_HUMANKINDParaBellumWondersPack_AmplitudeStudios_DLC_S1_2560x1440-9a4a8b01df6dc06225bc25c3e697bed4",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "9323e382dd97f564b3fad3e0d8c92177",
+            "size": 533348,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-05-11T14:42:44.663Z",
+            "url": "https://cdn1.epicgames.com/item/02c14a01b7044db98de3f3a10813a42e/EGS_HUMANKINDParaBellumWondersPack_AmplitudeStudios_DLC_S2_1200x1600-9323e382dd97f564b3fad3e0d8c92177",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-01-18T14:56:04.251Z",
+        "mainGameItem": {
+          "id": "1708848cdb2842d2bc2ce3b536b26b0d",
+          "namespace": "02c14a01b7044db98de3f3a10813a42e",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "1708848cdb2842d2bc2ce3b536b26b0d",
+            "namespace": "02c14a01b7044db98de3f3a10813a42e",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "02c14a01b7044db98de3f3a10813a42e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "HUMANKIND\u2122 - Para Bellum Wonders Pack",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "1708848cdb2842d2bc2ce3b536b26b0d",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && sega_of_europe)"
+    ],
+    "id": "1708848cdb2842d2bc2ce3b536b26b0d",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "0233eae757a0e921c879b7be3a697d97",
+        "size": 358402,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-05-18T16:08:32.230Z",
+        "url": "https://cdn1.epicgames.com/offer/02c14a01b7044db98de3f3a10813a42e/HK_Landscape_2560x1440-0233eae757a0e921c879b7be3a697d97",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "41d8535c87839b2c2d0aeb3e43d00d57",
+        "size": 519847,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-05-26T21:18:59.131Z",
+        "url": "https://cdn1.epicgames.com/item/02c14a01b7044db98de3f3a10813a42e/newimg_1200x1600-41d8535c87839b2c2d0aeb3e43d00d57",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-01-18T14:56:04.248Z",
+    "mainGameItemList": [],
+    "namespace": "02c14a01b7044db98de3f3a10813a42e",
+    "releaseInfo": [
+      {
+        "appId": "5fc579fbef6a4bf99171861b68b8fcb2",
+        "dateAdded": "2020-10-13T00:00:00.000Z",
+        "id": "c34302f261de4f2cbfae4514a64ce075",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "HUMANKIND\u2122",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

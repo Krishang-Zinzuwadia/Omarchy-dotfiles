@@ -1,0 +1,95 @@
+{
+  "app_name": "8f05414a7ecf490b8c640cf8e4b78474",
+  "app_title": "TRIB3: Beta",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "8f05414a7ecf490b8c640cf8e4b78474",
+      "asset_id": "8f05414a7ecf490b8c640cf8e4b78474",
+      "build_version": "12d",
+      "catalog_item_id": "379afefa2cec425495c6af2c9fa6ee7e",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "11fb731471354e89b39527f63a15159a",
+        "update_type": "MINOR"
+      },
+      "namespace": "f6f888bc947145dfadda50a043c880fc",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567yfojE1fxquN72SqqWNdtvAIO",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-02-27T21:09:15.316Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/TRIB3/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TRIB3pCJuf"
+      }
+    },
+    "description": "TRIB3: Beta",
+    "developer": "Flux Point Studios, Inc.",
+    "developerId": "o-skaazkdex7xaam24v422hgpljzjxk8",
+    "endOfSupport": false,
+    "entitlementName": "379afefa2cec425495c6af2c9fa6ee7e",
+    "entitlementType": "EXECUTABLE",
+    "id": "379afefa2cec425495c6af2c9fa6ee7e",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "TRIB3 Offer",
+        "height": 1440,
+        "md5": "f20fe1d1aa268cc23cb03f6330e0e6a1",
+        "size": 687401,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-02-27T22:52:11.317Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/fd78480cf3ba403ebb4320160f7a5997/trib3-1lac8.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download TRIB3 Offer",
+        "height": 1600,
+        "md5": "9439322232cbb51e347dea2c45c50309",
+        "size": 155261,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-02-27T22:52:20.918Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/fd78480cf3ba403ebb4320160f7a5997/trib3-1l54d.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-04-11T11:00:19.510Z",
+    "mainGameItemList": [],
+    "namespace": "f6f888bc947145dfadda50a043c880fc",
+    "releaseInfo": [
+      {
+        "appId": "8f05414a7ecf490b8c640cf8e4b78474",
+        "id": "c70a155874054028a893a9f10936667f",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "TRIB3: Beta",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "84e33c94efc54356b07d243183af121f"
+    },
+    "rev": 1
+  }
+}

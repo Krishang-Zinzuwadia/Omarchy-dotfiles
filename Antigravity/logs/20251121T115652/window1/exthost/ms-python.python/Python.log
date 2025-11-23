@@ -1,0 +1,28 @@
+2025-11-21 11:57:05.956 [warning] Dir "/home/krishang/Work/Icarus-DevJams/.pixi/envs" is not watchable (directory does not exist)
+2025-11-21 11:57:06.229 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2025-11-21 11:57:06.245 [info] Running installed packages checker:  {
+  id: '/home/krishang/.local/share/mise/installs/python/3.14.0/bin/python',
+  sysPrefix: '/home/krishang/.local/share/mise/installs/python/3.14.0',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/home/krishang/.local/share/mise/installs/python/3.14.0/bin/python',
+  architecture: 3,
+  sysVersion: '3.14.0 (main, Oct 31 2025, 23:03:06) [Clang 21.1.4 ]',
+  version: {
+    raw: '3.14.0',
+    major: 3,
+    minor: 14,
+    patch: 0,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.14.0 64-bit',
+  detailedDisplayName: 'Python 3.14.0 64-bit',
+  type: undefined
+} /home/krishang/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py /home/krishang/Work/Icarus-DevJams/ai-agents/mainmlfile/perception/requirements.txt
+2025-11-21 11:57:06.245 [info] > ~/.local/share/mise/installs/python/3.14.0/bin/python ~/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py ./ai-agents/mainmlfile/perception/requirements.txt
+2025-11-21 11:57:06.247 [info] Python interpreter path: ~/.local/share/mise/installs/python/3.14.0/bin/python
+2025-11-21 11:57:06.387 [info] > pyenv which python
+2025-11-21 11:57:06.387 [info] cwd: .
+2025-11-21 11:57:07.326 [info] Starting Jedi language server for Icarus-DevJams.

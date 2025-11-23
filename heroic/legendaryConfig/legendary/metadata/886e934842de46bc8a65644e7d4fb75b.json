@@ -1,0 +1,87 @@
+{
+  "app_name": "886e934842de46bc8a65644e7d4fb75b",
+  "app_title": "Hidden Folks",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "886e934842de46bc8a65644e7d4fb75b",
+      "asset_id": "886e934842de46bc8a65644e7d4fb75b",
+      "build_version": "Windows-2.1.8-317",
+      "catalog_item_id": "007b050db0a949a3a9733ea0b207d9be",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "9e0aa90ce21d445580c87a7360414780"
+      },
+      "namespace": "b0545d64f90248208a5dd6f213f4dde7",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567TmOuoeRxYQouKWVW8WNWS6Gf",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-08-06T12:53:44.209Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "HiddenFolks"
+      }
+    },
+    "description": "Hidden Folks",
+    "developer": "Adriaan de Jongh",
+    "developerId": "o-88nexeqwyy2659vf59cc5ecw28888r",
+    "endOfSupport": false,
+    "entitlementName": "007b050db0a949a3a9733ea0b207d9be",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [],
+    "id": "007b050db0a949a3a9733ea0b207d9be",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Hidden Folks Offer",
+        "height": 1440,
+        "md5": "267cd0db4cbaa8734108c98bdf9ed7cf",
+        "size": 838399,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-11-19T10:06:20.493Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-1kph6.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Hidden Folks Offer",
+        "height": 1600,
+        "md5": "16f0a01c5ea8f0ed48986a1aeb748046",
+        "size": 266291,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-11-19T10:06:19.907Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/7bfd56b0586348dcb139945d9e59f988/hidden-folks-d4ks8.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-08-06T12:53:44.209Z",
+    "mainGameItemList": [],
+    "namespace": "b0545d64f90248208a5dd6f213f4dde7",
+    "releaseInfo": [
+      {
+        "appId": "886e934842de46bc8a65644e7d4fb75b",
+        "id": "f427e90375bc4ca2981f4427af0305e3",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Hidden Folks",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

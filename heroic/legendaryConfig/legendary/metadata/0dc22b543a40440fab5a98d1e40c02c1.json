@@ -1,0 +1,6094 @@
+{
+  "app_name": "0dc22b543a40440fab5a98d1e40c02c1",
+  "app_title": "Honkai Impact 3rd",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "0dc22b543a40440fab5a98d1e40c02c1",
+      "asset_id": "0dc22b543a40440fab5a98d1e40c02c1",
+      "build_version": "1.11.2",
+      "catalog_item_id": "e78d44043eae40ada0bd450c2b3f7f54",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "MINOR"
+      },
+      "namespace": "d2d162953fec40e381867d7af8371362",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-03-30T16:52:05.488Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "HonkaiImpact3"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Parinacota",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T14:52:06.925Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedboxtier60 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "0c9cd1db2aa945ba8f93c3440b761364",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0c9cd1db2aa945ba8f93c3440b761364",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.948Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedboxtier60 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:18:07.975Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox4tier2 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "103c25cb1c064c36b8a19d582a9e3e23",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "103c25cb1c064c36b8a19d582a9e3e23",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.200Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox4tier2 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:17:31.465Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox3tier5 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "42748ec94c2f4fcea2c90513b2f6d6a7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "42748ec94c2f4fcea2c90513b2f6d6a7",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.172Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox3tier5 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-03-30T16:52:05.379Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfirsthardcointier50 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "152c69fc0691490688d28d3f3b90598b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "152c69fc0691490688d28d3f3b90598b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-04-17T02:41:52.795Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfirsthardcointier50 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T14:51:20.115Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedboxtier40 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "7b080b7b603a43dbac0f4fc5d3cb4a3f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7b080b7b603a43dbac0f4fc5d3cb4a3f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.921Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedboxtier40 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:14:38.106Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedboxtier34 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "07b32d2f431c4ebb897de5554ed28d30",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "07b32d2f431c4ebb897de5554ed28d30",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.038Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedboxtier34 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:32:40.087Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox1tier20 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "6363b67a137c4311b668d5d24f93f8a2",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6363b67a137c4311b668d5d24f93f8a2",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.438Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox1tier20 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T16:01:57.608Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox3tier34 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "e277cc9f027a41cf95910346ca83e2cd",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e277cc9f027a41cf95910346ca83e2cd",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.760Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox3tier34 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:16:15.189Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox3tier1 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "69bff2eaa01d452a971a2b7533d601a8",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "69bff2eaa01d452a971a2b7533d601a8",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.114Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox3tier1 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T14:52:52.270Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedboxtier2 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "1f37062959bb4f098fc9aa00033b0901",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1f37062959bb4f098fc9aa00033b0901",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.980Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedboxtier2 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T16:05:46.161Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox5tier26 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "7157d501d57b4c46becb4637f2dd6c7b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7157d501d57b4c46becb4637f2dd6c7b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.877Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox5tier26 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T13:16:47.353Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfirsthard2cointier10 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "108bc16b29c4420bae00f47b068f688b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "108bc16b29c4420bae00f47b068f688b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.574Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfirsthard2cointier10 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:42:54.498Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox3tier14 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "d254eff1065a4e7b8a0c11d61b2e57bd",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d254eff1065a4e7b8a0c11d61b2e57bd",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.542Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox3tier14 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T14:48:20.389Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalrandomboxtier4 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "12c063830d2d46ee9ed5cbb1e6373a6a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "12c063830d2d46ee9ed5cbb1e6373a6a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.793Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalrandomboxtier4 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-03-30T16:52:05.395Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalmcointier15 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "e3c658efae214d44871bfc5bd7c07408",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e3c658efae214d44871bfc5bd7c07408",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-04-17T02:41:52.795Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalmcointier15 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T14:57:14.132Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedboxtier4 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "5dde7276a7f642c6bfac573f725b0653",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5dde7276a7f642c6bfac573f725b0653",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.009Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedboxtier4 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-03-30T16:52:05.399Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfirsthardcointier10 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "675561d1f5e6461eabefddbac372957e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "675561d1f5e6461eabefddbac372957e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-04-17T02:41:52.795Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfirsthardcointier10 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-03-30T16:52:05.401Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalmcointier50 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "233c62b5e3174c6da744573b0735ed30",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "233c62b5e3174c6da744573b0735ed30",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-04-17T02:41:51.977Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalmcointier50 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T13:38:53.221Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalhardcointier50 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "659fd696a9a846f38521c6cbaadec589",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "659fd696a9a846f38521c6cbaadec589",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.717Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalhardcointier50 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T14:52:26.915Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedboxtier1 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "358573bbf3414784844fdc062c56d839",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "358573bbf3414784844fdc062c56d839",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.966Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedboxtier1 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T13:14:14.570Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfirsthard2cointier1 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "007056254d1d423790921e0f650d5955",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "007056254d1d423790921e0f650d5955",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.543Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfirsthard2cointier1 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:44:08.556Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox5tier5 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "a4562bb0724c465d9791332eb4ac0018",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a4562bb0724c465d9791332eb4ac0018",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.585Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox5tier5 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:31:46.446Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox4tier10 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "828133a110574ba49f452e56057f321b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "828133a110574ba49f452e56057f321b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.380Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox4tier10 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:45:58.681Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox5tier3 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "a2b68ab1dc9e41268d943d90eea1a442",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a2b68ab1dc9e41268d943d90eea1a442",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.599Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox5tier3 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T14:40:05.712Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalrandomboxtier1 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "ba57fa8b8a7745979b615aeb8fdd8c24",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ba57fa8b8a7745979b615aeb8fdd8c24",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.747Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalrandomboxtier1 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:18:40.377Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox3tier3 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "fbf8c320c06d48779bcd055e4da1a1d4",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fbf8c320c06d48779bcd055e4da1a1d4",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.229Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox3tier3 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-03-30T16:52:05.415Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalhardcointier20 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "5c308e625f574c9fa698e02029051ca1",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5c308e625f574c9fa698e02029051ca1",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-04-17T02:41:52.795Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalhardcointier20 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-03-30T16:52:05.414Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalmcointier1 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "64fed910da854ddc8a2af09780352aba",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "64fed910da854ddc8a2af09780352aba",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-04-17T02:41:51.977Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalmcointier1 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T16:08:55.732Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfdboxtier13 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "40e313c6039e495eb0f69e6f29f83c3e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "40e313c6039e495eb0f69e6f29f83c3e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:48.038Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfdboxtier13 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T16:03:46.319Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox3tier26 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "ef84c0a08c1747f0a660a9c7395a7d03",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ef84c0a08c1747f0a660a9c7395a7d03",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.848Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox3tier26 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:33:37.386Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox4tier20 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "7202c75d6ec44db99e359e47d335313b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7202c75d6ec44db99e359e47d335313b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.481Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox4tier20 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:18:24.276Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox5tier2 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "d8bffd55433e45a79e21e1ca842a95b2",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d8bffd55433e45a79e21e1ca842a95b2",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.214Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox5tier2 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:47:40.610Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox2tier15 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "a554af81098c4fcbb64cc2e2283e9906",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a554af81098c4fcbb64cc2e2283e9906",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.674Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox2tier15 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:49:05.067Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfdboxtier5 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "614fd0a32dbd48e0aa3c2777ee9b1bd5",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "614fd0a32dbd48e0aa3c2777ee9b1bd5",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.745Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfdboxtier5 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T12:11:02.151Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfirsthardcointier1 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "da2441d83cde4af997015973e2105baf",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "da2441d83cde4af997015973e2105baf",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.361Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfirsthardcointier1 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:46:48.194Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox3tier50 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "267ba23d93a74b61aa5cfb5b27b43fbb",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "267ba23d93a74b61aa5cfb5b27b43fbb",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.628Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox3tier50 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:30:07.173Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox2tier34 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "62171adeba844a0aaa4b2f9650016f83",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "62171adeba844a0aaa4b2f9650016f83",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.304Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox2tier34 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:32:22.123Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox6tier10 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "481e01074cf845a3867bc440a07af63a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "481e01074cf845a3867bc440a07af63a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.410Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox6tier10 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T16:06:02.417Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox6tier1 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "df2d128e0e8d422ca32aa23866d2f5be",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "df2d128e0e8d422ca32aa23866d2f5be",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.892Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox6tier1 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:47:24.224Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox1tier15 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "bdeb982b3f19442a9f4d46200ea6f5c1",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "bdeb982b3f19442a9f4d46200ea6f5c1",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.659Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox1tier15 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:32:04.429Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox5tier10 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "cbb64f50c18d4136a87ad6eee8d87026",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "cbb64f50c18d4136a87ad6eee8d87026",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.395Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox5tier10 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T13:35:29.703Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalhardcointier1 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "04dfa4a51915431889adf3ca45288be5",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "04dfa4a51915431889adf3ca45288be5",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.646Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalhardcointier1 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T14:50:43.100Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedboxtier26 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "d27858693fbd48e2a92c6d4ebad0b803",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d27858693fbd48e2a92c6d4ebad0b803",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.891Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedboxtier26 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:31:06.212Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox2tier60 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "99404042f03b44da8daa3a6bf51fb138",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "99404042f03b44da8daa3a6bf51fb138",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.352Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox2tier60 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:16:37.080Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox4tier1 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "5c5fa40ca5064af28be9d0a6ba424a38",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5c5fa40ca5064af28be9d0a6ba424a38",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.129Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox4tier1 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T14:49:12.511Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalrandomboxtier10 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "b0421ac2de254c3bb95b059885ab0d26",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b0421ac2de254c3bb95b059885ab0d26",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.822Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalrandomboxtier10 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:18:57.028Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox4tier3 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "c54bf6173b24405eba3ca1b267fb288a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c54bf6173b24405eba3ca1b267fb288a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.244Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox4tier3 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T13:38:11.647Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalhardcointier10 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "56dd0fdca9a445529632439de72cff39",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "56dd0fdca9a445529632439de72cff39",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.688Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalhardcointier10 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T16:02:15.813Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox4tier34 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "2837575d21fa467eb297bba33cfa0c15",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2837575d21fa467eb297bba33cfa0c15",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.774Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox4tier34 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T14:40:55.926Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalrandomboxtier2 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "95e87c4a210647fca4231ced9306256c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "95e87c4a210647fca4231ced9306256c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.762Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalrandomboxtier2 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T14:51:00.807Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedboxtier30 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "7e6f89f2bfed4f8b8868c5a89ef74dbb",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7e6f89f2bfed4f8b8868c5a89ef74dbb",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.907Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedboxtier30 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:15:15.956Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox2tier5 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "057e3f95c23e49d984b84d73c5810a9d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "057e3f95c23e49d984b84d73c5810a9d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.073Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox2tier5 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:19:22.920Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox2tier4 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "79c93b0a7b324aa2a2bc49457f37a9f8",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "79c93b0a7b324aa2a2bc49457f37a9f8",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.259Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox2tier4 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:19:42.691Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox3tier4 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "51a8dc29eeb347d7b6b1d49a5917c576",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "51a8dc29eeb347d7b6b1d49a5917c576",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.274Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox3tier4 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T16:02:47.996Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox5tier20 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "6052462cc58d45eabdd7b078fc145f3c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6052462cc58d45eabdd7b078fc145f3c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.804Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox5tier20 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T14:50:22.932Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedboxtier20 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "525aed3238be439db6e2e8dd9df3cd7a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "525aed3238be439db6e2e8dd9df3cd7a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.877Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedboxtier20 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:15:57.065Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox2tier26 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "5505b4e22f464942be539298280b5af4",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5505b4e22f464942be539298280b5af4",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.102Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox2tier26 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:33:17.553Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox3tier20 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "780b7a3815cf42619883a949f8dc79a1",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "780b7a3815cf42619883a949f8dc79a1",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.468Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox3tier20 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:46:27.847Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox5tier1 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "46f6d00348124b51bcb391236ac8ab0e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "46f6d00348124b51bcb391236ac8ab0e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.614Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox5tier1 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T13:34:59.954Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalgifthardcointier5 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "f28bbdfb26e94af992f8d343d445256b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f28bbdfb26e94af992f8d343d445256b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.631Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalgifthardcointier5 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T14:49:45.345Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalrandomboxtier20 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "f2b16ff232e945a69465fe9e66a4050f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f2b16ff232e945a69465fe9e66a4050f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.849Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalrandomboxtier20 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T13:39:12.241Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalhardcointier60 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "dbdc788122614f4f83554c0124f135f0",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "dbdc788122614f4f83554c0124f135f0",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.732Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalhardcointier60 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:17:48.921Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox3tier2 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "36617692e3d54ee8b1f46dcdc12a4e0c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "36617692e3d54ee8b1f46dcdc12a4e0c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.186Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox3tier2 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T14:49:28.497Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalrandomboxtier15 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "f94ba21e7044423c9cc256f65d1dd60b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f94ba21e7044423c9cc256f65d1dd60b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.835Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalrandomboxtier15 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T13:36:08.802Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalhardcointier1 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "f190c63959a04d8f9e05cde07e99a10c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f190c63959a04d8f9e05cde07e99a10c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.661Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalhardcointier1 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T14:48:01.912Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalrandomboxtier3 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "8685daf8b42e42efadbd8598697fa93a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8685daf8b42e42efadbd8598697fa93a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.777Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalrandomboxtier3 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T16:02:32.615Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox5tier34 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "99924e9afd3e44c982ecad2ef94a1bf8",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "99924e9afd3e44c982ecad2ef94a1bf8",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.789Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox5tier34 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:42:37.606Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox2tier14 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "724f39d978be4d8e8a695991201d47af",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "724f39d978be4d8e8a695991201d47af",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.527Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox2tier14 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:47:58.526Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox3tier15 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "ea199e619b944d1da174e18c8797ea6e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ea199e619b944d1da174e18c8797ea6e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.687Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox3tier15 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T16:03:22.694Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox7tier20 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "4d0083e4c4d34115a95dcae7ed5b0589",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4d0083e4c4d34115a95dcae7ed5b0589",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.833Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox7tier20 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:14:56.448Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox2tier1 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "e926b0093443438abfdb1a74ed93660f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e926b0093443438abfdb1a74ed93660f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.053Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox2tier1 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T13:16:11.401Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfirsthard2cointier5 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "79d5ab4c65d14d3ab6228e791d299fc2",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "79d5ab4c65d14d3ab6228e791d299fc2",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.559Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfirsthard2cointier5 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:48:33.700Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfdboxtier10 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "1e01718a08f74d0ea63311e72c790d5b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1e01718a08f74d0ea63311e72c790d5b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.715Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfdboxtier10 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T16:04:01.785Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox4tier26 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "866974c89fa4470c88699a5cd65e5c33",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "866974c89fa4470c88699a5cd65e5c33",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.863Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox4tier26 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T14:56:57.191Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedboxtier3 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "db2d1713229c4b4bbcb0bb1c5845464a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "db2d1713229c4b4bbcb0bb1c5845464a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.994Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedboxtier3 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T14:50:03.805Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedboxtier10 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "ec125fd01a1e4ce5984e9380240464fe",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ec125fd01a1e4ce5984e9380240464fe",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.862Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedboxtier10 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:15:31.646Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox2tier10 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "b76716cc446e44e589af1a7064c35248",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b76716cc446e44e589af1a7064c35248",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.088Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox2tier10 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:16:57.240Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox2tier2 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "f3307dc4009d4549ae2fa37f23676355",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f3307dc4009d4549ae2fa37f23676355",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.141Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox2tier2 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:42:05.969Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedboxtier14 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "39ce7de1279b4649aece0a6a7958d465",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "39ce7de1279b4649aece0a6a7958d465",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.496Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedboxtier14 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:43:18.061Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox4tier14 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "b518ea6db6ef4848a978967dbb0d2bcd",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b518ea6db6ef4848a978967dbb0d2bcd",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.556Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox4tier14 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-03-30T16:52:05.490Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalmcointier20 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "e52c01fb366b478585c230924c24b256",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e52c01fb366b478585c230924c24b256",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-04-17T02:41:51.977Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalmcointier20 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:31:25.022Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox3tier10 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "0661fd044f724f94a527e1c61cc19973",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0661fd044f724f94a527e1c61cc19973",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.366Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox3tier10 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-03-30T16:52:05.493Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalmcointier30 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "7dacfb45d3d24e45880d5ea01425fad7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7dacfb45d3d24e45880d5ea01425fad7",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-04-17T02:41:51.977Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalmcointier30 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:48:48.812Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfdbox1tier10 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "3e92a31215af4fa3aae20dfcbfa7705e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3e92a31215af4fa3aae20dfcbfa7705e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.730Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfdbox1tier10 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:43:49.666Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox4tier5 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "d5e85d6674ea492291ca2c8e60e0b319",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d5e85d6674ea492291ca2c8e60e0b319",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.570Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox4tier5 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:30:47.141Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox2tier50 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "5e209dc063094e7ba0440e44ace4232a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5e209dc063094e7ba0440e44ace4232a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.339Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox2tier50 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T13:18:10.396Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfirsthard2cointier60 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "f476a7813c3d478a8b42372641be2ac2",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f476a7813c3d478a8b42372641be2ac2",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.617Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfirsthard2cointier60 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T14:51:46.705Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedboxtier50 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "9089af20687a46e0b8978d6b2cdbfe18",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9089af20687a46e0b8978d6b2cdbfe18",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.933Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedboxtier50 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:47:06.092Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedboxtier15 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "3b3715bd204b420a9d5403f18609d4ef",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3b3715bd204b420a9d5403f18609d4ef",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.644Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedboxtier15 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-03-30T16:52:05.503Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfirsthardcointier60 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "7ef69848bdfa4a16b335ba84246f8ebb",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7ef69848bdfa4a16b335ba84246f8ebb",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-04-17T02:41:51.977Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfirsthardcointier60 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T16:03:05.658Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox6tier20 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "af7056573cbe4298bd2f6a0bc8e72b76",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "af7056573cbe4298bd2f6a0bc8e72b76",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.819Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox6tier20 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T13:17:48.198Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfirsthard2cointier50 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "f8decd34051a4cfea869a1c2fb76cc55",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f8decd34051a4cfea869a1c2fb76cc55",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.603Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfirsthard2cointier50 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T16:06:17.683Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox7tier1 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "e78f4dce7a944466bbdbbeebfdabd4e3",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e78f4dce7a944466bbdbbeebfdabd4e3",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.906Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox7tier1 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-03-30T16:52:05.508Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfirsthardcointier1 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "ba286a5ab9c346259eb4e3fb74673cc2",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ba286a5ab9c346259eb4e3fb74673cc2",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-04-17T02:41:52.795Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfirsthardcointier1 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:30:28.073Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox2tier40 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "87adf0539a474b5b8fe2aef2dcaa666c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "87adf0539a474b5b8fe2aef2dcaa666c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.320Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox2tier40 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:42:20.978Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox1tier14 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "daf41b7f997d420299719453fda7c1c6",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "daf41b7f997d420299719453fda7c1c6",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.513Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox1tier14 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:17:14.787Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox2tier3 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "65fb37a1c3264ec39eeb7097b82430a3",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "65fb37a1c3264ec39eeb7097b82430a3",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.157Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox2tier3 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T13:36:33.866Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalhardcointier5 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "5d70d16c690141b7a19d9b297d4e4931",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5d70d16c690141b7a19d9b297d4e4931",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.676Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalhardcointier5 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-03-30T16:52:05.515Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfirsthardcointier5 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "b166d0f58270484b8955c10b38d42404",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b166d0f58270484b8955c10b38d42404",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-04-17T02:41:51.977Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfirsthardcointier5 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-03-30T16:52:05.517Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalmcointier60 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "cc049828e7e1452cb3767963384a9b48",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "cc049828e7e1452cb3767963384a9b48",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-04-17T02:41:51.977Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalmcointier60 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-03-30T16:52:05.518Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalmcointier5 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "098f13dc75374e69aaada21a90d1a312",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "098f13dc75374e69aaada21a90d1a312",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-04-17T02:41:51.977Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalmcointier5 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T14:48:36.416Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalrandomboxtier5 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "62f8b7f984e34e629d1a987a32959933",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "62f8b7f984e34e629d1a987a32959933",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.807Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalrandomboxtier5 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:29:46.670Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox2tier30 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "8b826fe0a14847a491ee8218b84ec64f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8b826fe0a14847a491ee8218b84ec64f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.289Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox2tier30 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-03-30T16:52:05.524Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfirsthardcointier20 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "fee33da06e394ac897ab832118376927",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fee33da06e394ac897ab832118376927",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-04-17T02:41:52.795Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfirsthardcointier20 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:33:02.020Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox2tier20 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "22c63e871cde4e4590c6b7594835216b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "22c63e871cde4e4590c6b7594835216b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.454Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox2tier20 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T15:48:17.299Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox4tier15 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "35173d8d32de4d04a4f6cf932fd38226",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "35173d8d32de4d04a4f6cf932fd38226",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.700Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox4tier15 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T14:57:32.454Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedboxtier5 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "eb831413a02c412fb0fa6b1983f23584",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "eb831413a02c412fb0fa6b1983f23584",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.023Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedboxtier5 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T13:17:05.194Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfirsthard2cointier20 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "add499961cad4f45b4cc0a0eba83a2a9",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "add499961cad4f45b4cc0a0eba83a2a9",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:46.588Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfirsthard2cointier20 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-21T16:06:33.960Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "globalfixedbox8tier1 audience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "0c9e97ace41b415aa1500c7f375400ef",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0c9e97ace41b415aa1500c7f375400ef",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-07-26T09:09:47.920Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "globalfixedbox8tier1 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-06-26T04:11:52.367Z",
+        "description": "10 Carnival Equipment Supply Card_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "2505d52b3a6b472f858df80f2f85eb7c",
+        "entitlementType": "AUDIENCE",
+        "id": "2505d52b3a6b472f858df80f2f85eb7c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-26T04:11:52.367Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "10 Carnival Equipment Supply Card_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-06-26T04:11:52.374Z",
+        "description": "10 Ascension Supply Card_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "9f8f28f2aeef421cae7b0f980c285b1c",
+        "entitlementType": "AUDIENCE",
+        "id": "9f8f28f2aeef421cae7b0f980c285b1c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-26T04:11:52.374Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "10 Ascension Supply Card_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-06-26T04:11:52.368Z",
+        "description": "1 Carnival Equipment Supply Card_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "26645c3a535b40b88ef38afcf4af2808",
+        "entitlementType": "AUDIENCE",
+        "id": "26645c3a535b40b88ef38afcf4af2808",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-26T04:11:52.368Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1 Carnival Equipment Supply Card_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-06-26T04:11:52.369Z",
+        "description": "1 Carnival Battlesuit Supply Card_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "477a3f881d0a4999af452b796aa5e11c",
+        "entitlementType": "AUDIENCE",
+        "id": "477a3f881d0a4999af452b796aa5e11c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-26T04:11:52.369Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1 Carnival Battlesuit Supply Card_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-06-26T04:11:52.364Z",
+        "description": "10 Dorm Supply Card_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "033554e12734494983db20e2d6ee34f6",
+        "entitlementType": "AUDIENCE",
+        "id": "033554e12734494983db20e2d6ee34f6",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-26T04:11:52.364Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "10 Dorm Supply Card_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-06-26T04:11:52.372Z",
+        "description": "10 Battlesuit Supply Card_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "7a71c8349268490bb01e9ae3a4757a63",
+        "entitlementType": "AUDIENCE",
+        "id": "7a71c8349268490bb01e9ae3a4757a63",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-26T04:11:52.372Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "10 Battlesuit Supply Card_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-06-26T04:11:52.366Z",
+        "description": "10 Equipment Supply Card_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "2297986eda2f49f7af30255fc423c402",
+        "entitlementType": "AUDIENCE",
+        "id": "2297986eda2f49f7af30255fc423c402",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-26T04:11:52.366Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "10 Equipment Supply Card_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-06-26T04:11:52.373Z",
+        "description": "1 Equipment Supply Card_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "8a7792338dfd4752b454330ba45e2ce7",
+        "entitlementType": "AUDIENCE",
+        "id": "8a7792338dfd4752b454330ba45e2ce7",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-26T04:11:52.373Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1 Equipment Supply Card_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-06-26T04:11:52.371Z",
+        "description": "Event Bundle 10_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "4db15440bd6849c5ab2d8ad7d0df2718",
+        "entitlementType": "AUDIENCE",
+        "id": "4db15440bd6849c5ab2d8ad7d0df2718",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-26T04:11:52.371Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Event Bundle 10_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-06-26T04:11:52.375Z",
+        "description": "1 Ascension Supply Card_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "c1fc6ef7cc2244f6b9e4de56633f536b",
+        "entitlementType": "AUDIENCE",
+        "id": "c1fc6ef7cc2244f6b9e4de56633f536b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-26T04:11:52.375Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1 Ascension Supply Card_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-06-26T04:11:53.252Z",
+        "description": "Event Bundle 9_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "3abfd004baf3498e997b9c08e5b2cdf9",
+        "entitlementType": "AUDIENCE",
+        "id": "3abfd004baf3498e997b9c08e5b2cdf9",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-26T04:11:53.252Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Event Bundle 9_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-06-26T04:11:53.258Z",
+        "description": "10 Carnival Battlesuit Supply Card_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "83ce1bb4b8c3462991258e2c60ea2fc0",
+        "entitlementType": "AUDIENCE",
+        "id": "83ce1bb4b8c3462991258e2c60ea2fc0",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-26T04:11:53.258Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "10 Carnival Battlesuit Supply Card_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-06-26T04:11:53.256Z",
+        "description": "1 Battlesuit Supply Card_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "43a14683e85c43479fd4b0dedd0c661a",
+        "entitlementType": "AUDIENCE",
+        "id": "43a14683e85c43479fd4b0dedd0c661a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-26T04:11:53.256Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1 Battlesuit Supply Card_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-06-26T04:11:53.254Z",
+        "description": "1 Dorm Supply Card_ConsumableAudience",
+        "developer": "COGNOSPHERE PTE. LTD.",
+        "developerId": "o-wlaqew5gv79ufa3slnqhhsqbpjdvnb",
+        "endOfSupport": false,
+        "entitlementName": "3ba4fc5b4bcd4db98f507c9ff0ab3e14",
+        "entitlementType": "AUDIENCE",
+        "id": "3ba4fc5b4bcd4db98f507c9ff0ab3e14",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-06-26T04:11:53.254Z",
+        "mainGameItem": {
+          "id": "e78d44043eae40ada0bd450c2b3f7f54",
+          "namespace": "d2d162953fec40e381867d7af8371362",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "e78d44043eae40ada0bd450c2b3f7f54",
+            "namespace": "d2d162953fec40e381867d7af8371362",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "d2d162953fec40e381867d7af8371362",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1 Dorm Supply Card_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "e78d44043eae40ada0bd450c2b3f7f54",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "e78d44043eae40ada0bd450c2b3f7f54",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "960e15b4bc2cf890628fc3c77e4654c6",
+        "size": 882767,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-02-29T10:00:46.597Z",
+        "url": "https://cdn1.epicgames.com/item/d2d162953fec40e381867d7af8371362/EGS_HonkaiImpact3rd_miHoYoLimited_S1_2560x1440-960e15b4bc2cf890628fc3c77e4654c6",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "f903bff1bb3e05f92d9d605e9b43a5b7",
+        "size": 566883,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-02-29T10:00:49.662Z",
+        "url": "https://cdn1.epicgames.com/item/d2d162953fec40e381867d7af8371362/EGS_HonkaiImpact3rd_miHoYoLimited_S2_1200x1600-f903bff1bb3e05f92d9d605e9b43a5b7",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-10-11T03:36:10.268Z",
+    "mainGameItemList": [],
+    "namespace": "d2d162953fec40e381867d7af8371362",
+    "releaseInfo": [
+      {
+        "appId": "0dc22b543a40440fab5a98d1e40c02c1",
+        "id": "ed6796e792ba462680dbd2fdbd04c724",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Honkai Impact 3rd",
+    "unsearchable": true
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "3edd5ca44ce541c28e11927d1b94101d"
+    },
+    "rev": 1
+  }
+}

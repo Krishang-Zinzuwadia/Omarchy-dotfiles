@@ -1,0 +1,90 @@
+{
+  "app_name": "753f93fb2ffd4be798860a939aa5c085",
+  "app_title": "Cloudheim Demo",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "753f93fb2ffd4be798860a939aa5c085",
+      "asset_id": "753f93fb2ffd4be798860a939aa5c085",
+      "build_version": "82753",
+      "catalog_item_id": "5aab282ceff5450a8de54e81834cf56c",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "6da203e4ecbe42d5bb6bac0425dbae12",
+        "update_type": "PATCH"
+      },
+      "namespace": "033b4e36509a4e9cb32406e341534f52",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-07-10T18:54:06.749Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "CloudheimDemo"
+      }
+    },
+    "description": "Cloudheim Demo",
+    "developer": "Noodle Cat Games",
+    "developerId": "o-n7dnrvyfvvpf4t6asl7adhf3s27fld",
+    "endOfSupport": false,
+    "entitlementName": "5aab282ceff5450a8de54e81834cf56c",
+    "entitlementType": "EXECUTABLE",
+    "id": "5aab282ceff5450a8de54e81834cf56c",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Cloudheim Cloudheim Demo Offer",
+        "height": 1440,
+        "md5": "f895a831717dec374f11d6483ed636f2",
+        "size": 2529490,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-09-18T18:46:14.837Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/14dacdb786b8495f9ced5465fa6ce756/cloudheim-o9iy2.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Cloudheim Cloudheim Demo Offer",
+        "height": 1600,
+        "md5": "a789040a1d3b558e135843ae8cc691ba",
+        "size": 1425847,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-09-18T18:46:08.396Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/14dacdb786b8495f9ced5465fa6ce756/cloudheim-rxjo8.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-11-04T17:54:15.783Z",
+    "mainGameItemList": [],
+    "namespace": "033b4e36509a4e9cb32406e341534f52",
+    "releaseInfo": [
+      {
+        "appId": "753f93fb2ffd4be798860a939aa5c085",
+        "id": "7ee4cf71-85e4-406f-8381-ddced35d6382",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Cloudheim Demo",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "9a307e53003643f2a38c691bd4288f94"
+    },
+    "rev": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "title": "AI Agent Pipeline Testing & Debugging",
+    "summary": "Methodologies for testing and debugging AI agent pipelines. Focuses on isolating capabilities (Perception vs. Planning) using verification scripts and diagnosing common failures like low plan confidence.",
+    "references": [
+        {
+            "type": "file",
+            "value": "ai-agents/mainmlfile/perception/verify_screenshot.py"
+        },
+        {
+            "type": "file",
+            "value": "ai-agents/mainmlfile/perception/verify_full_flow.py"
+        },
+        {
+            "type": "file",
+            "value": "ai-agents/mainmlfile/perception/ui_detector.py"
+        },
+        {
+            "type": "file",
+            "value": "ai-agents/mainmlfile/perception/vlm_detector.py"
+        },
+        {
+            "type": "knowledge_item",
+            "value": "cross_platform_screenshot_implementation"
+        }
+    ]
+}

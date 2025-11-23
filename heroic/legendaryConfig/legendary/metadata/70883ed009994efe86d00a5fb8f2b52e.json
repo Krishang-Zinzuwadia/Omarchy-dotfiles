@@ -1,0 +1,880 @@
+{
+  "app_name": "70883ed009994efe86d00a5fb8f2b52e",
+  "app_title": "Jurassic World Evolution 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "70883ed009994efe86d00a5fb8f2b52e",
+      "asset_id": "70883ed009994efe86d00a5fb8f2b52e",
+      "build_version": "1.11.3.51848",
+      "catalog_item_id": "c58f6419c8754f169577e9162d1c8b32",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "update_type": "PATCH"
+      },
+      "namespace": "4817ba5c11504724ba4d5817c8995dff",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-05-26T18:03:40.587Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserSavedGames}/Frontier Developments/Jurassic World Evolution 2/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "JWE2"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "4817ba5c11504724ba4d5817c8995dff"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Jurassic World Evolution 2",
+    "developer": "Frontier Developments",
+    "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-11-17T21:43:44.226Z",
+        "customAttributes": {},
+        "description": "kombugreenDLC1 audience",
+        "developer": "Frontier Developments",
+        "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+        "endOfSupport": false,
+        "entitlementName": "b18f040c88f143cd8dc9649e16aaa72a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b18f040c88f143cd8dc9649e16aaa72a",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-06-12T10:05:33.592Z",
+        "mainGameItem": {
+          "id": "c58f6419c8754f169577e9162d1c8b32",
+          "namespace": "4817ba5c11504724ba4d5817c8995dff",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c58f6419c8754f169577e9162d1c8b32",
+            "namespace": "4817ba5c11504724ba4d5817c8995dff",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4817ba5c11504724ba4d5817c8995dff",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "kombugreenDLC1 audience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-08-17T13:26:53.865Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "kombugreenDLC4",
+        "developer": "Frontier Developments",
+        "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+        "endOfSupport": false,
+        "entitlementName": "d900369750e24670a8a647752ea953cb",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d900369750e24670a8a647752ea953cb",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Jurassic World Evolution 2: Late Cretaceous Pack-431454",
+            "height": 1440,
+            "md5": "86cefbc61591dc23eafead2319c4715a",
+            "size": 1011789,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-09-15T13:12:36.117Z",
+            "url": "https://cdn1.epicgames.com/offer/4817ba5c11504724ba4d5817c8995dff/EGS_JurassicWorldEvolution2LateCretaceousPack_FrontierDevelopments_DLC_S1_2560x1440-86cefbc61591dc23eafead2319c4715a",
+            "width": 2560
+          },
+          {
+            "alt": "Jurassic World Evolution 2: Late Cretaceous Pack-724362",
+            "height": 1600,
+            "md5": "aabf94e4aba6472d56a6f585129dbc43",
+            "size": 1021908,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-09-15T13:12:30.825Z",
+            "url": "https://cdn1.epicgames.com/offer/4817ba5c11504724ba4d5817c8995dff/EGS_JurassicWorldEvolution2LateCretaceousPack_FrontierDevelopments_DLC_S2_1200x1600-aabf94e4aba6472d56a6f585129dbc43",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-06-12T10:05:35.470Z",
+        "mainGameItem": {
+          "id": "c58f6419c8754f169577e9162d1c8b32",
+          "namespace": "4817ba5c11504724ba4d5817c8995dff",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c58f6419c8754f169577e9162d1c8b32",
+            "namespace": "4817ba5c11504724ba4d5817c8995dff",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4817ba5c11504724ba4d5817c8995dff",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "kombugreenDLC4",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-04-06T20:20:30.588Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "kombugreenDLC3",
+        "developer": "Frontier Developments",
+        "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+        "endOfSupport": false,
+        "entitlementName": "c4e0b794005148b9bdcb26877588a0ea",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c4e0b794005148b9bdcb26877588a0ea",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Jurassic World Evolution 2: Dominion Biosyn Expansion-69400",
+            "height": 1440,
+            "md5": "59cdd03c4b1ca96c9a1075e76c1d0007",
+            "size": 648039,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-06-08T14:59:42.089Z",
+            "url": "https://cdn1.epicgames.com/offer/4817ba5c11504724ba4d5817c8995dff/EGS_JWE2DominionBiosynExpansion_FrontierDevelopments_DLC_S1_2560x1440-59cdd03c4b1ca96c9a1075e76c1d0007",
+            "width": 2560
+          },
+          {
+            "alt": "Jurassic World Evolution 2: Dominion Biosyn Expansion-155279",
+            "height": 1600,
+            "md5": "7d428cff48a616caecebe854d13e8a95",
+            "size": 998883,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-06-08T14:59:38.761Z",
+            "url": "https://cdn1.epicgames.com/offer/4817ba5c11504724ba4d5817c8995dff/EGS_JWE2DominionBiosynExpansion_FrontierDevelopments_DLC_S2_1200x1600-7d428cff48a616caecebe854d13e8a95",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-06-12T10:05:36.771Z",
+        "mainGameItem": {
+          "id": "c58f6419c8754f169577e9162d1c8b32",
+          "namespace": "4817ba5c11504724ba4d5817c8995dff",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c58f6419c8754f169577e9162d1c8b32",
+            "namespace": "4817ba5c11504724ba4d5817c8995dff",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4817ba5c11504724ba4d5817c8995dff",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "kombugreenDLC3",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-15T15:10:15.931Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "KombuGreenDLC5",
+        "developer": "Frontier Developments",
+        "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+        "endOfSupport": false,
+        "entitlementName": "c6832bed8c5d45d589dfb76947a90870",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c6832bed8c5d45d589dfb76947a90870",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Jurassic World Evolution 2: Dominion Malta Expansion-709121",
+            "height": 1440,
+            "md5": "09819f74f54b62f98e2f505eaa9f9231",
+            "size": 634416,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-11-30T17:07:44.739Z",
+            "url": "https://cdn1.epicgames.com/offer/4817ba5c11504724ba4d5817c8995dff/EGS_JWE2DominionMaltaExpansion_FrontierDevelopments_DLC_S1_2560x1440-09819f74f54b62f98e2f505eaa9f9231",
+            "width": 2560
+          },
+          {
+            "alt": "Jurassic World Evolution 2: Dominion Malta Expansion-276841",
+            "height": 1600,
+            "md5": "3d9d0f8dea0456068286ab363ce36c85",
+            "size": 360397,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-11-30T17:07:41.008Z",
+            "url": "https://cdn1.epicgames.com/offer/4817ba5c11504724ba4d5817c8995dff/EGS_JWE2DominionMaltaExpansion_FrontierDevelopments_DLC_S2_1200x1600-3d9d0f8dea0456068286ab363ce36c85",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-06-12T10:05:36.771Z",
+        "mainGameItem": {
+          "id": "c58f6419c8754f169577e9162d1c8b32",
+          "namespace": "4817ba5c11504724ba4d5817c8995dff",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c58f6419c8754f169577e9162d1c8b32",
+            "namespace": "4817ba5c11504724ba4d5817c8995dff",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4817ba5c11504724ba4d5817c8995dff",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "KombuGreenDLC5",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-02-17T13:24:37.694Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Jurassic World Evolution 2: Feathered Species Pack",
+        "developer": "Frontier Developments",
+        "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+        "endOfSupport": false,
+        "entitlementName": "d2841a93a9e2460fa9a7015322b35bd8",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d2841a93a9e2460fa9a7015322b35bd8",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Jurassic World Evolution 2: Feathered Species Pack-900375",
+            "height": 1440,
+            "md5": "5327eebbd8614cf8e15447e328cce489",
+            "size": 288774,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-03-23T16:06:20.867Z",
+            "url": "https://cdn1.epicgames.com/offer/4817ba5c11504724ba4d5817c8995dff/EGS_JurassicWorldEvolution2FeatheredSpeciesPack_FrontierDevelopments_DLC_S1_2560x1440-5327eebbd8614cf8e15447e328cce489",
+            "width": 2560
+          },
+          {
+            "alt": "Jurassic World Evolution 2: Feathered Species Pack-413300",
+            "height": 1600,
+            "md5": "c5fc36d18624e24557d60ead8dc35780",
+            "size": 205608,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-03-23T16:06:16.920Z",
+            "url": "https://cdn1.epicgames.com/offer/4817ba5c11504724ba4d5817c8995dff/EGS_JurassicWorldEvolution2FeatheredSpeciesPack_FrontierDevelopments_DLC_S2_1200x1600-c5fc36d18624e24557d60ead8dc35780",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-06-12T10:05:35.470Z",
+        "mainGameItem": {
+          "id": "c58f6419c8754f169577e9162d1c8b32",
+          "namespace": "4817ba5c11504724ba4d5817c8995dff",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c58f6419c8754f169577e9162d1c8b32",
+            "namespace": "4817ba5c11504724ba4d5817c8995dff",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4817ba5c11504724ba4d5817c8995dff",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Jurassic World Evolution 2: Feathered Species Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-06-30T11:34:21.658Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Jurassic World Evolution 2: Prehistoric Marine Species Pack",
+        "developer": "Frontier Developments",
+        "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+        "endOfSupport": false,
+        "entitlementName": "b5efd163cacd4d8183cc764a1f3ed56c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b5efd163cacd4d8183cc764a1f3ed56c",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Jurassic World Evolution 2: Prehistoric Marine Species Pack-198073",
+            "height": 1440,
+            "md5": "6ebe780dad3cc56ca306775761ac1371",
+            "size": 747549,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-07-19T13:06:03.777Z",
+            "url": "https://cdn1.epicgames.com/offer/4817ba5c11504724ba4d5817c8995dff/EGS_FIXJWE2PrehistoricMarineSpeciesPack_FrontierDevelopments_DLC_S1_2560x1440-6ebe780dad3cc56ca306775761ac1371",
+            "width": 2560
+          },
+          {
+            "alt": "Jurassic World Evolution 2: Prehistoric Marine Species Pack-586048",
+            "height": 1600,
+            "md5": "6e8962c589a677953095477416052f87",
+            "size": 683852,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-07-19T13:05:51.368Z",
+            "url": "https://cdn1.epicgames.com/offer/4817ba5c11504724ba4d5817c8995dff/EGS_FIXJWE2PrehistoricMarineSpeciesPack_FrontierDevelopments_DLC_S2_1200x1600-6e8962c589a677953095477416052f87",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-06-12T10:05:35.470Z",
+        "mainGameItem": {
+          "id": "c58f6419c8754f169577e9162d1c8b32",
+          "namespace": "4817ba5c11504724ba4d5817c8995dff",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c58f6419c8754f169577e9162d1c8b32",
+            "namespace": "4817ba5c11504724ba4d5817c8995dff",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4817ba5c11504724ba4d5817c8995dff",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Jurassic World Evolution 2: Prehistoric Marine Species Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-10-17T12:20:47.444Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Jurassic World Evolution 2: Cretaceous Predator Pack",
+        "developer": "Frontier Developments",
+        "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+        "endOfSupport": false,
+        "entitlementName": "fda4d285a6b7448ba70bf0cd5f6e6b7f",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fda4d285a6b7448ba70bf0cd5f6e6b7f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Jurassic World Evolution 2: Cretaceous Predator Pack-967411",
+            "height": 1440,
+            "md5": "368a2b269b24dfa7edd4dd6409f99eae",
+            "size": 189017,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-20T13:17:59.501Z",
+            "url": "https://cdn1.epicgames.com/offer/4817ba5c11504724ba4d5817c8995dff/EGS_FIXJWE2CretaceousPredatorPack_FrontierDevelopments_DLC_S1_2560x1440-368a2b269b24dfa7edd4dd6409f99eae",
+            "width": 2560
+          },
+          {
+            "alt": "Jurassic World Evolution 2: Cretaceous Predator Pack-671216",
+            "height": 1600,
+            "md5": "d22e65c5075eb88bdbd059eb9f7292bf",
+            "size": 137823,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-11-20T13:17:56.142Z",
+            "url": "https://cdn1.epicgames.com/offer/4817ba5c11504724ba4d5817c8995dff/EGS_FIXJWE2CretaceousPredatorPack_FrontierDevelopments_DLC_S2_1200x1600-d22e65c5075eb88bdbd059eb9f7292bf",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-06-12T10:05:35.470Z",
+        "mainGameItem": {
+          "id": "c58f6419c8754f169577e9162d1c8b32",
+          "namespace": "4817ba5c11504724ba4d5817c8995dff",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c58f6419c8754f169577e9162d1c8b32",
+            "namespace": "4817ba5c11504724ba4d5817c8995dff",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4817ba5c11504724ba4d5817c8995dff",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Jurassic World Evolution 2: Cretaceous Predator Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-01-23T12:23:39.776Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Jurassic World Evolution 2: Secret Species Pack",
+        "developer": "Frontier Developments",
+        "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+        "endOfSupport": false,
+        "entitlementName": "1043fb360b274de9ae3a2ba8ae51c215",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1043fb360b274de9ae3a2ba8ae51c215",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Jurassic World Evolution 2: Secret Species Pack-367747",
+            "height": 1440,
+            "md5": "f20c58f80d6d02c45a4845af4070313a",
+            "size": 279308,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-03-06T15:15:41.857Z",
+            "url": "https://cdn1.epicgames.com/offer/4817ba5c11504724ba4d5817c8995dff/EGS_FIXJWE2SecretSpeciesPack_FrontierDevelopments_DLC_S1_2560x1440-f20c58f80d6d02c45a4845af4070313a",
+            "width": 2560
+          },
+          {
+            "alt": "Jurassic World Evolution 2: Secret Species Pack-772713",
+            "height": 1600,
+            "md5": "1a21fe483efb4f1d82ed62682e4a748c",
+            "size": 209654,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-03-06T15:15:37.397Z",
+            "url": "https://cdn1.epicgames.com/offer/4817ba5c11504724ba4d5817c8995dff/EGS_FIXJWE2SecretSpeciesPack_FrontierDevelopments_DLC_S2_1200x1600-1a21fe483efb4f1d82ed62682e4a748c",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-06-12T10:05:35.470Z",
+        "mainGameItem": {
+          "id": "c58f6419c8754f169577e9162d1c8b32",
+          "namespace": "4817ba5c11504724ba4d5817c8995dff",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c58f6419c8754f169577e9162d1c8b32",
+            "namespace": "4817ba5c11504724ba4d5817c8995dff",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4817ba5c11504724ba4d5817c8995dff",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Jurassic World Evolution 2: Secret Species Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-03-18T13:17:31.737Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Discover a range of iconic species with the Jurassic World Evolution 2: Park Managers\u2019 Collection Pack. From legendary giants of the oceans and skies, to the most diminutive of prehistoric creatures to walk the earth!",
+        "developer": "Frontier Developments",
+        "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+        "endOfSupport": false,
+        "entitlementName": "4bf27b27566247ac9fe52349d8fa6ad1",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4bf27b27566247ac9fe52349d8fa6ad1",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Jurassic World Evolution 2 Jurassic World Evolution 2: Park Managers' Collection Pack Offer",
+            "height": 1440,
+            "md5": "8a87d29f407b49240b51016ab42f6b2d",
+            "size": 378375,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-04-25T16:27:40.002Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/378035dd04714b5b98a89ebe9d928c12/jurassic-world-evolution-2-1w1tm.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Jurassic World Evolution 2 Jurassic World Evolution 2: Park Managers' Collection Pack Offer",
+            "height": 1600,
+            "md5": "daff431c06d44103c5c8ec730f557b84",
+            "size": 269616,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-04-25T16:27:39.855Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/378035dd04714b5b98a89ebe9d928c12/jurassic-world-evolution-2-cu5x8.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-06-12T10:05:35.470Z",
+        "mainGameItem": {
+          "id": "c58f6419c8754f169577e9162d1c8b32",
+          "namespace": "4817ba5c11504724ba4d5817c8995dff",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c58f6419c8754f169577e9162d1c8b32",
+            "namespace": "4817ba5c11504724ba4d5817c8995dff",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4817ba5c11504724ba4d5817c8995dff",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Jurassic World Evolution 2: Park Managers' Collection Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "addons/durable"
+          }
+        ],
+        "creationDate": "2024-04-05T16:57:15.502Z",
+        "description": "Jurassic World Evolution 2: Camp Cretaceous Dinosaur Pack",
+        "developer": "Frontier Developments",
+        "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+        "endOfSupport": false,
+        "entitlementName": "12ccb95075f5462fb5ff5e0b8f3c4944",
+        "entitlementType": "EXECUTABLE",
+        "id": "12ccb95075f5462fb5ff5e0b8f3c4944",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Jurassic World Evolution 2: Camp Cretaceous Dinosaur Pack-308325",
+            "height": 1440,
+            "md5": "364c9b745dcbaea9a729dc7b0b4a3738",
+            "size": 484381,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-02-16T17:28:30.632Z",
+            "url": "https://cdn1.epicgames.com/offer/4817ba5c11504724ba4d5817c8995dff/EGS_CampCretaceousDinosaurPack_FrontierDevelopments_DLC_S1_2560x1440-364c9b745dcbaea9a729dc7b0b4a3738",
+            "width": 2560
+          },
+          {
+            "alt": "Jurassic World Evolution 2: Camp Cretaceous Dinosaur Pack-919362",
+            "height": 1600,
+            "md5": "7368879b73a9b8c9c0a2102c6cc79f1e",
+            "size": 730661,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-02-16T17:28:27.156Z",
+            "url": "https://cdn1.epicgames.com/offer/4817ba5c11504724ba4d5817c8995dff/EGS_CampCretaceousDinosaurPack_FrontierDevelopments_DLC_S2_1200x1600-7368879b73a9b8c9c0a2102c6cc79f1e",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-06-12T10:05:35.470Z",
+        "mainGameItem": {
+          "id": "c58f6419c8754f169577e9162d1c8b32",
+          "namespace": "4817ba5c11504724ba4d5817c8995dff",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c58f6419c8754f169577e9162d1c8b32",
+            "namespace": "4817ba5c11504724ba4d5817c8995dff",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4817ba5c11504724ba4d5817c8995dff",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Jurassic World Evolution 2: Camp Cretaceous Dinosaur Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "addons/durable"
+          }
+        ],
+        "creationDate": "2024-04-05T16:57:17.374Z",
+        "description": "Jurassic World Evolution 2: Early Cretaceous Pack",
+        "developer": "Frontier Developments",
+        "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+        "endOfSupport": false,
+        "entitlementName": "91f18654ad894affb9ae2d8c61a59ac3",
+        "entitlementType": "EXECUTABLE",
+        "id": "91f18654ad894affb9ae2d8c61a59ac3",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Jurassic World Evolution 2: Early Cretaceous Pack-610395",
+            "height": 1440,
+            "md5": "f4330e18f8a8b7818b70ba5a0c84e6d3",
+            "size": 1013142,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-12-06T21:58:03.890Z",
+            "url": "https://cdn1.epicgames.com/offer/4817ba5c11504724ba4d5817c8995dff/EGS_JurassicWorldEvolution2EarlyCretaceousPack_FrontierDevelopments_DLC_S1_2560x1440-f4330e18f8a8b7818b70ba5a0c84e6d3",
+            "width": 2560
+          },
+          {
+            "alt": "Jurassic World Evolution 2: Early Cretaceous Pack-985611",
+            "height": 1600,
+            "md5": "d9d4cd464dc94f8854168a6b966aa43b",
+            "size": 1004711,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-12-06T21:57:58.194Z",
+            "url": "https://cdn1.epicgames.com/offer/4817ba5c11504724ba4d5817c8995dff/EGS_JurassicWorldEvolution2EarlyCretaceousPack_FrontierDevelopments_DLC_S2_1200x1600-d9d4cd464dc94f8854168a6b966aa43b",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-06-12T10:05:36.771Z",
+        "mainGameItem": {
+          "id": "c58f6419c8754f169577e9162d1c8b32",
+          "namespace": "4817ba5c11504724ba4d5817c8995dff",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c58f6419c8754f169577e9162d1c8b32",
+            "namespace": "4817ba5c11504724ba4d5817c8995dff",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4817ba5c11504724ba4d5817c8995dff",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Jurassic World Evolution 2: Early Cretaceous Pack",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          },
+          {
+            "path": "addons/durable"
+          }
+        ],
+        "creationDate": "2024-04-05T16:57:17.889Z",
+        "description": "Jurassic World Evolution 2: Deluxe Upgrade Pack",
+        "developer": "Frontier Developments",
+        "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+        "endOfSupport": false,
+        "entitlementName": "b8835695128c4ec28683c43c2d621bf7",
+        "entitlementType": "EXECUTABLE",
+        "id": "b8835695128c4ec28683c43c2d621bf7",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Jurassic World Evolution 2: Deluxe Upgrade Pack-702719",
+            "height": 1440,
+            "md5": "660e6a77955ed72f8db56cec532add39",
+            "size": 206768,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-08-18T17:55:20.285Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2DeluxeUpgradePack_FrontierDevelopments_DLC_S1_2560x1440-660e6a77955ed72f8db56cec532add39",
+            "width": 2560
+          },
+          {
+            "alt": "Jurassic World Evolution 2: Deluxe Upgrade Pack-478141",
+            "height": 1600,
+            "md5": "7b9bbb7bed81e2ccf5668da6b7ef714d",
+            "size": 164895,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-08-18T17:55:14.953Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JurassicWorldEvolution2DeluxeUpgradePack_FrontierDevelopments_DLC_S2_1200x1600-7b9bbb7bed81e2ccf5668da6b7ef714d",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-06-12T10:05:36.771Z",
+        "mainGameItem": {
+          "id": "c58f6419c8754f169577e9162d1c8b32",
+          "namespace": "4817ba5c11504724ba4d5817c8995dff",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "c58f6419c8754f169577e9162d1c8b32",
+            "namespace": "4817ba5c11504724ba4d5817c8995dff",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "4817ba5c11504724ba4d5817c8995dff",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Jurassic World Evolution 2: Deluxe Upgrade Pack",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "c58f6419c8754f169577e9162d1c8b32",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "c58f6419c8754f169577e9162d1c8b32",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "4103be22950c498c9687d9457d9e0815",
+        "size": 826114,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-06-22T09:56:23.786Z",
+        "url": "https://cdn1.epicgames.com/item/4817ba5c11504724ba4d5817c8995dff/EGS_JurassicWorldEvolution2_FrontierDevelopments_S1_2560x1440-4103be22950c498c9687d9457d9e0815",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "56055d1e93c502852ccc0f9578094e5d",
+        "size": 751556,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-06-22T09:56:27.817Z",
+        "url": "https://cdn1.epicgames.com/item/4817ba5c11504724ba4d5817c8995dff/EGS_JurassicWorldEvolution2_FrontierDevelopments_S2_1200x1600-56055d1e93c502852ccc0f9578094e5d",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-06-12T10:05:36.771Z",
+    "mainGameItemList": [],
+    "namespace": "4817ba5c11504724ba4d5817c8995dff",
+    "releaseInfo": [
+      {
+        "appId": "70883ed009994efe86d00a5fb8f2b52e",
+        "id": "8217d2a06a4b42a291580442caadb7fb",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Jurassic World Evolution 2",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

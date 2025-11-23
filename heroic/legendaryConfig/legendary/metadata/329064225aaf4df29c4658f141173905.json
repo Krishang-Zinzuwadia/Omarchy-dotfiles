@@ -1,0 +1,3923 @@
+{
+  "app_name": "329064225aaf4df29c4658f141173905",
+  "app_title": "Shop Titans",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "329064225aaf4df29c4658f141173905",
+      "asset_id": "329064225aaf4df29c4658f141173905",
+      "build_version": "79542",
+      "catalog_item_id": "f1599d3f6e494642a88242bec0d3d838",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "d60506a5ee7d432a931eecd07671e9cd"
+      },
+      "namespace": "9696e0c7c26841789a152588c744d506",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567yoJ0HAojn0FMXUqJK6nbBUEz",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-03-09T19:32:14.395Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "ShopTitans"
+      }
+    },
+    "description": "Design and build a thriving shop in this tycoon simulation adventure! Outfit your heroes and champions with epic gear, and send them on quests to defeat powerful bosses!",
+    "developer": "Kabam Games, Inc.",
+    "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T22:22:51.042Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "774b7f21d8da419c898c1121acc0e312",
+        "entitlementType": "AUDIENCE",
+        "id": "774b7f21d8da419c898c1121acc0e312",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:40.974Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T20:58:54.764Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "4f4bb05b40f14417a59ebd9e8c0510c7",
+        "entitlementType": "AUDIENCE",
+        "id": "4f4bb05b40f14417a59ebd9e8c0510c7",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:43.803Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T05:30:03.510Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "414544492cbc43248ec835eaf6b62ee8",
+        "entitlementType": "AUDIENCE",
+        "id": "414544492cbc43248ec835eaf6b62ee8",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:41.648Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-20T22:48:40.703Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "9b84178ea1df4e8a864880edfc283aca",
+        "entitlementType": "AUDIENCE",
+        "id": "9b84178ea1df4e8a864880edfc283aca",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:42.356Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T22:29:32.065Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "b0636af886eb4741ab00dce454a35608",
+        "entitlementType": "AUDIENCE",
+        "id": "b0636af886eb4741ab00dce454a35608",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:43.083Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-17T18:13:21.726Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "ceb0afa3a5bd4b6497b17d4c8701793e",
+        "entitlementType": "AUDIENCE",
+        "id": "ceb0afa3a5bd4b6497b17d4c8701793e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:43.803Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T22:28:07.273Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "7c1db6a824384d7ea1984a1d73b6fca4",
+        "entitlementType": "AUDIENCE",
+        "id": "7c1db6a824384d7ea1984a1d73b6fca4",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:43.083Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T21:05:02.803Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "eda80f4bf07a497387b418418a77a8ae",
+        "entitlementType": "AUDIENCE",
+        "id": "eda80f4bf07a497387b418418a77a8ae",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:43.083Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-20T22:03:10.595Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "f7c48fedcab24f1c825e8f9ac9171c24",
+        "entitlementType": "AUDIENCE",
+        "id": "f7c48fedcab24f1c825e8f9ac9171c24",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:42.356Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T21:38:12.163Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "826016e5b3de4b0f8fadc7f75820968f",
+        "entitlementType": "AUDIENCE",
+        "id": "826016e5b3de4b0f8fadc7f75820968f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:43.083Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T05:33:22.869Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "d139cdaee0cb48f39c645d045e5005d6",
+        "entitlementType": "AUDIENCE",
+        "id": "d139cdaee0cb48f39c645d045e5005d6",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:39.272Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-17T17:45:43.322Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "0d2b600f578f4fbd8c6b092a6d98a61e",
+        "entitlementType": "AUDIENCE",
+        "id": "0d2b600f578f4fbd8c6b092a6d98a61e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:43.083Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-13T20:19:16.460Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "b81deae1d56242eeb1765c9b58acbdc1",
+        "entitlementType": "AUDIENCE",
+        "id": "b81deae1d56242eeb1765c9b58acbdc1",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:39.272Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T21:44:58.816Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "ed593dbb25a14feaaa2dd9400085f6ce",
+        "entitlementType": "AUDIENCE",
+        "id": "ed593dbb25a14feaaa2dd9400085f6ce",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:44.492Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-20T22:17:37.697Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "e19a9e4978d240bbb0406a708112337f",
+        "entitlementType": "AUDIENCE",
+        "id": "e19a9e4978d240bbb0406a708112337f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:41.648Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T21:47:30.735Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "8a2f8b674cea4cb4965a89583ae9e010",
+        "entitlementType": "AUDIENCE",
+        "id": "8a2f8b674cea4cb4965a89583ae9e010",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:39.272Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T22:01:45.391Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "ac1f26f694ae4adcbbfb34c00bc52342",
+        "entitlementType": "AUDIENCE",
+        "id": "ac1f26f694ae4adcbbfb34c00bc52342",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:39.821Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T05:50:15.465Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "6cd490d3b8c64d249b046153bec65977",
+        "entitlementType": "AUDIENCE",
+        "id": "6cd490d3b8c64d249b046153bec65977",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:40.407Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-20T22:54:25.041Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "2d9e82d4ac2e4126a2f48fb062fbc92c",
+        "entitlementType": "AUDIENCE",
+        "id": "2d9e82d4ac2e4126a2f48fb062fbc92c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:39.272Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T22:26:24.835Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "a724f9d67fea4c418af1f82266d24711",
+        "entitlementType": "AUDIENCE",
+        "id": "a724f9d67fea4c418af1f82266d24711",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:41.648Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T22:24:10.199Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "b657f3ceb83b456aaea0d5e33aeeeb9f",
+        "entitlementType": "AUDIENCE",
+        "id": "b657f3ceb83b456aaea0d5e33aeeeb9f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:42.356Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-13T20:57:47.532Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "e052694dbf6d42baba6bf2813fd3f05e",
+        "entitlementType": "AUDIENCE",
+        "id": "e052694dbf6d42baba6bf2813fd3f05e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:44.492Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-20T22:08:08.037Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "f2d555a7a72445fc83d054aee9e25aaf",
+        "entitlementType": "AUDIENCE",
+        "id": "f2d555a7a72445fc83d054aee9e25aaf",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:39.821Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T00:20:41.617Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "b8f58d01163847dc9740880f5237ab06",
+        "entitlementType": "AUDIENCE",
+        "id": "b8f58d01163847dc9740880f5237ab06",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:39.821Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T21:06:50.291Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "08f8bf9e420e41f1866f66cbf1989589",
+        "entitlementType": "AUDIENCE",
+        "id": "08f8bf9e420e41f1866f66cbf1989589",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:40.974Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T00:18:36.136Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "0a99cd0b473a4228aa779fac4cacb437",
+        "entitlementType": "AUDIENCE",
+        "id": "0a99cd0b473a4228aa779fac4cacb437",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:39.821Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T00:26:51.135Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "49baa4bb47124707b55d0e4fcb6cfe4f",
+        "entitlementType": "AUDIENCE",
+        "id": "49baa4bb47124707b55d0e4fcb6cfe4f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:42.356Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T22:03:40.636Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "b50cb017439446aa982d2e42de4aa24e",
+        "entitlementType": "AUDIENCE",
+        "id": "b50cb017439446aa982d2e42de4aa24e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:39.821Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T21:45:58.179Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "0ecfa66eb55d44c693ef0c6ac1a081a3",
+        "entitlementType": "AUDIENCE",
+        "id": "0ecfa66eb55d44c693ef0c6ac1a081a3",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:43.803Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T22:08:21.800Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "950eeecfa2124d0d83018939dadeeac1",
+        "entitlementType": "AUDIENCE",
+        "id": "950eeecfa2124d0d83018939dadeeac1",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:43.803Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-17T18:03:13.634Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "d804b55de9da47179d0b8d989bcf11a9",
+        "entitlementType": "AUDIENCE",
+        "id": "d804b55de9da47179d0b8d989bcf11a9",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:39.272Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T05:48:03.514Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "fecea730165d46e9aad24cd1b9d977a0",
+        "entitlementType": "AUDIENCE",
+        "id": "fecea730165d46e9aad24cd1b9d977a0",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:42.356Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T00:22:01.208Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "eb4b60c62e9d4fc9b8f4975751c00ae7",
+        "entitlementType": "AUDIENCE",
+        "id": "eb4b60c62e9d4fc9b8f4975751c00ae7",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:43.083Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T05:23:39.942Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "f27c4976420b41a7935c5e2613202388",
+        "entitlementType": "AUDIENCE",
+        "id": "f27c4976420b41a7935c5e2613202388",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:43.083Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T21:43:27.802Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "bf7475e62087482fb55edee315a2afb4",
+        "entitlementType": "AUDIENCE",
+        "id": "bf7475e62087482fb55edee315a2afb4",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:43.083Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T00:13:21.701Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "d7f7dd2ce2f84fe8a527e60af30a60d8",
+        "entitlementType": "AUDIENCE",
+        "id": "d7f7dd2ce2f84fe8a527e60af30a60d8",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:44.492Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-17T18:01:12.713Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "d443f4820d9a4fcb90d1f6603c7c16d0",
+        "entitlementType": "AUDIENCE",
+        "id": "d443f4820d9a4fcb90d1f6603c7c16d0",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:44.492Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T21:34:24.787Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "87ac2dfe7aa74ed39fe661e0aa8e18b6",
+        "entitlementType": "AUDIENCE",
+        "id": "87ac2dfe7aa74ed39fe661e0aa8e18b6",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:40.407Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-20T22:57:12.817Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "cf81aa22317d4b8ba0a64d3ab20da0a9",
+        "entitlementType": "AUDIENCE",
+        "id": "cf81aa22317d4b8ba0a64d3ab20da0a9",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:43.803Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T22:15:06.160Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "003615d444bd4f3d87a64a359aed0a0d",
+        "entitlementType": "AUDIENCE",
+        "id": "003615d444bd4f3d87a64a359aed0a0d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:42.356Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-20T22:41:15.134Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "afee096459204cd995aab387ec1e4dba",
+        "entitlementType": "AUDIENCE",
+        "id": "afee096459204cd995aab387ec1e4dba",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:41.648Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T22:09:58.190Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "3297f0252ab74e5d9a6b0e134079cd1b",
+        "entitlementType": "AUDIENCE",
+        "id": "3297f0252ab74e5d9a6b0e134079cd1b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:40.407Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-20T21:56:40.575Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "5cfde81f65dc4874805b6a8881ce4c5a",
+        "entitlementType": "AUDIENCE",
+        "id": "5cfde81f65dc4874805b6a8881ce4c5a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:40.974Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T22:16:56.427Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "39b5cc04802b45a39932fb3684bbbd8c",
+        "entitlementType": "AUDIENCE",
+        "id": "39b5cc04802b45a39932fb3684bbbd8c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:40.974Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-25T20:28:28.722Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "71156812dee041f7a91326f058321d61",
+        "entitlementType": "AUDIENCE",
+        "id": "71156812dee041f7a91326f058321d61",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:41.648Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-13T22:00:16.533Z",
+        "description": "DevSeasonPassAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "c72f5ac9a12b40dfbdf382e6c8cadd34",
+        "entitlementType": "AUDIENCE",
+        "id": "c72f5ac9a12b40dfbdf382e6c8cadd34",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-02-19T15:14:44.492Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DevSeasonPassAudience",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T21:41:56.841Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "cd546c74d0ca4c7da5b8ff2e1561c3a2",
+        "entitlementType": "AUDIENCE",
+        "id": "cd546c74d0ca4c7da5b8ff2e1561c3a2",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:42.356Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-20T23:01:42.215Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "6f0b95896cdb42e18516b43f0016f341",
+        "entitlementType": "AUDIENCE",
+        "id": "6f0b95896cdb42e18516b43f0016f341",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:39.272Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T21:40:28.938Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "304a12901b184438a8b995ae556174c3",
+        "entitlementType": "AUDIENCE",
+        "id": "304a12901b184438a8b995ae556174c3",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:41.648Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T21:43:38.000Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "edb3746b78224e74bc9c9fad39d2f6cf",
+        "entitlementType": "AUDIENCE",
+        "id": "edb3746b78224e74bc9c9fad39d2f6cf",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:40.974Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-20T21:59:19.191Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "1c57e4ffeb20493a9626fd154b5fb1e0",
+        "entitlementType": "AUDIENCE",
+        "id": "1c57e4ffeb20493a9626fd154b5fb1e0",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:44.492Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-20T22:04:42.766Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "879bec63db75441cb2b6e48acdc688bf",
+        "entitlementType": "AUDIENCE",
+        "id": "879bec63db75441cb2b6e48acdc688bf",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:39.821Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T00:15:34.409Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "4b0d42c1c06b430bb6c15f3284681984",
+        "entitlementType": "AUDIENCE",
+        "id": "4b0d42c1c06b430bb6c15f3284681984",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:39.821Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-13T20:22:49.386Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "1512dddc67304039bdd7abfe1e5b5352",
+        "entitlementType": "AUDIENCE",
+        "id": "1512dddc67304039bdd7abfe1e5b5352",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:40.407Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-20T22:19:34.032Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "a6fead67f80d4420aa223d43fc14f060",
+        "entitlementType": "AUDIENCE",
+        "id": "a6fead67f80d4420aa223d43fc14f060",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:40.407Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T05:34:57.061Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "1b60204d989146acb1dec37472d874fe",
+        "entitlementType": "AUDIENCE",
+        "id": "1b60204d989146acb1dec37472d874fe",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:39.272Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-17T18:33:10.939Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "590e684bb1bf4a0e911ad3902c2bdad8",
+        "entitlementType": "AUDIENCE",
+        "id": "590e684bb1bf4a0e911ad3902c2bdad8",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:44.492Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-20T22:00:51.143Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "b8226e77dff64371a97d80778258cf59",
+        "entitlementType": "AUDIENCE",
+        "id": "b8226e77dff64371a97d80778258cf59",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:39.272Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T05:58:27.463Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "bdc8924d527c4bdd9ee605f100a43c7b",
+        "entitlementType": "AUDIENCE",
+        "id": "bdc8924d527c4bdd9ee605f100a43c7b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:40.974Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T21:48:56.215Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "f7f99ab306ee43678687694680e0b287",
+        "entitlementType": "AUDIENCE",
+        "id": "f7f99ab306ee43678687694680e0b287",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:42.356Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T05:25:24.200Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "4bdeef338d5f418690fc06e2db24ab57",
+        "entitlementType": "AUDIENCE",
+        "id": "4bdeef338d5f418690fc06e2db24ab57",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:44.492Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T05:13:02.435Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "1d024b0634d14859a8914b16d2d92655",
+        "entitlementType": "AUDIENCE",
+        "id": "1d024b0634d14859a8914b16d2d92655",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:41.648Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-20T22:59:37.920Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "98906024023846d78566f02ccaf6c2b6",
+        "entitlementType": "AUDIENCE",
+        "id": "98906024023846d78566f02ccaf6c2b6",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:44.492Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-17T18:23:20.030Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "78155783a9e54068b0e1a330cd60efed",
+        "entitlementType": "AUDIENCE",
+        "id": "78155783a9e54068b0e1a330cd60efed",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:43.803Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T21:56:53.270Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "3c417257062e4a70859bb67a0ed5aaa3",
+        "entitlementType": "AUDIENCE",
+        "id": "3c417257062e4a70859bb67a0ed5aaa3",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:44.492Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-20T22:10:47.228Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "30e03995f2a1479db3a66ce92a256205",
+        "entitlementType": "AUDIENCE",
+        "id": "30e03995f2a1479db3a66ce92a256205",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:43.083Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T00:25:33.140Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "5c5a3b65b2934e28842849a96762e389",
+        "entitlementType": "AUDIENCE",
+        "id": "5c5a3b65b2934e28842849a96762e389",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:40.407Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-13T21:57:21.804Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "688807420fcb422892df507d353cddf7",
+        "entitlementType": "AUDIENCE",
+        "id": "688807420fcb422892df507d353cddf7",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:42.356Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T21:36:28.756Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "152446f70f9147939dc7c1b023753cc9",
+        "entitlementType": "AUDIENCE",
+        "id": "152446f70f9147939dc7c1b023753cc9",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:39.821Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T21:58:48.374Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "401e6d28bc014cb3bac9a224032af7c7",
+        "entitlementType": "AUDIENCE",
+        "id": "401e6d28bc014cb3bac9a224032af7c7",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:43.803Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T22:00:19.785Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "700c44ed0ba043ed87c07044c2ee2915",
+        "entitlementType": "AUDIENCE",
+        "id": "700c44ed0ba043ed87c07044c2ee2915",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:40.974Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T22:04:15.558Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "3f3ae4cbaabf47ee9d83cb6063482e10",
+        "entitlementType": "AUDIENCE",
+        "id": "3f3ae4cbaabf47ee9d83cb6063482e10",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:40.407Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T05:28:25.632Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "3c76d164548d45ec97d40cb1f23e33d9",
+        "entitlementType": "AUDIENCE",
+        "id": "3c76d164548d45ec97d40cb1f23e33d9",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:39.272Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-20T22:21:47.223Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "28cad5d2093f48059b22d6e5790c0c0a",
+        "entitlementType": "AUDIENCE",
+        "id": "28cad5d2093f48059b22d6e5790c0c0a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:40.974Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T00:24:05.065Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "36348300246d494793a7c6eab6c3da15",
+        "entitlementType": "AUDIENCE",
+        "id": "36348300246d494793a7c6eab6c3da15",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:39.821Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T00:17:03.822Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "25febe76cd9b4a17925ecdb1310508cc",
+        "entitlementType": "AUDIENCE",
+        "id": "25febe76cd9b4a17925ecdb1310508cc",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:41.648Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-25T19:08:48.469Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "7609bd77d42d43b986236f58d655fb04",
+        "entitlementType": "AUDIENCE",
+        "id": "7609bd77d42d43b986236f58d655fb04",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:39.821Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T21:46:36.193Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "d1bf2ce505ea44daa942837e6952e995",
+        "entitlementType": "AUDIENCE",
+        "id": "d1bf2ce505ea44daa942837e6952e995",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:43.803Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T21:24:36.306Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "6d26e5b65cf34008a1251f1377ee337c",
+        "entitlementType": "AUDIENCE",
+        "id": "6d26e5b65cf34008a1251f1377ee337c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:41.648Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T21:29:51.557Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "ccafd2c48fc94760b98feda94d4874a2",
+        "entitlementType": "AUDIENCE",
+        "id": "ccafd2c48fc94760b98feda94d4874a2",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:40.974Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-20T22:13:25.876Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "7ad002f0dc6140f7ab9fc1346788a33e",
+        "entitlementType": "AUDIENCE",
+        "id": "7ad002f0dc6140f7ab9fc1346788a33e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:43.803Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-25T19:10:11.120Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "49e1fef6e2ee479b9d410fbeb5d88e40",
+        "entitlementType": "AUDIENCE",
+        "id": "49e1fef6e2ee479b9d410fbeb5d88e40",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:40.407Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T05:52:32.809Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "762fa8e34a8e4ba1b03e71e2ee32ca5d",
+        "entitlementType": "AUDIENCE",
+        "id": "762fa8e34a8e4ba1b03e71e2ee32ca5d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:40.974Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T05:56:11.783Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "405e3265516d424babd0af2256ec8543",
+        "entitlementType": "AUDIENCE",
+        "id": "405e3265516d424babd0af2256ec8543",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:43.083Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-06-21T22:02:35.206Z",
+        "description": "ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "215ea2d9c11f46d7aa35790f16d6618c",
+        "entitlementType": "AUDIENCE",
+        "id": "215ea2d9c11f46d7aa35790f16d6618c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:41.648Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-07-26T18:46:05.728Z",
+        "description": "Bjorn Coins_ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "aec3308849c04c56b4952de46fa8830d",
+        "entitlementType": "AUDIENCE",
+        "id": "aec3308849c04c56b4952de46fa8830d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:43.803Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Bjorn Coins_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-11-16T19:47:16.648Z",
+        "description": "Ascension Pack Tier 3_ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "19ec39add22b4d6798c5320a561aff6f",
+        "entitlementType": "AUDIENCE",
+        "id": "19ec39add22b4d6798c5320a561aff6f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:42.356Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Ascension Pack Tier 3_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-05-14T21:24:02.078Z",
+        "description": "Research Pack Tier 3_ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "1902644c0a2443afb21cda94ff534c39",
+        "entitlementType": "AUDIENCE",
+        "id": "1902644c0a2443afb21cda94ff534c39",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-02-19T15:14:40.407Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Research Pack Tier 3_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-07-10T20:45:40.868Z",
+        "description": "Antique Tokens_ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "a7ebd0e42f2b4aeead08df210d354f8c",
+        "entitlementType": "AUDIENCE",
+        "id": "a7ebd0e42f2b4aeead08df210d354f8c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-07-22T20:20:08.675Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Antique Tokens_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-07-10T21:12:19.214Z",
+        "description": "Dragonmarks_ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "8d458de90fc1424f8f8ac8aebda8d215",
+        "entitlementType": "AUDIENCE",
+        "id": "8d458de90fc1424f8f8ac8aebda8d215",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-07-22T20:20:08.675Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dragonmarks_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-07-10T20:55:16.290Z",
+        "description": "Antique Tokens_ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "d3fbae209eb347bea992c5fe8e5a53bb",
+        "entitlementType": "AUDIENCE",
+        "id": "d3fbae209eb347bea992c5fe8e5a53bb",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-07-22T20:20:08.675Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Antique Tokens_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-07-10T21:05:07.474Z",
+        "description": "Dragonmarks_ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "ff11e87d70834c4790e49809b6848498",
+        "entitlementType": "AUDIENCE",
+        "id": "ff11e87d70834c4790e49809b6848498",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-07-22T20:20:08.675Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dragonmarks_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-07-10T20:17:43.867Z",
+        "description": "Antique Tokens_ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "deb4b8e1179f421680dc4c525dfda019",
+        "entitlementType": "AUDIENCE",
+        "id": "deb4b8e1179f421680dc4c525dfda019",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-07-22T20:20:08.675Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Antique Tokens_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-07-10T21:17:46.385Z",
+        "description": "Dragonmarks_ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "ac3097ce80fa419b9a368f2f8e599b44",
+        "entitlementType": "AUDIENCE",
+        "id": "ac3097ce80fa419b9a368f2f8e599b44",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-07-22T20:20:08.675Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dragonmarks_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-07-22T20:20:08.708Z",
+        "description": "Malady Coins_ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "5038eb40368843fa82dd76e67b9ad888",
+        "entitlementType": "AUDIENCE",
+        "id": "5038eb40368843fa82dd76e67b9ad888",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-07-22T20:20:08.708Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Malady Coins_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-02T19:10:52.238Z",
+        "description": "Dragonmarks Chest_ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "4bb42b36047c485fb9d3d162b23d6d64",
+        "entitlementType": "AUDIENCE",
+        "id": "4bb42b36047c485fb9d3d162b23d6d64",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-02T19:10:52.238Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dragonmarks Chest_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-02T19:10:52.240Z",
+        "description": "Antique Tokens Chest_ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "a1a4e86c6cc44564865d2897219ebe36",
+        "entitlementType": "AUDIENCE",
+        "id": "a1a4e86c6cc44564865d2897219ebe36",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-02T19:10:52.240Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Antique Tokens Chest_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-02T19:10:52.242Z",
+        "description": "Antique Tokens Bundle_ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "b0689a422bc14d1e980d29eeae9b33bf",
+        "entitlementType": "AUDIENCE",
+        "id": "b0689a422bc14d1e980d29eeae9b33bf",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-02T19:10:52.242Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Antique Tokens Bundle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-02T19:10:52.236Z",
+        "description": "Dragonmarks Stack_ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "1b7de17cb35e418e86509a5e3607e5be",
+        "entitlementType": "AUDIENCE",
+        "id": "1b7de17cb35e418e86509a5e3607e5be",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-02T19:10:52.236Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dragonmarks Stack_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-02T19:10:52.246Z",
+        "description": "Dragonmarks Bundle_ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "f3a3716ed17f48e79812c4c0b16ea7fc",
+        "entitlementType": "AUDIENCE",
+        "id": "f3a3716ed17f48e79812c4c0b16ea7fc",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-02T19:10:52.246Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dragonmarks Bundle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-02T19:10:52.244Z",
+        "description": "Antique Tokens Stack_ConsumableAudience",
+        "developer": "Kabam Games, Inc.",
+        "developerId": "o-lqlrz5q43z6tt5halfh82edt2a3rj7",
+        "endOfSupport": false,
+        "entitlementName": "de4837f7ed1449f0a849b93a09674b80",
+        "entitlementType": "AUDIENCE",
+        "id": "de4837f7ed1449f0a849b93a09674b80",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-09-02T19:10:52.244Z",
+        "mainGameItem": {
+          "id": "f1599d3f6e494642a88242bec0d3d838",
+          "namespace": "9696e0c7c26841789a152588c744d506",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f1599d3f6e494642a88242bec0d3d838",
+            "namespace": "9696e0c7c26841789a152588c744d506",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "9696e0c7c26841789a152588c744d506",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Antique Tokens Stack_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "f1599d3f6e494642a88242bec0d3d838",
+    "entitlementType": "EXECUTABLE",
+    "id": "f1599d3f6e494642a88242bec0d3d838",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Shop Titans Offer",
+        "height": 1440,
+        "md5": "c13ef8b35806c25a597eda469ef85a02",
+        "size": 2481710,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-07-12T17:49:35.918Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/8ae16e8a55fa4f3897fa726a90dbd750/shop-titans-offer-1wny0.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Shop Titans Offer",
+        "height": 1600,
+        "md5": "4b8994cc896d4ef929911fd87ed085fc",
+        "size": 1608635,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-07-12T17:49:37.523Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/8ae16e8a55fa4f3897fa726a90dbd750/download-shop-titans-offer-11rr4.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-09-02T19:10:52.670Z",
+    "mainGameItemList": [],
+    "namespace": "9696e0c7c26841789a152588c744d506",
+    "releaseInfo": [
+      {
+        "appId": "329064225aaf4df29c4658f141173905",
+        "id": "c3871496db154854aa660df22958e54b",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Shop Titans",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

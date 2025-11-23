@@ -1,0 +1,113 @@
+{
+  "app_name": "a2b2ed0324c44902b9058e23dedc76e3",
+  "app_title": "Spelldrifter",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "a2b2ed0324c44902b9058e23dedc76e3",
+      "asset_id": "a2b2ed0324c44902b9058e23dedc76e3",
+      "build_version": "26974",
+      "catalog_item_id": "56e23ceb7e1544f0a8f1f50154403ac2",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "14d712e338ee4fe5b5304d959cd75cd2",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567NAW7r4tQQkeiCbCL11Myrdnw",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-01-29T19:32:17.136Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Free Range Games/Spelldrifter/Save/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Spelldrifter"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "14d712e338ee4fe5b5304d959cd75cd2"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Spelldrifter",
+    "developer": "Free Range Games",
+    "developerId": "o-qvs2rgyhchu758rbart55ds8vhk65b",
+    "endOfSupport": false,
+    "entitlementName": "56e23ceb7e1544f0a8f1f50154403ac2",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "56e23ceb7e1544f0a8f1f50154403ac2",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "352ef2771d0e47b849b948dc1299214c",
+        "size": 885590,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-04-06T02:57:26.203Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Spelldrifter_FreeRangeGames_S1_2560x1440-352ef2771d0e47b849b948dc1299214c",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "07cc0709cce6b5e7b66eed8665c79b2e",
+        "size": 894531,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-04-06T02:57:32.017Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Spelldrifter_FreeRangeGames_S2_1200x1600-07cc0709cce6b5e7b66eed8665c79b2e",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-03-25T21:42:39.908Z",
+    "mainGameItemList": [],
+    "namespace": "14d712e338ee4fe5b5304d959cd75cd2",
+    "releaseInfo": [
+      {
+        "appId": "a2b2ed0324c44902b9058e23dedc76e3",
+        "dateAdded": "2021-02-15T21:05:11.000Z",
+        "id": "eaa43d22deab412f8e72baeee5402ef2",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Spelldrifter",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

@@ -1,0 +1,88 @@
+{
+  "app_name": "51f62e3ef6034ce29500310393dedc62",
+  "app_title": "FusyFox",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "51f62e3ef6034ce29500310393dedc62",
+      "asset_id": "51f62e3ef6034ce29500310393dedc62",
+      "build_version": "2.0.0",
+      "catalog_item_id": "796ffcaec9b544ae9566523e81bebe16",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "0f452867b36f47e892081fa80963b7d1"
+      },
+      "namespace": "6308f89d537b47ea96dc02fb5a07518c",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-10-03T02:06:20.135Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "FusyFoxR5Mui"
+      }
+    },
+    "description": "FusyFox",
+    "developer": "FusyFox",
+    "developerId": "o-exnd7dwuc8zpxr87xcyv6jmzsu9n9m",
+    "endOfSupport": false,
+    "entitlementName": "796ffcaec9b544ae9566523e81bebe16",
+    "entitlementType": "EXECUTABLE",
+    "id": "796ffcaec9b544ae9566523e81bebe16",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "FusyFox Offer",
+        "height": 1440,
+        "md5": "bebed582a549238fe6f2608d144b9140",
+        "size": 2750749,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-04-09T04:48:31.050Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/d148e3a0b41746a19b99e148906aa990/fusyfox-mhrxo.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download FusyFox Offer",
+        "height": 1600,
+        "md5": "ccebc8ce2a0e609c8d9050539bff87b4",
+        "size": 1305634,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-04-09T04:48:01.205Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/d148e3a0b41746a19b99e148906aa990/fusyfox-19bop.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-04-28T18:52:31.698Z",
+    "mainGameItemList": [],
+    "namespace": "6308f89d537b47ea96dc02fb5a07518c",
+    "releaseInfo": [
+      {
+        "appId": "51f62e3ef6034ce29500310393dedc62",
+        "id": "ea77beec4b4746f1ad50211844595280",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "FusyFox",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "4c8b05119b984d7e846f9e3fdae940af"
+    },
+    "rev": 1
+  }
+}

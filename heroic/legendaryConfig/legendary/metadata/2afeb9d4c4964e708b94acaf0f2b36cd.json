@@ -1,0 +1,85 @@
+{
+  "app_name": "2afeb9d4c4964e708b94acaf0f2b36cd",
+  "app_title": "Asurya's Embers",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "2afeb9d4c4964e708b94acaf0f2b36cd",
+      "asset_id": "2afeb9d4c4964e708b94acaf0f2b36cd",
+      "build_version": "1.6.5.1",
+      "catalog_item_id": "991f0c6c8f3d4035ace98023c4581310",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "94851623bbdd419e9482ba7399c1b212"
+      },
+      "namespace": "c2d8e1ed422240c4a174bb59bee22dcb",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567OcA1hkiDL9kFXyOZ0ceYdU8d",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-06-21T17:09:40.242Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "Asuryas_Embers"
+      }
+    },
+    "description": "Asurya's Embers",
+    "developer": "SMU Guildhall",
+    "developerId": "o-lba5bb3nrhte5ycuyl86g7mt9m48ph",
+    "endOfSupport": false,
+    "entitlementName": "991f0c6c8f3d4035ace98023c4581310",
+    "entitlementType": "EXECUTABLE",
+    "id": "991f0c6c8f3d4035ace98023c4581310",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Asurya's Embers Offer",
+        "height": 1440,
+        "md5": "a4d9f63f88d126991295662c163608bd",
+        "size": 1094248,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-02-07T22:06:32.149Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/9c57e70a39894a8cbc917a0462c3683f/asuryas-embers-1u7hx.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Asurya's Embers Offer",
+        "height": 1600,
+        "md5": "ccb47f7c273b23347a39e7955497d383",
+        "size": 628473,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-02-07T22:06:31.641Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/9c57e70a39894a8cbc917a0462c3683f/asuryas-embers-1gs4s.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-03-06T00:57:13.083Z",
+    "mainGameItemList": [],
+    "namespace": "c2d8e1ed422240c4a174bb59bee22dcb",
+    "releaseInfo": [
+      {
+        "appId": "2afeb9d4c4964e708b94acaf0f2b36cd",
+        "id": "30575194ef9b48929dda2fba4a5c19fb",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Asurya's Embers",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

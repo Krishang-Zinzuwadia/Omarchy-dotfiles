@@ -1,0 +1,99 @@
+[2025-10-01T21:57:03.692Z] Initializing Cursor Hooks Service...
+[2025-10-01T21:57:03.693Z] User config path: /home/krishang/.cursor/hooks.json
+[2025-10-01T21:57:03.693Z] Project config path: /home/krishang/.config/waybar/.cursor/hooks.json
+[2025-10-01T21:57:03.693Z] Enterprise config path: /etc/cursor/managed-settings.json
+[2025-10-01T21:57:03.694Z] Reloading hooks configuration...
+[2025-10-01T21:57:03.698Z] No enterprise hooks configuration found
+[2025-10-01T21:57:03.701Z] No user hooks configuration found
+[2025-10-01T21:57:03.701Z] Project hooks disabled (experiment flag not enabled)
+[2025-10-01T21:57:03.701Z] Cursor Hooks Service initialized successfully
+[2025-10-01T21:57:32.005Z] Hook step requested: beforeReadFile
+[2025-10-01T21:57:32.005Z] Hook step requested: beforeReadFile
+═══════════════════════════════════════════════════════════════════════════════════════
+HOOK STEP REQUESTED (NO HOOKS CONFIGURED): beforeReadFile
+═══════════════════════════════════════════════════════════════════════════════════════
+INPUT THAT WOULD HAVE BEEN SENT:
+{
+  "conversation_id": "c6c8c4ed-2e7a-4ec4-9417-8ea450b73edd",
+  "generation_id": "fe334033-f0ea-447d-b75e-e78d92ccfa48",
+  "content": "{\n\n\"reload_style_on_change\": true,\n\n\"layer\": \"top\",\n\n\"position\": \"top\",\n\n\"spacing\": 0,\n\n\"height\": 26,\n\n\"modules-left\": [],\n\n\"modules-center\": [\n\"custom/omarchy\",\n\"custom/spacer1\",\n\"clock\",\n\"custom/spacer2\",\n\"hyprland/workspaces\",\n\"custom/spacer3\",\n\"cpu\",\n\"memory\",\n\"disk\",\n\"custom/spacer4\",\n\"bluetooth\",\n\"network\",\n\"pulseaudio\",\n\"battery\"\n],\n\n\"modules-right\": [],\n\n\"hyprland/workspaces\": {\n\n\"on-click\": \"activate\",\n\n\"format\": \"{icon}\",\n\n\"format-icons\": {\n\n\"default\": \"\",\n\n\"1\": \"1\",\n\n\"2\": \"2\",\n\n\"3\": \"3\",\n\n\"4\": \"4\",\n\n\"5\": \"5\",\n\n\"6\": \"6\",\n\n\"7\": \"7\",\n\n\"8\": \"8\",\n\n\"9\": \"9\",\n\n\"active\": \"󱓻\"\n\n},\n\n\"persistent-workspaces\": {\n\n\"1\": [],\n\n\"2\": [],\n\n\"3\": [],\n\n\"4\": [],\n\n\"5\": []\n\n}\n\n},\n\n\"custom/omarchy\": {\n\n\"format\": \"<span font='omarchy'>\\ue900</span>\",\n\n\"on-click\": \"omarchy-menu\",\n\n\"tooltip-format\": \"Omarchy Menu\\n\\nSuper + Alt + Space\"\n\n},\n\n\"custom/update\": {\n\n\"format\": \"\",\n\n\"exec\": \"omarchy-update-available\",\n\n\"on-click\": \"omarchy-launch-floating-terminal-with-presentation omarchy-update\",\n\n\"tooltip-format\": \"Omarchy update available\",\n\n\"signal\": 7,\n\n\"interval\": 3600\n\n},\n\n  \n\n\"cpu\": {\n\"interval\": 5,\n\"format\": \"󰍛 {usage}%\",\n\"tooltip-format\": \"CPU usage: {usage}%\",\n\"on-click\": \"$TERMINAL -e btop\"\n},\n\n\"clock\": {\n\n\"format\": \"{:L%A %H:%M}\",\n\n\"format-alt\": \"{:L%d %B W%V %Y}\",\n\n\"tooltip\": false,\n\n\"on-click-right\": \"omarchy-cmd-tzupdate\"\n\n},\n\n\"network\": {\n\n\"format-icons\": [\"󰤯\", \"󰤟\", \"󰤢\", \"󰤥\", \"󰤨\"],\n\n\"format\": \"{icon}\",\n\n\"format-wifi\": \"{icon}\",\n\n\"format-ethernet\": \"󰀂\",\n\n\"format-disconnected\": \"󰤮\",\n\n\"tooltip-format-wifi\": \"{essid} ({frequency} GHz)\\n⇣{bandwidthDownBytes} ⇡{bandwidthUpBytes}\",\n\n\"tooltip-format-ethernet\": \"⇣{bandwidthDownBytes} ⇡{bandwidthUpBytes}\",\n\n\"tooltip-format-disconnected\": \"Disconnected\",\n\n\"interval\": 3,\n\n\"spacing\": 1,\n\n\"on-click\": \"omarchy-launch-wifi\"\n\n},\n\n\"battery\": {\n\n\"format\": \"{capacity}% {icon}\",\n\n\"format-discharging\": \"{icon}\",\n\n\"format-charging\": \"{icon}\",\n\n\"format-plugged\": \"\",\n\n\"format-icons\": {\n\n\"charging\": [\"󰢜\", \"󰂆\", \"󰂇\", \"󰂈\", \"󰢝\", \"󰂉\", \"󰢞\", \"󰂊\", \"󰂋\", \"󰂅\"],\n\n\"default\": [\"󰁺\", \"󰁻\", \"󰁼\", \"󰁽\", \"󰁾\", \"󰁿\", \"󰂀\", \"󰂁\", \"󰂂\", \"󰁹\"]\n\n},\n\n\"format-full\": \"󰂅\",\n\n\"tooltip-format-discharging\": \"{power:>1.0f}W↓ {capacity}%\",\n\n\"tooltip-format-charging\": \"{power:>1.0f}W↑ {capacity}%\",\n\n\"interval\": 5,\n\n\"on-click\": \"omarchy-menu power\",\n\n\"states\": {\n\n\"warning\": 20,\n\n\"critical\": 10\n\n}\n\n},\n\n\"bluetooth\": {\n\n\"format\": \"\",\n\n\"format-disabled\": \"󰂲\",\n\n\"format-connected\": \"\",\n\n\"tooltip-format\": \"Devices connected: {num_connections}\",\n\n\"on-click\": \"blueberry\"\n\n},\n\n\"pulseaudio\": {\n\n\"format\": \"{icon}\",\n\n\"on-click\": \"$TERMINAL --class=Wiremix -e wiremix\",\n\n\"on-click-right\": \"pamixer -t\",\n\n\"tooltip-format\": \"Playing at {volume}%\",\n\n\"scroll-step\": 5,\n\n\"format-muted\": \"\",\n\n\"format-icons\": {\n\n\"default\": [\"\", \"\", \"\"]\n\n}\n\n},\n\n\"group/tray-expander\": {\n\n\"orientation\": \"inherit\",\n\n\"drawer\": {\n\n\"transition-duration\": 600,\n\n\"children-class\": \"tray-group-item\"\n\n},\n\n\"modules\": [\"custom/expand-icon\", \"tray\"]\n\n},\n\n\"custom/expand-icon\": {\n\n\"format\": \" \",\n\n\"tooltip\": false\n\n},\n\n\"custom/screenrecording-indicator\": {\n\n\"on-click\": \"omarchy-cmd-screenrecord\",\n\n\"exec\": \"$OMARCHY_PATH/default/waybar/indicators/screen-recording.sh\",\n\n\"signal\": 8,\n\n\"return-type\": \"json\"\n\n},\n\n\"tray\": {\n\"icon-size\": 12,\n\"spacing\": 12\n},\n\"custom/center-gap\": {\n  // Spacer module to create visual separation between workspaces and CPU\n  \"format\": \"\"\n},\n\"memory\": {\n    \"format\": \"󰍛 {used:0.1f}G\"\n},\n\"disk\": {\n    \"format\": \"󰋊 {free}\"\n},\n\"custom/spacer1\": {\"format\": \"\"},\n\"custom/spacer2\": {\"format\": \"\"},\n\"custom/spacer3\": {\"format\": \"\"},\n\"custom/spacer4\": {\"format\": \"\"}\n}\n\n",
+  "file_path": "config.jsonc",
+  "hook_event_name": "beforeReadFile",
+  "workspace_roots": [
+    "/home/krishang/.config/waybar"
+  ]
+}
+═══════════════════════════════════════════════════════════════════════════════════════
+
+[2025-10-01T21:57:32.251Z] Hook step requested: beforeReadFile
+[2025-10-01T21:57:32.251Z] Hook step requested: beforeReadFile
+═══════════════════════════════════════════════════════════════════════════════════════
+HOOK STEP REQUESTED (NO HOOKS CONFIGURED): beforeReadFile
+═══════════════════════════════════════════════════════════════════════════════════════
+INPUT THAT WOULD HAVE BEEN SENT:
+{
+  "conversation_id": "c6c8c4ed-2e7a-4ec4-9417-8ea450b73edd",
+  "generation_id": "fe334033-f0ea-447d-b75e-e78d92ccfa48",
+  "content": "* {\n\tbackground-color: transparent;\n\tcolor: #ffffff; /* Set a default color since the import was removed */\n\tborder: none;\n\tborder-radius: 0;\n\tmin-height: 0;\n\tfont-family: 'Nimbus Mono PS';\n\tfont-size: 12px;\n}\n\nwindow#waybar {\n\tbackground: rgba(0, 0, 0, 0.4);\n    border-radius: 15px; /* Rounded corners */\n}\n\n.modules-left {\n    margin-left: 8px;\n}\n\n.modules-right {\n    margin-right: 8px;\n}\n\n#workspaces button {\n    all: initial;\n    padding: 0 6px;\n    margin: 0 1.5px;\n    min-width: 9px;\n}\n\n#workspaces button.empty {\n    opacity: 0.5;\n}\n\n#tray,\n#cpu,\n#memory,\n#disk,\n#battery,\n#network,\n#bluetooth,\n#pulseaudio,\n#custom-omarchy,\n#custom-screenrecording-indicator,\n#custom-update {\n    min-width: 12px;\n    margin: 0 7.5px;\n}\n\n#custom-expand-icon {\n    margin-right: 7px;\n}\n\ntooltip {\n    padding: 2px;\n}\n\n#custom-update {\n    font-size: 10px;\n}\n\n#clock {\n    margin-left: 8.75px;\n}\n\n.hidden {\n    opacity: 0;\n}\n\n#custom-screenrecording-indicator {\n    min-width: 12px;\n    margin-left: 8.75px;\n    font-size: 10px;\n}\n\n#custom-screenrecording-indicator.active {\n    color: #a55555;\n}\n\n/* Spacers for the 5-point layout */\n#custom-spacer1,\n#custom-spacer2,\n#custom-spacer3,\n#custom-spacer4 {\n    padding: 0 15px; /* Adjust padding to control the gap size */\n}",
+  "file_path": "style.css",
+  "hook_event_name": "beforeReadFile",
+  "workspace_roots": [
+    "/home/krishang/.config/waybar"
+  ]
+}
+═══════════════════════════════════════════════════════════════════════════════════════
+
+[2025-10-01T22:00:59.833Z] Hook step requested: beforeShellExecution
+[2025-10-01T22:00:59.834Z] Hook step requested: beforeShellExecution
+═══════════════════════════════════════════════════════════════════════════════════════
+HOOK STEP REQUESTED (NO HOOKS CONFIGURED): beforeShellExecution
+═══════════════════════════════════════════════════════════════════════════════════════
+INPUT THAT WOULD HAVE BEEN SENT:
+{
+  "conversation_id": "c6c8c4ed-2e7a-4ec4-9417-8ea450b73edd",
+  "generation_id": "566462e1-4e22-4cee-ae1e-b623c26a2e16",
+  "command": "waybar --check-config",
+  "cwd": "",
+  "hook_event_name": "beforeShellExecution",
+  "workspace_roots": [
+    "/home/krishang/.config/waybar"
+  ]
+}
+═══════════════════════════════════════════════════════════════════════════════════════
+
+[2025-10-01T22:01:29.142Z] Hook step requested: beforeReadFile
+[2025-10-01T22:01:29.142Z] Hook step requested: beforeReadFile
+═══════════════════════════════════════════════════════════════════════════════════════
+HOOK STEP REQUESTED (NO HOOKS CONFIGURED): beforeReadFile
+═══════════════════════════════════════════════════════════════════════════════════════
+INPUT THAT WOULD HAVE BEEN SENT:
+{
+  "conversation_id": "c6c8c4ed-2e7a-4ec4-9417-8ea450b73edd",
+  "generation_id": "566462e1-4e22-4cee-ae1e-b623c26a2e16",
+  "content": "{\n\n\"reload_style_on_change\": true,\n\n\"layer\": \"top\",\n\n\"position\": \"top\",\n\n\"spacing\": 0,\n\n\"height\": 26,\n\n\"modules-left\": [\n    \"custom/omarchy\",\n    \"hyprland/workspaces\"\n],\n\"modules-center\": [\n    \"clock\"\n],\n\"modules-right\": [\n    \"cpu\",\n    \"memory\", \n    \"disk\",\n    \"bluetooth\",\n    \"network\",\n    \"pulseaudio\",\n    \"battery\"\n],\n\n\"hyprland/workspaces\": {\n\n\"on-click\": \"activate\",\n\n\"format\": \"{icon}\",\n\n\"format-icons\": {\n\n\"default\": \"\",\n\n\"1\": \"1\",\n\n\"2\": \"2\",\n\n\"3\": \"3\",\n\n\"4\": \"4\",\n\n\"5\": \"5\",\n\n\"6\": \"6\",\n\n\"7\": \"7\",\n\n\"8\": \"8\",\n\n\"9\": \"9\",\n\n\"active\": \"󱓻\"\n\n},\n\n\"persistent-workspaces\": {\n\n\"1\": [],\n\n\"2\": [],\n\n\"3\": [],\n\n\"4\": [],\n\n\"5\": []\n\n}\n\n},\n\n\"custom/omarchy\": {\n\n\"format\": \"<span font='omarchy'>\\ue900</span>\",\n\n\"on-click\": \"omarchy-menu\",\n\n\"tooltip-format\": \"Omarchy Menu\\n\\nSuper + Alt + Space\"\n\n},\n\n\"custom/update\": {\n\n\"format\": \"\",\n\n\"exec\": \"omarchy-update-available\",\n\n\"on-click\": \"omarchy-launch-floating-terminal-with-presentation omarchy-update\",\n\n\"tooltip-format\": \"Omarchy update available\",\n\n\"signal\": 7,\n\n\"interval\": 3600\n\n},\n\n  \n\n\"cpu\": {\n\"interval\": 5,\n\"format\": \"󰍛 {usage}%\",\n\"tooltip-format\": \"CPU usage: {usage}%\",\n\"on-click\": \"$TERMINAL -e btop\"\n},\n\n\"clock\": {\n    \"format\": \"{:%A %H:%M}\",\n    \"format-alt\": \"{:%d %B W%V %Y}\",\n    \"tooltip\": false,\n    \"on-click-right\": \"omarchy-cmd-tzupdate\"\n},\n\n\"network\": {\n\n\"format-icons\": [\"󰤯\", \"󰤟\", \"󰤢\", \"󰤥\", \"󰤨\"],\n\n\"format\": \"{icon}\",\n\n\"format-wifi\": \"{icon}\",\n\n\"format-ethernet\": \"󰀂\",\n\n\"format-disconnected\": \"󰤮\",\n\n\"tooltip-format-wifi\": \"{essid} ({frequency} GHz)\\n⇣{bandwidthDownBytes} ⇡{bandwidthUpBytes}\",\n\n\"tooltip-format-ethernet\": \"⇣{bandwidthDownBytes} ⇡{bandwidthUpBytes}\",\n\n\"tooltip-format-disconnected\": \"Disconnected\",\n\n\"interval\": 3,\n\n\"spacing\": 1,\n\n\"on-click\": \"omarchy-launch-wifi\"\n\n},\n\n\"battery\": {\n\n\"format\": \"{capacity}% {icon}\",\n\n\"format-discharging\": \"{icon}\",\n\n\"format-charging\": \"{icon}\",\n\n\"format-plugged\": \"\",\n\n\"format-icons\": {\n\n\"charging\": [\"󰢜\", \"󰂆\", \"󰂇\", \"󰂈\", \"󰢝\", \"󰂉\", \"󰢞\", \"󰂊\", \"󰂋\", \"󰂅\"],\n\n\"default\": [\"󰁺\", \"󰁻\", \"󰁼\", \"󰁽\", \"󰁾\", \"󰁿\", \"󰂀\", \"󰂁\", \"󰂂\", \"󰁹\"]\n\n},\n\n\"format-full\": \"󰂅\",\n\n\"tooltip-format-discharging\": \"{power:>1.0f}W↓ {capacity}%\",\n\n\"tooltip-format-charging\": \"{power:>1.0f}W↑ {capacity}%\",\n\n\"interval\": 5,\n\n\"on-click\": \"omarchy-menu power\",\n\n\"states\": {\n\n\"warning\": 20,\n\n\"critical\": 10\n\n}\n\n},\n\n\"bluetooth\": {\n\n\"format\": \"\",\n\n\"format-disabled\": \"󰂲\",\n\n\"format-connected\": \"\",\n\n\"tooltip-format\": \"Devices connected: {num_connections}\",\n\n\"on-click\": \"blueberry\"\n\n},\n\n\"pulseaudio\": {\n\n\"format\": \"{icon}\",\n\n\"on-click\": \"$TERMINAL --class=Wiremix -e wiremix\",\n\n\"on-click-right\": \"pamixer -t\",\n\n\"tooltip-format\": \"Playing at {volume}%\",\n\n\"scroll-step\": 5,\n\n\"format-muted\": \"\",\n\n\"format-icons\": {\n\n\"default\": [\"\", \"\", \"\"]\n\n}\n\n},\n\n\"group/tray-expander\": {\n\n\"orientation\": \"inherit\",\n\n\"drawer\": {\n\n\"transition-duration\": 600,\n\n\"children-class\": \"tray-group-item\"\n\n},\n\n\"modules\": [\"custom/expand-icon\", \"tray\"]\n\n},\n\n\"custom/expand-icon\": {\n\n\"format\": \" \",\n\n\"tooltip\": false\n\n},\n\n\"custom/screenrecording-indicator\": {\n\n\"on-click\": \"omarchy-cmd-screenrecord\",\n\n\"exec\": \"$OMARCHY_PATH/default/waybar/indicators/screen-recording.sh\",\n\n\"signal\": 8,\n\n\"return-type\": \"json\"\n\n},\n\n\"tray\": {\n\"icon-size\": 12,\n\"spacing\": 12\n},\n\"memory\": {\n    \"format\": \"󰍛 {used:0.1f}G\"\n},\n\"disk\": {\n    \"format\": \"󰋊 {free}\"\n},\n}\n\n",
+  "file_path": "config.jsonc",
+  "hook_event_name": "beforeReadFile",
+  "workspace_roots": [
+    "/home/krishang/.config/waybar"
+  ]
+}
+═══════════════════════════════════════════════════════════════════════════════════════
+
+[2025-10-01T22:01:34.631Z] Hook step requested: beforeShellExecution
+[2025-10-01T22:01:34.631Z] Hook step requested: beforeShellExecution
+═══════════════════════════════════════════════════════════════════════════════════════
+HOOK STEP REQUESTED (NO HOOKS CONFIGURED): beforeShellExecution
+═══════════════════════════════════════════════════════════════════════════════════════
+INPUT THAT WOULD HAVE BEEN SENT:
+{
+  "conversation_id": "c6c8c4ed-2e7a-4ec4-9417-8ea450b73edd",
+  "generation_id": "566462e1-4e22-4cee-ae1e-b623c26a2e16",
+  "command": "waybar &",
+  "cwd": "",
+  "hook_event_name": "beforeShellExecution",
+  "workspace_roots": [
+    "/home/krishang/.config/waybar"
+  ]
+}
+═══════════════════════════════════════════════════════════════════════════════════════
+

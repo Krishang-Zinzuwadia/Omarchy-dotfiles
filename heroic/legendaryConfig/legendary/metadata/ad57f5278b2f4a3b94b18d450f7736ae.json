@@ -1,0 +1,89 @@
+{
+  "app_name": "ad57f5278b2f4a3b94b18d450f7736ae",
+  "app_title": "Happy Game",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ad57f5278b2f4a3b94b18d450f7736ae",
+      "asset_id": "ad57f5278b2f4a3b94b18d450f7736ae",
+      "build_version": "1.3.1",
+      "catalog_item_id": "6a9f4b3a49534f07b86dc4b0e0451e93",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "e4a143be970740399c561c6b83529c48"
+      },
+      "namespace": "0024d18025a544fd99b2ee8dee87baaf",
+      "sidecar_rev": 3
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567gxcCigohzW7SHAl7mlbAcRDV",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-04-30T12:54:36.629Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "HappyGame"
+      }
+    },
+    "description": "A little boy falls asleep to a horrible nightmare. Can you make him happy again?",
+    "developer": "Amanita Design s.r.o.",
+    "developerId": "o-9yx3b8bxbr9g2r3z7ahpmgphp2d5kh",
+    "endOfSupport": false,
+    "entitlementName": "6a9f4b3a49534f07b86dc4b0e0451e93",
+    "entitlementType": "EXECUTABLE",
+    "id": "6a9f4b3a49534f07b86dc4b0e0451e93",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Happy Game Offer",
+        "height": 1440,
+        "md5": "172520950cf13ed61da47e4dfd394459",
+        "size": 1384867,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-03-06T10:56:13.970Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/61e093fe853d48eca37b3b7db72d6cd4/happy-game-eyg8k.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Happy Game Offer",
+        "height": 1600,
+        "md5": "8002957fbdb8e8c879f72e78213e6c62",
+        "size": 400526,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-03-06T10:56:04.694Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/61e093fe853d48eca37b3b7db72d6cd4/happy-game-78iwm.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-04-30T12:54:36.629Z",
+    "mainGameItemList": [],
+    "namespace": "0024d18025a544fd99b2ee8dee87baaf",
+    "releaseInfo": [
+      {
+        "appId": "ad57f5278b2f4a3b94b18d450f7736ae",
+        "id": "058a1fc1a1664402a70282e4fa5b8e66",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Happy Game",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "91fc8ae20dab4f3ebe1a0b17cdaf76d3"
+    },
+    "rev": 3
+  }
+}

@@ -1,0 +1,5122 @@
+{
+  "app_name": "f420ceaac9924a2790a438958101d8a4",
+  "app_title": "RAVEN2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "f420ceaac9924a2790a438958101d8a4",
+      "asset_id": "f420ceaac9924a2790a438958101d8a4",
+      "build_version": "1.00.00",
+      "catalog_item_id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c0a4c0217a0945e59551fd3c8d584a9c",
+        "update_type": "PATCH"
+      },
+      "namespace": "8fac4611b4074c73bdc5cc123d505575",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-07-15T09:07:45.604Z",
+    "customAttributes": {
+      "BackgroundProcessNames": {
+        "type": "STRING",
+        "value": "Netmarble Launcher_EPIC.exe"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "RAVEN2"
+      },
+      "MainWindowProcessName": {
+        "type": "STRING",
+        "value": "RAVEN2.exe"
+      },
+      "ProcessNames": {
+        "type": "STRING",
+        "value": "RAVEN2.exe"
+      }
+    },
+    "description": "Born in Blood. Built for War. \nEnter RAVEN2, the brutal dark fantasy MMORPG",
+    "developer": "NETMARBLE",
+    "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:13.719Z",
+        "description": "\ud2b9\ubb34\ub300 10 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "be4a75cf934846be86ed7b286b53fafa",
+        "entitlementType": "AUDIENCE",
+        "id": "be4a75cf934846be86ed7b286b53fafa",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:13.719Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud2b9\ubb34\ub300 10 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:13.723Z",
+        "description": "\ud478\ub978 \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c V_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "d76e1b3d974444409f6f0c42d9e74c91",
+        "entitlementType": "AUDIENCE",
+        "id": "d76e1b3d974444409f6f0c42d9e74c91",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:13.723Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud478\ub978 \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c V_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:13.707Z",
+        "description": "\ub860\uce6d \uae30\ub150 \ud2b9\ubcc4 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "0e442cd976974515843b2f72b5cdd21b",
+        "entitlementType": "AUDIENCE",
+        "id": "0e442cd976974515843b2f72b5cdd21b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:13.707Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ub860\uce6d \uae30\ub150 \ud2b9\ubcc4 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:13.712Z",
+        "description": "\ud2b9\ubb34\ub300 15 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "6d8ae6edb5f84c2391c801d82e4f3bfa",
+        "entitlementType": "AUDIENCE",
+        "id": "6d8ae6edb5f84c2391c801d82e4f3bfa",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:13.712Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud2b9\ubb34\ub300 15 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:13.714Z",
+        "description": "\ubaa8\ud5d8\uc758 \uc2dc\uc791 \uc2a4\ud15d\uc5c5 III_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "af0775186ab643539ae1d4e8af18babc",
+        "entitlementType": "AUDIENCE",
+        "id": "af0775186ab643539ae1d4e8af18babc",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:13.714Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ubaa8\ud5d8\uc758 \uc2dc\uc791 \uc2a4\ud15d\uc5c5 III_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:13.725Z",
+        "description": "\ubaa8\ud5d8\uc758 \uc2dc\uc791 \uc2a4\ud15d\uc5c5 IV_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "f2e92fa4ce4d4aeb8dac02a6024ecaae",
+        "entitlementType": "AUDIENCE",
+        "id": "f2e92fa4ce4d4aeb8dac02a6024ecaae",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:13.725Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ubaa8\ud5d8\uc758 \uc2dc\uc791 \uc2a4\ud15d\uc5c5 IV_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:13.710Z",
+        "description": "\ub860\uce6d \uae30\ub150 \uc131\uc758 \ud56b \ub51c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "2ef9f32e2bfe4e4d858a3ea78d9904a2",
+        "entitlementType": "AUDIENCE",
+        "id": "2ef9f32e2bfe4e4d858a3ea78d9904a2",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:13.710Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ub860\uce6d \uae30\ub150 \uc131\uc758 \ud56b \ub51c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:13.716Z",
+        "description": "30\ub808\ubca8 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "b77720e1a18e44d4938349d5194d0498",
+        "entitlementType": "AUDIENCE",
+        "id": "b77720e1a18e44d4938349d5194d0498",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:13.716Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "30\ub808\ubca8 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:13.721Z",
+        "description": "65\ub808\ubca8 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "c0c1ee200d8a4b67b041c93525a11c8e",
+        "entitlementType": "AUDIENCE",
+        "id": "c0c1ee200d8a4b67b041c93525a11c8e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:13.721Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "65\ub808\ubca8 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:14.824Z",
+        "description": "\uce90\ub9ad\ud130 \uc774\ub984 \ubcc0\uacbd\uad8c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "6afe725efb514f9aa6201949159c9db7",
+        "entitlementType": "AUDIENCE",
+        "id": "6afe725efb514f9aa6201949159c9db7",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:14.824Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uce90\ub9ad\ud130 \uc774\ub984 \ubcc0\uacbd\uad8c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:14.834Z",
+        "description": "\uc2dc\uc98c \ud328\uc2a4: \ud638\ubc15 \ub9c8\uc744 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "f61bb7de118d428293a37f2b83153437",
+        "entitlementType": "AUDIENCE",
+        "id": "f61bb7de118d428293a37f2b83153437",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:14.834Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uc2dc\uc98c \ud328\uc2a4: \ud638\ubc15 \ub9c8\uc744 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:14.828Z",
+        "description": "\uc2dc\ub108\ub9bc \uc644\ub8cc \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "d456dfbc69764be98142c0a0fbf1ee0b",
+        "entitlementType": "AUDIENCE",
+        "id": "d456dfbc69764be98142c0a0fbf1ee0b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:14.828Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uc2dc\ub108\ub9bc \uc644\ub8cc \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:14.833Z",
+        "description": "\ud2b9\ubb34\ub300 30 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "e6dd36672241408c974ce1be6aa6fca5",
+        "entitlementType": "AUDIENCE",
+        "id": "e6dd36672241408c974ce1be6aa6fca5",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:14.833Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud2b9\ubb34\ub300 30 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:14.830Z",
+        "description": "\ud2b9\ubb34\ub300 50 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "d4de3b4a9f914aa3b9f3662d2f61a0aa",
+        "entitlementType": "AUDIENCE",
+        "id": "d4de3b4a9f914aa3b9f3662d2f61a0aa",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:14.830Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud2b9\ubb34\ub300 50 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:14.815Z",
+        "description": "\ucd08\ub85d \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c IV_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "33db1df8915d4ba89ec122c39be41add",
+        "entitlementType": "AUDIENCE",
+        "id": "33db1df8915d4ba89ec122c39be41add",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:14.815Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ucd08\ub85d \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c IV_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:14.826Z",
+        "description": "\uc8fc\uac04 \ud2b9\ubb34\ub300 \uc18c\ud658 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "999e9be9cadb49a6ab6f07422f6b4dbb",
+        "entitlementType": "AUDIENCE",
+        "id": "999e9be9cadb49a6ab6f07422f6b4dbb",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:14.826Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uc8fc\uac04 \ud2b9\ubb34\ub300 \uc18c\ud658 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:14.818Z",
+        "description": "\ubaa8\ud5d8\uc758 \uc2dc\uc791 \uc2a4\ud15d\uc5c5 I_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "45d5e1579f6640b0b4d1f9a5d77609cf",
+        "entitlementType": "AUDIENCE",
+        "id": "45d5e1579f6640b0b4d1f9a5d77609cf",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:14.818Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ubaa8\ud5d8\uc758 \uc2dc\uc791 \uc2a4\ud15d\uc5c5 I_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:14.821Z",
+        "description": "10\ub808\ubca8 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "542c0b9200b347edb593623e62efb1f2",
+        "entitlementType": "AUDIENCE",
+        "id": "542c0b9200b347edb593623e62efb1f2",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:14.821Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "10\ub808\ubca8 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:14.825Z",
+        "description": "\ucd08\ub85d \ube5b\uc758 \uc815\uc218 \ub3c4\uc804\uc790 \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "7c4d624bc0b240538aca23206c719bf3",
+        "entitlementType": "AUDIENCE",
+        "id": "7c4d624bc0b240538aca23206c719bf3",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:14.825Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ucd08\ub85d \ube5b\uc758 \uc815\uc218 \ub3c4\uc804\uc790 \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:15.760Z",
+        "description": "\uc2dc\uc98c \ud328\uc2a4: \ud2b9\ubb34\ub300 15\ub2e8\uacc4 \ub2ec\uc131_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "8e6026588ed24a69847c37b5c880a5b9",
+        "entitlementType": "AUDIENCE",
+        "id": "8e6026588ed24a69847c37b5c880a5b9",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:15.760Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uc2dc\uc98c \ud328\uc2a4: \ud2b9\ubb34\ub300 15\ub2e8\uacc4 \ub2ec\uc131_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:15.752Z",
+        "description": "4000 \ud06c\ub9ac\uc2a4\ud0c8_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "5533f10834444c969342fe8834365277",
+        "entitlementType": "AUDIENCE",
+        "id": "5533f10834444c969342fe8834365277",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:15.752Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "4000 \ud06c\ub9ac\uc2a4\ud0c8_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:15.763Z",
+        "description": "\ud2b9\ubb34\ub300 40 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "a413085ce71a4a32b3d7a65a38cf211c",
+        "entitlementType": "AUDIENCE",
+        "id": "a413085ce71a4a32b3d7a65a38cf211c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:15.763Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud2b9\ubb34\ub300 40 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:15.756Z",
+        "description": "\ud2b9\ubb34\ub300 \uc131\uc720\ubb3c \uc2a4\ud15d\uc5c5 III_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "7d752cacbeb448698365eb4480041efa",
+        "entitlementType": "AUDIENCE",
+        "id": "7d752cacbeb448698365eb4480041efa",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:15.756Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud2b9\ubb34\ub300 \uc131\uc720\ubb3c \uc2a4\ud15d\uc5c5 III_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:15.765Z",
+        "description": "\ucd08\ub85d \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c III_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "bc8acc10baf14c1c8cf6bd60ef8551d7",
+        "entitlementType": "AUDIENCE",
+        "id": "bc8acc10baf14c1c8cf6bd60ef8551d7",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:15.765Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ucd08\ub85d \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c III_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:15.769Z",
+        "description": "\ubd89\uc740 \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c IV_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "e7aeb54c3b434145b3dda32d7357632c",
+        "entitlementType": "AUDIENCE",
+        "id": "e7aeb54c3b434145b3dda32d7357632c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:15.769Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ubd89\uc740 \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c IV_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:15.771Z",
+        "description": "\uc2dc\uc98c \ud328\uc2a4: \ud2b9\ubb34\ub300 \uc644\ub8cc_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "f740187d525f4036956d8f337d397931",
+        "entitlementType": "AUDIENCE",
+        "id": "f740187d525f4036956d8f337d397931",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:15.771Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uc2dc\uc98c \ud328\uc2a4: \ud2b9\ubb34\ub300 \uc644\ub8cc_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:15.767Z",
+        "description": "20\ub808\ubca8 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "ce651a9c6c4f4f36a69fbebca89220a6",
+        "entitlementType": "AUDIENCE",
+        "id": "ce651a9c6c4f4f36a69fbebca89220a6",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:15.767Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "20\ub808\ubca8 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:15.758Z",
+        "description": "\ud478\ub978 \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c IV_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "88d0115513cf4ff8bfe9161a6c93647d",
+        "entitlementType": "AUDIENCE",
+        "id": "88d0115513cf4ff8bfe9161a6c93647d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:15.758Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud478\ub978 \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c IV_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:15.754Z",
+        "description": "\ud478\ub978 \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c II_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "7c43528eb05a4d91b737b8ec512ac946",
+        "entitlementType": "AUDIENCE",
+        "id": "7c43528eb05a4d91b737b8ec512ac946",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:15.754Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud478\ub978 \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c II_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:16.732Z",
+        "description": "\ud2b9\ubb34\ub300 20 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "1b46b72b90de4e55b80d961e67129e3d",
+        "entitlementType": "AUDIENCE",
+        "id": "1b46b72b90de4e55b80d961e67129e3d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:16.732Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud2b9\ubb34\ub300 20 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:16.734Z",
+        "description": "\uc54c\ud14c\uc774\uc544 \uc644\ub8cc \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "28f516cf52d842df8501e29765376788",
+        "entitlementType": "AUDIENCE",
+        "id": "28f516cf52d842df8501e29765376788",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:16.734Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uc54c\ud14c\uc774\uc544 \uc644\ub8cc \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:16.747Z",
+        "description": "40\ub808\ubca8 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "a71bd2344886441fb92c20fb2b6d2090",
+        "entitlementType": "AUDIENCE",
+        "id": "a71bd2344886441fb92c20fb2b6d2090",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:16.747Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "40\ub808\ubca8 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:16.736Z",
+        "description": "\ud2b9\ubb34\ub300 7\uc77c \ucd9c\uc11d \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "32245084f3774027b926befd174534b4",
+        "entitlementType": "AUDIENCE",
+        "id": "32245084f3774027b926befd174534b4",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:16.736Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud2b9\ubb34\ub300 7\uc77c \ucd9c\uc11d \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:16.741Z",
+        "description": "\ud2b9\ubb34\ub300 70 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "44eb96decd944181ab9038bbe50e1a2a",
+        "entitlementType": "AUDIENCE",
+        "id": "44eb96decd944181ab9038bbe50e1a2a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:16.741Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud2b9\ubb34\ub300 70 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:16.746Z",
+        "description": "2000 \ud06c\ub9ac\uc2a4\ud0c8_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "7e8a1bd8dc1c41d9931536cbfb23eadb",
+        "entitlementType": "AUDIENCE",
+        "id": "7e8a1bd8dc1c41d9931536cbfb23eadb",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:16.746Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "2000 \ud06c\ub9ac\uc2a4\ud0c8_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:16.737Z",
+        "description": "\ud2b9\ubb34\ub300 5 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "395d5592fa734bff8f57eab2aacdbe9f",
+        "entitlementType": "AUDIENCE",
+        "id": "395d5592fa734bff8f57eab2aacdbe9f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:16.737Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud2b9\ubb34\ub300 5 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:16.739Z",
+        "description": "\ub860\uce6d \uae30\ub150 \ud76c\uadc0 \uc0ac\uc5ed\ub9c8 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "426688a070d94e8da9e5c2ed772ec4a5",
+        "entitlementType": "AUDIENCE",
+        "id": "426688a070d94e8da9e5c2ed772ec4a5",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:16.739Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ub860\uce6d \uae30\ub150 \ud76c\uadc0 \uc0ac\uc5ed\ub9c8 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:16.744Z",
+        "description": "45\ub808\ubca8 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "60392d5ff8c443a3abb0c6d2750cf0de",
+        "entitlementType": "AUDIENCE",
+        "id": "60392d5ff8c443a3abb0c6d2750cf0de",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:16.744Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "45\ub808\ubca8 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:16.750Z",
+        "description": "\ucd08\ub85d \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c I_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "b1c526c734bc479eba953fdc05fd7924",
+        "entitlementType": "AUDIENCE",
+        "id": "b1c526c734bc479eba953fdc05fd7924",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:16.750Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ucd08\ub85d \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c I_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:17.701Z",
+        "description": "\uc2dc\uc98c \ud328\uc2a4: \ud2b9\ubb34\ub300 20\ub2e8\uacc4 \ub2ec\uc131_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "f414886c634d4c8183da7d5e403f0a6a",
+        "entitlementType": "AUDIENCE",
+        "id": "f414886c634d4c8183da7d5e403f0a6a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:17.701Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uc2dc\uc98c \ud328\uc2a4: \ud2b9\ubb34\ub300 20\ub2e8\uacc4 \ub2ec\uc131_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:17.690Z",
+        "description": "\ucd08\ub85d \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c V_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "5c30a5d5dd304ffe9b6b55cae5ff3b8f",
+        "entitlementType": "AUDIENCE",
+        "id": "5c30a5d5dd304ffe9b6b55cae5ff3b8f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:17.690Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ucd08\ub85d \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c V_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:17.687Z",
+        "description": "\ud2b9\ubb34\ub300 25 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "12246d8604eb4e99a0e5fecebd80c8d0",
+        "entitlementType": "AUDIENCE",
+        "id": "12246d8604eb4e99a0e5fecebd80c8d0",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:17.687Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud2b9\ubb34\ub300 25 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:17.693Z",
+        "description": "\uc2dc\uc98c \ud328\uc2a4: \ud2b9\ubb34\ub300 10\ub2e8\uacc4 \ub2ec\uc131_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "83acae9509084237a81d74cb3765a8a4",
+        "entitlementType": "AUDIENCE",
+        "id": "83acae9509084237a81d74cb3765a8a4",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:17.693Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uc2dc\uc98c \ud328\uc2a4: \ud2b9\ubb34\ub300 10\ub2e8\uacc4 \ub2ec\uc131_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:17.695Z",
+        "description": "70\ub808\ubca8 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "a06d407db4664e4d80f45566ffc7d86d",
+        "entitlementType": "AUDIENCE",
+        "id": "a06d407db4664e4d80f45566ffc7d86d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:17.695Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "70\ub808\ubca8 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:17.689Z",
+        "description": "\uc2dc\uc98c \ud328\uc2a4: \ud2b9\ubb34\ub300 5\ub2e8\uacc4 \ub2ec\uc131_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "44364d140bdf480291e5514258fec3da",
+        "entitlementType": "AUDIENCE",
+        "id": "44364d140bdf480291e5514258fec3da",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:17.689Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uc2dc\uc98c \ud328\uc2a4: \ud2b9\ubb34\ub300 5\ub2e8\uacc4 \ub2ec\uc131_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:17.698Z",
+        "description": "160 \ud06c\ub9ac\uc2a4\ud0c8_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "cb91851cb3794375843985b2409b2110",
+        "entitlementType": "AUDIENCE",
+        "id": "cb91851cb3794375843985b2409b2110",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:17.698Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "160 \ud06c\ub9ac\uc2a4\ud0c8_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:17.697Z",
+        "description": "\ud638\ubc15 \ub9c8\uc744 \uc18c\ud658 \uc120\ud0dd \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "b993d429b44640c2881166035dddff60",
+        "entitlementType": "AUDIENCE",
+        "id": "b993d429b44640c2881166035dddff60",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:17.697Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud638\ubc15 \ub9c8\uc744 \uc18c\ud658 \uc120\ud0dd \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:17.700Z",
+        "description": "\ubd89\uc740 \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c III_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "daf9f842a71847b3bb5a879cb64bef53",
+        "entitlementType": "AUDIENCE",
+        "id": "daf9f842a71847b3bb5a879cb64bef53",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:17.700Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ubd89\uc740 \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c III_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:17.704Z",
+        "description": "\ud2b9\ubb34\ub300 \uc131\uc720\ubb3c \uc2a4\ud15d\uc5c5 II_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "f8513f89b2724504b595f41234b7f223",
+        "entitlementType": "AUDIENCE",
+        "id": "f8513f89b2724504b595f41234b7f223",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:17.704Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud2b9\ubb34\ub300 \uc131\uc720\ubb3c \uc2a4\ud15d\uc5c5 II_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:18.647Z",
+        "description": "60\ub808\ubca8 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "22c44931897f4bfbadb9b67837d28301",
+        "entitlementType": "AUDIENCE",
+        "id": "22c44931897f4bfbadb9b67837d28301",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:18.647Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "60\ub808\ubca8 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:18.659Z",
+        "description": "\ub8ec\uac00\ub4dc \uc644\ub8cc \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "dfe60582c15b45ec8b137f8a6a4951a4",
+        "entitlementType": "AUDIENCE",
+        "id": "dfe60582c15b45ec8b137f8a6a4951a4",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:18.659Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ub8ec\uac00\ub4dc \uc644\ub8cc \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:18.650Z",
+        "description": "\ud2b9\ubb34\ub300 60 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "3c51ed7a4ca847089e36a7574cdd81dc",
+        "entitlementType": "AUDIENCE",
+        "id": "3c51ed7a4ca847089e36a7574cdd81dc",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:18.650Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud2b9\ubb34\ub300 60 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:18.652Z",
+        "description": "\ubca8\ub8e8\uc2dc\uc544 \uc644\ub8cc \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "5015e647d1db46b08ca4caa1db9bd25f",
+        "entitlementType": "AUDIENCE",
+        "id": "5015e647d1db46b08ca4caa1db9bd25f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:18.652Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ubca8\ub8e8\uc2dc\uc544 \uc644\ub8cc \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:18.649Z",
+        "description": "\ubd89\uc740 \ube5b\uc758 \uc815\uc218 \ub3c4\uc804\uc790 \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "2eda3be753e84eecb5f7ea87d830c903",
+        "entitlementType": "AUDIENCE",
+        "id": "2eda3be753e84eecb5f7ea87d830c903",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:18.649Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ubd89\uc740 \ube5b\uc758 \uc815\uc218 \ub3c4\uc804\uc790 \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:18.656Z",
+        "description": "\ud478\ub978 \ube5b\uc758 \uc815\uc218 \ub3c4\uc804\uc790 \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "a225520d8484436e9d5c4c3df3082fbf",
+        "entitlementType": "AUDIENCE",
+        "id": "a225520d8484436e9d5c4c3df3082fbf",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:18.656Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud478\ub978 \ube5b\uc758 \uc815\uc218 \ub3c4\uc804\uc790 \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:18.643Z",
+        "description": "\uc2dc\uc98c \ud328\uc2a4: \ud2b9\ubb34\ub300 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "00cccdf4abd142f6b1accc682214863a",
+        "entitlementType": "AUDIENCE",
+        "id": "00cccdf4abd142f6b1accc682214863a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:18.643Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uc2dc\uc98c \ud328\uc2a4: \ud2b9\ubb34\ub300 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:18.645Z",
+        "description": "\uad74\ub9ac\uc5d8\uc758 \uc2e0\ube44\ud55c \uacc4\uc57d_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "1cd2ba4aff9b432c87f436436ae04241",
+        "entitlementType": "AUDIENCE",
+        "id": "1cd2ba4aff9b432c87f436436ae04241",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:18.645Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uad74\ub9ac\uc5d8\uc758 \uc2e0\ube44\ud55c \uacc4\uc57d_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:18.658Z",
+        "description": "50\ub808\ubca8 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "bab0ec2c80274ddda3db4e6aecd01be3",
+        "entitlementType": "AUDIENCE",
+        "id": "bab0ec2c80274ddda3db4e6aecd01be3",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:18.658Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "50\ub808\ubca8 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:19.554Z",
+        "description": "\ub85c\uba54\ub978 \uc644\ub8cc \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "6fc3603f98854b77b915240477802b62",
+        "entitlementType": "AUDIENCE",
+        "id": "6fc3603f98854b77b915240477802b62",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:19.554Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ub85c\uba54\ub978 \uc644\ub8cc \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:19.557Z",
+        "description": "\ubd89\uc740 \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c I_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "a6e60800f97d46808e37043258e4f1b8",
+        "entitlementType": "AUDIENCE",
+        "id": "a6e60800f97d46808e37043258e4f1b8",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:19.557Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ubd89\uc740 \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c I_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:19.563Z",
+        "description": "\ud2b9\ubb34\ub300 \uc131\uc720\ubb3c \uc2a4\ud15d\uc5c5 IV_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "d6ff05e927654abdbf455c0c390d3b1a",
+        "entitlementType": "AUDIENCE",
+        "id": "d6ff05e927654abdbf455c0c390d3b1a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:19.563Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud2b9\ubb34\ub300 \uc131\uc720\ubb3c \uc2a4\ud15d\uc5c5 IV_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:19.549Z",
+        "description": "1200 \ud06c\ub9ac\uc2a4\ud0c8_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "658fbbfce84d4f99a39d4ce15ac6ce3d",
+        "entitlementType": "AUDIENCE",
+        "id": "658fbbfce84d4f99a39d4ce15ac6ce3d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:19.549Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1200 \ud06c\ub9ac\uc2a4\ud0c8_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:19.566Z",
+        "description": "\ub370\ub860 \uc644\ub8cc \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "dd6622680f9c4533aa1061a8718b6053",
+        "entitlementType": "AUDIENCE",
+        "id": "dd6622680f9c4533aa1061a8718b6053",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:19.566Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ub370\ub860 \uc644\ub8cc \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:19.555Z",
+        "description": "55\ub808\ubca8 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "91d35a13edaf4136a5efcce9acf46612",
+        "entitlementType": "AUDIENCE",
+        "id": "91d35a13edaf4136a5efcce9acf46612",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:19.555Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "55\ub808\ubca8 \ub2ec\uc131 \uc2a4\ud398\uc15c \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:19.551Z",
+        "description": "\ubaa8\ud5d8\uc758 \uc2dc\uc791 \uc2a4\ud15d\uc5c5 II_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "6e65dbea950a46809d78dec6d5662873",
+        "entitlementType": "AUDIENCE",
+        "id": "6e65dbea950a46809d78dec6d5662873",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:19.551Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ubaa8\ud5d8\uc758 \uc2dc\uc791 \uc2a4\ud15d\uc5c5 II_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:19.561Z",
+        "description": "\ubd89\uc740 \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c V_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "d53dc990ddf742c7b132cd5e0a69fcc9",
+        "entitlementType": "AUDIENCE",
+        "id": "d53dc990ddf742c7b132cd5e0a69fcc9",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:19.561Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ubd89\uc740 \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c V_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:19.558Z",
+        "description": "\ubd89\uc740 \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c II_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "aed39b2f36b240faaf0a20031d386d2d",
+        "entitlementType": "AUDIENCE",
+        "id": "aed39b2f36b240faaf0a20031d386d2d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:19.558Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ubd89\uc740 \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c II_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:19.564Z",
+        "description": "\ud478\ub978 \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c I_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "d7e52cb7fcf14d4986275db265f265fc",
+        "entitlementType": "AUDIENCE",
+        "id": "d7e52cb7fcf14d4986275db265f265fc",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:19.564Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud478\ub978 \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c I_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:20.462Z",
+        "description": "360 \ud06c\ub9ac\uc2a4\ud0c8_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "33d1256e98964763a27defcd419e42a9",
+        "entitlementType": "AUDIENCE",
+        "id": "33d1256e98964763a27defcd419e42a9",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:20.462Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "360 \ud06c\ub9ac\uc2a4\ud0c8_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:20.465Z",
+        "description": "\ucd08\ub85d \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c II_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "5b1e63b17dcb4e96ae367e70aec0d7bd",
+        "entitlementType": "AUDIENCE",
+        "id": "5b1e63b17dcb4e96ae367e70aec0d7bd",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:20.465Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ucd08\ub85d \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c II_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:20.469Z",
+        "description": "\ub860\uce6d \uae30\ub150 \uc0ac\uc5ed\ub9c8 \ud56b \ub51c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "b21585e12cdb499597da2ac28f62f8e9",
+        "entitlementType": "AUDIENCE",
+        "id": "b21585e12cdb499597da2ac28f62f8e9",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:20.469Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ub860\uce6d \uae30\ub150 \uc0ac\uc5ed\ub9c8 \ud56b \ub51c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:20.460Z",
+        "description": "\uc6d4\uac04 \ud2b9\ubb34\ub300 \uc18c\ud658 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "0fe00b91c8484f5186845c66d48a5d38",
+        "entitlementType": "AUDIENCE",
+        "id": "0fe00b91c8484f5186845c66d48a5d38",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:20.460Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uc6d4\uac04 \ud2b9\ubb34\ub300 \uc18c\ud658 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-21T00:08:20.468Z",
+        "description": "\ud478\ub978 \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c III_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "87fbd2eb12634d508e5764c95c886838",
+        "entitlementType": "AUDIENCE",
+        "id": "87fbd2eb12634d508e5764c95c886838",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-21T00:08:20.468Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud478\ub978 \ube5b\uc758 \uc815\uc218 \uc9c0\uc6d0 \uc624\ud37c III_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-04T01:05:53.193Z",
+        "description": "\ud2b9\ubb34\ub300 \uc2a4\ud154\ub77c \uc18c\ud658 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "671c0008d6514c1fa86f3798ec7894b2",
+        "entitlementType": "AUDIENCE",
+        "id": "671c0008d6514c1fa86f3798ec7894b2",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-04T01:05:53.193Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud2b9\ubb34\ub300 \uc2a4\ud154\ub77c \uc18c\ud658 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-04T01:05:53.190Z",
+        "description": "\ud2b9\ubb34\ub300 \ub9e4\uc77c \uc18c\ud658 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "5f5a8b09e64f40a7a13ce1c6d50937c2",
+        "entitlementType": "AUDIENCE",
+        "id": "5f5a8b09e64f40a7a13ce1c6d50937c2",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-04T01:05:53.190Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud2b9\ubb34\ub300 \ub9e4\uc77c \uc18c\ud658 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-04T01:05:53.195Z",
+        "description": "GUNSLINGER D-14 \uc18c\ud658 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "69f7e66cf40647adb4581924959deabf",
+        "entitlementType": "AUDIENCE",
+        "id": "69f7e66cf40647adb4581924959deabf",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-04T01:05:53.195Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "GUNSLINGER D-14 \uc18c\ud658 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-04T01:05:53.187Z",
+        "description": "\ud2b9\ubb34\ub300 \ud589\uc6b4\uc758 \uc131\uc7a5 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "51f80cde1ec443d08f5ec5adc554eedf",
+        "entitlementType": "AUDIENCE",
+        "id": "51f80cde1ec443d08f5ec5adc554eedf",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-04T01:05:53.187Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud2b9\ubb34\ub300 \ud589\uc6b4\uc758 \uc131\uc7a5 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-04T01:05:53.198Z",
+        "description": "\ud2b9\ubb34\ub300 \ud589\uc6b4\uc758 \uc18c\ud658 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "dc90fdd9207c4039ac7c2544bab399f2",
+        "entitlementType": "AUDIENCE",
+        "id": "dc90fdd9207c4039ac7c2544bab399f2",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-04T01:05:53.198Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud2b9\ubb34\ub300 \ud589\uc6b4\uc758 \uc18c\ud658 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-12T04:59:28.377Z",
+        "description": "evalph008 tier3_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "6a049a00029f4e83bff383ae08daf47e",
+        "entitlementType": "AUDIENCE",
+        "id": "6a049a00029f4e83bff383ae08daf47e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-12T04:59:28.377Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "evalph008 tier3_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-12T04:59:28.382Z",
+        "description": "evalph009 tier3_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "a457e9f78ca34c2b837296d06dc18fff",
+        "entitlementType": "AUDIENCE",
+        "id": "a457e9f78ca34c2b837296d06dc18fff",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-12T04:59:28.382Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "evalph009 tier3_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-12T04:59:28.384Z",
+        "description": "evalph006 tier3_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "b033a1dba11e40ba83caa46431d40954",
+        "entitlementType": "AUDIENCE",
+        "id": "b033a1dba11e40ba83caa46431d40954",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-12T04:59:28.384Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "evalph006 tier3_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-12T04:59:28.387Z",
+        "description": "evchar066 tier7_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "c9dc95c87932484ab91d5c72bcf04f6a",
+        "entitlementType": "AUDIENCE",
+        "id": "c9dc95c87932484ab91d5c72bcf04f6a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-12T04:59:28.387Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "evchar066 tier7_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-12T04:59:28.375Z",
+        "description": "evbrav010 tier4_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "33aa7fa91d974ad7818dc3d3af9de131",
+        "entitlementType": "AUDIENCE",
+        "id": "33aa7fa91d974ad7818dc3d3af9de131",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-12T04:59:28.375Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "evbrav010 tier4_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-12T04:59:28.370Z",
+        "description": "evbrav008 tier4_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "023bde6f44ce49a5b714deb41b3cda5f",
+        "entitlementType": "AUDIENCE",
+        "id": "023bde6f44ce49a5b714deb41b3cda5f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-12T04:59:28.370Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "evbrav008 tier4_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-12T04:59:28.392Z",
+        "description": "evbrav006 tier4_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "fd9278806afa47558435c6459fc82f41",
+        "entitlementType": "AUDIENCE",
+        "id": "fd9278806afa47558435c6459fc82f41",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-12T04:59:28.392Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "evbrav006 tier4_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-12T04:59:28.380Z",
+        "description": "evalph007 tier3_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "70d4f34c4e934bbc83b4b6334a521fc8",
+        "entitlementType": "AUDIENCE",
+        "id": "70d4f34c4e934bbc83b4b6334a521fc8",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-12T04:59:28.380Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "evalph007 tier3_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-12T04:59:28.373Z",
+        "description": "evchar069 tier7_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "292bedebd5404e68bb8aee40d0fbbfe9",
+        "entitlementType": "AUDIENCE",
+        "id": "292bedebd5404e68bb8aee40d0fbbfe9",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-12T04:59:28.373Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "evchar069 tier7_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-12T04:59:29.282Z",
+        "description": "evbrav009 tier4_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "9b55084903a9407db3d1ed01bdea7476",
+        "entitlementType": "AUDIENCE",
+        "id": "9b55084903a9407db3d1ed01bdea7476",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-12T04:59:29.282Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "evbrav009 tier4_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-12T04:59:29.277Z",
+        "description": "evchar068 tier7_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "71995c7dc8c74e15a80f070eacdb4abf",
+        "entitlementType": "AUDIENCE",
+        "id": "71995c7dc8c74e15a80f070eacdb4abf",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-12T04:59:29.277Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "evchar068 tier7_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-12T04:59:29.279Z",
+        "description": "evalph010 tier3_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "755a518a60344be18055663b5c7e30d5",
+        "entitlementType": "AUDIENCE",
+        "id": "755a518a60344be18055663b5c7e30d5",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-12T04:59:29.279Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "evalph010 tier3_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-12T04:59:29.288Z",
+        "description": "evdelt080 tier22_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "cbbc6777045a43fbb5b7ae83780c90c4",
+        "entitlementType": "AUDIENCE",
+        "id": "cbbc6777045a43fbb5b7ae83780c90c4",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-12T04:59:29.288Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "evdelt080 tier22_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-12T04:59:29.289Z",
+        "description": "evchar070 tier7_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "f40f31b25c9c40669863d4eea99fb1ad",
+        "entitlementType": "AUDIENCE",
+        "id": "f40f31b25c9c40669863d4eea99fb1ad",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-12T04:59:29.289Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "evchar070 tier7_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-12T04:59:29.284Z",
+        "description": "evbrav007 tier4_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "a4e060c7a96a485bbdc7672c973f1cd9",
+        "entitlementType": "AUDIENCE",
+        "id": "a4e060c7a96a485bbdc7672c973f1cd9",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-12T04:59:29.284Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "evbrav007 tier4_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-12T04:59:29.286Z",
+        "description": "evchar067 tier7_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "b872d43dcde14561aae7c6620ac9d1df",
+        "entitlementType": "AUDIENCE",
+        "id": "b872d43dcde14561aae7c6620ac9d1df",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-12T04:59:29.286Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "evchar067 tier7_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:37.482Z",
+        "description": "\uc2dc\uc98c \ud328\uc2a4: GUNSLINGER \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "9beb6d2e519440418d107402b51210b8",
+        "entitlementType": "AUDIENCE",
+        "id": "9beb6d2e519440418d107402b51210b8",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:37.482Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uc2dc\uc98c \ud328\uc2a4: GUNSLINGER \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:37.471Z",
+        "description": "BLACK FRIDAY BOX \uc8fc\ud654 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "14f3200ea0e242b8afac13f8a31bdeeb",
+        "entitlementType": "AUDIENCE",
+        "id": "14f3200ea0e242b8afac13f8a31bdeeb",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:37.471Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "BLACK FRIDAY BOX \uc8fc\ud654 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:37.478Z",
+        "description": "\ube14\ub799 \ud504\ub77c\uc774\ub370\uc774 \uae30\ub150 \uc2a4\ud15d\uc5c5 III_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "977a727fb6514191b2f67c87abb2f99e",
+        "entitlementType": "AUDIENCE",
+        "id": "977a727fb6514191b2f67c87abb2f99e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:37.478Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ube14\ub799 \ud504\ub77c\uc774\ub370\uc774 \uae30\ub150 \uc2a4\ud15d\uc5c5 III_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:37.473Z",
+        "description": "\ud669\uae08 \ud0c4\ud658 \uc18c\ud658 \uc2a4\ud15d\uc5c5 I_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "63517083a9b240009bdda94572f8152e",
+        "entitlementType": "AUDIENCE",
+        "id": "63517083a9b240009bdda94572f8152e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:37.473Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud669\uae08 \ud0c4\ud658 \uc18c\ud658 \uc2a4\ud15d\uc5c5 I_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:37.476Z",
+        "description": "BLACK FRIDAY BOX \uc7ac\ub8cc \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "6d3281e169ec4ff0a3074a43ba166591",
+        "entitlementType": "AUDIENCE",
+        "id": "6d3281e169ec4ff0a3074a43ba166591",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:37.476Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "BLACK FRIDAY BOX \uc7ac\ub8cc \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:37.487Z",
+        "description": "\ud669\uae08 \ud0c4\ud658 \ub9e4\uc77c \ub3c4\uc804 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "c1e22de1281547e68c4b77d681b06d22",
+        "entitlementType": "AUDIENCE",
+        "id": "c1e22de1281547e68c4b77d681b06d22",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:37.487Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud669\uae08 \ud0c4\ud658 \ub9e4\uc77c \ub3c4\uc804 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:37.468Z",
+        "description": "BLACK FRIDAY BOX \uc0ac\uc5ed\ub9c8 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "0c839e48ecd444cf86aba60e24d15a1b",
+        "entitlementType": "AUDIENCE",
+        "id": "0c839e48ecd444cf86aba60e24d15a1b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:37.468Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "BLACK FRIDAY BOX \uc0ac\uc5ed\ub9c8 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:37.480Z",
+        "description": "\uc2dc\uc98c \ud328\uc2a4: \ud669\uae08 \ud0c4\ud658 \ud30c\uc774\ub110 \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "97a2bc7cfb904b41b684c1cdb679029c",
+        "entitlementType": "AUDIENCE",
+        "id": "97a2bc7cfb904b41b684c1cdb679029c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:37.480Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uc2dc\uc98c \ud328\uc2a4: \ud669\uae08 \ud0c4\ud658 \ud30c\uc774\ub110 \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:37.485Z",
+        "description": "\uc2dc\uc98c \ud328\uc2a4: \ud669\uae08 \ud0c4\ud658 10\ub2e8\uacc4 \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "b9281409bcba4e18bac3461ea9c4dd59",
+        "entitlementType": "AUDIENCE",
+        "id": "b9281409bcba4e18bac3461ea9c4dd59",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:37.485Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uc2dc\uc98c \ud328\uc2a4: \ud669\uae08 \ud0c4\ud658 10\ub2e8\uacc4 \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:38.685Z",
+        "description": "\uc2dc\uc98c \ud328\uc2a4: \ud669\uae08 \ud0c4\ud658 5\ub2e8\uacc4 \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "206cf4b1969f44439947d3c615408bd6",
+        "entitlementType": "AUDIENCE",
+        "id": "206cf4b1969f44439947d3c615408bd6",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:38.685Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uc2dc\uc98c \ud328\uc2a4: \ud669\uae08 \ud0c4\ud658 5\ub2e8\uacc4 \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:38.702Z",
+        "description": "\uc2dc\uc98c \ud328\uc2a4: \ud669\uae08 \ud0c4\ud658 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "ce13964c68d04c39af0306ebcc57dc61",
+        "entitlementType": "AUDIENCE",
+        "id": "ce13964c68d04c39af0306ebcc57dc61",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:38.702Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uc2dc\uc98c \ud328\uc2a4: \ud669\uae08 \ud0c4\ud658 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:38.697Z",
+        "description": "\ud669\uae08 \ud0c4\ud658 \uc18c\ud658 \uc2a4\ud15d\uc5c5 II_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "b7daad0987ed4fb39b7268e53d749787",
+        "entitlementType": "AUDIENCE",
+        "id": "b7daad0987ed4fb39b7268e53d749787",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:38.697Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud669\uae08 \ud0c4\ud658 \uc18c\ud658 \uc2a4\ud15d\uc5c5 II_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:38.699Z",
+        "description": "\ube14\ub799 \ud504\ub77c\uc774\ub370\uc774 \uae30\ub150 \uc2a4\ud15d\uc5c5 IX_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "c995228f367345e398b2ac5d41e62b3e",
+        "entitlementType": "AUDIENCE",
+        "id": "c995228f367345e398b2ac5d41e62b3e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:38.699Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ube14\ub799 \ud504\ub77c\uc774\ub370\uc774 \uae30\ub150 \uc2a4\ud15d\uc5c5 IX_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:38.690Z",
+        "description": "\uc2dc\uc98c \ud328\uc2a4: \ube14\ub799 \ud504\ub77c\uc774\ub370\uc774 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "6a1b56b65b5541edbd53dc140b31d67c",
+        "entitlementType": "AUDIENCE",
+        "id": "6a1b56b65b5541edbd53dc140b31d67c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:38.690Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uc2dc\uc98c \ud328\uc2a4: \ube14\ub799 \ud504\ub77c\uc774\ub370\uc774 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:38.688Z",
+        "description": "GUNSLINGER \ud2b9\ubcc4 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "21f1f5b439fd4f67820266d537576b62",
+        "entitlementType": "AUDIENCE",
+        "id": "21f1f5b439fd4f67820266d537576b62",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:38.688Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "GUNSLINGER \ud2b9\ubcc4 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:38.703Z",
+        "description": "\ube14\ub799 \ud504\ub77c\uc774\ub370\uc774 4000 \ud06c\ub9ac\uc2a4\ud0c8 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "f3565e4f27894657945ea5997e60f0d8",
+        "entitlementType": "AUDIENCE",
+        "id": "f3565e4f27894657945ea5997e60f0d8",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:38.703Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ube14\ub799 \ud504\ub77c\uc774\ub370\uc774 4000 \ud06c\ub9ac\uc2a4\ud0c8 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:38.692Z",
+        "description": "\ube14\ub799\ud504\ub77c\uc774\ub370\uc774 \uc8fc\ub9d0 100\ud68c \uc18c\ud658 \ud56b \ub51c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "7c76025ea18748059dfb9468da6755ac",
+        "entitlementType": "AUDIENCE",
+        "id": "7c76025ea18748059dfb9468da6755ac",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:38.692Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ube14\ub799\ud504\ub77c\uc774\ub370\uc774 \uc8fc\ub9d0 100\ud68c \uc18c\ud658 \ud56b \ub51c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:38.694Z",
+        "description": "\uc774\ubca4\ud2b8 \ud328\ud0a4\uc9c0 \ud3ed\uc2a4\ud2b8\ub86f 098_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "a0a5fe05d76545daa56884847c9da796",
+        "entitlementType": "AUDIENCE",
+        "id": "a0a5fe05d76545daa56884847c9da796",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:38.694Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uc774\ubca4\ud2b8 \ud328\ud0a4\uc9c0 \ud3ed\uc2a4\ud2b8\ub86f 098_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:38.695Z",
+        "description": "GUNSLINGER \uc0ac\uc5ed\ub9c8 \ud56b \ub51c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "ab4827f67ca644048fc60c69d15bd67f",
+        "entitlementType": "AUDIENCE",
+        "id": "ab4827f67ca644048fc60c69d15bd67f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:38.695Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "GUNSLINGER \uc0ac\uc5ed\ub9c8 \ud56b \ub51c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:39.632Z",
+        "description": "BLACK FRIDAY BOX \uc131\uc758 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "0fe229a2e7dc4bc397b38900dafeec20",
+        "entitlementType": "AUDIENCE",
+        "id": "0fe229a2e7dc4bc397b38900dafeec20",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:39.632Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "BLACK FRIDAY BOX \uc131\uc758 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:39.629Z",
+        "description": "\ube14\ub799 \ud504\ub77c\uc774\ub370\uc774 \uc601\uc6c5 \uc131\uc758 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "03620c80a9104aa1a06224eeeda9497f",
+        "entitlementType": "AUDIENCE",
+        "id": "03620c80a9104aa1a06224eeeda9497f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:39.629Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ube14\ub799 \ud504\ub77c\uc774\ub370\uc774 \uc601\uc6c5 \uc131\uc758 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:39.627Z",
+        "description": "\ud669\uae08 \ud0c4\ud658 \uc18c\ud658 \uc2a4\ud15d\uc5c5 III_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "02dbb39987b54ed1ab2d8ae98ede7752",
+        "entitlementType": "AUDIENCE",
+        "id": "02dbb39987b54ed1ab2d8ae98ede7752",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:39.627Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud669\uae08 \ud0c4\ud658 \uc18c\ud658 \uc2a4\ud15d\uc5c5 III_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:39.634Z",
+        "description": "\uc774\ubca4\ud2b8 \ud328\ud0a4\uc9c0 \ud3ed\uc2a4\ud2b8\ub86f 100_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "259af820e86041e788e01eeb2dae6727",
+        "entitlementType": "AUDIENCE",
+        "id": "259af820e86041e788e01eeb2dae6727",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:39.634Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uc774\ubca4\ud2b8 \ud328\ud0a4\uc9c0 \ud3ed\uc2a4\ud2b8\ub86f 100_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:39.644Z",
+        "description": "\uc774\ubca4\ud2b8 \ud328\ud0a4\uc9c0 \uc5d0\ucf54 110_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "a05af18b624f476f97ecafe7a0be5e4c",
+        "entitlementType": "AUDIENCE",
+        "id": "a05af18b624f476f97ecafe7a0be5e4c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:39.644Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uc774\ubca4\ud2b8 \ud328\ud0a4\uc9c0 \uc5d0\ucf54 110_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:39.646Z",
+        "description": "\ud669\uae08 \ud0c4\ud658 7\uc77c \ucd9c\uc11d \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "f3190f43cc9b4e548030d7cf79ef1521",
+        "entitlementType": "AUDIENCE",
+        "id": "f3190f43cc9b4e548030d7cf79ef1521",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:39.646Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud669\uae08 \ud0c4\ud658 7\uc77c \ucd9c\uc11d \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:39.636Z",
+        "description": "\uc774\ubca4\ud2b8 \ud328\ud0a4\uc9c0 \uc5d0\ucf54 108_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "2c87807b3068443ab0ec44bb7b093a2a",
+        "entitlementType": "AUDIENCE",
+        "id": "2c87807b3068443ab0ec44bb7b093a2a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:39.636Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uc774\ubca4\ud2b8 \ud328\ud0a4\uc9c0 \uc5d0\ucf54 108_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:39.638Z",
+        "description": "\uc774\ubca4\ud2b8 \ud328\ud0a4\uc9c0 \ud3ed\uc2a4\ud2b8\ub86f 099_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "4e16a4c53dfa40cab7f335f9eedbe7a1",
+        "entitlementType": "AUDIENCE",
+        "id": "4e16a4c53dfa40cab7f335f9eedbe7a1",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:39.638Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uc774\ubca4\ud2b8 \ud328\ud0a4\uc9c0 \ud3ed\uc2a4\ud2b8\ub86f 099_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:39.642Z",
+        "description": "\ube14\ub799 \ud504\ub77c\uc774\ub370\uc774 \uc18c\ud658 \uc2a4\ud398\uc15c \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "8c5328d10f594a92a01f69b410c91b73",
+        "entitlementType": "AUDIENCE",
+        "id": "8c5328d10f594a92a01f69b410c91b73",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:39.642Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ube14\ub799 \ud504\ub77c\uc774\ub370\uc774 \uc18c\ud658 \uc2a4\ud398\uc15c \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:40.893Z",
+        "description": "\ube14\ub799 \ud504\ub77c\uc774\ub370\uc774 \uc601\uc6c5 \uc0ac\uc5ed\ub9c8 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "9e34147d81104ffe8b68d18ef53c33cb",
+        "entitlementType": "AUDIENCE",
+        "id": "9e34147d81104ffe8b68d18ef53c33cb",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:40.893Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ube14\ub799 \ud504\ub77c\uc774\ub370\uc774 \uc601\uc6c5 \uc0ac\uc5ed\ub9c8 \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:40.903Z",
+        "description": "\uc774\ubca4\ud2b8 \ud328\ud0a4\uc9c0 \uc5d0\ucf54 109_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "da81e5fb358d455db46908dbaf2cfcc9",
+        "entitlementType": "AUDIENCE",
+        "id": "da81e5fb358d455db46908dbaf2cfcc9",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:40.903Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uc774\ubca4\ud2b8 \ud328\ud0a4\uc9c0 \uc5d0\ucf54 109_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:40.885Z",
+        "description": "\ube14\ub799 \ud504\ub77c\uc774\ub370\uc774 \uae30\ub150 \uc2a4\ud15d\uc5c5 VI_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "10c7c7af6ffa47e7b0ff4e5e7d10f6e8",
+        "entitlementType": "AUDIENCE",
+        "id": "10c7c7af6ffa47e7b0ff4e5e7d10f6e8",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:40.885Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ube14\ub799 \ud504\ub77c\uc774\ub370\uc774 \uae30\ub150 \uc2a4\ud15d\uc5c5 VI_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:40.901Z",
+        "description": "\uc2dc\uc98c \ud328\uc2a4: \ud669\uae08 \ud0c4\ud658 20\ub2e8\uacc4 \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "bc812821b5a64ef79369f3fe3713d910",
+        "entitlementType": "AUDIENCE",
+        "id": "bc812821b5a64ef79369f3fe3713d910",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:40.901Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uc2dc\uc98c \ud328\uc2a4: \ud669\uae08 \ud0c4\ud658 20\ub2e8\uacc4 \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:40.898Z",
+        "description": "\ube14\ub799 \ud504\ub77c\uc774\ub370\uc774 \uae30\ub150 \uc131\uc7a5 \ud56b \ub51c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "b99d25ec01d54a6f9f4ab1153a867e40",
+        "entitlementType": "AUDIENCE",
+        "id": "b99d25ec01d54a6f9f4ab1153a867e40",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:40.898Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ube14\ub799 \ud504\ub77c\uc774\ub370\uc774 \uae30\ub150 \uc131\uc7a5 \ud56b \ub51c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:40.896Z",
+        "description": "\uc0ac\uc774\ubc84 \uba3c\ub370\uc774 \uae30\ub150 \uc18c\ud658 \ud56b \ub51c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "a3ef6eb97d2c4057b74cf7dcfeace063",
+        "entitlementType": "AUDIENCE",
+        "id": "a3ef6eb97d2c4057b74cf7dcfeace063",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:40.896Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uc0ac\uc774\ubc84 \uba3c\ub370\uc774 \uae30\ub150 \uc18c\ud658 \ud56b \ub51c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:40.906Z",
+        "description": "\uc2dc\uc98c \ud328\uc2a4: \ud669\uae08 \ud0c4\ud658 15\ub2e8\uacc4 \uc624\ud37c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "e9ebb986e0384dd2a7c7f38768d7d9a7",
+        "entitlementType": "AUDIENCE",
+        "id": "e9ebb986e0384dd2a7c7f38768d7d9a7",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:40.906Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\uc2dc\uc98c \ud328\uc2a4: \ud669\uae08 \ud0c4\ud658 15\ub2e8\uacc4 \uc624\ud37c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:40.889Z",
+        "description": "\ud669\uae08 \ud0c4\ud658 \uc18c\ud658 \uc2a4\ud15d\uc5c5 IV_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "24c28c5eddd945f7a3f6331ce616eb47",
+        "entitlementType": "AUDIENCE",
+        "id": "24c28c5eddd945f7a3f6331ce616eb47",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:40.889Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ud669\uae08 \ud0c4\ud658 \uc18c\ud658 \uc2a4\ud15d\uc5c5 IV_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:40.891Z",
+        "description": "\ube14\ub799 \ud504\ub77c\uc774\ub370\uc774 \uc99d\ud3ed \uc2a4\ud398\uc15c \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "9a2ba0c10021459c95acd9f8a6d4d910",
+        "entitlementType": "AUDIENCE",
+        "id": "9a2ba0c10021459c95acd9f8a6d4d910",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:40.891Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\ube14\ub799 \ud504\ub77c\uc774\ub370\uc774 \uc99d\ud3ed \uc2a4\ud398\uc15c \ud328\ud0a4\uc9c0_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-11-18T00:35:40.887Z",
+        "description": "GUNSLINGER \uc131\uc758 \ud56b \ub51c_ConsumableAudience",
+        "developer": "NETMARBLE",
+        "developerId": "o-5elvruguh7ffugwhd2rfu9jmzzjsr6",
+        "endOfSupport": false,
+        "entitlementName": "208e7821538848329cca7c56735aa17c",
+        "entitlementType": "AUDIENCE",
+        "id": "208e7821538848329cca7c56735aa17c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-11-18T00:35:40.887Z",
+        "mainGameItem": {
+          "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+          "namespace": "8fac4611b4074c73bdc5cc123d505575",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+            "namespace": "8fac4611b4074c73bdc5cc123d505575",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "8fac4611b4074c73bdc5cc123d505575",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "GUNSLINGER \uc131\uc758 \ud56b \ub51c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [],
+    "id": "fc7720c3b0e74bf1902ec4c1a20e9ff9",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "RAVEN2 Offer",
+        "height": 1440,
+        "md5": "e30e1d6d37484ff975bd3284fb485af4",
+        "size": 2846017,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-10-14T05:28:09.470Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/b5a63290fb914349b2c6506a9b5619eb/raven2-16jd3.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download RAVEN2 Offer",
+        "height": 1600,
+        "md5": "c38d2148d1ac26efba6ce707e0e36cd3",
+        "size": 1439011,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-10-14T05:28:09.677Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/b5a63290fb914349b2c6506a9b5619eb/raven2-7z4cn.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-11-18T00:35:41.888Z",
+    "mainGameItemList": [],
+    "namespace": "8fac4611b4074c73bdc5cc123d505575",
+    "releaseInfo": [
+      {
+        "appId": "f420ceaac9924a2790a438958101d8a4",
+        "id": "c2aeab2f-307b-4821-b560-c6a1a6376c05",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "RAVEN2",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "319c3fbeb9f44fb3a8c6fcd5defbb647"
+    },
+    "rev": 1
+  }
+}

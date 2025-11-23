@@ -1,0 +1,275 @@
+{
+  "app_name": "1bcd791d54684eb29ed32ad1c0593d12",
+  "app_title": "Gloomhaven",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "1bcd791d54684eb29ed32ad1c0593d12",
+      "asset_id": "1bcd791d54684eb29ed32ad1c0593d12",
+      "build_version": "1.1.8307.0",
+      "catalog_item_id": "92b43293e6e04a049fda8b797ea3eda9",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "f98fd57350d44bb9b23fc5fe77805d17"
+      },
+      "namespace": "bc079f73f020432fac896d30c8e2c330",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-03-21T17:48:11.350Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "Gloomhaven"
+      }
+    },
+    "description": "Whether you are drawn to Gloomhaven by the call of adventure or by an avid desire for gold glimmering in the dark, your fate will surely be the same. Gloomhaven, the digital adaptation of the acclaimed board game, mixes Tactical-RPG and dungeon-crawling.",
+    "developer": "TWIN SAILS INTERACTIVE",
+    "developerId": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-04-06T12:17:05.958Z",
+        "customAttributes": {},
+        "description": "Jaws of the Lion is the digital adaptation of the eponymous board game and expansion to Gloomhaven. Recruit 4 new mercenaries with unique gameplay and explore a previously hidden side of the city of Gloomhaven through an arching storyline with new enemies and bosses.",
+        "developer": "TWIN SAILS INTERACTIVE",
+        "developerId": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+        "endOfSupport": false,
+        "entitlementName": "437e0a9c9e7e42ca94a48f6477024bc7",
+        "entitlementType": "EXECUTABLE",
+        "id": "437e0a9c9e7e42ca94a48f6477024bc7",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Gloomhaven Jaws of the Lion Expansion Offer",
+            "height": 1440,
+            "md5": "f1649d2438f3cc7c4a5521dde652ba89",
+            "size": 1920833,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-04-15T14:21:58.265Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/ef2777467a3c49059a076e42fd9b41f0/gloomhaven-jaws-of-the-lion-expansion-offer-1qo37.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Gloomhaven Jaws of the Lion Expansion Offer",
+            "height": 1600,
+            "md5": "bd26c3592501916b79ba9a22ceab8d69",
+            "size": 1220511,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-04-15T14:25:49.585Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/ef2777467a3c49059a076e42fd9b41f0/download-gloomhaven-jaws-of-the-lion-expansion-offer-88ury.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-05-23T16:47:24.248Z",
+        "mainGameItem": {
+          "id": "92b43293e6e04a049fda8b797ea3eda9",
+          "namespace": "bc079f73f020432fac896d30c8e2c330",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "92b43293e6e04a049fda8b797ea3eda9",
+            "namespace": "bc079f73f020432fac896d30c8e2c330",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "bc079f73f020432fac896d30c8e2c330",
+        "releaseInfo": [
+          {
+            "appId": "1db7e3fd930a4405bca786fade4e5c20",
+            "id": "3083d1dae8154b6aba9cc3e9e4f44f41",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Jaws of the Lion Expansion",
+        "unsearchable": false
+      },
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-04-08T17:24:41.995Z",
+        "customAttributes": {},
+        "description": "The Solo Scenarios: Mercenary Challenges DLC for Gloomhaven brings 17 deadly scenarios, each tied to a specific character. Will you prove to be powerful enough to reap the unique rewards in store, mercenary?",
+        "developer": "TWIN SAILS INTERACTIVE",
+        "developerId": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+        "endOfSupport": false,
+        "entitlementName": "3c812a448c5e4b5dad6eb58fa304b5a3",
+        "entitlementType": "EXECUTABLE",
+        "id": "3c812a448c5e4b5dad6eb58fa304b5a3",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Gloomhaven Solo Scenarios: Mercenary Challenges Offer",
+            "height": 1440,
+            "md5": "6d9cf136837a0e3c8bef8aaa561c9567",
+            "size": 1234106,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-08-10T00:30:13.486Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/ef2777467a3c49059a076e42fd9b41f0/gloomhaven-solo-scenarios-mercenary-challenges-offer-1kjjd.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Gloomhaven Solo Scenarios: Mercenary Challenges Offer",
+            "height": 1600,
+            "md5": "62b53c7645fdbb20d80e28ea39126f29",
+            "size": 1697984,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-08-10T00:44:20.685Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/ef2777467a3c49059a076e42fd9b41f0/download-gloomhaven-solo-scenarios-mercenary-challenges-offer-z97ll.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-05-23T16:47:24.312Z",
+        "mainGameItem": {
+          "id": "92b43293e6e04a049fda8b797ea3eda9",
+          "namespace": "bc079f73f020432fac896d30c8e2c330",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "92b43293e6e04a049fda8b797ea3eda9",
+            "namespace": "bc079f73f020432fac896d30c8e2c330",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "bc079f73f020432fac896d30c8e2c330",
+        "releaseInfo": [
+          {
+            "appId": "47c2aadcaf12485589b5bee6d0fcc39d",
+            "id": "a0290a2af77c4ad39c9786140cf6e4ba",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Solo Scenarios: Mercenary Challenges",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-08-31T09:30:19.979Z",
+        "description": "Jaws of the Lion Alternative Skins",
+        "developer": "TWIN SAILS INTERACTIVE",
+        "developerId": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+        "endOfSupport": false,
+        "entitlementName": "3db82165da9248d6a72b0ee17683d4f5",
+        "entitlementType": "EXECUTABLE",
+        "id": "3db82165da9248d6a72b0ee17683d4f5",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "Gloomhaven Jaws of the Lion Alternative Skins Offer",
+            "height": 1440,
+            "md5": "ad1a5b15775637dc0cc1b9d5bdf342d3",
+            "size": 555577,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-09-07T11:17:35.255Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/ef2777467a3c49059a076e42fd9b41f0/gloomhaven-17nyp.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download Gloomhaven Jaws of the Lion Alternative Skins Offer",
+            "height": 1600,
+            "md5": "685a5fee16a7248ee1f25b7d10a387b2",
+            "size": 337668,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-09-07T11:17:38.410Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/ef2777467a3c49059a076e42fd9b41f0/gloomhaven-bnylu.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-05-23T16:47:24.359Z",
+        "mainGameItem": {
+          "id": "92b43293e6e04a049fda8b797ea3eda9",
+          "namespace": "bc079f73f020432fac896d30c8e2c330",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "92b43293e6e04a049fda8b797ea3eda9",
+            "namespace": "bc079f73f020432fac896d30c8e2c330",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "bc079f73f020432fac896d30c8e2c330",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Jaws of the Lion Alternative Skins",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "92b43293e6e04a049fda8b797ea3eda9",
+    "entitlementType": "EXECUTABLE",
+    "id": "92b43293e6e04a049fda8b797ea3eda9",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Gloomhaven Offer",
+        "height": 1440,
+        "md5": "12332482bb6490357cb5e45dbe47d50a",
+        "size": 2369057,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-03-31T09:36:17.596Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/ef2777467a3c49059a076e42fd9b41f0/gloomhaven-offer-9j1in.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Gloomhaven Offer",
+        "height": 1600,
+        "md5": "821900f31d3bd90782f095c6a9c4ce86",
+        "size": 1710753,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-03-31T09:36:15.867Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/ef2777467a3c49059a076e42fd9b41f0/download-gloomhaven-offer-12v5l.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-05-23T16:47:24.221Z",
+    "mainGameItemList": [],
+    "namespace": "bc079f73f020432fac896d30c8e2c330",
+    "releaseInfo": [
+      {
+        "appId": "1bcd791d54684eb29ed32ad1c0593d12",
+        "id": "ac3a8720925d4b1ba861dc19a79b1e7b",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Gloomhaven",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

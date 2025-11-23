@@ -1,0 +1,52 @@
+{
+	"finished": [
+		{
+			"params": {
+				"appName": "26b63c46de9e4dcc856b3c6b106b6777",
+				"path": "/home/krishang/games",
+				"installDlcs": [],
+				"sdlList": [],
+				"installLanguage": "",
+				"runner": "legendary",
+				"platformToInstall": "Windows",
+				"gameInfo": {
+					"app_name": "26b63c46de9e4dcc856b3c6b106b6777",
+					"art_cover": "https://cdn1.epicgames.com/f3720f53cccb4a20841a392a8ea0457f/item/EGS_AERMemoriesofOld_ForgottenKey_S3-2560x1440-72330b37a0acda88398b4c73cbbaf4f0.jpg",
+					"art_square": "https://cdn1.epicgames.com/f3720f53cccb4a20841a392a8ea0457f/item/EGS_AERMemoriesofOld_ForgottenKey_S2-1200x1600-54da10a6ade9e99d9a469d5ee1c4a5e1.jpg",
+					"cloud_save_enabled": false,
+					"developer": "Daedalic Entertainment",
+					"extra": {
+						"about": {
+							"description": "AER Memories of Old",
+							"shortDescription": ""
+						},
+						"reqs": [],
+						"storeUrl": "https://www.epicgames.com/store/product/aer-memories-of-old"
+					},
+					"folder_name": "AERMemoriesOfOld",
+					"install": {
+						"install_size": "0",
+						"is_dlc": false
+					},
+					"is_installed": false,
+					"namespace": "f3720f53cccb4a20841a392a8ea0457f",
+					"is_mac_native": false,
+					"save_folder": "",
+					"title": "AER Memories of Old",
+					"canRunOffline": true,
+					"isEAManaged": false,
+					"is_linux_native": false,
+					"runner": "legendary",
+					"store_url": "https://www.epicgames.com/store/product/aer-memories-of-old"
+				},
+				"size": "636.94 MiB"
+			},
+			"type": "install",
+			"addToQueueTime": 1760182066849,
+			"endTime": 1760182260741,
+			"startTime": 1760182066862,
+			"status": "done"
+		}
+	],
+	"queue": []
+}

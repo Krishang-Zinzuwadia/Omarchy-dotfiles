@@ -1,0 +1,93 @@
+{
+  "app_name": "15b19b0c4791459f8e60942b328ee460",
+  "app_title": "Eastern Exorcist",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "15b19b0c4791459f8e60942b328ee460",
+      "asset_id": "15b19b0c4791459f8e60942b328ee460",
+      "build_version": "1.70.0913",
+      "catalog_item_id": "43d9786b2f5c40b48ac3b553dc4004e8",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "dc190acb504147bf85c6c0d2d6aeb15d",
+        "update_type": "PATCH"
+      },
+      "namespace": "630a4b97a55545bb9941aee38ec799db",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567ZudgSsLWCdYEsFpByWXRa03x",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-07-28T10:23:38.596Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/WildFire/EasternExorcist/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "EasternExorcistAZwjf"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "10"
+      }
+    },
+    "description": "Eastern Exorcist is a stunning 2D side-scrolling action RPG set in a fantasy eastern world with vicious spirits and monsters. Play as a skilled exorcist against chaotic evil to fight your way through the brutal world, and experience different stories of joy and sorrow.",
+    "developer": "Thermite Games",
+    "developerId": "o-c4wvnkapw72ewsv6plkytlbc5f46nb",
+    "endOfSupport": false,
+    "entitlementName": "43d9786b2f5c40b48ac3b553dc4004e8",
+    "entitlementType": "EXECUTABLE",
+    "id": "43d9786b2f5c40b48ac3b553dc4004e8",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Eastern Exorcist Offer",
+        "height": 1440,
+        "md5": "db8441f62bdce54a08ccc114e01d4649",
+        "size": 1346036,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-08-04T11:35:29.905Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-14clo.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Eastern Exorcist Offer",
+        "height": 1600,
+        "md5": "2211468c48644d36858533a2a34773f6",
+        "size": 2432305,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-08-04T11:27:17.393Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/aa3726b6b8a14b148b58992e8d2700b1/eastern-exorcist-13d5r.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-09-18T07:21:55.637Z",
+    "mainGameItemList": [],
+    "namespace": "630a4b97a55545bb9941aee38ec799db",
+    "releaseInfo": [
+      {
+        "appId": "15b19b0c4791459f8e60942b328ee460",
+        "id": "84a94f6abb2c4f94af715dead67fc82a",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Eastern Exorcist",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

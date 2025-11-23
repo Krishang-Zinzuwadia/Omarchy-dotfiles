@@ -1,0 +1,13 @@
+2025-09-29 21:26:35.635 [error] Error getting repo info: Failed to execute git
+2025-09-29 21:26:35.635 [error] Error: Failed to execute git
+	at t.Git._exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:34408)
+	at async t.Git.exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:33531)
+	at async t.GitProvider.executeGitCommandStable (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1312259)
+	at async t.GitProvider.getRepoInfo (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:1288211)
+2025-09-29 21:26:35.635 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-09-29 21:26:35.635 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-09-29 21:26:35.901 [warning] Failed to get symbolic ref: Failed to execute git
+2025-09-29 21:26:35.902 [error] NoWorkspaceUriError
+2025-09-29 21:26:35.912 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '.git/HEAD')
+2025-09-29 21:26:35.933 [warning] Failed to get branches from remote: Failed to execute git
+2025-09-29 21:37:04.590 [error] Error getting user commits: Failed to execute git

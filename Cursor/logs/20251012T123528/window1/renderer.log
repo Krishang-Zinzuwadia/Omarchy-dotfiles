@@ -1,0 +1,182 @@
+2025-10-12 12:36:32.422 [warning] Missing property "useLegacyTerminalTool" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-10-12 12:36:32.423 [warning] Missing property "rpcFileLoggerFolder" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-10-12 12:36:32.443 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-12 12:36:32.444 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-12 12:36:32.445 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-12 12:36:32.446 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-12 12:36:32.447 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-12 12:36:32.448 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-12 12:36:32.448 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-12 12:36:32.449 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-12 12:36:32.450 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-10-12 12:36:34.701 [info] Started local extension host with pid 207692.
+2025-10-12 12:37:08.064 [info] [WorktreeCleanup] Registered cleanup task with interval: 6 hours, retention: 7 days
+2025-10-12 12:37:09.341 [info] Extension host (LocalProcess pid: 207692) is unresponsive.
+2025-10-12 12:37:09.344 [info] Extension host (LocalProcess pid: 207692) is responsive.
+2025-10-12 12:37:24.425 [info] [RepositoryTracker] Stored repository path: github.com/krishang-zinzuwadia/examcooker-2024 -> file:///home/krishang/Work/examcooker/ExamCooker-2024
+2025-10-12 12:37:24.465 [info] [perf] Render performance baseline is 97ms
+2025-10-12 12:37:52.875 [info] [composer.environmentInfo] workspaceFolders [{"uri":{"$mid":1,"fsPath":"/home/krishang/Work/examcooker/ExamCooker-2024","external":"file:///home/krishang/Work/examcooker/ExamCooker-2024","path":"/home/krishang/Work/examcooker/ExamCooker-2024","scheme":"file"},"name":"ExamCooker-2024","index":0}]
+2025-10-12 12:37:52.875 [info] [composer.environmentInfo] worktreePath undefined
+2025-10-12 12:38:52.785 [info] [composer.environmentInfo] workspaceFolders [{"uri":{"$mid":1,"fsPath":"/home/krishang/Work/examcooker/ExamCooker-2024","external":"file:///home/krishang/Work/examcooker/ExamCooker-2024","path":"/home/krishang/Work/examcooker/ExamCooker-2024","scheme":"file"},"name":"ExamCooker-2024","index":0}]
+2025-10-12 12:38:52.786 [info] [composer.environmentInfo] worktreePath undefined
+2025-10-12 12:39:52.802 [info] [composer.environmentInfo] workspaceFolders [{"uri":{"$mid":1,"fsPath":"/home/krishang/Work/examcooker/ExamCooker-2024","external":"file:///home/krishang/Work/examcooker/ExamCooker-2024","path":"/home/krishang/Work/examcooker/ExamCooker-2024","scheme":"file"},"name":"ExamCooker-2024","index":0}]
+2025-10-12 12:39:52.803 [info] [composer.environmentInfo] worktreePath undefined
+2025-10-12 12:40:11.646 [info] [composer.environmentInfo] workspaceFolders [{"uri":{"$mid":1,"fsPath":"/home/krishang/Work/examcooker/ExamCooker-2024","external":"file:///home/krishang/Work/examcooker/ExamCooker-2024","path":"/home/krishang/Work/examcooker/ExamCooker-2024","scheme":"file"},"name":"ExamCooker-2024","index":0}]
+2025-10-12 12:40:11.646 [info] [composer.environmentInfo] worktreePath undefined
+2025-10-12 12:40:20.071 [warning] ToolCallEventService: Tracked tool call start - tool_20a7636e-17d1-4b7b-810f-c2a188d4b9e (codebase_search)
+2025-10-12 12:40:27.737 [warning] ToolCallEventService: Tracked tool call start - tool_497189fe-ab5e-48a5-b232-20fec81979e (read_file)
+2025-10-12 12:40:33.150 [warning] ToolCallEventService: Tracked tool call start - tool_a62d173b-5456-4f64-8bfd-7b0e2cac9ee (search_replace)
+2025-10-12 12:40:34.672 [warning] ToolCallEventService: Tracked tool call end - tool_a62d173b-5456-4f64-8bfd-7b0e2cac9ee
+2025-10-12 12:40:37.514 [warning] ToolCallEventService: Tracked tool call start - tool_db44c328-32c7-47d8-ba8e-e0503797df8 (search_replace)
+2025-10-12 12:40:38.973 [warning] ToolCallEventService: Tracked tool call end - tool_db44c328-32c7-47d8-ba8e-e0503797df8
+2025-10-12 12:40:41.605 [warning] ToolCallEventService: Tracked tool call start - tool_922e1a69-45d3-4a50-a969-d552dca2a66 (search_replace)
+2025-10-12 12:40:44.566 [warning] ToolCallEventService: Tracked tool call end - tool_922e1a69-45d3-4a50-a969-d552dca2a66
+2025-10-12 12:40:49.707 [warning] ToolCallEventService: Tracked tool call start - tool_4fa85125-4566-40a9-a9d9-410eed8f466 (search_replace)
+2025-10-12 12:40:54.069 [warning] ToolCallEventService: Tracked tool call end - tool_4fa85125-4566-40a9-a9d9-410eed8f466
+2025-10-12 12:40:57.156 [warning] ToolCallEventService: Tracked tool call start - tool_b4dcb93f-fd1c-46d2-a2bf-594db499e4e (read_lints)
+2025-10-12 12:41:00.267 [warning] ToolCallEventService: Tracked tool call start - tool_18494b27-09e2-4167-bc9f-44e2e1e3cec (read_file)
+2025-10-12 12:41:12.256 [info] [composer.environmentInfo] workspaceFolders [{"uri":{"$mid":1,"fsPath":"/home/krishang/Work/examcooker/ExamCooker-2024","external":"file:///home/krishang/Work/examcooker/ExamCooker-2024","path":"/home/krishang/Work/examcooker/ExamCooker-2024","scheme":"file"},"name":"ExamCooker-2024","index":0}]
+2025-10-12 12:41:12.257 [info] [composer.environmentInfo] worktreePath undefined
+2025-10-12 12:43:00.677 [info] [composer.environmentInfo] workspaceFolders [{"uri":{"$mid":1,"fsPath":"/home/krishang/Work/examcooker/ExamCooker-2024","external":"file:///home/krishang/Work/examcooker/ExamCooker-2024","path":"/home/krishang/Work/examcooker/ExamCooker-2024","scheme":"file"},"name":"ExamCooker-2024","index":0}]
+2025-10-12 12:43:00.678 [info] [composer.environmentInfo] worktreePath undefined
+2025-10-12 12:43:04.802 [info] [composer.environmentInfo] workspaceFolders [{"uri":{"$mid":1,"fsPath":"/home/krishang/Work/examcooker/ExamCooker-2024","external":"file:///home/krishang/Work/examcooker/ExamCooker-2024","path":"/home/krishang/Work/examcooker/ExamCooker-2024","scheme":"file"},"name":"ExamCooker-2024","index":0}]
+2025-10-12 12:43:04.803 [info] [composer.environmentInfo] worktreePath undefined
+2025-10-12 12:43:11.789 [warning] ToolCallEventService: Tracked tool call start - tool_fe03d5c0-ec83-4f30-8631-20a9b27b4d6 (read_file)
+2025-10-12 12:43:12.968 [error] File not found: /home/krishang/Work/examcooker/ExamCooker-2024/.env.local: Error: File not found: /home/krishang/Work/examcooker/ExamCooker-2024/.env.local
+    at Okn.getUriOrThrowError (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5250:14)
+    at async Okn.call (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5247:8775)
+    at async vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5250:21317 File not found: /home/krishang/Work/examcooker/ExamCooker-2024/.env.local
+2025-10-12 12:43:15.036 [warning] ToolCallEventService: Tracked tool call start - tool_ef98a841-0469-42dd-adfe-0b838f5314e (read_file)
+2025-10-12 12:43:15.943 [error] File not found: /home/krishang/Work/examcooker/ExamCooker-2024/.env: Error: File not found: /home/krishang/Work/examcooker/ExamCooker-2024/.env
+    at Okn.getUriOrThrowError (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5250:14)
+    at async Okn.call (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5247:8775)
+    at async vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:5250:21317 File not found: /home/krishang/Work/examcooker/ExamCooker-2024/.env
+2025-10-12 12:43:18.352 [warning] ToolCallEventService: Tracked tool call start - tool_6759f7e6-4659-4936-b81c-ce54ffd0492 (list_dir_v2)
+2025-10-12 12:43:27.199 [warning] ToolCallEventService: Tracked tool call start - tool_9cdf5e1e-8f2f-4f4a-aa2f-c06e263d816 (read_file)
+2025-10-12 12:43:30.032 [warning] ToolCallEventService: Tracked tool call start - tool_aae50b57-7d60-4090-96f2-6a9d49419f6 (search_replace)
+2025-10-12 12:43:32.186 [warning] ToolCallEventService: Tracked tool call end - tool_aae50b57-7d60-4090-96f2-6a9d49419f6
+2025-10-12 12:43:35.323 [warning] ToolCallEventService: Tracked tool call start - tool_d302be1c-f35f-4d56-a35b-7dc8397ce70 (read_file)
+2025-10-12 12:43:38.356 [warning] ToolCallEventService: Tracked tool call start - tool_fbf340ab-cc13-4aeb-922d-8446b29a7de (search_replace)
+2025-10-12 12:43:41.452 [warning] ToolCallEventService: Tracked tool call end - tool_fbf340ab-cc13-4aeb-922d-8446b29a7de
+2025-10-12 12:43:44.106 [warning] ToolCallEventService: Tracked tool call start - tool_1225f6a4-f079-438b-bd93-4aeead12372 (search_replace)
+2025-10-12 12:43:46.548 [warning] ToolCallEventService: Tracked tool call end - tool_1225f6a4-f079-438b-bd93-4aeead12372
+2025-10-12 12:43:49.707 [warning] ToolCallEventService: Tracked tool call start - tool_8fc2824d-20aa-4af7-ae8a-0762a9a7b27 (read_lints)
+2025-10-12 12:43:59.629 [warning] ToolCallEventService: Tracked tool call start - tool_776a22bb-3d1c-4846-a5c0-7e74abca272 (run_terminal_cmd)
+2025-10-12 12:44:00.187 [warning] ToolCallEventService: Tracked tool call end - tool_776a22bb-3d1c-4846-a5c0-7e74abca272
+2025-10-12 12:44:35.906 [warning] ToolCallEventService: Tracked tool call start - tool_c75fed66-8dbe-44d6-9330-8b1cb409bb8 (run_terminal_cmd)
+2025-10-12 12:44:37.529 [warning] ToolCallEventService: Tracked tool call end - tool_c75fed66-8dbe-44d6-9330-8b1cb409bb8
+2025-10-12 12:44:53.889 [warning] ToolCallEventService: Tracked tool call start - tool_f7152e64-9eb1-4fe1-a049-580eb384fbb (run_terminal_cmd)
+2025-10-12 12:44:54.236 [warning] ToolCallEventService: Tracked tool call end - tool_f7152e64-9eb1-4fe1-a049-580eb384fbb
+2025-10-12 12:44:56.418 [warning] ToolCallEventService: Tracked tool call start - tool_202aeda8-4332-4c6c-a27e-a7ac7a8ac39 (run_terminal_cmd)
+2025-10-12 12:49:24.334 [warning] ToolCallEventService: Tracked tool call end - tool_202aeda8-4332-4c6c-a27e-a7ac7a8ac39
+2025-10-12 12:49:25.805 [info] [composer.environmentInfo] workspaceFolders [{"uri":{"$mid":1,"fsPath":"/home/krishang/Work/examcooker/ExamCooker-2024","external":"file:///home/krishang/Work/examcooker/ExamCooker-2024","path":"/home/krishang/Work/examcooker/ExamCooker-2024","scheme":"file"},"name":"ExamCooker-2024","index":0}]
+2025-10-12 12:49:25.806 [info] [composer.environmentInfo] worktreePath undefined
+2025-10-12 12:49:37.783 [warning] ToolCallEventService: Tracked tool call start - tool_8bacdd43-4804-42f0-9501-b3f00160feb (read_file)
+2025-10-12 12:49:38.217 [warning] ToolCallEventService: Tracked tool call start - tool_822c4c7e-f835-47bd-8dda-531e2f86384 (read_file)
+2025-10-12 12:49:41.550 [warning] ToolCallEventService: Tracked tool call start - tool_cd2af4ad-9511-4f04-b853-48455efe13e (read_file)
+2025-10-12 12:49:45.867 [warning] ToolCallEventService: Tracked tool call start - tool_0112ca48-b3b7-4a1f-9576-c1eac73e3dc (search_replace)
+2025-10-12 12:49:50.732 [warning] ToolCallEventService: Tracked tool call end - tool_0112ca48-b3b7-4a1f-9576-c1eac73e3dc
+2025-10-12 12:49:53.652 [warning] ToolCallEventService: Tracked tool call start - tool_5adb4109-2c3c-41a7-a1a6-1d149819c09 (search_replace)
+2025-10-12 12:49:59.006 [warning] ToolCallEventService: Tracked tool call end - tool_5adb4109-2c3c-41a7-a1a6-1d149819c09
+2025-10-12 12:50:02.034 [warning] ToolCallEventService: Tracked tool call start - tool_9266c320-cefb-4d5b-9f16-8f6ca7d4bbc (read_file)
+2025-10-12 12:50:05.330 [warning] ToolCallEventService: Tracked tool call start - tool_42daf269-7b2c-42b6-9fc7-ed63307b332 (search_replace)
+2025-10-12 12:50:08.331 [warning] ToolCallEventService: Tracked tool call end - tool_42daf269-7b2c-42b6-9fc7-ed63307b332
+2025-10-12 12:50:12.494 [warning] ToolCallEventService: Tracked tool call start - tool_65c86fdc-3901-48bd-bb2b-08a0e86a65c (search_replace)
+2025-10-12 12:50:14.907 [warning] ToolCallEventService: Tracked tool call end - tool_65c86fdc-3901-48bd-bb2b-08a0e86a65c
+2025-10-12 12:50:18.831 [warning] ToolCallEventService: Tracked tool call start - tool_a40359ae-bdb4-431e-b5c8-5b54462ec59 (read_lints)
+2025-10-12 12:50:23.446 [warning] ToolCallEventService: Tracked tool call start - tool_4c105e03-706b-4bf5-8e55-5c16ace2b85 (read_file)
+2025-10-12 12:50:27.406 [warning] ToolCallEventService: Tracked tool call start - tool_3e649a5a-d1a2-4896-b9fd-24ead7c20b1 (codebase_search)
+2025-10-12 12:50:30.916 [warning] ToolCallEventService: Tracked tool call start - tool_8623036f-833c-49ff-9a1e-3bb98fe4952 (read_file)
+2025-10-12 12:51:03.091 [warning] ToolCallEventService: Tracked tool call start - tool_414c1a93-a0a7-49ef-a2b5-8b676aeaa78 (run_terminal_cmd)
+2025-10-12 12:51:03.578 [warning] ToolCallEventService: Tracked tool call end - tool_414c1a93-a0a7-49ef-a2b5-8b676aeaa78
+2025-10-12 12:51:06.159 [warning] ToolCallEventService: Tracked tool call start - tool_af0458a9-4470-4ac1-9fdb-f52f1379f02 (run_terminal_cmd)
+2025-10-12 12:51:06.469 [warning] ToolCallEventService: Tracked tool call end - tool_af0458a9-4470-4ac1-9fdb-f52f1379f02
+2025-10-12 12:51:31.709 [warning] ToolCallEventService: Tracked tool call start - tool_b7c072c7-a6c0-4cb5-969e-427fc325c49 (run_terminal_cmd)
+2025-10-12 12:51:37.177 [warning] ToolCallEventService: Tracked tool call end - tool_b7c072c7-a6c0-4cb5-969e-427fc325c49
+2025-10-12 12:53:23.434 [warning] ToolCallEventService: Tracked tool call start - tool_e42809d0-4a2e-4af8-98b1-ec826f8a19b (run_terminal_cmd)
+2025-10-12 12:53:24.016 [warning] ToolCallEventService: Tracked tool call end - tool_e42809d0-4a2e-4af8-98b1-ec826f8a19b
+2025-10-12 12:53:26.651 [warning] ToolCallEventService: Tracked tool call start - tool_e0c79a7c-a204-4708-88d1-8b7c615cec0 (run_terminal_cmd)
+2025-10-12 12:53:39.242 [warning] ToolCallEventService: Tracked tool call end - tool_e0c79a7c-a204-4708-88d1-8b7c615cec0
+2025-10-12 12:53:49.913 [info] [composer.environmentInfo] workspaceFolders [{"uri":{"$mid":1,"fsPath":"/home/krishang/Work/examcooker/ExamCooker-2024","external":"file:///home/krishang/Work/examcooker/ExamCooker-2024","path":"/home/krishang/Work/examcooker/ExamCooker-2024","scheme":"file"},"name":"ExamCooker-2024","index":0}]
+2025-10-12 12:53:49.913 [info] [composer.environmentInfo] worktreePath undefined
+2025-10-12 12:54:13.889 [info] [composer.environmentInfo] workspaceFolders [{"uri":{"$mid":1,"fsPath":"/home/krishang/Work/examcooker/ExamCooker-2024","external":"file:///home/krishang/Work/examcooker/ExamCooker-2024","path":"/home/krishang/Work/examcooker/ExamCooker-2024","scheme":"file"},"name":"ExamCooker-2024","index":0}]
+2025-10-12 12:54:13.890 [info] [composer.environmentInfo] worktreePath undefined
+2025-10-12 12:54:20.726 [warning] ToolCallEventService: Tracked tool call start - tool_50e7983e-7d3b-4fc2-a05d-8caceb5544b (read_file)
+2025-10-12 12:54:25.685 [warning] ToolCallEventService: Tracked tool call start - tool_c021fe1a-89f5-4873-9ad0-53d199f6b97 (search_replace)
+2025-10-12 12:54:42.523 [warning] ToolCallEventService: Tracked tool call end - tool_c021fe1a-89f5-4873-9ad0-53d199f6b97
+2025-10-12 12:54:45.415 [warning] ToolCallEventService: Tracked tool call start - tool_f46c19c3-8f5f-4fbd-aad3-26402541d9f (read_file)
+2025-10-12 12:54:52.510 [warning] ToolCallEventService: Tracked tool call start - tool_2eeddb42-742d-4d25-8272-3654388bebd (codebase_search)
+2025-10-12 12:54:57.799 [warning] ToolCallEventService: Tracked tool call start - tool_782bfcc4-b179-4dd8-8d6a-9da89e68d82 (search_replace)
+2025-10-12 12:55:12.341 [warning] ToolCallEventService: Tracked tool call end - tool_782bfcc4-b179-4dd8-8d6a-9da89e68d82
+2025-10-12 12:55:15.273 [warning] ToolCallEventService: Tracked tool call start - tool_9524917d-0c9c-4c07-836c-afcd78b3dc4 (read_file)
+2025-10-12 12:55:23.094 [warning] ToolCallEventService: Tracked tool call start - tool_5fb76e23-962c-417b-8909-31907152ef8 (search_replace)
+2025-10-12 12:55:43.064 [warning] ToolCallEventService: Tracked tool call end - tool_5fb76e23-962c-417b-8909-31907152ef8
+2025-10-12 12:55:47.161 [warning] ToolCallEventService: Tracked tool call start - tool_b06b15d3-0f0f-4cf2-87b3-97ff90e6a75 (read_file)
+2025-10-12 12:55:52.375 [warning] ToolCallEventService: Tracked tool call start - tool_991d05a9-0c74-4d20-83da-c55f5e345fa (codebase_search)
+2025-10-12 12:55:56.360 [warning] ToolCallEventService: Tracked tool call start - tool_5f6b14bf-c3ad-47f0-9f9b-ac8677a624e (search_replace)
+2025-10-12 12:56:06.420 [warning] ToolCallEventService: Tracked tool call end - tool_5f6b14bf-c3ad-47f0-9f9b-ac8677a624e
+2025-10-12 12:56:15.731 [info] [composer.environmentInfo] workspaceFolders [{"uri":{"$mid":1,"fsPath":"/home/krishang/Work/examcooker/ExamCooker-2024","external":"file:///home/krishang/Work/examcooker/ExamCooker-2024","path":"/home/krishang/Work/examcooker/ExamCooker-2024","scheme":"file"},"name":"ExamCooker-2024","index":0}]
+2025-10-12 12:56:15.731 [info] [composer.environmentInfo] worktreePath undefined
+2025-10-12 12:56:16.394 [warning] ToolCallEventService: Tracked tool call start - tool_6d069705-66b3-40a1-a232-c6de11a4064 (read_lints)
+2025-10-12 12:56:21.518 [warning] ToolCallEventService: Tracked tool call start - tool_dc64edca-c390-4351-a56c-96f29d9640e (search_replace)
+2025-10-12 12:56:23.277 [warning] ToolCallEventService: Tracked tool call end - tool_dc64edca-c390-4351-a56c-96f29d9640e
+2025-10-12 12:56:30.661 [warning] ToolCallEventService: Tracked tool call start - tool_0a7c3d0d-a767-4a96-a2f3-02ec8a501dd (read_lints)
+2025-10-12 12:56:30.665 [info] [composer.environmentInfo] workspaceFolders [{"uri":{"$mid":1,"fsPath":"/home/krishang/Work/examcooker/ExamCooker-2024","external":"file:///home/krishang/Work/examcooker/ExamCooker-2024","path":"/home/krishang/Work/examcooker/ExamCooker-2024","scheme":"file"},"name":"ExamCooker-2024","index":0}]
+2025-10-12 12:56:30.666 [info] [composer.environmentInfo] worktreePath undefined
+2025-10-12 12:56:35.529 [warning] ToolCallEventService: Tracked tool call start - tool_eff6dd8a-9581-4f61-ab48-8887bac310b (run_terminal_cmd)
+2025-10-12 12:56:35.978 [warning] ToolCallEventService: Tracked tool call end - tool_eff6dd8a-9581-4f61-ab48-8887bac310b
+2025-10-12 12:56:41.198 [warning] ToolCallEventService: Tracked tool call start - tool_965ca688-43d7-4afd-b252-81d7235dc15 (run_terminal_cmd)
+2025-10-12 12:56:41.499 [warning] ToolCallEventService: Tracked tool call end - tool_965ca688-43d7-4afd-b252-81d7235dc15
+2025-10-12 12:56:46.533 [warning] ToolCallEventService: Tracked tool call start - tool_bf38d865-ce2f-4c38-ab83-02181e82ddc (run_terminal_cmd)
+2025-10-12 12:56:49.744 [warning] ToolCallEventService: Tracked tool call end - tool_bf38d865-ce2f-4c38-ab83-02181e82ddc
+2025-10-12 12:57:10.385 [info] [composer.environmentInfo] workspaceFolders [{"uri":{"$mid":1,"fsPath":"/home/krishang/Work/examcooker/ExamCooker-2024","external":"file:///home/krishang/Work/examcooker/ExamCooker-2024","path":"/home/krishang/Work/examcooker/ExamCooker-2024","scheme":"file"},"name":"ExamCooker-2024","index":0}]
+2025-10-12 12:57:10.386 [info] [composer.environmentInfo] worktreePath undefined
+2025-10-12 12:58:17.411 [info] [composer.environmentInfo] workspaceFolders [{"uri":{"$mid":1,"fsPath":"/home/krishang/Work/examcooker/ExamCooker-2024","external":"file:///home/krishang/Work/examcooker/ExamCooker-2024","path":"/home/krishang/Work/examcooker/ExamCooker-2024","scheme":"file"},"name":"ExamCooker-2024","index":0}]
+2025-10-12 12:58:17.412 [info] [composer.environmentInfo] worktreePath undefined
+2025-10-12 12:59:17.502 [info] [composer.environmentInfo] workspaceFolders [{"uri":{"$mid":1,"fsPath":"/home/krishang/Work/examcooker/ExamCooker-2024","external":"file:///home/krishang/Work/examcooker/ExamCooker-2024","path":"/home/krishang/Work/examcooker/ExamCooker-2024","scheme":"file"},"name":"ExamCooker-2024","index":0}]
+2025-10-12 12:59:17.503 [info] [composer.environmentInfo] worktreePath undefined
+2025-10-12 12:59:29.802 [info] [composer.environmentInfo] workspaceFolders [{"uri":{"$mid":1,"fsPath":"/home/krishang/Work/examcooker/ExamCooker-2024","external":"file:///home/krishang/Work/examcooker/ExamCooker-2024","path":"/home/krishang/Work/examcooker/ExamCooker-2024","scheme":"file"},"name":"ExamCooker-2024","index":0}]
+2025-10-12 12:59:29.802 [info] [composer.environmentInfo] worktreePath undefined
+2025-10-12 12:59:41.630 [warning] ToolCallEventService: Tracked tool call start - tool_88c0cc1c-d4a8-498e-b5f0-0b2e7853e3d (read_file)
+2025-10-12 12:59:49.581 [warning] ToolCallEventService: Tracked tool call start - tool_35b48ed3-f438-4133-8223-c85c4d02f9b (read_file)
+2025-10-12 12:59:56.591 [warning] ToolCallEventService: Tracked tool call start - tool_94a1643b-29a6-44b1-a17b-ea4110342bc (read_file)
+2025-10-12 13:00:14.354 [info] [composer.environmentInfo] workspaceFolders [{"uri":{"$mid":1,"fsPath":"/home/krishang/Work/examcooker/ExamCooker-2024","external":"file:///home/krishang/Work/examcooker/ExamCooker-2024","path":"/home/krishang/Work/examcooker/ExamCooker-2024","scheme":"file"},"name":"ExamCooker-2024","index":0}]
+2025-10-12 13:00:14.355 [info] [composer.environmentInfo] worktreePath undefined
+2025-10-12 13:01:13.746 [info] [composer.environmentInfo] workspaceFolders [{"uri":{"$mid":1,"fsPath":"/home/krishang/Work/examcooker/ExamCooker-2024","external":"file:///home/krishang/Work/examcooker/ExamCooker-2024","path":"/home/krishang/Work/examcooker/ExamCooker-2024","scheme":"file"},"name":"ExamCooker-2024","index":0}]
+2025-10-12 13:01:13.747 [info] [composer.environmentInfo] worktreePath undefined
+2025-10-12 13:01:15.040 [info] [composer.environmentInfo] workspaceFolders [{"uri":{"$mid":1,"fsPath":"/home/krishang/Work/examcooker/ExamCooker-2024","external":"file:///home/krishang/Work/examcooker/ExamCooker-2024","path":"/home/krishang/Work/examcooker/ExamCooker-2024","scheme":"file"},"name":"ExamCooker-2024","index":0}]
+2025-10-12 13:01:15.041 [info] [composer.environmentInfo] worktreePath undefined
+2025-10-12 13:01:28.203 [warning] ToolCallEventService: Tracked tool call start - tool_ac9e83c6-0157-41d1-b117-704228137ae (run_terminal_cmd)
+2025-10-12 13:01:28.630 [warning] ToolCallEventService: Tracked tool call end - tool_ac9e83c6-0157-41d1-b117-704228137ae
+2025-10-12 13:01:32.217 [warning] ToolCallEventService: Tracked tool call start - tool_fa6a4c6a-cd71-4907-b62f-1892470141d (run_terminal_cmd)
+2025-10-12 13:01:32.261 [info] [composer.environmentInfo] workspaceFolders [{"uri":{"$mid":1,"fsPath":"/home/krishang/Work/examcooker/ExamCooker-2024","external":"file:///home/krishang/Work/examcooker/ExamCooker-2024","path":"/home/krishang/Work/examcooker/ExamCooker-2024","scheme":"file"},"name":"ExamCooker-2024","index":0}]
+2025-10-12 13:01:32.261 [info] [composer.environmentInfo] worktreePath undefined
+2025-10-12 13:01:37.691 [warning] ToolCallEventService: Tracked tool call end - tool_fa6a4c6a-cd71-4907-b62f-1892470141d
+2025-10-12 13:01:41.081 [warning] ToolCallEventService: Tracked tool call start - tool_b6e94fd2-d630-4815-9223-7b08b767c3d (write)
+2025-10-12 13:01:52.971 [warning] ToolCallEventService: Tracked tool call end - tool_b6e94fd2-d630-4815-9223-7b08b767c3d
+2025-10-12 13:02:05.685 [warning] ToolCallEventService: Tracked tool call start - tool_e8184c2f-7aa4-42c9-9707-934099feb05 (run_terminal_cmd)
+2025-10-12 13:02:06.106 [warning] ToolCallEventService: Tracked tool call end - tool_e8184c2f-7aa4-42c9-9707-934099feb05
+2025-10-12 13:02:37.914 [warning] ToolCallEventService: Tracked tool call start - tool_397d91e0-1d98-45b4-86d5-b010357a84d (run_terminal_cmd)
+2025-10-12 13:02:38.316 [warning] ToolCallEventService: Tracked tool call end - tool_397d91e0-1d98-45b4-86d5-b010357a84d
+2025-10-12 13:02:41.881 [warning] ToolCallEventService: Tracked tool call start - tool_749b788e-685b-4734-a45f-56cdf0c1bf5 (search_replace)
+2025-10-12 13:03:15.946 [warning] ToolCallEventService: Tracked tool call end - tool_749b788e-685b-4734-a45f-56cdf0c1bf5
+2025-10-12 13:03:23.139 [warning] ToolCallEventService: Tracked tool call start - tool_872bee58-8597-495c-9b91-35c3b9fe906 (delete_file)
+2025-10-12 13:03:23.317 [warning] ToolCallEventService: Tracked tool call end - tool_872bee58-8597-495c-9b91-35c3b9fe906
+2025-10-12 13:03:29.291 [warning] ToolCallEventService: Tracked tool call start - tool_619a5a9a-03ee-4497-96d5-d497626947d (read_lints)
+2025-10-12 13:03:39.832 [warning] ToolCallEventService: Tracked tool call start - tool_9976b8e9-5d2a-4f9f-8468-478a3690be2 (run_terminal_cmd)
+2025-10-12 13:03:40.084 [warning] ToolCallEventService: Tracked tool call end - tool_9976b8e9-5d2a-4f9f-8468-478a3690be2
+2025-10-12 13:03:46.845 [warning] ToolCallEventService: Tracked tool call start - tool_4af730b6-169d-4c35-a279-4446d5a2fc2 (run_terminal_cmd)
+2025-10-12 13:03:47.179 [warning] ToolCallEventService: Tracked tool call end - tool_4af730b6-169d-4c35-a279-4446d5a2fc2
+2025-10-12 13:04:05.112 [info] [composer.environmentInfo] workspaceFolders [{"uri":{"$mid":1,"fsPath":"/home/krishang/Work/examcooker/ExamCooker-2024","external":"file:///home/krishang/Work/examcooker/ExamCooker-2024","path":"/home/krishang/Work/examcooker/ExamCooker-2024","scheme":"file"},"name":"ExamCooker-2024","index":0}]
+2025-10-12 13:04:05.113 [info] [composer.environmentInfo] worktreePath undefined
+2025-10-12 13:05:04.654 [info] [composer.environmentInfo] workspaceFolders [{"uri":{"$mid":1,"fsPath":"/home/krishang/Work/examcooker/ExamCooker-2024","external":"file:///home/krishang/Work/examcooker/ExamCooker-2024","path":"/home/krishang/Work/examcooker/ExamCooker-2024","scheme":"file"},"name":"ExamCooker-2024","index":0}]
+2025-10-12 13:05:04.654 [info] [composer.environmentInfo] worktreePath undefined
+2025-10-12 13:05:45.595 [info] [composer.environmentInfo] workspaceFolders [{"uri":{"$mid":1,"fsPath":"/home/krishang/Work/examcooker/ExamCooker-2024","external":"file:///home/krishang/Work/examcooker/ExamCooker-2024","path":"/home/krishang/Work/examcooker/ExamCooker-2024","scheme":"file"},"name":"ExamCooker-2024","index":0}]
+2025-10-12 13:05:45.595 [info] [composer.environmentInfo] worktreePath undefined
+2025-10-12 13:06:00.900 [info] [composer.environmentInfo] workspaceFolders [{"uri":{"$mid":1,"fsPath":"/home/krishang/Work/examcooker/ExamCooker-2024","external":"file:///home/krishang/Work/examcooker/ExamCooker-2024","path":"/home/krishang/Work/examcooker/ExamCooker-2024","scheme":"file"},"name":"ExamCooker-2024","index":0}]
+2025-10-12 13:06:00.901 [info] [composer.environmentInfo] worktreePath undefined
+2025-10-12 13:06:25.938 [info] [composer.environmentInfo] workspaceFolders [{"uri":{"$mid":1,"fsPath":"/home/krishang/Work/examcooker/ExamCooker-2024","external":"file:///home/krishang/Work/examcooker/ExamCooker-2024","path":"/home/krishang/Work/examcooker/ExamCooker-2024","scheme":"file"},"name":"ExamCooker-2024","index":0}]
+2025-10-12 13:06:25.939 [info] [composer.environmentInfo] worktreePath undefined
+2025-10-12 13:06:39.594 [info] [composer.environmentInfo] workspaceFolders [{"uri":{"$mid":1,"fsPath":"/home/krishang/Work/examcooker/ExamCooker-2024","external":"file:///home/krishang/Work/examcooker/ExamCooker-2024","path":"/home/krishang/Work/examcooker/ExamCooker-2024","scheme":"file"},"name":"ExamCooker-2024","index":0}]
+2025-10-12 13:06:39.595 [info] [composer.environmentInfo] worktreePath undefined
+2025-10-12 13:08:02.996 [warning] [lifecycle] onWillShutdown is taking a long time, pending operations: join.closeStorage

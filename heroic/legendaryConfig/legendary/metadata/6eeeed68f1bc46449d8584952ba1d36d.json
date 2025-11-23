@@ -1,0 +1,84 @@
+{
+  "app_name": "6eeeed68f1bc46449d8584952ba1d36d",
+  "app_title": "The Evolving Forest",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "6eeeed68f1bc46449d8584952ba1d36d",
+      "asset_id": "6eeeed68f1bc46449d8584952ba1d36d",
+      "build_version": "1.2.2",
+      "catalog_item_id": "ec617592029e4c41a087fa5ad58d57cc",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "5c7159a472e440d19b70c425fa7904c8"
+      },
+      "namespace": "6e80378d8a1444cf94e8221bee233464",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-03-12T01:53:35.773Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheEvolvingForest"
+      }
+    },
+    "description": "The Evolving Forest",
+    "developer": "Humble Sage Games Pty Ltd",
+    "developerId": "o-tgckyaktabpj3egekq6xpxcu683u5p",
+    "endOfSupport": false,
+    "entitlementName": "ec617592029e4c41a087fa5ad58d57cc",
+    "entitlementType": "EXECUTABLE",
+    "id": "ec617592029e4c41a087fa5ad58d57cc",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "The Evolving Forest Offer",
+        "height": 1440,
+        "md5": "0edafdd577b543fe5fac066fe9793620",
+        "size": 3290923,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-05-09T06:41:04.410Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/265c9c9ed2c7405088c2833e22128090/the-evolving-forest-vume4.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download The Evolving Forest Offer",
+        "height": 1600,
+        "md5": "f20a992d1b2253547939750287302db9",
+        "size": 2557559,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-05-09T06:41:10.086Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/265c9c9ed2c7405088c2833e22128090/the-evolving-forest-esies.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-06-12T06:47:24.061Z",
+    "mainGameItemList": [],
+    "namespace": "6e80378d8a1444cf94e8221bee233464",
+    "releaseInfo": [
+      {
+        "appId": "6eeeed68f1bc46449d8584952ba1d36d",
+        "id": "c7e3b1369379467791081d2b8e695964",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "The Evolving Forest",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

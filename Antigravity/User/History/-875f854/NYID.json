@@ -1,0 +1,14 @@
+{
+  "title": "Cross-Platform Screenshot Implementation",
+  "summary": "Best practices and implementation details for capturing screenshots programmatically on Windows, macOS, and Linux (specifically Wayland/Hyprland vs X11). Addresses common pitfalls with window-specific targeting on Wayland.",
+  "references": [
+    {
+      "type": "file",
+      "value": "ai-agents/mainmlfile/perception/pipeline_runner.py"
+    },
+    {
+      "type": "file",
+      "value": "ai-agents/mainmlfile/perception/requirements.txt"
+    }
+  ]
+}

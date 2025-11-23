@@ -1,0 +1,93 @@
+{
+  "app_name": "ce3fb6fe8fdf4c9ba649abc3e407debf",
+  "app_title": "Machinarium",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ce3fb6fe8fdf4c9ba649abc3e407debf",
+      "asset_id": "ce3fb6fe8fdf4c9ba649abc3e407debf",
+      "build_version": "5627C",
+      "catalog_item_id": "e3bc416f823d4a00900cd47c1eabfbc0",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "708bc413206f407fb9b7e671df7b2020",
+        "update_type": "MINOR"
+      },
+      "namespace": "e52b4d8cbcfd45ad95eff800ccc59d93",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567CPEHUwFsXM8zXbGgbBqibElq",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-03-12T16:17:18.257Z",
+    "customAttributes": {
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "Machinarium_7b.dat, Machinarium_7b_bk.dat"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../Roaming/Amanita-Design.Machinarium/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Machinarium"
+      }
+    },
+    "description": "Machinarium is the award-winning independent adventure game developed by the makers of Samorost series, Botanicula and CHUCHEL. Help Josef the robot save his girlfriend Berta kidnapped by the Black Cap Brotherhood gang!",
+    "developer": "Amanita Design s.r.o.",
+    "developerId": "o-9yx3b8bxbr9g2r3z7ahpmgphp2d5kh",
+    "endOfSupport": false,
+    "entitlementName": "e3bc416f823d4a00900cd47c1eabfbc0",
+    "entitlementType": "EXECUTABLE",
+    "id": "e3bc416f823d4a00900cd47c1eabfbc0",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Machinarium Offer",
+        "height": 1440,
+        "md5": "746bc3392f624e9c63e438838a2977e2",
+        "size": 1068180,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-01-08T16:01:36.948Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/907d9edf585e4c23b971164cd1c452e2/machinarium-t0vo4.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Machinarium Offer",
+        "height": 1600,
+        "md5": "d364af6bd02291805659abc30f88e9c8",
+        "size": 913849,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-01-08T16:01:37.298Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/907d9edf585e4c23b971164cd1c452e2/machinarium-1yjks.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-09-29T14:38:12.785Z",
+    "mainGameItemList": [],
+    "namespace": "e52b4d8cbcfd45ad95eff800ccc59d93",
+    "releaseInfo": [
+      {
+        "appId": "ce3fb6fe8fdf4c9ba649abc3e407debf",
+        "id": "44fd81a4eeeb41a99c2b13b47870da48",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Machinarium",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

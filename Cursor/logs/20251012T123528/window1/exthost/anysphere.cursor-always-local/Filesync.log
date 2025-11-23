@@ -1,0 +1,105 @@
+2025-10-12 12:37:10.977 [error] Failed to check if file sync is enabled for user {}
+2025-10-12 12:37:10.977 [error] Failed to fetch fsConfig File sync is disabled
+2025-10-12 12:37:10.977 [error] Failed to fetch fsConfig File sync is disabled
+2025-10-12 12:37:10.977 [info] [registerEventListeners] Registering event listeners
+2025-10-12 12:37:12.697 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-10-12 12:37:12.968 [info] Fetched fsConfig in 269.35223800000676ms
+2025-10-12 12:37:12.968 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-10-12 12:37:15.079 [info] Starting sync of visible tabs
+2025-10-12 12:37:15.079 [info] Synced all visible tabs in 0.6081590000030701ms
+2025-10-12 12:37:16.006 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-10-12 12:37:16.584 [info] Fetched fsConfig in 577.3976340000008ms
+2025-10-12 12:37:16.584 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-10-12 12:37:17.003 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-10-12 12:37:17.673 [info] Starting sync of visible tabs
+2025-10-12 12:37:17.673 [info] Synced all visible tabs in 0.31801999999879627ms
+2025-10-12 12:37:17.956 [info] Fetched fsConfig in 952.9678829999975ms
+2025-10-12 12:37:17.956 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-10-12 12:37:17.956 [info] File sync enabled status: true
+2025-10-12 12:37:17.956 [info] Starting sync of visible tabs
+2025-10-12 12:37:17.956 [info] Synced all visible tabs in 0.1239560000030906ms
+2025-10-12 12:37:17.968 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-10-12 12:37:18.221 [info] Fetched fsConfig in 251.84519700000237ms
+2025-10-12 12:37:18.221 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-10-12 12:40:35.873 [info] Uploaded file app/components/FilterComponent.tsx modelVersion=2 in 905.4101789999986ms
+2025-10-12 12:40:35.876 [info] Uploaded file app/components/FilterComponent.tsx modelVersion=2 in 911.7698910000036ms
+2025-10-12 12:40:35.878 [info] Uploaded file app/components/FilterComponent.tsx modelVersion=2 in 922.7093830000085ms
+2025-10-12 12:40:35.880 [info] Uploaded file app/components/FilterComponent.tsx modelVersion=2 in 919.4155989999999ms
+2025-10-12 12:40:39.662 [info] Synced file app/components/FilterComponent.tsx modelVersion=4 in 266.3019239999994ms
+2025-10-12 12:40:44.802 [info] Uploaded file app/components/FilterComponent.tsx modelVersion=2 in 269.6361179999949ms
+2025-10-12 12:40:44.804 [info] Uploaded file app/components/FilterComponent.tsx modelVersion=2 in 274.4168499999796ms
+2025-10-12 12:40:45.014 [info] Uploaded file app/components/FilterComponent.tsx modelVersion=2 in 267.1487790000101ms
+2025-10-12 12:40:45.022 [info] Uploaded file app/components/FilterComponent.tsx modelVersion=2 in 271.2452340000018ms
+2025-10-12 12:40:47.061 [info] Handled visible editors change in 7.34335199999623ms
+2025-10-12 12:40:54.994 [info] Synced file app/components/FilterComponent.tsx modelVersion=4 in 317.5617369999818ms
+2025-10-12 12:43:33.051 [info] Uploaded file app/layout.tsx modelVersion=2 in 656.4063099999912ms
+2025-10-12 12:43:33.052 [info] Uploaded file app/layout.tsx modelVersion=2 in 939.1364649999887ms
+2025-10-12 12:43:33.055 [info] Uploaded file app/layout.tsx modelVersion=2 in 663.1160049999598ms
+2025-10-12 12:43:33.056 [info] Uploaded file app/layout.tsx modelVersion=2 in 939.8192319999798ms
+2025-10-12 12:43:39.655 [info] Handled visible editors change in 1.975867000001017ms
+2025-10-12 12:43:39.765 [info] Handled visible editors change in 3.6307449999731034ms
+2025-10-12 12:43:41.728 [info] Uploaded file middleware.ts modelVersion=2 in 299.4180519999936ms
+2025-10-12 12:43:41.729 [info] Uploaded file middleware.ts modelVersion=2 in 303.5994369999971ms
+2025-10-12 12:43:47.794 [info] Synced file middleware.ts modelVersion=4 in 787.3370880000293ms
+2025-10-12 12:43:47.929 [info] Handled visible editors change in 1.5442330000223592ms
+2025-10-12 12:43:47.991 [info] Handled visible editors change in 3.5093009999836795ms
+2025-10-12 12:49:51.599 [info] Uploaded file app/auth.js modelVersion=2 in 613.4223440000787ms
+2025-10-12 12:49:51.600 [info] Uploaded file app/auth.js modelVersion=2 in 921.6021409999812ms
+2025-10-12 12:49:51.601 [info] Uploaded file app/auth.js modelVersion=2 in 926.018665999989ms
+2025-10-12 12:49:51.602 [info] Uploaded file app/auth.js modelVersion=2 in 614.5294639999047ms
+2025-10-12 12:49:59.270 [info] Uploaded file app/layout.tsx modelVersion=2 in 283.392286999966ms
+2025-10-12 12:49:59.272 [info] Uploaded file app/layout.tsx modelVersion=2 in 282.185601000092ms
+2025-10-12 12:50:03.008 [info] Handled visible editors change in 2.1506260000169277ms
+2025-10-12 12:50:03.761 [info] Uploaded file app/@protected_routes/layout.tsx modelVersion=1 in 275.99576499999966ms
+2025-10-12 12:50:03.761 [info] Handled visible editors change in 626.47488600004ms
+2025-10-12 12:50:08.891 [info] Synced file app/@protected_routes/layout.tsx modelVersion=2 in 338.6732590000611ms
+2025-10-12 12:50:09.232 [info] Synced file app/@protected_routes/layout.tsx modelVersion=2 in 268.4004119999008ms
+2025-10-12 12:50:15.224 [info] Uploaded file app/@protected_routes/home/home.tsx modelVersion=2 in 347.9524220000021ms
+2025-10-12 12:50:15.226 [info] Uploaded file app/@protected_routes/home/home.tsx modelVersion=2 in 345.6934679999249ms
+2025-10-12 12:50:15.438 [info] Uploaded file app/@protected_routes/home/home.tsx modelVersion=2 in 294.31265000009444ms
+2025-10-12 12:50:24.115 [info] Handled visible editors change in 1.721663000062108ms
+2025-10-12 12:50:24.169 [info] Handled visible editors change in 3.797753000049852ms
+2025-10-12 12:50:26.779 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-10-12 12:50:27.036 [info] Fetched fsConfig in 256.45403999998234ms
+2025-10-12 12:50:27.036 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-10-12 12:50:27.037 [info] File sync enabled status: true
+2025-10-12 12:50:27.037 [info] Starting sync of visible tabs
+2025-10-12 12:50:27.037 [info] Synced all visible tabs in 0.5121230001095682ms
+2025-10-12 12:54:43.356 [info] Uploaded file app/@protected_routes/past_papers/page.tsx modelVersion=2 in 521.88739300007ms
+2025-10-12 12:54:43.359 [info] Uploaded file app/@protected_routes/past_papers/page.tsx modelVersion=2 in 521.844073999906ms
+2025-10-12 12:54:43.362 [info] Uploaded file app/@protected_routes/past_papers/page.tsx modelVersion=2 in 888.00270000007ms
+2025-10-12 12:54:43.363 [info] Uploaded file app/@protected_routes/past_papers/page.tsx modelVersion=2 in 887.3047360000201ms
+2025-10-12 12:55:12.677 [info] Uploaded file app/@protected_routes/notes/page.tsx modelVersion=2 in 356.50480500003323ms
+2025-10-12 12:55:12.679 [info] Uploaded file app/@protected_routes/notes/page.tsx modelVersion=2 in 361.1909839999862ms
+2025-10-12 12:55:12.960 [info] Uploaded file app/@protected_routes/notes/page.tsx modelVersion=2 in 289.9596619999502ms
+2025-10-12 12:55:43.431 [info] Uploaded file app/@protected_routes/forum/page.tsx modelVersion=2 in 393.25154500012286ms
+2025-10-12 12:55:43.433 [info] Uploaded file app/@protected_routes/forum/page.tsx modelVersion=2 in 392.348610999994ms
+2025-10-12 12:55:49.876 [info] Handled visible editors change in 1.4941829999443144ms
+2025-10-12 12:55:49.984 [info] Handled visible editors change in 3.4017479999456555ms
+2025-10-12 12:56:06.632 [info] Uploaded file app/@protected_routes/resources/page.tsx modelVersion=2 in 264.5524720000103ms
+2025-10-12 12:56:06.634 [info] Uploaded file app/@protected_routes/resources/page.tsx modelVersion=2 in 263.6083229999058ms
+2025-10-12 12:56:23.740 [info] Synced file app/@protected_routes/past_papers/page.tsx modelVersion=3 in 252.3190319999121ms
+2025-10-12 12:56:24.216 [info] Synced file app/@protected_routes/past_papers/page.tsx modelVersion=3 in 241.81985599990003ms
+2025-10-12 12:56:25.187 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-10-12 12:56:25.511 [info] Fetched fsConfig in 323.13137800013646ms
+2025-10-12 12:56:25.511 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-10-12 12:56:25.511 [info] File sync enabled status: true
+2025-10-12 12:56:25.511 [info] Starting sync of visible tabs
+2025-10-12 12:56:25.511 [info] Synced all visible tabs in 0.25594999990426004ms
+2025-10-12 13:01:53.780 [info] Uploaded file fetch-real-data.js modelVersion=3 in 590.6900290001649ms
+2025-10-12 13:01:53.782 [info] Uploaded file fetch-real-data.js modelVersion=3 in 857.9455709999893ms
+2025-10-12 13:01:53.783 [info] Uploaded file fetch-real-data.js modelVersion=3 in 862.553209999809ms
+2025-10-12 13:01:53.785 [info] Uploaded file fetch-real-data.js modelVersion=3 in 599.4034279999323ms
+2025-10-12 13:01:53.786 [info] Uploaded file fetch-real-data.js modelVersion=3 in 859.1920640000608ms
+2025-10-12 13:01:57.635 [info] Handled visible editors change in 1.9110410001594573ms
+2025-10-12 13:01:57.742 [info] Handled visible editors change in 7.051179999951273ms
+2025-10-12 13:03:16.842 [info] Uploaded file app/@protected_routes/past_papers/page.tsx modelVersion=4 in 959.38534300006ms
+2025-10-12 13:03:16.844 [info] Uploaded file app/@protected_routes/past_papers/page.tsx modelVersion=4 in 963.4023260001559ms
+2025-10-12 13:03:16.845 [info] Uploaded file app/@protected_routes/past_papers/page.tsx modelVersion=4 in 675.8173009997699ms
+2025-10-12 13:03:16.846 [info] Uploaded file app/@protected_routes/past_papers/page.tsx modelVersion=4 in 621.3089140001684ms
+2025-10-12 13:03:18.127 [info] Handled visible editors change in 2.735027000075206ms
+2025-10-12 13:03:18.231 [info] Handled visible editors change in 5.975834999931976ms
+2025-10-12 13:03:23.710 [info] Synced file fetch-real-data.js modelVersion=4 in 246.90110099990852ms
+2025-10-12 13:06:32.114 [info] Handled visible editors change in 1.6092560000251979ms
+2025-10-12 13:06:33.915 [info] Uploaded file app/components/FilterComponent.tsx modelVersion=4 in 930.7433439998422ms
+2025-10-12 13:06:33.916 [info] Handled visible editors change in 1713.7963910000399ms

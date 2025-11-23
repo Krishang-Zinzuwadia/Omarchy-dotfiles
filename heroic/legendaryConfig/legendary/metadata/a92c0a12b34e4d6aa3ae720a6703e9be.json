@@ -1,0 +1,85 @@
+{
+  "app_name": "a92c0a12b34e4d6aa3ae720a6703e9be",
+  "app_title": "Take The Throne",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "a92c0a12b34e4d6aa3ae720a6703e9be",
+      "asset_id": "a92c0a12b34e4d6aa3ae720a6703e9be",
+      "build_version": "1.2.8a4",
+      "catalog_item_id": "532de063aff54481ba90175667ceae87",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "2aef07754056410ea145ac07263cc759"
+      },
+      "namespace": "8dc19fa4313c42a497f638648541243e",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567qBV4CRiPhsLnrYvY7qOhdusM",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-12-18T19:20:49.612Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "TakeTheThroneUPJAC"
+      }
+    },
+    "description": "Take The Throne",
+    "developer": "Pocketful of Quarters",
+    "developerId": "o-hur94harutwfug4mlebr9flbp33fys",
+    "endOfSupport": false,
+    "entitlementName": "532de063aff54481ba90175667ceae87",
+    "entitlementType": "EXECUTABLE",
+    "id": "532de063aff54481ba90175667ceae87",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Take The Throne Offer",
+        "height": 1440,
+        "md5": "00b0311395f906fd736d3a05c3c886d0",
+        "size": 1594663,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-11-17T17:52:32.395Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/c4291359cb214c689fc6c58ff464517e/take-the-throne-1hci6.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Take The Throne Offer",
+        "height": 1600,
+        "md5": "70cb92b19d48cf2bb5c1bcd48d09a3a6",
+        "size": 1284715,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-11-11T00:12:16.951Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/c4291359cb214c689fc6c58ff464517e/take-the-throne-1sx32.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-12-18T19:20:49.612Z",
+    "mainGameItemList": [],
+    "namespace": "8dc19fa4313c42a497f638648541243e",
+    "releaseInfo": [
+      {
+        "appId": "a92c0a12b34e4d6aa3ae720a6703e9be",
+        "id": "606747354b8046ed87d6e1ebb63226d3",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Take The Throne",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,145 @@
+{
+  "app_name": "c17fb0402d9f49a7b929b7417ffae992",
+  "app_title": "The Riflemen",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "c17fb0402d9f49a7b929b7417ffae992",
+      "asset_id": "c17fb0402d9f49a7b929b7417ffae992",
+      "build_version": "1.2.04",
+      "catalog_item_id": "1d78c5a98f5d47afa51afc38903620a5",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c47e9a03b3de4ae082e806a58f5cbcc1"
+      },
+      "namespace": "f76d927e6a344026a1cdd6b44b52c055",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567O48WSRMKbVkQTrqw9IzmXkIM",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-02-17T11:38:04.373Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheRiflemenDz6lk"
+      }
+    },
+    "description": "Grab your friends and drop into the fast-paced The Riflemen, a WW2 themed 5v5 player face-off that combines tactics, looting, shootouts and chaos.",
+    "developer": "Bonus Stage Publishing",
+    "developerId": "o-43hvl8d24m5s3vflmsszaqws3ep45b",
+    "dlcItemList": [
+      {
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-07-17T08:02:50.616Z",
+        "customAttributes": {},
+        "description": "Sweeten up your Riflemen with character customization, weapon skins, dog tags, and more. Also with Chest Candy Edition you can create private lobbies just for you and your frenemies.",
+        "developer": "Bonus Stage Publishing",
+        "developerId": "o-43hvl8d24m5s3vflmsszaqws3ep45b",
+        "endOfSupport": false,
+        "entitlementName": "b8b47cd98fb9420e892c66274ce37527",
+        "entitlementType": "EXECUTABLE",
+        "id": "b8b47cd98fb9420e892c66274ce37527",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "The Riflemen Chest Candy Edition Offer",
+            "height": 1440,
+            "md5": "410842707dfa72bfbdad222ad488894d",
+            "size": 2452947,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-08-18T11:03:02.264Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6d8c063319284575855e8ff0dbaa8995/the-riflemen-1h00s.png",
+            "width": 2560
+          },
+          {
+            "alt": "Download The Riflemen Chest Candy Edition Offer",
+            "height": 1600,
+            "md5": "f2b705e6115f3bd4922cd0f8ea27b80a",
+            "size": 1319623,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-08-18T11:03:06.861Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/6d8c063319284575855e8ff0dbaa8995/the-riflemen-19xd4.png",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-10-03T17:47:41.963Z",
+        "mainGameItem": {
+          "id": "1d78c5a98f5d47afa51afc38903620a5",
+          "namespace": "f76d927e6a344026a1cdd6b44b52c055",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "1d78c5a98f5d47afa51afc38903620a5",
+            "namespace": "f76d927e6a344026a1cdd6b44b52c055",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "f76d927e6a344026a1cdd6b44b52c055",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "The Riflemen: Premium Pack",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "1d78c5a98f5d47afa51afc38903620a5",
+    "entitlementType": "EXECUTABLE",
+    "id": "1d78c5a98f5d47afa51afc38903620a5",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "The Riflemen Offer",
+        "height": 1440,
+        "md5": "410842707dfa72bfbdad222ad488894d",
+        "size": 2452947,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-08-18T11:00:48.456Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6d8c063319284575855e8ff0dbaa8995/the-riflemen-1epr3.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download The Riflemen Offer",
+        "height": 1600,
+        "md5": "f2b705e6115f3bd4922cd0f8ea27b80a",
+        "size": 1319623,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-08-18T11:00:41.578Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/6d8c063319284575855e8ff0dbaa8995/the-riflemen-1vu34.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-10-02T09:34:03.639Z",
+    "mainGameItemList": [],
+    "namespace": "f76d927e6a344026a1cdd6b44b52c055",
+    "releaseInfo": [
+      {
+        "appId": "c17fb0402d9f49a7b929b7417ffae992",
+        "id": "5e5eaed4df0d49619aa6e805a3764007",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "The Riflemen",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

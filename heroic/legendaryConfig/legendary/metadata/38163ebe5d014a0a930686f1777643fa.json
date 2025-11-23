@@ -1,0 +1,112 @@
+{
+  "app_name": "38163ebe5d014a0a930686f1777643fa",
+  "app_title": "Ghostrunner Demo",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "38163ebe5d014a0a930686f1777643fa",
+      "asset_id": "38163ebe5d014a0a930686f1777643fa",
+      "build_version": "1.02",
+      "catalog_item_id": "7613ed9b20b8444e88fc596a3679c470",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "95d0b9561be1464cb43bd029e94cf526",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567myKtwTv7asezeSt7hwkcjrjF",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-09-10T18:17:26.641Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "GhostrunnerDemo"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "95d0b9561be1464cb43bd029e94cf526"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Ghostrunner Demo",
+    "developer": "505 Games",
+    "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+    "endOfSupport": false,
+    "entitlementName": "7613ed9b20b8444e88fc596a3679c470",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "7613ed9b20b8444e88fc596a3679c470",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "08987c0c3e1701ea6a7217ed5616922d",
+        "size": 942683,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-10-13T17:20:16.446Z",
+        "url": "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/item/GR_Epic_Landscape_Offer2560x1440-2560x1440-08987c0c3e1701ea6a7217ed5616922d.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "a7811e23904db375486535513d10412f",
+        "size": 580015,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-10-13T17:20:32.500Z",
+        "url": "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/item/GR_Portrait_Offer_1200x1600-1200x1600-a7811e23904db375486535513d10412f.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-08-31T16:17:12.819Z",
+    "mainGameItemList": [],
+    "namespace": "95d0b9561be1464cb43bd029e94cf526",
+    "releaseInfo": [
+      {
+        "appId": "38163ebe5d014a0a930686f1777643fa",
+        "dateAdded": "2020-09-10T00:00:00.000Z",
+        "id": "cf8ea665ab554c42ada1a19c2cf334bb",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Ghostrunner Demo",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

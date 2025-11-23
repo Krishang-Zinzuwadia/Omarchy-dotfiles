@@ -1,0 +1,120 @@
+{
+  "app_name": "Nautilus",
+  "app_title": "Vampyr",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Nautilus",
+      "asset_id": "Nautilus",
+      "build_version": "666399-666439",
+      "catalog_item_id": "2c0dcc1618594030ab3f60565d44112a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "nautilus",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-01-04T19:54:24.705Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Vampyr"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceID": {
+        "type": "STRING",
+        "value": "nautilus"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      }
+    },
+    "description": "Vampyr",
+    "developer": "Focus Entertainment Publishing",
+    "developerId": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+    "endOfSupport": false,
+    "entitlementName": "2c0dcc1618594030ab3f60565d44112a",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "2c0dcc1618594030ab3f60565d44112a",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 469,
+        "md5": "c0cd7cd12ab3900772f789da4eb85eda",
+        "size": 37348,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-02-19T16:29:46.696Z",
+        "url": "https://cdn1.epicgames.com/nautilus/item/Logo_Vampyr_Black_Vecto_WHITE&RED-2580x469-c0cd7cd12ab3900772f789da4eb85eda.png",
+        "width": 2580
+      },
+      {
+        "height": 1450,
+        "md5": "0208519a31e6905ceb22015cf715ebd1",
+        "size": 889580,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-02-19T16:30:06.637Z",
+        "url": "https://cdn1.epicgames.com/nautilus/item/Vampyr_GamePromoImage_2580x1450-2580x1450-0208519a31e6905ceb22015cf715ebd1.jpg",
+        "width": 2580
+      },
+      {
+        "height": 400,
+        "md5": "eada7e669930d88e46b14d272a11095e",
+        "size": 121158,
+        "type": "Thumbnail",
+        "uploadedDate": "2019-02-19T16:30:20.494Z",
+        "url": "https://cdn1.epicgames.com/nautilus/item/Vampyr_Game_Icon-400x400-eada7e669930d88e46b14d272a11095e.png",
+        "width": 400
+      },
+      {
+        "height": 1420,
+        "md5": "301b40bd64a8217ef00324d59b1ce28b",
+        "size": 146583,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-10-22T09:41:44.790Z",
+        "url": "https://cdn1.epicgames.com/nautilus/item/Vampyr_PortraitPromoImage_1280x1420-1280x1420-301b40bd64a8217ef00324d59b1ce28b.jpg",
+        "width": 1280
+      }
+    ],
+    "lastModifiedDate": "2024-04-18T16:20:55.168Z",
+    "mainGameItemList": [],
+    "namespace": "nautilus",
+    "releaseInfo": [
+      {
+        "appId": "Nautilus",
+        "compatibleApps": [],
+        "dateAdded": "2019-01-04T00:00:00.000Z",
+        "id": "ced2fbace69f4bdbbf4e0c43005726e8",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Vampyr",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

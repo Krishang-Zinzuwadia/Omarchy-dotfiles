@@ -1,0 +1,116 @@
+{
+  "app_name": "cf697ad9dd8f4b6b8af979dd021ecbf8",
+  "app_title": "The Crew\u2122 Motorfest Trial",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "cf697ad9dd8f4b6b8af979dd021ecbf8",
+      "asset_id": "cf697ad9dd8f4b6b8af979dd021ecbf8",
+      "build_version": "1.02",
+      "catalog_item_id": "5336665aa2c6455a8c745fd3012d96aa",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "9533b9db84274b15886caa464445a975",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-08-24T12:20:21.698Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "orlandoTrial"
+      },
+      "GameID": {
+        "type": "STRING",
+        "value": "16732"
+      },
+      "NeverUpdate": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "RegistryKey": {
+        "type": "STRING",
+        "value": "InstallDir"
+      },
+      "RegistryPath": {
+        "type": "STRING",
+        "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\16732"
+      },
+      "ThirdPartyManagedProvider": {
+        "type": "STRING",
+        "value": "UbisoftConnect"
+      },
+      "partnerLinkId": {
+        "type": "STRING",
+        "value": "1330c8745343472a95fe472af1b8aa47"
+      },
+      "partnerLinkType": {
+        "type": "STRING",
+        "value": "ubisoft"
+      }
+    },
+    "description": "The Crew\u2122 Motorfest Trial",
+    "developer": "Ubisoft Entertainment",
+    "developerId": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "endOfSupport": false,
+    "entitlementName": "5336665aa2c6455a8c745fd3012d96aa",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "5336665aa2c6455a8c745fd3012d96aa",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "22b9985d0555cdcf6a42763887dc7df1",
+        "size": 1250638,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-09-12T16:44:22.293Z",
+        "url": "https://cdn1.epicgames.com/item/9533b9db84274b15886caa464445a975/EGST_StoreLandscape_2560x1440_2560x1440-22b9985d0555cdcf6a42763887dc7df1_2560x1440-22b9985d0555cdcf6a42763887dc7df1",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "4e8995358cccb9b278b7556651242032",
+        "size": 576479,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-09-12T16:44:28.174Z",
+        "url": "https://cdn1.epicgames.com/item/9533b9db84274b15886caa464445a975/EGST_StorePortrait_1200x1600_1200x1600-4e8995358cccb9b278b7556651242032_1200x1600-4e8995358cccb9b278b7556651242032",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-04-30T20:32:57.426Z",
+    "mainGameItemList": [],
+    "namespace": "9533b9db84274b15886caa464445a975",
+    "releaseInfo": [
+      {
+        "appId": "cf697ad9dd8f4b6b8af979dd021ecbf8",
+        "id": "939bafe242de4e75992a46b8e2a16e58",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "The Crew\u2122 Motorfest Trial",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

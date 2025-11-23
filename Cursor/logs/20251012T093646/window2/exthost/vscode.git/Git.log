@@ -1,0 +1,239 @@
+2025-10-12 09:38:43.298 [info] [main] Log level: Info
+2025-10-12 09:38:43.298 [info] [main] Validating found git in: "git"
+2025-10-12 09:38:43.298 [info] [main] Using git "2.51.0" from "git"
+2025-10-12 09:38:43.298 [info] [Model][doInitialScan] Initial repository scan started
+2025-10-12 09:38:43.298 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-10-12 09:38:43.298 [info] > git config --get remote.origin.url [81ms]
+2025-10-12 09:38:43.701 [info] > git remote get-url --push origin [170ms]
+2025-10-12 09:38:43.701 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-10-12 09:38:43.768 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [4ms]
+2025-10-12 09:38:43.768 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-10-12 09:38:44.761 [info] > git rev-parse --verify origin/main [168ms]
+2025-10-12 09:38:44.761 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-10-12 09:38:44.963 [info] > git rev-parse --verify origin/master [185ms]
+2025-10-12 09:38:44.963 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-10-12 09:38:44.983 [info] > git rev-parse --verify origin/develop [3ms]
+2025-10-12 09:38:44.983 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-10-12 09:38:45.004 [info] > git branch -r [4ms]
+2025-10-12 09:38:45.004 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-10-12 09:38:45.040 [info] > git config --get init.defaultBranch [19ms]
+2025-10-12 09:38:50.401 [info] > git config --global user.name [3ms]
+2025-10-12 09:38:50.420 [info] > git config --global user.email [3ms]
+2025-10-12 09:38:50.420 [info] [main] Stored git author name in global state: Krishang-Zinzuwadia <krishangzinzuwadia@gmail.com>
+2025-10-12 09:43:48.530 [info] > git clone https://github.com/Krishang-Zinzuwadia/ExamCooker-2024.git /home/krishang/Work/examcooker/ExamCooker-2024 --progress [4793ms]
+2025-10-12 09:43:48.530 [info] Cloning into '/home/krishang/Work/examcooker/ExamCooker-2024'...
+remote: Enumerating objects: 4345, done.        
+remote: Counting objects:   0% (1/1002)        remote: Counting objects:   1% (11/1002)        remote: Counting objects:   2% (21/1002)        remote: Counting objects:   3% (31/1002)        remote: Counting objects:   4% (41/1002)        remote: Counting objects:   5% (51/1002)        remote: Counting objects:   6% (61/1002)        remote: Counting objects:   7% (71/1002)        remote: Counting objects:   8% (81/1002)        remote: Counting objects:   9% (91/1002)        remote: Counting objects:  10% (101/1002)        remote: Counting objects:  11% (111/1002)        remote: Counting objects:  12% (121/1002)        remote: Counting objects:  13% (131/1002)        remote: Counting objects:  14% (141/1002)        remote: Counting objects:  15% (151/1002)        remote: Counting objects:  16% (161/1002)        remote: Counting objects:  17% (171/1002)        remote: Counting objects:  18% (181/1002)        remote: Counting objects:  19% (191/1002)        remote: Counting objects:  20% (201/1002)        remote: Counting objects:  21% (211/1002)        remote: Counting objects:  22% (221/1002)        remote: Counting objects:  23% (231/1002)        remote: Counting objects:  24% (241/1002)        remote: Counting objects:  25% (251/1002)        remote: Counting objects:  26% (261/1002)        remote: Counting objects:  27% (271/1002)        remote: Counting objects:  28% (281/1002)        remote: Counting objects:  29% (291/1002)        remote: Counting objects:  30% (301/1002)        remote: Counting objects:  31% (311/1002)        remote: Counting objects:  32% (321/1002)        remote: Counting objects:  33% (331/1002)        remote: Counting objects:  34% (341/1002)        remote: Counting objects:  35% (351/1002)        remote: Counting objects:  36% (361/1002)        remote: Counting objects:  37% (371/1002)        remote: Counting objects:  38% (381/1002)        remote: Counting objects:  39% (391/1002)        remote: Counting objects:  40% (401/1002)        remote: Counting objects:  41% (411/1002)        remote: Counting objects:  42% (421/1002)        remote: Counting objects:  43% (431/1002)        remote: Counting objects:  44% (441/1002)        remote: Counting objects:  45% (451/1002)        remote: Counting objects:  46% (461/1002)        remote: Counting objects:  47% (471/1002)        remote: Counting objects:  48% (481/1002)        remote: Counting objects:  49% (491/1002)        remote: Counting objects:  50% (501/1002)        remote: Counting objects:  51% (512/1002)        remote: Counting objects:  52% (522/1002)        remote: Counting objects:  53% (532/1002)        remote: Counting objects:  54% (542/1002)        remote: Counting objects:  55% (552/1002)        remote: Counting objects:  56% (562/1002)        remote: Counting objects:  57% (572/1002)        remote: Counting objects:  58% (582/1002)        remote: Counting objects:  59% (592/1002)        remote: Counting objects:  60% (602/1002)        remote: Counting objects:  61% (612/1002)        remote: Counting objects:  62% (622/1002)        remote: Counting objects:  63% (632/1002)        remote: Counting objects:  64% (642/1002)        remote: Counting objects:  65% (652/1002)        remote: Counting objects:  66% (662/1002)        remote: Counting objects:  67% (672/1002)        remote: Counting objects:  68% (682/1002)        remote: Counting objects:  69% (692/1002)        remote: Counting objects:  70% (702/1002)        remote: Counting objects:  71% (712/1002)        remote: Counting objects:  72% (722/1002)        remote: Counting objects:  73% (732/1002)        remote: Counting objects:  74% (742/1002)        remote: Counting objects:  75% (752/1002)        remote: Counting objects:  76% (762/1002)        remote: Counting objects:  77% (772/1002)        remote: Counting objects:  78% (782/1002)        remote: Counting objects:  79% (792/1002)        remote: Counting objects:  80% (802/1002)        remote: Counting objects:  81% (812/1002)        remote: Counting objects:  82% (822/1002)        remote: Counting objects:  83% (832/1002)        remote: Counting objects:  84% (842/1002)        remote: Counting objects:  85% (852/1002)        remote: Counting objects:  86% (862/1002)        remote: Counting objects:  87% (872/1002)        remote: Counting objects:  88% (882/1002)        remote: Counting objects:  89% (892/1002)        remote: Counting objects:  90% (902/1002)        remote: Counting objects:  91% (912/1002)        remote: Counting objects:  92% (922/1002)        remote: Counting objects:  93% (932/1002)        remote: Counting objects:  94% (942/1002)        remote: Counting objects:  95% (952/1002)        remote: Counting objects:  96% (962/1002)        remote: Counting objects:  97% (972/1002)        remote: Counting objects:  98% (982/1002)        remote: Counting objects:  99% (992/1002)        remote: Counting objects: 100% (1002/1002)        remote: Counting objects: 100% (1002/1002), done.        
+remote: Compressing objects:   0% (1/406)        remote: Compressing objects:   1% (5/406)        remote: Compressing objects:   2% (9/406)        remote: Compressing objects:   3% (13/406)        remote: Compressing objects:   4% (17/406)        remote: Compressing objects:   5% (21/406)        remote: Compressing objects:   6% (25/406)        remote: Compressing objects:   7% (29/406)        remote: Compressing objects:   8% (33/406)        remote: Compressing objects:   9% (37/406)        remote: Compressing objects:  10% (41/406)        remote: Compressing objects:  11% (45/406)        remote: Compressing objects:  12% (49/406)        remote: Compressing objects:  13% (53/406)        remote: Compressing objects:  14% (57/406)        remote: Compressing objects:  15% (61/406)        remote: Compressing objects:  16% (65/406)        remote: Compressing objects:  17% (70/406)        remote: Compressing objects:  18% (74/406)        remote: Compressing objects:  19% (78/406)        remote: Compressing objects:  20% (82/406)        remote: Compressing objects:  21% (86/406)        remote: Compressing objects:  22% (90/406)        remote: Compressing objects:  23% (94/406)        remote: Compressing objects:  24% (98/406)        remote: Compressing objects:  25% (102/406)        remote: Compressing objects:  26% (106/406)        remote: Compressing objects:  27% (110/406)        remote: Compressing objects:  28% (114/406)        remote: Compressing objects:  29% (118/406)        remote: Compressing objects:  30% (122/406)        remote: Compressing objects:  31% (126/406)        remote: Compressing objects:  32% (130/406)        remote: Compressing objects:  33% (134/406)        remote: Compressing objects:  34% (139/406)        remote: Compressing objects:  35% (143/406)        remote: Compressing objects:  36% (147/406)        remote: Compressing objects:  37% (151/406)        remote: Compressing objects:  38% (155/406)        remote: Compressing objects:  39% (159/406)        remote: Compressing objects:  40% (163/406)        remote: Compressing objects:  41% (167/406)        remote: Compressing objects:  42% (171/406)        remote: Compressing objects:  43% (175/406)        remote: Compressing objects:  44% (179/406)        remote: Compressing objects:  45% (183/406)        remote: Compressing objects:  46% (187/406)        remote: Compressing objects:  47% (191/406)        remote: Compressing objects:  48% (195/406)        remote: Compressing objects:  49% (199/406)        remote: Compressing objects:  50% (203/406)        remote: Compressing objects:  51% (208/406)        remote: Compressing objects:  52% (212/406)        remote: Compressing objects:  53% (216/406)        remote: Compressing objects:  54% (220/406)        remote: Compressing objects:  55% (224/406)        remote: Compressing objects:  56% (228/406)        remote: Compressing objects:  57% (232/406)        remote: Compressing objects:  58% (236/406)        remote: Compressing objects:  59% (240/406)        remote: Compressing objects:  60% (244/406)        remote: Compressing objects:  61% (248/406)        remote: Compressing objects:  62% (252/406)        remote: Compressing objects:  63% (256/406)        remote: Compressing objects:  64% (260/406)        remote: Compressing objects:  65% (264/406)        remote: Compressing objects:  66% (268/406)        remote: Compressing objects:  67% (273/406)        remote: Compressing objects:  68% (277/406)        remote: Compressing objects:  69% (281/406)        remote: Compressing objects:  70% (285/406)        remote: Compressing objects:  71% (289/406)        remote: Compressing objects:  72% (293/406)        remote: Compressing objects:  73% (297/406)        remote: Compressing objects:  74% (301/406)        remote: Compressing objects:  75% (305/406)        remote: Compressing objects:  76% (309/406)        remote: Compressing objects:  77% (313/406)        remote: Compressing objects:  78% (317/406)        remote: Compressing objects:  79% (321/406)        remote: Compressing objects:  80% (325/406)        remote: Compressing objects:  81% (329/406)        remote: Compressing objects:  82% (333/406)        remote: Compressing objects:  83% (337/406)        remote: Compressing objects:  84% (342/406)        remote: Compressing objects:  85% (346/406)        remote: Compressing objects:  86% (350/406)        remote: Compressing objects:  87% (354/406)        remote: Compressing objects:  88% (358/406)        remote: Compressing objects:  89% (362/406)        remote: Compressing objects:  90% (366/406)        remote: Compressing objects:  91% (370/406)        remote: Compressing objects:  92% (374/406)        remote: Compressing objects:  93% (378/406)        remote: Compressing objects:  94% (382/406)        remote: Compressing objects:  95% (386/406)        remote: Compressing objects:  96% (390/406)        remote: Compressing objects:  97% (394/406)        remote: Compressing objects:  98% (398/406)        remote: Compressing objects:  99% (402/406)        remote: Compressing objects: 100% (406/406)        remote: Compressing objects: 100% (406/406), done.        
+Receiving objects:   0% (1/4345)Receiving objects:   1% (44/4345)Receiving objects:   2% (87/4345)Receiving objects:   3% (131/4345)Receiving objects:   4% (174/4345)Receiving objects:   5% (218/4345)Receiving objects:   6% (261/4345), 404.00 KiB | 567.00 KiB/sReceiving objects:   7% (305/4345), 404.00 KiB | 567.00 KiB/sReceiving objects:   7% (311/4345), 404.00 KiB | 567.00 KiB/sReceiving objects:   8% (348/4345), 404.00 KiB | 567.00 KiB/sReceiving objects:   9% (392/4345), 404.00 KiB | 567.00 KiB/sReceiving objects:  10% (435/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  11% (478/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  12% (522/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  13% (565/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  14% (609/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  15% (652/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  16% (696/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  17% (739/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  18% (783/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  19% (826/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  20% (869/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  21% (913/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  22% (956/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  23% (1000/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  24% (1043/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  25% (1087/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  26% (1130/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  27% (1174/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  28% (1217/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  29% (1261/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  30% (1304/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  31% (1347/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  32% (1391/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  33% (1434/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  34% (1478/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  35% (1521/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  36% (1565/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  37% (1608/4345), 532.00 KiB | 355.00 KiB/sReceiving objects:  38% (1652/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  39% (1695/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  40% (1738/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  41% (1782/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  41% (1795/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  42% (1825/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  43% (1869/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  44% (1912/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  45% (1956/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  46% (1999/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  47% (2043/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  48% (2086/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  49% (2130/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  50% (2173/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  51% (2216/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  52% (2260/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  53% (2303/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  54% (2347/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  55% (2390/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  56% (2434/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  57% (2477/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  58% (2521/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  59% (2564/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  60% (2607/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  61% (2651/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  62% (2694/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  63% (2738/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  64% (2781/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  65% (2825/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  66% (2868/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  67% (2912/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  68% (2955/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  69% (2999/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  70% (3042/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  71% (3085/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  72% (3129/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  73% (3172/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  74% (3216/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  75% (3259/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  76% (3303/4345), 1012.00 KiB | 508.00 KiB/sReceiving objects:  77% (3346/4345), 1.79 MiB | 734.00 KiB/s   Receiving objects:  78% (3390/4345), 1.79 MiB | 734.00 KiB/sReceiving objects:  79% (3433/4345), 1.79 MiB | 734.00 KiB/sReceiving objects:  80% (3476/4345), 1.79 MiB | 734.00 KiB/sReceiving objects:  81% (3520/4345), 1.79 MiB | 734.00 KiB/sReceiving objects:  82% (3563/4345), 1.79 MiB | 734.00 KiB/sReceiving objects:  83% (3607/4345), 1.79 MiB | 734.00 KiB/sReceiving objects:  84% (3650/4345), 1.79 MiB | 734.00 KiB/sReceiving objects:  85% (3694/4345), 1.79 MiB | 734.00 KiB/sReceiving objects:  86% (3737/4345), 1.79 MiB | 734.00 KiB/sReceiving objects:  87% (3781/4345), 1.79 MiB | 734.00 KiB/sReceiving objects:  88% (3824/4345), 1.79 MiB | 734.00 KiB/sReceiving objects:  89% (3868/4345), 1.79 MiB | 734.00 KiB/sReceiving objects:  90% (3911/4345), 1.79 MiB | 734.00 KiB/sReceiving objects:  91% (3954/4345), 1.79 MiB | 734.00 KiB/sReceiving objects:  92% (3998/4345), 1.79 MiB | 734.00 KiB/sReceiving objects:  93% (4041/4345), 1.79 MiB | 734.00 KiB/sReceiving objects:  94% (4085/4345), 1.79 MiB | 734.00 KiB/sReceiving objects:  95% (4128/4345), 1.79 MiB | 734.00 KiB/sReceiving objects:  96% (4172/4345), 1.79 MiB | 734.00 KiB/sReceiving objects:  97% (4215/4345), 1.79 MiB | 734.00 KiB/sReceiving objects:  98% (4259/4345), 1.79 MiB | 734.00 KiB/sReceiving objects:  99% (4302/4345), 1.79 MiB | 734.00 KiB/sremote: Total 4345 (delta 656), reused 618 (delta 594), pack-reused 3343 (from 3)        
+Receiving objects: 100% (4345/4345), 1.79 MiB | 734.00 KiB/sReceiving objects: 100% (4345/4345), 2.04 MiB | 753.00 KiB/s, done.
+Resolving deltas:   0% (0/2698)Resolving deltas:   1% (28/2698)Resolving deltas:   2% (54/2698)Resolving deltas:   3% (82/2698)Resolving deltas:   4% (109/2698)Resolving deltas:   5% (136/2698)Resolving deltas:   6% (162/2698)Resolving deltas:   7% (189/2698)Resolving deltas:   8% (216/2698)Resolving deltas:   9% (245/2698)Resolving deltas:  10% (270/2698)Resolving deltas:  11% (297/2698)Resolving deltas:  12% (324/2698)Resolving deltas:  13% (351/2698)Resolving deltas:  14% (378/2698)Resolving deltas:  15% (405/2698)Resolving deltas:  16% (432/2698)Resolving deltas:  17% (459/2698)Resolving deltas:  18% (486/2698)Resolving deltas:  19% (513/2698)Resolving deltas:  20% (540/2698)Resolving deltas:  21% (567/2698)Resolving deltas:  22% (594/2698)Resolving deltas:  23% (622/2698)Resolving deltas:  24% (648/2698)Resolving deltas:  25% (675/2698)Resolving deltas:  26% (702/2698)Resolving deltas:  27% (729/2698)Resolving deltas:  28% (756/2698)Resolving deltas:  29% (783/2698)Resolving deltas:  30% (810/2698)Resolving deltas:  31% (838/2698)Resolving deltas:  32% (864/2698)Resolving deltas:  33% (891/2698)Resolving deltas:  34% (918/2698)Resolving deltas:  35% (946/2698)Resolving deltas:  36% (972/2698)Resolving deltas:  37% (1002/2698)Resolving deltas:  38% (1026/2698)Resolving deltas:  39% (1053/2698)Resolving deltas:  40% (1080/2698)Resolving deltas:  41% (1109/2698)Resolving deltas:  42% (1134/2698)Resolving deltas:  43% (1162/2698)Resolving deltas:  44% (1188/2698)Resolving deltas:  45% (1218/2698)Resolving deltas:  46% (1242/2698)Resolving deltas:  47% (1269/2698)Resolving deltas:  48% (1296/2698)Resolving deltas:  49% (1324/2698)Resolving deltas:  50% (1349/2698)Resolving deltas:  51% (1376/2698)Resolving deltas:  52% (1404/2698)Resolving deltas:  53% (1430/2698)Resolving deltas:  54% (1457/2698)Resolving deltas:  55% (1485/2698)Resolving deltas:  56% (1511/2698)Resolving deltas:  57% (1538/2698)Resolving deltas:  58% (1565/2698)Resolving deltas:  59% (1592/2698)Resolving deltas:  60% (1619/2698)Resolving deltas:  61% (1646/2698)Resolving deltas:  62% (1673/2698)Resolving deltas:  63% (1700/2698)Resolving deltas:  64% (1727/2698)Resolving deltas:  65% (1754/2698)Resolving deltas:  66% (1782/2698)Resolving deltas:  67% (1810/2698)Resolving deltas:  68% (1835/2698)Resolving deltas:  69% (1862/2698)Resolving deltas:  70% (1890/2698)Resolving deltas:  71% (1916/2698)Resolving deltas:  72% (1943/2698)Resolving deltas:  73% (1970/2698)Resolving deltas:  74% (1997/2698)Resolving deltas:  75% (2025/2698)Resolving deltas:  76% (2051/2698)Resolving deltas:  77% (2078/2698)Resolving deltas:  78% (2105/2698)Resolving deltas:  79% (2132/2698)Resolving deltas:  80% (2159/2698)Resolving deltas:  81% (2186/2698)Resolving deltas:  82% (2213/2698)Resolving deltas:  83% (2240/2698)Resolving deltas:  84% (2267/2698)Resolving deltas:  85% (2294/2698)Resolving deltas:  86% (2321/2698)Resolving deltas:  87% (2348/2698)Resolving deltas:  88% (2375/2698)Resolving deltas:  89% (2402/2698)Resolving deltas:  90% (2429/2698)Resolving deltas:  91% (2456/2698)Resolving deltas:  92% (2483/2698)Resolving deltas:  93% (2510/2698)Resolving deltas:  94% (2537/2698)Resolving deltas:  95% (2564/2698)Resolving deltas:  96% (2591/2698)Resolving deltas:  97% (2618/2698)Resolving deltas:  98% (2645/2698)Resolving deltas:  99% (2673/2698)Resolving deltas: 100% (2698/2698)Resolving deltas: 100% (2698/2698), done.
+2025-10-12 09:44:08.389 [info] [main] Log level: Info
+2025-10-12 09:44:08.389 [info] [main] Validating found git in: "git"
+2025-10-12 09:44:08.389 [info] [main] Using git "2.51.0" from "git"
+2025-10-12 09:44:08.389 [info] [Model][doInitialScan] Initial repository scan started
+2025-10-12 09:44:08.389 [info] > git rev-parse --show-toplevel [40ms]
+2025-10-12 09:44:08.408 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2025-10-12 09:44:08.445 [info] [Model][openRepository] Opened repository: /home/krishang/Work/examcooker/ExamCooker-2024
+2025-10-12 09:44:08.459 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-10-12 09:44:10.972 [info] > git config --get commit.template [2491ms]
+2025-10-12 09:44:11.132 [info] > git config --get remote.origin.url [85ms]
+2025-10-12 09:44:11.334 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [71ms]
+2025-10-12 09:44:11.571 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/krishang/Work/examcooker/ExamCooker-2024/.git/refs/remotes/origin/main'
+2025-10-12 09:44:11.575 [info] > git rev-parse --show-toplevel [61ms]
+2025-10-12 09:44:11.677 [info] > git rev-parse refs/remotes/origin/main [105ms]
+2025-10-12 09:44:11.995 [info] > git check-ignore -v -z --stdin [392ms]
+2025-10-12 09:44:11.999 [info] > git status -z -uall [304ms]
+2025-10-12 09:44:11.999 [info] > git remote get-url --push origin [51ms]
+2025-10-12 09:44:12.000 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [284ms]
+2025-10-12 09:44:12.046 [info] > git rev-parse --abbrev-ref HEAD [386ms]
+2025-10-12 09:44:12.047 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [408ms]
+2025-10-12 09:44:12.248 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [208ms]
+2025-10-12 09:44:13.356 [info] > git config --get --local branch.main.vscode-merge-base [1089ms]
+2025-10-12 09:44:13.356 [warning] [Git][config] git config failed: Failed to execute git
+2025-10-12 09:44:13.375 [info] > git config --get commit.template [1133ms]
+2025-10-12 09:44:13.546 [info] > git rev-parse --show-toplevel [19ms]
+2025-10-12 09:44:13.546 [info] > git reflog main --grep-reflog=branch: Created from *. [172ms]
+2025-10-12 09:44:13.564 [info] > git rev-parse --abbrev-ref HEAD [243ms]
+2025-10-12 09:44:13.827 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [263ms]
+2025-10-12 09:44:13.888 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [43ms]
+2025-10-12 09:44:13.906 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [112ms]
+2025-10-12 09:44:13.928 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/krishang/Work/examcooker/ExamCooker-2024/.git/refs/remotes/origin/main'
+2025-10-12 09:44:13.933 [info] > git rev-parse refs/remotes/origin/main [5ms]
+2025-10-12 09:44:13.979 [info] > git config --add --local branch.main.vscode-merge-base origin/main [73ms]
+2025-10-12 09:44:13.980 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms] (cancelled)
+2025-10-12 09:44:14.033 [info] > git status -z -uall [73ms] (cancelled)
+2025-10-12 09:44:14.033 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [31ms]
+2025-10-12 09:44:14.069 [info] > git config --get --local branch.main.vscode-merge-base [17ms]
+2025-10-12 09:44:14.089 [info] > git config --get commit.template [62ms]
+2025-10-12 09:44:14.218 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [129ms]
+2025-10-12 09:44:14.262 [info] > git merge-base refs/heads/main refs/remotes/origin/main [22ms]
+2025-10-12 09:44:14.285 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [140ms]
+2025-10-12 09:44:14.328 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/krishang/Work/examcooker/ExamCooker-2024/.git/refs/remotes/origin/main'
+2025-10-12 09:44:14.333 [info] > git diff --name-status -z --diff-filter=ADMR 59832f1c77ee1d80d95253d53b140f6c752242f2...refs/remotes/origin/main [48ms]
+2025-10-12 09:44:14.341 [info] > git rev-parse refs/remotes/origin/main [13ms]
+2025-10-12 09:44:14.431 [info] > git status -z -uall [66ms]
+2025-10-12 09:44:14.432 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [42ms]
+2025-10-12 09:44:18.281 [info] > git config --global user.name [3ms]
+2025-10-12 09:44:18.301 [info] > git config --global user.email [2ms]
+2025-10-12 09:44:18.301 [info] [main] Stored git author name in global state: Krishang-Zinzuwadia <krishangzinzuwadia@gmail.com>
+2025-10-12 09:45:03.691 [info] > git status [36ms]
+2025-10-12 09:45:04.826 [info] > git config --get commit.template [25ms]
+2025-10-12 09:45:04.829 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-10-12 09:45:04.849 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/krishang/Work/examcooker/ExamCooker-2024/.git/refs/remotes/origin/main'
+2025-10-12 09:45:04.852 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-10-12 09:45:04.892 [info] > git status -z -uall [20ms]
+2025-10-12 09:45:04.894 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-10-12 09:49:02.282 [info] > git rev-parse --show-toplevel [3ms]
+2025-10-12 09:54:02.583 [info] > git rev-parse --show-toplevel [7ms]
+2025-10-12 09:54:05.489 [info] > git config user.email [3ms]
+2025-10-12 09:54:05.541 [info] > git log --pretty=format:%H<|ENT|><|RY|>%s<|COM|><|MIT|> -n 10 --author krishangzinzuwadia@gmail.com [32ms]
+2025-10-12 09:58:21.247 [info] > git config --get commit.template [10ms]
+2025-10-12 09:58:21.292 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2025-10-12 09:58:21.320 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/krishang/Work/examcooker/ExamCooker-2024/.git/refs/remotes/origin/main'
+2025-10-12 09:58:21.331 [info] > git rev-parse refs/remotes/origin/main [11ms]
+2025-10-12 09:58:21.383 [info] > git status -z -uall [29ms]
+2025-10-12 09:58:21.386 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [6ms]
+2025-10-12 09:58:21.810 [info] > git diff --no-color [264ms]
+2025-10-12 09:58:21.843 [info] > git rev-parse --abbrev-ref HEAD [50ms]
+2025-10-12 09:58:21.844 [info] > git ls-files --others --exclude-standard [222ms]
+2025-10-12 09:58:22.094 [info] > git rev-parse --show-toplevel [5ms]
+2025-10-12 09:58:32.893 [info] > git config --get commit.template [24ms]
+2025-10-12 09:58:32.894 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-10-12 09:58:32.917 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/krishang/Work/examcooker/ExamCooker-2024/.git/refs/remotes/origin/main'
+2025-10-12 09:58:32.920 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-10-12 09:58:32.968 [info] > git status -z -uall [24ms]
+2025-10-12 09:58:32.970 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-10-12 09:58:38.026 [info] > git config --get commit.template [25ms]
+2025-10-12 09:58:38.028 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-10-12 09:58:38.051 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/krishang/Work/examcooker/ExamCooker-2024/.git/refs/remotes/origin/main'
+2025-10-12 09:58:38.056 [info] > git rev-parse refs/remotes/origin/main [5ms]
+2025-10-12 09:58:38.102 [info] > git status -z -uall [25ms]
+2025-10-12 09:58:38.106 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [5ms]
+2025-10-12 09:59:02.280 [info] > git rev-parse --show-toplevel [3ms]
+2025-10-12 09:59:32.229 [info] > git config --get commit.template [27ms]
+2025-10-12 09:59:32.231 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-10-12 09:59:32.252 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/krishang/Work/examcooker/ExamCooker-2024/.git/refs/remotes/origin/main'
+2025-10-12 09:59:32.255 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-10-12 09:59:32.297 [info] > git status -z -uall [23ms]
+2025-10-12 09:59:32.299 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-10-12 09:59:32.341 [info] > git rev-parse --abbrev-ref HEAD [4ms]
+2025-10-12 09:59:32.849 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-12 09:59:44.226 [info] > git config --get commit.template [26ms]
+2025-10-12 09:59:44.228 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-10-12 09:59:44.250 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/krishang/Work/examcooker/ExamCooker-2024/.git/refs/remotes/origin/main'
+2025-10-12 09:59:44.254 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-10-12 09:59:44.297 [info] > git status -z -uall [23ms]
+2025-10-12 09:59:44.299 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-10-12 09:59:44.398 [info] > git diff --no-color [47ms]
+2025-10-12 09:59:44.403 [info] > git rev-parse --abbrev-ref HEAD [6ms]
+2025-10-12 09:59:44.404 [info] > git ls-files --others --exclude-standard [32ms]
+2025-10-12 09:59:44.854 [info] > git rev-parse --show-toplevel [3ms]
+2025-10-12 09:59:54.234 [info] > git config --get commit.template [23ms]
+2025-10-12 09:59:54.236 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-10-12 09:59:54.257 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/krishang/Work/examcooker/ExamCooker-2024/.git/refs/remotes/origin/main'
+2025-10-12 09:59:54.260 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-10-12 09:59:54.305 [info] > git status -z -uall [25ms]
+2025-10-12 09:59:54.307 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [6ms]
+2025-10-12 10:00:03.666 [info] > git config --get commit.template [24ms]
+2025-10-12 10:00:03.668 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-10-12 10:00:03.689 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/krishang/Work/examcooker/ExamCooker-2024/.git/refs/remotes/origin/main'
+2025-10-12 10:00:03.692 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-10-12 10:00:03.742 [info] > git status -z -uall [24ms]
+2025-10-12 10:00:03.745 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-10-12 10:00:21.710 [info] > git remote get-url --push origin [7ms]
+2025-10-12 10:04:02.281 [info] > git rev-parse --show-toplevel [3ms]
+2025-10-12 10:04:05.456 [info] > git config user.email [3ms]
+2025-10-12 10:04:05.506 [info] > git log --pretty=format:%H<|ENT|><|RY|>%s<|COM|><|MIT|> -n 10 --author krishangzinzuwadia@gmail.com [30ms]
+2025-10-12 10:05:44.510 [info] > git check-ignore -v -z --stdin [3ms]
+2025-10-12 10:05:45.003 [info] > git config --get commit.template [23ms]
+2025-10-12 10:05:45.004 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-10-12 10:05:45.026 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/krishang/Work/examcooker/ExamCooker-2024/.git/refs/remotes/origin/main'
+2025-10-12 10:05:45.029 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-10-12 10:05:45.078 [info] > git status -z -uall [25ms]
+2025-10-12 10:05:45.081 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [5ms]
+2025-10-12 10:05:50.137 [info] > git config --get commit.template [25ms]
+2025-10-12 10:05:50.138 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-10-12 10:05:50.162 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/krishang/Work/examcooker/ExamCooker-2024/.git/refs/remotes/origin/main'
+2025-10-12 10:05:50.164 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-10-12 10:05:50.208 [info] > git status -z -uall [23ms]
+2025-10-12 10:05:50.210 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-10-12 10:06:24.005 [info] > git config --get commit.template [3ms]
+2025-10-12 10:06:24.044 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-10-12 10:06:24.065 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/krishang/Work/examcooker/ExamCooker-2024/.git/refs/remotes/origin/main'
+2025-10-12 10:06:24.068 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-10-12 10:06:24.112 [info] > git status -z -uall [24ms]
+2025-10-12 10:06:24.115 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-10-12 10:06:43.172 [info] > git config --get commit.template [22ms]
+2025-10-12 10:06:43.173 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-10-12 10:06:43.194 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/krishang/Work/examcooker/ExamCooker-2024/.git/refs/remotes/origin/main'
+2025-10-12 10:06:43.197 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-10-12 10:06:43.241 [info] > git status -z -uall [23ms]
+2025-10-12 10:06:43.244 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-10-12 10:07:13.641 [info] > git config --get commit.template [22ms]
+2025-10-12 10:07:13.643 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-10-12 10:07:13.663 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/krishang/Work/examcooker/ExamCooker-2024/.git/refs/remotes/origin/main'
+2025-10-12 10:07:13.666 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-10-12 10:07:13.708 [info] > git status -z -uall [22ms]
+2025-10-12 10:07:13.711 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-10-12 10:07:24.086 [info] > git config --get commit.template [29ms]
+2025-10-12 10:07:24.088 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-10-12 10:07:24.108 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/krishang/Work/examcooker/ExamCooker-2024/.git/refs/remotes/origin/main'
+2025-10-12 10:07:24.111 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-10-12 10:07:24.155 [info] > git status -z -uall [24ms]
+2025-10-12 10:07:24.157 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-10-12 10:07:34.243 [info] > git config --get commit.template [26ms]
+2025-10-12 10:07:34.246 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-10-12 10:07:34.269 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/krishang/Work/examcooker/ExamCooker-2024/.git/refs/remotes/origin/main'
+2025-10-12 10:07:34.272 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-10-12 10:07:34.319 [info] > git status -z -uall [26ms]
+2025-10-12 10:07:34.321 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [6ms]
+2025-10-12 10:08:09.909 [info] > git config --get commit.template [23ms]
+2025-10-12 10:08:09.910 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-10-12 10:08:09.930 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/krishang/Work/examcooker/ExamCooker-2024/.git/refs/remotes/origin/main'
+2025-10-12 10:08:09.933 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-10-12 10:08:09.976 [info] > git status -z -uall [23ms]
+2025-10-12 10:08:09.979 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-10-12 10:08:27.714 [info] > git config --get commit.template [22ms]
+2025-10-12 10:08:27.716 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-10-12 10:08:27.736 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/krishang/Work/examcooker/ExamCooker-2024/.git/refs/remotes/origin/main'
+2025-10-12 10:08:27.739 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-10-12 10:08:27.783 [info] > git status -z -uall [25ms]
+2025-10-12 10:08:27.785 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [5ms]
+2025-10-12 10:08:55.445 [info] > git config --get commit.template [24ms]
+2025-10-12 10:08:55.447 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-10-12 10:08:55.477 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/krishang/Work/examcooker/ExamCooker-2024/.git/refs/remotes/origin/main'
+2025-10-12 10:08:55.481 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-10-12 10:08:55.529 [info] > git status -z -uall [25ms]
+2025-10-12 10:08:55.531 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-10-12 10:09:02.301 [info] > git rev-parse --show-toplevel [7ms]
+2025-10-12 10:09:40.191 [info] > git config --get commit.template [25ms]
+2025-10-12 10:09:40.192 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-10-12 10:09:40.213 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/krishang/Work/examcooker/ExamCooker-2024/.git/refs/remotes/origin/main'
+2025-10-12 10:09:40.216 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-10-12 10:09:40.259 [info] > git status -z -uall [23ms]
+2025-10-12 10:09:40.263 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-10-12 10:09:55.756 [info] > git config --get commit.template [22ms]
+2025-10-12 10:09:55.758 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-10-12 10:09:55.779 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/krishang/Work/examcooker/ExamCooker-2024/.git/refs/remotes/origin/main'
+2025-10-12 10:09:55.782 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-10-12 10:09:55.830 [info] > git status -z -uall [27ms]
+2025-10-12 10:09:55.833 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [5ms]
+2025-10-12 10:11:00.083 [info] > git config --get commit.template [3ms]
+2025-10-12 10:11:00.110 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-10-12 10:11:00.131 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/krishang/Work/examcooker/ExamCooker-2024/.git/refs/remotes/origin/main'
+2025-10-12 10:11:00.134 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-10-12 10:11:00.179 [info] > git status -z -uall [24ms]
+2025-10-12 10:11:00.182 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-10-12 10:11:44.094 [info] > git config --get commit.template [22ms]
+2025-10-12 10:11:44.100 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2025-10-12 10:11:44.121 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/krishang/Work/examcooker/ExamCooker-2024/.git/refs/remotes/origin/main'
+2025-10-12 10:11:44.124 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-10-12 10:11:44.172 [info] > git status -z -uall [27ms]
+2025-10-12 10:11:44.175 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [6ms]

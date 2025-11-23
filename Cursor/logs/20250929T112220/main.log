@@ -1,0 +1,5 @@
+2025-09-29 11:22:20.854 [info] updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/1.7.12/c08600bc2bef2187f6cff555337f28c9e5716711861fb4a11ffa5c4c391038d3/stable
+2025-09-29 11:22:20.855 [info] update#setState idle
+2025-09-29 11:22:50.856 [info] update#setState checking for updates
+2025-09-29 11:22:51.859 [info] update#setState available for download
+2025-09-29 11:23:57.298 [info] Extension host with pid 24595 exited with code: 0, signal: unknown.

@@ -1,0 +1,14 @@
+<application>
+  <component name="StudioBotSettings">
+    <option name="contextSharingModeV2" value="AlwaysShare" />
+    <option name="onboardedVersion" value="3" />
+    <option name="queryHistory">
+      <list>
+        <historyEntry timestamp="1763339450146">build and run</historyEntry>
+        <historyEntry timestamp="1763275452808">do it again</historyEntry>
+        <historyEntry timestamp="1763275324588">build ad run</historyEntry>
+        <historyEntry timestamp="1763274025043">build and run</historyEntry>
+      </list>
+    </option>
+  </component>
+</application>

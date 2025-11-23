@@ -1,0 +1,6205 @@
+{
+  "app_name": "huddle",
+  "app_title": "The Sims\u2122 4",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-08-29T22:37:45.592Z",
+    "customAttributes": {
+      "AdditionalCommandline": {
+        "type": "STRING",
+        "value": "&platform=epic"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheSims4"
+      },
+      "MainWindowProcessName": {
+        "type": "STRING",
+        "value": "TS4_x64.exe"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "2a14cf8a83b149919a2399504e5686a6"
+      },
+      "ProcessNames": {
+        "type": "STRING",
+        "value": "TS4_x64.exe, TS4.exe"
+      },
+      "RegistryKey": {
+        "type": "STRING",
+        "value": "Install Dir"
+      },
+      "RegistryLocation": {
+        "type": "STRING",
+        "value": "SOFTWARE\\Maxis\\The Sims 4\\Install Dir"
+      },
+      "RegistryPath": {
+        "type": "STRING",
+        "value": "SOFTWARE\\WOW6432Node\\Maxis\\The Sims 4"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "ThirdPartyManagedApp": {
+        "type": "STRING",
+        "value": "Origin"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The Sims\u2122 4",
+    "developer": "Electronic Arts",
+    "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:12:29.474Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle048 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "db76f4f32018488c8c1746c086185572",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "db76f4f32018488c8c1746c086185572",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-08-21T01:48:47.491Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle048 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:29:39.321Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle051 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "f8df60a15d0a48cebbdb9044aa3fe4ad",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f8df60a15d0a48cebbdb9044aa3fe4ad",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-08-21T01:48:47.506Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle051 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:11:18.148Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle042 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "65b47c7258384233b896503dafbcc1fa",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "65b47c7258384233b896503dafbcc1fa",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.096Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle042 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T16:49:08.265Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle017 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "7580522621224b54950609ab46d9c59e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7580522621224b54950609ab46d9c59e",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.102Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle017 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-04T22:29:39.870Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle014 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "6e4c50f9be1847bab5b1f17003550515",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6e4c50f9be1847bab5b1f17003550515",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.100Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle014 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:12:53.274Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle050 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "51c6b899acff4f22a211c4027221229a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "51c6b899acff4f22a211c4027221229a",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-08-21T01:48:47.430Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle050 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T16:51:24.975Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle027 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "9769660b6a154e538b6ec5f4cad6f06f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9769660b6a154e538b6ec5f4cad6f06f",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.111Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle027 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-11-02T23:58:31.387Z",
+        "customAttributes": {},
+        "description": "huddle063 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "6b82041778e04d57a160b2bb40377357",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6b82041778e04d57a160b2bb40377357",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-09-03T17:14:15.412Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle063 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:11:28.767Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle043 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "3a6321e4f99a4dce80324226564b09d8",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3a6321e4f99a4dce80324226564b09d8",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-08-21T01:48:47.420Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle043 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:31:19.166Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle059 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "9c5620c8649545f48da236ffb66bf297",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9c5620c8649545f48da236ffb66bf297",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-08-21T01:48:47.459Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle059 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T16:49:18.688Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle018 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "26e97308259b46a28f6a5be6853d6691",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "26e97308259b46a28f6a5be6853d6691",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.084Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle018 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:09:36.495Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle033 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "b1abd2114d8a46cda5e2998176870b8c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b1abd2114d8a46cda5e2998176870b8c",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.118Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle033 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:09:49.155Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle034 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "1c5cf4f6aef74b3fa33913be3ea2d730",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1c5cf4f6aef74b3fa33913be3ea2d730",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.079Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle034 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:29:52.243Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle052 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "30750688858441ef9d8a98dbf8e599ef",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "30750688858441ef9d8a98dbf8e599ef",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-08-21T01:48:47.419Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle052 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:11:47.528Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle045 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "d69d6dec7c8a4d8ab07dd162ed4ad5cb",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d69d6dec7c8a4d8ab07dd162ed4ad5cb",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-08-21T01:48:47.489Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle045 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:09:27.128Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle032 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "a9af0a07038543ce90b7c53e7d0f5f7a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a9af0a07038543ce90b7c53e7d0f5f7a",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.116Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle032 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:12:11.163Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle047 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "1700b1ef16db40909f2fb7229064f69f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1700b1ef16db40909f2fb7229064f69f",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-08-21T01:48:47.404Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle047 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T16:52:04.367Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle030 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "df8f7b68a10b41ddadc0ecd85f55722f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "df8f7b68a10b41ddadc0ecd85f55722f",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.127Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle030 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-12-13T23:01:48.217Z",
+        "customAttributes": {},
+        "description": "huddle009 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "13754a5b721f4a5992e4c8cfbf1406c7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "13754a5b721f4a5992e4c8cfbf1406c7",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-09-03T17:14:15.376Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle009 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-12-13T23:00:28.359Z",
+        "customAttributes": {},
+        "description": "huddle002 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "a91b7add277642db943d0ee7bbb9817f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a91b7add277642db943d0ee7bbb9817f",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-09-03T17:14:15.435Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle002 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-12-13T23:01:10.608Z",
+        "customAttributes": {},
+        "description": "huddle006 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "ac276424719141a0a1f0134c83752a01",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ac276424719141a0a1f0134c83752a01",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-09-03T17:14:15.438Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle006 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:31:33.045Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle060 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "a2c6dd74969c4c7988dbe9a8441718e8",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a2c6dd74969c4c7988dbe9a8441718e8",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-08-21T01:48:47.461Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle060 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:10:11.155Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle036 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "f12d5444175c42c58b99cfb4031799de",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f12d5444175c42c58b99cfb4031799de",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.130Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle036 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T16:48:54.381Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle016 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "61dd74dc250e4169be546e3d8e84d7a6",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "61dd74dc250e4169be546e3d8e84d7a6",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.093Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle016 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:10:00.455Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle035 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "d6748469ef5a4feb8651a0cad14f7f86",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d6748469ef5a4feb8651a0cad14f7f86",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.125Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle035 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-12-13T23:01:01.790Z",
+        "customAttributes": {},
+        "description": "huddle005 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "6cea64c6965e44e686167b6ee217ecda",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6cea64c6965e44e686167b6ee217ecda",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-09-03T17:14:15.414Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle005 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T16:49:30.116Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle019 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "d0e11b253c684a658a4d7be8b501b807",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d0e11b253c684a658a4d7be8b501b807",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.121Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle019 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:10:33.037Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle038 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "01de7bb71e9b4fd3a440a8e91d9d1b06",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "01de7bb71e9b4fd3a440a8e91d9d1b06",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.075Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle038 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:09:17.341Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle031 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "9200d56225c9414f9802a43f8e12edf5",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9200d56225c9414f9802a43f8e12edf5",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.109Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle031 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-12-13T23:02:10.066Z",
+        "customAttributes": {},
+        "description": "huddle011 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "032fbef8012641808ac9aa8b7674fd86",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "032fbef8012641808ac9aa8b7674fd86",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-09-03T17:14:15.369Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle011 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:12:40.245Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle049 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "0cee2dc6cf074f7fa77a2db97842508f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0cee2dc6cf074f7fa77a2db97842508f",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-08-21T01:48:47.401Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle049 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:11:08.982Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle041 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "d30f1c3668ff4c3e945278b4ad1b772a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d30f1c3668ff4c3e945278b4ad1b772a",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.123Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle041 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T16:51:36.213Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle028 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "a49b56a22cdb4863a113ed9a45f2d884",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a49b56a22cdb4863a113ed9a45f2d884",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.114Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle028 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T16:51:50.666Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle029 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "dfb824d4b7da402194e2dad01b096ee4",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "dfb824d4b7da402194e2dad01b096ee4",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.128Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle029 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:11:38.190Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle044 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "fa94ec9ebefa4aa999b09e4bf974cc7f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fa94ec9ebefa4aa999b09e4bf974cc7f",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-08-21T01:48:47.508Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle044 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T16:49:49.671Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle020 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "48f0cfa0698c49e098728982da5bfe7e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "48f0cfa0698c49e098728982da5bfe7e",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.091Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle020 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T16:50:25.893Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle022 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "698fec70fc174fdaa68b0de9a5ac12b9",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "698fec70fc174fdaa68b0de9a5ac12b9",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.098Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle022 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:32:05.270Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle062 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "bdfd8168b95849ad8dade8027a5c703c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "bdfd8168b95849ad8dade8027a5c703c",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-08-21T01:48:47.474Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle062 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-11-02T23:47:26.980Z",
+        "customAttributes": {},
+        "description": "huddleEAI Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "6a1a6ee153504ca8bee62c199fba0601",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6a1a6ee153504ca8bee62c199fba0601",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2023-03-17T19:24:42.922Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddleEAI Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-12-13T23:02:20.125Z",
+        "customAttributes": {},
+        "description": "huddle012 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "e06ae494c5af4d1aa5fcc8bfd21c4d54",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e06ae494c5af4d1aa5fcc8bfd21c4d54",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-09-03T17:14:15.448Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle012 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-12-13T23:01:37.405Z",
+        "customAttributes": {},
+        "description": "huddle008 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "495f57c880ae4f468ec0c80c2334d52a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "495f57c880ae4f468ec0c80c2334d52a",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-09-03T17:14:15.394Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle008 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:10:55.503Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle040 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "1d6dc467d9e948e4b184917463f57ba3",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1d6dc467d9e948e4b184917463f57ba3",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.081Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle040 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:31:10.110Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle058 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "ce22b458123d483dac04d09571053b88",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ce22b458123d483dac04d09571053b88",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-08-21T01:48:47.481Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle058 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T16:50:00.552Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle021 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "c52db754ca494455964873e3ad86fb9c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c52db754ca494455964873e3ad86fb9c",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.119Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle021 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T16:51:01.905Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle025 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "63830a324bde4330830b8d10121a1082",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "63830a324bde4330830b8d10121a1082",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.095Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle025 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:30:22.864Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle054 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "fe9145b2933347b8a352c51600e83dd4",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fe9145b2933347b8a352c51600e83dd4",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-08-21T01:48:47.510Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle054 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:11:59.865Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle046 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "ae722d136e2849959438faee2c60497d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ae722d136e2849959438faee2c60497d",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-08-21T01:48:47.470Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle046 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:30:59.616Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle057 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "9d174cb5d84c427fae8ad4ae80c7a8a4",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9d174cb5d84c427fae8ad4ae80c7a8a4",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.427Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle057 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:30:03.859Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle053 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "2eac12a4a0884f0783287f8f56ba2fc3",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2eac12a4a0884f0783287f8f56ba2fc3",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-08-21T01:48:47.415Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle053 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-12-13T23:02:29.133Z",
+        "customAttributes": {},
+        "description": "huddle013 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "2ee05c62768541348c1c135b240d6b50",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2ee05c62768541348c1c135b240d6b50",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-10-09T00:37:38.088Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle013 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T16:50:39.710Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle023 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "19d712b3cf794f4db9f2f8ba10454743",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "19d712b3cf794f4db9f2f8ba10454743",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.077Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle023 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-12-13T23:02:01.076Z",
+        "customAttributes": {},
+        "description": "huddle010 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "f73414406e5d454985f4eb124260dff4",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f73414406e5d454985f4eb124260dff4",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-09-03T17:14:15.452Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle010 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:31:49.906Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle061 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "4460ef15f6cc449f8ec7813c9e1847a9",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4460ef15f6cc449f8ec7813c9e1847a9",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-08-21T01:48:47.424Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle061 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:10:43.247Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle039 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "97c7ebdeb8df493984c0698933fa2e47",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "97c7ebdeb8df493984c0698933fa2e47",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.112Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle039 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:30:34.429Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle055 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "e59abca750a04529827314f0d0f026d1",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e59abca750a04529827314f0d0f026d1",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-08-21T23:26:26.913Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle055 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-10-27T22:52:26.750Z",
+        "customAttributes": {},
+        "description": "huddle001 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "0aa4a9bae8a845b4a0a391d8aed97bce",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0aa4a9bae8a845b4a0a391d8aed97bce",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-09-03T17:14:15.371Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle001 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T16:50:50.654Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle024 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "26e78623f21d4221bd065daa565bd339",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "26e78623f21d4221bd065daa565bd339",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.083Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle024 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-12-13T23:00:39.099Z",
+        "customAttributes": {},
+        "description": "huddle003 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "c85c04a259224d2fb72c37f0c9e499a0",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c85c04a259224d2fb72c37f0c9e499a0",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-08-21T01:48:47.478Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle003 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T16:48:32.026Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle015 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "87d480bef5db431ab7e88a15495af1aa",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "87d480bef5db431ab7e88a15495af1aa",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.107Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle015 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-12-13T23:00:50.755Z",
+        "customAttributes": {},
+        "description": "huddle004 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "07ffd4af55f94727b8c428226111dd2e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "07ffd4af55f94727b8c428226111dd2e",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-09-03T17:14:15.370Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle004 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:30:49.525Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle056 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "dfa170e607ea42bd9c69a5ade5b8e5a0",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "dfa170e607ea42bd9c69a5ade5b8e5a0",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-08-21T23:26:26.912Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle056 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T17:10:21.818Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle037 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "8057f50f5edf4988a712bb05ebdfea44",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8057f50f5edf4988a712bb05ebdfea44",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.105Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle037 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-01-05T16:51:14.846Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle026 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "279dc1c8c7d84ff68d0323fbbad14380",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "279dc1c8c7d84ff68d0323fbbad14380",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.086Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle026 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-12-13T23:01:20.875Z",
+        "customAttributes": {},
+        "description": "huddle007 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "8cd33674f7074bfe80459cd507a57bdc",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8cd33674f7074bfe80459cd507a57bdc",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-09-03T17:14:15.426Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle007 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-02-16T00:33:59.577Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle068 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "a4eb6d89038a4f6e93225023f17c27fa",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a4eb6d89038a4f6e93225023f17c27fa",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.430Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle068 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-02-16T00:33:06.654Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle066 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "2bf74c96713b46bd8e7f6c9140e2494a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2bf74c96713b46bd8e7f6c9140e2494a",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.383Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle066 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-02-16T00:33:49.135Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle067 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "5608e4d4130349e6a04ca3b590faf8f1",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5608e4d4130349e6a04ca3b590faf8f1",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.402Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle067 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-02-16T00:32:57.975Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle065 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "d813a3b64d704a10aa5dd0b5562560ad",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d813a3b64d704a10aa5dd0b5562560ad",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-09-03T17:14:15.447Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle065 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-02-16T00:32:45.595Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle064 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "0f58ed2d9fa8468a826fbdb5b3687595",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0f58ed2d9fa8468a826fbdb5b3687595",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.375Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle064 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-02-16T00:34:13.249Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle069 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "a058944c38dc4cd99a9e949e56155177",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a058944c38dc4cd99a9e949e56155177",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.428Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle069 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-02-16T00:48:53.959Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddleEAI2 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "4a746d5d1550467abc5d4d61834ab264",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4a746d5d1550467abc5d4d61834ab264",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-07-20T16:57:24.332Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddleEAI2 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-02-16T20:31:51.501Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle071 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "4009a8ff36fc47feaac98148510c70e2",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4009a8ff36fc47feaac98148510c70e2",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-08-21T01:48:47.422Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle071 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-02-16T20:31:39.272Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle070 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "ca54bd66dd2c481082abaf5b99b026a9",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ca54bd66dd2c481082abaf5b99b026a9",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-08-21T01:48:47.480Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle070 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-02-16T20:32:18.331Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle072 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "81a8724650704c64a475dc017629a404",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "81a8724650704c64a475dc017629a404",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-08-21T01:48:47.448Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle072 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-04-13T23:36:43.971Z",
+        "customAttributes": {},
+        "description": "huddle Testing Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "313853d2fb4c47828e173653199912e7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "313853d2fb4c47828e173653199912e7",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2023-04-13T23:56:24.023Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle Testing Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-05-02T19:14:57.973Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle073 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "d9ec35e0f2834fde86f812ff7fa8b9af",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d9ec35e0f2834fde86f812ff7fa8b9af",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-05-04T14:26:01.625Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle073 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-08T00:11:03.231Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle076 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "43187770c95e4dee95ce3e8616ae5350",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "43187770c95e4dee95ce3e8616ae5350",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.090Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle076 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-08T00:10:37.079Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle074 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "e45474f30fc4480cbeac3520e4d666b8",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e45474f30fc4480cbeac3520e4d666b8",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.449Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle074 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-08T00:10:53.805Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle075 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "3ba8b6269f9d43958182ba64c84867a1",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3ba8b6269f9d43958182ba64c84867a1",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.387Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle075 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-07-27T19:09:29.185Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle078 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "886383089f414cf7a67041d279317696",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "886383089f414cf7a67041d279317696",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-09-03T17:14:15.422Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle078 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-07-27T19:10:20.798Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddleEAI3 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "333ec8e4f85a40dfae75f7ab9fade45b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "333ec8e4f85a40dfae75f7ab9fade45b",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-12-07T17:53:07.345Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddleEAI3 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-07-27T19:09:44.735Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle079 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "0db90b01e2eb4a258fa7cf88b465879a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0db90b01e2eb4a258fa7cf88b465879a",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-09-03T17:14:15.373Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle079 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-07-27T19:09:18.156Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle077 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "1f0be0c0565c44309f4bd1d5d89c3c63",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1f0be0c0565c44309f4bd1d5d89c3c63",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.380Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle077 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-09-11T23:45:34.814Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle080 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "3449c30bc9e74321b03e1b87cb10abb1",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3449c30bc9e74321b03e1b87cb10abb1",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-30T23:55:29.829Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle080 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-10T23:25:17.077Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle082 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "75dcee224db14bf7b4c21e88d9020268",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "75dcee224db14bf7b4c21e88d9020268",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-10-09T00:37:38.104Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle082 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-10T23:25:57.708Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle085 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "cd26834b8af749499f7753ce0ba433a5",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "cd26834b8af749499f7753ce0ba433a5",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-10-10T23:54:14.045Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle085 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-10T23:26:33.789Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddleEAI4 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "3ea4a1c86ea1461882fb328ddcb77e4d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3ea4a1c86ea1461882fb328ddcb77e4d",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-07-25T16:59:20.467Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddleEAI4 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-10T23:25:47.986Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle084 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "499ef268a868406fbc2447e4e5f27e6a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "499ef268a868406fbc2447e4e5f27e6a",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.396Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle084 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-10T23:26:44.088Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddleEAI5 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "52fcdcc9046f4846ab3543d73bbbb613",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "52fcdcc9046f4846ab3543d73bbbb613",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-10-30T22:21:05.423Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddleEAI5 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-10-10T23:25:38.986Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle083 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "72287272aedf429da91ef6ffde593b55",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "72287272aedf429da91ef6ffde593b55",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.418Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle083 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-01-29T22:32:25.871Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle090 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "a77a38694c0648b49d04ca1ae474f5c7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a77a38694c0648b49d04ca1ae474f5c7",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.433Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle090 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-01-29T22:32:13.031Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle089 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "2e8fb4d207b5496ca76677e6ad1dc880",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2e8fb4d207b5496ca76677e6ad1dc880",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.385Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle089 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-01-29T22:33:15.894Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle094 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "6fd849df89a14214b5347af4c51f4633",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6fd849df89a14214b5347af4c51f4633",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.416Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle094 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-01-29T22:31:40.932Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle086 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "3127d47b4ca545a2a0d27e810ee9a5d3",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3127d47b4ca545a2a0d27e810ee9a5d3",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-17T18:44:04.641Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle086 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-01-29T22:33:48.731Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddleEAI6 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "c5089a6eafd5417cb37cb480e6d16a8e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c5089a6eafd5417cb37cb480e6d16a8e",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-03-12T23:30:29.331Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddleEAI6 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-01-29T22:31:52.772Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle087 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "189e3a4048a4424bb53019f0397e8e5c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "189e3a4048a4424bb53019f0397e8e5c",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.377Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle087 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-01-29T22:33:03.813Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle093 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "53701fc057e049e69d034b84fb031eac",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "53701fc057e049e69d034b84fb031eac",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.399Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle093 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-01-29T22:32:02.486Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle088 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "46ef94853226459996d371550a60ef55",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "46ef94853226459996d371550a60ef55",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-09-03T17:14:15.393Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle088 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-01-29T22:32:54.126Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle092 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "c2449c904a5c45c7b2e8830eb10d21c7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c2449c904a5c45c7b2e8830eb10d21c7",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.441Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle092 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-01-29T22:32:44.461Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle091 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "cc6a97e7c0e847a7adaabcbb00c2ba49",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "cc6a97e7c0e847a7adaabcbb00c2ba49",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.446Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle091 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-06-04T22:13:59.215Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle096 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "cbeda60eec204aaab748e44437e6b166",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "cbeda60eec204aaab748e44437e6b166",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.444Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle096 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-06-04T22:13:44.570Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle095 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "aa191b029b044b979687a1eb1d860aa9",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "aa191b029b044b979687a1eb1d860aa9",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.437Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle095 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-09-06T20:58:06.092Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle102 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "41cfa3d55e894bd69c08330c9095046b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "41cfa3d55e894bd69c08330c9095046b",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.388Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle102 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-09-06T20:56:49.559Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddleEAI7 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "973d93c5508b46108b3511602237eb1f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "973d93c5508b46108b3511602237eb1f",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-08-21T00:55:25.988Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddleEAI7 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-09-06T20:57:15.045Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle104 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "4bff609ac49340a98884f21a0571530d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4bff609ac49340a98884f21a0571530d",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-05T22:22:32.216Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle104 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-09-06T20:58:15.585Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle103 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "88a46c3516fa400d9c734a9414799a23",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "88a46c3516fa400d9c734a9414799a23",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.423Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle103 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-09-25T22:22:45.308Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle100 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "fd9aff1a2e82420f8dee08d796cbeff4",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fd9aff1a2e82420f8dee08d796cbeff4",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.453Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle100 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-09-25T22:19:16.058Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle098 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "75701f8e448c4d1c8522a99679988833",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "75701f8e448c4d1c8522a99679988833",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.419Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle098 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-09-25T22:19:06.102Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle097 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "c9a33063273944e7887e74040ee5b8ee",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c9a33063273944e7887e74040ee5b8ee",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.443Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle097 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-09-25T22:23:13.608Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle105 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "a757f6e0d0ab48e19ae4da0e18902194",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a757f6e0d0ab48e19ae4da0e18902194",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.432Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle105 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-09-25T22:19:27.270Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle099 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "5bd892b0610a451fae51248b103d3d2f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5bd892b0610a451fae51248b103d3d2f",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.404Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle099 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-09-25T22:22:56.552Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle101 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "6220d01e837142a98a64bb0510f9ac70",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6220d01e837142a98a64bb0510f9ac70",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2025-09-03T17:14:15.406Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle101 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-03-05T01:42:08.580Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle108 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "4429b4e7ddbf4eb8b8c29f9aeb8e6989",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4429b4e7ddbf4eb8b8c29f9aeb8e6989",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-09-03T17:14:15.391Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle108 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-03-05T01:41:59.271Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle107 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "8049d86bb4d04f76bd92b9f847cfcb6a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8049d86bb4d04f76bd92b9f847cfcb6a",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-09-03T17:14:15.421Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle107 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-06-03T20:19:28.221Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle117 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "3ccdd210fc17418ba371676e848e675b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3ccdd210fc17418ba371676e848e675b",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-06-03T20:51:57.977Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle117 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-06-03T20:19:38.687Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle118 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "6fccbf4fdc1b45ac8deda8d7d7f895a9",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6fccbf4fdc1b45ac8deda8d7d7f895a9",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-06-03T20:51:57.978Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle118 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-06-03T20:19:48.816Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle119 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "ed11c5c425a049de8ef2f6a9ae2278d7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ed11c5c425a049de8ef2f6a9ae2278d7",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-06-03T20:51:57.979Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle119 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-06-03T20:19:14.663Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle116 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "b0ca6e7a04d14bf195607aabce0aaffa",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b0ca6e7a04d14bf195607aabce0aaffa",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-06-03T20:51:57.978Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle116 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-06-03T20:20:04.757Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle120 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "0f25fa35c3b240fb8036345df38d9998",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0f25fa35c3b240fb8036345df38d9998",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-06-03T20:51:57.976Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle120 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-07-18T19:56:51.371Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle121 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "2abe6b76c6fe4c778790b830c576fda9",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2abe6b76c6fe4c778790b830c576fda9",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-07-18T20:05:53.026Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle121 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-21T23:11:39.066Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle123 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "297e30e0888b4f9f8319492a681bfede",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "297e30e0888b4f9f8319492a681bfede",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-08-21T23:26:44.688Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle123 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-21T23:12:08.564Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle125 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "4b33a7ca08e44dad92cef98d9ebc1273",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4b33a7ca08e44dad92cef98d9ebc1273",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-08-21T23:26:44.692Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle125 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-21T23:12:19.122Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle126 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "48b0a8e038874e92b41c4d623f33d16c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "48b0a8e038874e92b41c4d623f33d16c",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-08-21T23:26:44.690Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle126 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-21T23:11:53.172Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle124 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "51aafaca21c64180ae212c4a9a844a2f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "51aafaca21c64180ae212c4a9a844a2f",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-08-21T23:26:44.694Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle124 Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-08-21T23:11:30.713Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "huddle122 Audience",
+        "developer": "Electronic Arts",
+        "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+        "endOfSupport": false,
+        "entitlementName": "53ed949b69f440d99429cab5530badaa",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "53ed949b69f440d99429cab5530badaa",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2025-08-21T23:26:44.696Z",
+        "mainGameItem": {
+          "id": "52a1bd5e5a7240269b8514ff94db8f54",
+          "namespace": "2a14cf8a83b149919a2399504e5686a6",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "52a1bd5e5a7240269b8514ff94db8f54",
+            "namespace": "2a14cf8a83b149919a2399504e5686a6",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "2a14cf8a83b149919a2399504e5686a6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "huddle122 Audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "52a1bd5e5a7240269b8514ff94db8f54",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "52a1bd5e5a7240269b8514ff94db8f54",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "330b00849edfdacc61578d1486f47b31",
+        "size": 943513,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-01-30T20:26:58.706Z",
+        "url": "https://cdn1.epicgames.com/item/2a14cf8a83b149919a2399504e5686a6/EGS_TheSims4_Maxis_S1_2560x1440-330b00849edfdacc61578d1486f47b31",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "ceadc3bd1e6f885ad64d9f115f51f5c0",
+        "size": 662137,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-01-30T20:27:01.936Z",
+        "url": "https://cdn1.epicgames.com/item/2a14cf8a83b149919a2399504e5686a6/EGS_TheSims4_Maxis_S2_1200x1600-ceadc3bd1e6f885ad64d9f115f51f5c0",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-08-21T23:26:26.998Z",
+    "mainGameItemList": [],
+    "namespace": "2a14cf8a83b149919a2399504e5686a6",
+    "releaseInfo": [
+      {
+        "appId": "huddle",
+        "compatibleApps": [],
+        "dateAdded": "2022-08-29T23:13:30.414Z",
+        "id": "c6eb89b9be344a98b4ddacec886024eb",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "The Sims\u2122 4",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

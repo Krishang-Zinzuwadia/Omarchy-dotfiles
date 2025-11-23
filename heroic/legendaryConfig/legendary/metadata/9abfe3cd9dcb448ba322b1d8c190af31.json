@@ -1,0 +1,84 @@
+{
+  "app_name": "9abfe3cd9dcb448ba322b1d8c190af31",
+  "app_title": "Red Chaos",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "9abfe3cd9dcb448ba322b1d8c190af31",
+      "asset_id": "9abfe3cd9dcb448ba322b1d8c190af31",
+      "build_version": "1.0.639",
+      "catalog_item_id": "023e633e0c2e4a45b0671b18ee40b16d",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "a1fdd01696634be1bd76f4a2b63ba640",
+        "update_type": "MINOR"
+      },
+      "namespace": "13a9cc26a8b744e49f5ce45c5553b3c0",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-01-23T21:16:29.605Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "RedChaosYE9v9"
+      }
+    },
+    "description": "Red Chaos",
+    "developer": "QChain Game Studio",
+    "developerId": "o-hbj7v436b4myl7f47sjzp3edz7hv4b",
+    "endOfSupport": false,
+    "entitlementName": "023e633e0c2e4a45b0671b18ee40b16d",
+    "entitlementType": "EXECUTABLE",
+    "id": "023e633e0c2e4a45b0671b18ee40b16d",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Red Chaos Offer",
+        "height": 1440,
+        "md5": "62d15f90f13549f6741248d19fc99ae8",
+        "size": 594840,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-01-31T15:08:57.936Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/8a5c337da5dc439db380c3a6b6762dcb/red-chaos-1pt9m.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Red Chaos Offer",
+        "height": 1600,
+        "md5": "a0a35ccca89ae14c020441bedbbae7f5",
+        "size": 294573,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-01-31T15:18:12.748Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/8a5c337da5dc439db380c3a6b6762dcb/red-chaos-1nh66.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-12-09T04:19:41.191Z",
+    "mainGameItemList": [],
+    "namespace": "13a9cc26a8b744e49f5ce45c5553b3c0",
+    "releaseInfo": [
+      {
+        "appId": "9abfe3cd9dcb448ba322b1d8c190af31",
+        "id": "98fa94a14dac4a4f9bcfbc9a590595d7",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Red Chaos",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

@@ -1,0 +1,179 @@
+{
+	"26b63c46de9e4dcc856b3c6b106b6777": {
+		"game": {
+			"app_name": "26b63c46de9e4dcc856b3c6b106b6777",
+			"title": "AER Memories of Old",
+			"version": "1.0.4.1",
+			"platform_versions": {
+				"Windows": "1.0.4.1"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 90453,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "20d6f5f875cd4ca5887fbf44e55b04bc",
+			"launch_exe": "AER.exe",
+			"launch_command": "-logFile %LOCALAPPDATA%\\Daedalic Entertainment GmbH\\Aer\\output_log.txt",
+			"build_version": "1.0.4.1",
+			"build_id": "k002PCn3lnX-JdEjd3pdGHV_eIs",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 136,
+			"num_chunks": 1278,
+			"disk_size": 1339206789,
+			"download_size": 667882742,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"__timestamp": {
+		"26b63c46de9e4dcc856b3c6b106b6777": "Sat Oct 11 2025 16:57:21 GMT+0530 (India Standard Time)",
+		"Angelonia": "Sat Oct 11 2025 17:58:47 GMT+0530 (India Standard Time)",
+		"639977eecfd2497c941b71af949b5067": "Sat Oct 11 2025 18:07:22 GMT+0530 (India Standard Time)",
+		"d36336f190094951873ed6138ac208d8": "Sat Nov 01 2025 01:32:24 GMT+0530 (India Standard Time)"
+	},
+	"Angelonia": {
+		"game": {
+			"app_name": "Angelonia",
+			"title": "Watch Dogs 2",
+			"version": "1.0",
+			"platform_versions": {
+				"Windows": "1.0"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": "ubisoft",
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 2434690,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "Angelonia",
+			"launch_exe": "UplayLaunch.exe",
+			"launch_command": "-UplayId=2688",
+			"build_version": "1.0",
+			"build_id": "qD3OjHN7qj377J_jTVkuK5t2eXQ",
+			"prerequisites": {
+				"ids": [
+					"uplay"
+				],
+				"name": "Uplay",
+				"path": "Uplay/UplayInstaller.exe",
+				"args": "/S"
+			},
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 226,
+			"num_chunks": 38676,
+			"disk_size": 40553819385,
+			"download_size": 40541079165,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"639977eecfd2497c941b71af949b5067": {
+		"game": {
+			"app_name": "639977eecfd2497c941b71af949b5067",
+			"title": "NBA 2K21",
+			"version": "1.12.135040",
+			"platform_versions": {
+				"Windows": "1.12.135040"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 6451138,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "99431e97950f4754b082049105ffbe22",
+			"launch_exe": "NBA2K21.exe",
+			"launch_command": "",
+			"build_version": "1.12.135040",
+			"build_id": "xM4Agpzlb1BuA9O-QY9pjL3OZ7Y",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 96,
+			"num_chunks": 99110,
+			"disk_size": 104006770992,
+			"download_size": 99113692496,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"d36336f190094951873ed6138ac208d8": {
+		"game": {
+			"app_name": "d36336f190094951873ed6138ac208d8",
+			"title": "Sifu",
+			"version": "6770",
+			"platform_versions": {
+				"Windows": "6770"
+			},
+			"cloud_saves_supported": true,
+			"cloud_save_folder": "{AppData}/Sifu/Saved/SaveGames/{EpicID}/",
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 1974727,
+			"type": "binary",
+			"version": 21,
+			"feature_level": 21,
+			"app_name": "d36336f190094951873ed6138ac208d8",
+			"launch_exe": "Sifu.exe",
+			"launch_command": "",
+			"build_version": "6770",
+			"build_id": "6s-RqE9MEk-ZdGaxhwxmjg",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 243,
+			"num_chunks": 28707,
+			"disk_size": 32560431714,
+			"download_size": 23587984106,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	}
+}

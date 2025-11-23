@@ -1,0 +1,84 @@
+{
+  "app_name": "60cad174c7814aa6b0560b1864c1a60f",
+  "app_title": "Senile Wizards",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "60cad174c7814aa6b0560b1864c1a60f",
+      "asset_id": "60cad174c7814aa6b0560b1864c1a60f",
+      "build_version": "1.1.0",
+      "catalog_item_id": "665b771baf8844f695c7c7ac6a4cba19",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c6cf53a9876b4b1bac582ca28b8e53a8"
+      },
+      "namespace": "d5e454695400407ea77e0fc351f09d10",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-04-27T20:03:31.841Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "SenileWizardsNsavP"
+      }
+    },
+    "description": "Senile Wizards",
+    "developer": "Athyrion Games",
+    "developerId": "o-6fntueqyy37lztn8fbf5zv2atrb6nq",
+    "endOfSupport": false,
+    "entitlementName": "665b771baf8844f695c7c7ac6a4cba19",
+    "entitlementType": "EXECUTABLE",
+    "id": "665b771baf8844f695c7c7ac6a4cba19",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Magic Mayhem Offer",
+        "height": 1440,
+        "md5": "5d6152237904a7768280403f22d6402a",
+        "size": 1027286,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-07-20T10:09:53.666Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/a12ae9abd4554b9f9d934c7587e1f56e/magic-mayhem-1ayai.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Senile Wizards Offer",
+        "height": 1600,
+        "md5": "ef10bf57dfb9cb51e73c56421ddcf57f",
+        "size": 2346910,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-07-21T13:11:01.820Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/a12ae9abd4554b9f9d934c7587e1f56e/senile-wizards-ihq6r.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-08-10T21:21:45.303Z",
+    "mainGameItemList": [],
+    "namespace": "d5e454695400407ea77e0fc351f09d10",
+    "releaseInfo": [
+      {
+        "appId": "60cad174c7814aa6b0560b1864c1a60f",
+        "id": "ac63979b466848698404adb6ffd6c895",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Senile Wizards",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

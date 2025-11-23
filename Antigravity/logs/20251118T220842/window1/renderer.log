@@ -1,0 +1,398 @@
+2025-11-18 22:08:44.027 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:08:44.047 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:08:44.047 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:08:44.047 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'fileComments' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:08:44.047 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:08:44.048 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:08:44.048 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:08:44.048 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:08:44.048 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:08:44.048 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:08:44.048 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'dbaeumer.vscode-eslint' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:08:44.049 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:08:44.049 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:08:44.049 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:08:44.049 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:08:44.402 [info] Started local extension host with pid 20815.
+2025-11-18 22:08:44.641 [error] Extension 'google.antigravity' wants API proposal 'cloudCodeUrl' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:08:44.663 [error] [vscode.git]: property `title` is mandatory and must be of type `string` or `object`
+2025-11-18 22:08:44.663 [error] [vscode.git]: property `title` is mandatory and must be of type `string` or `object`
+2025-11-18 22:08:44.665 [error] [google.antigravity]: Menu item references a command `antigravity.importAntigravitySettings` which is not defined in the 'commands' section.
+2025-11-18 22:08:44.665 [error] [google.antigravity]: Menu item references a command `antigravity.importAntigravityExtensions` which is not defined in the 'commands' section.
+2025-11-18 22:08:44.852 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-11-18 22:08:45.565 [error] [Extension Host] Failed to update user status Error: LanguageServerClient must be initialized first!
+	at B.getInstance (/home/krishang/.local/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:236055)
+	at a.updateUserStatus (/home/krishang/.local/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:1323396)
+	at a.restartUpdateLoop (/home/krishang/.local/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:1323887)
+	at t.activate (/home/krishang/.local/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:163659)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async qT.n (file:///home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:14106)
+	at async qT.m (file:///home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:14069)
+	at async qT.l (file:///home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:13525)
+2025-11-18 22:08:47.850 [info] [perf] Render performance baseline is 21ms
+2025-11-18 22:09:52.922 [error] [Extension Host] Source files do not exist: Error: ENOENT: no such file or directory, access '/home/krishang/.config/Code/User/keybindings.json'
+2025-11-18 22:09:52.930 [error] command 'workbench.action.installCommandLine' not found: Error: command 'workbench.action.installCommandLine' not found
+    at pfi.n (vscode-file://vscode-app/home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:4026:5737)
+    at pfi.executeCommand (vscode-file://vscode-app/home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:4026:5669)
+    at async kjn.I (vscode-file://vscode-app/home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:6614:11351)
+    at async vscode-file://vscode-app/home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:6614:7652
+    at async r (vscode-file://vscode-app/home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:4055:16418)
+2025-11-18 22:10:52.201 [error] Error while getting the latest version for the extension ms-kubernetes-tools.vscode-kubernetes-tools. SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Open VSX Registry</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
+
+    <!-- Eclipse Cookie Consent -->
+    <link rel="stylesheet" type="text/css"
+        href="//www.eclipse.org/eclipse.org-common/themes/solstice/public/stylesheets/vendor/cookieconsent/cookieconsent.min.css" />
+    <script
+        src="//www.eclipse.org/eclipse.org-common/themes/solstice/public/javascript/vendor/cookieconsent/default.min.js">
+    </script>
+    <style>
+        a.cc-btn.cc-allow {
+            background-color: #c160ef;
+        }
+        a.cc-btn.cc-allow:hover, a.cc-btn.cc-allow:focus {
+            background-color: #444;
+        }
+        .cc-revoke {
+            display: none !important;
+        }
+        @media (prefers-color-scheme: dark) {
+          body {
+            background-color: #121212;
+          }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-5WLCZXC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="main"></div>
+    <script src='/bundle.js' ></script>
+</body>
+
+</html>
+
+2025-11-18 22:10:52.714 [error] Error while getting the latest version for the extension eamodio.gitlens. SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Open VSX Registry</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
+
+    <!-- Eclipse Cookie Consent -->
+    <link rel="stylesheet" type="text/css"
+        href="//www.eclipse.org/eclipse.org-common/themes/solstice/public/stylesheets/vendor/cookieconsent/cookieconsent.min.css" />
+    <script
+        src="//www.eclipse.org/eclipse.org-common/themes/solstice/public/javascript/vendor/cookieconsent/default.min.js">
+    </script>
+    <style>
+        a.cc-btn.cc-allow {
+            background-color: #c160ef;
+        }
+        a.cc-btn.cc-allow:hover, a.cc-btn.cc-allow:focus {
+            background-color: #444;
+        }
+        .cc-revoke {
+            display: none !important;
+        }
+        @media (prefers-color-scheme: dark) {
+          body {
+            background-color: #121212;
+          }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-5WLCZXC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="main"></div>
+    <script src='/bundle.js' ></script>
+</body>
+
+</html>
+
+2025-11-18 22:10:55.681 [error] Error while getting the latest version for the extension ms-azuretools.vscode-docker. SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Open VSX Registry</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
+
+    <!-- Eclipse Cookie Consent -->
+    <link rel="stylesheet" type="text/css"
+        href="//www.eclipse.org/eclipse.org-common/themes/solstice/public/stylesheets/vendor/cookieconsent/cookieconsent.min.css" />
+    <script
+        src="//www.eclipse.org/eclipse.org-common/themes/solstice/public/javascript/vendor/cookieconsent/default.min.js">
+    </script>
+    <style>
+        a.cc-btn.cc-allow {
+            background-color: #c160ef;
+        }
+        a.cc-btn.cc-allow:hover, a.cc-btn.cc-allow:focus {
+            background-color: #444;
+        }
+        .cc-revoke {
+            display: none !important;
+        }
+        @media (prefers-color-scheme: dark) {
+          body {
+            background-color: #121212;
+          }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-5WLCZXC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="main"></div>
+    <script src='/bundle.js' ></script>
+</body>
+
+</html>
+
+2025-11-18 22:12:58.041 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:12:58.041 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:12:58.041 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:12:58.042 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'fileComments' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:12:58.042 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:12:58.042 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:12:58.042 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:12:58.042 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:12:58.043 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:12:58.043 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:12:58.043 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'dbaeumer.vscode-eslint' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:12:58.043 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:12:58.043 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:12:58.044 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:12:58.044 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:12:58.475 [info] Started local extension host with pid 24476.
+2025-11-18 22:12:58.560 [error] Extension 'google.antigravity' wants API proposal 'cloudCodeUrl' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:12:58.619 [error] [vscode.git]: property `title` is mandatory and must be of type `string` or `object`
+2025-11-18 22:12:58.620 [error] [vscode.git]: property `title` is mandatory and must be of type `string` or `object`
+2025-11-18 22:12:58.620 [error] [google.antigravity]: Menu item references a command `antigravity.importAntigravitySettings` which is not defined in the 'commands' section.
+2025-11-18 22:12:58.621 [error] [google.antigravity]: Menu item references a command `antigravity.importAntigravityExtensions` which is not defined in the 'commands' section.
+2025-11-18 22:12:59.057 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-11-18 22:13:00.349 [error] [Extension Host] Failed to update user status Error: LanguageServerClient must be initialized first!
+	at B.getInstance (/home/krishang/.local/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:236055)
+	at a.updateUserStatus (/home/krishang/.local/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:1323396)
+	at a.restartUpdateLoop (/home/krishang/.local/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:1323887)
+	at t.activate (/home/krishang/.local/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:163659)
+	at async qT.n (file:///home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:14106)
+	at async qT.m (file:///home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:14069)
+	at async qT.l (file:///home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:13525)
+2025-11-18 22:13:01.471 [info] [perf] Render performance baseline is 26ms
+2025-11-18 22:13:03.049 [error] [vscode.git]: property `title` is mandatory and must be of type `string` or `object`
+2025-11-18 22:13:03.049 [error] [vscode.git]: property `title` is mandatory and must be of type `string` or `object`
+2025-11-18 22:13:03.055 [error] [google.antigravity]: Menu item references a command `antigravity.importAntigravitySettings` which is not defined in the 'commands' section.
+2025-11-18 22:13:03.059 [error] [google.antigravity]: Menu item references a command `antigravity.importAntigravityExtensions` which is not defined in the 'commands' section.
+2025-11-18 22:13:03.838 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:13:03.838 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:13:03.839 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:13:03.839 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'fileComments' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:13:03.839 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:13:03.839 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:13:03.840 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:13:03.840 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:13:03.840 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:13:03.840 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:13:03.840 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'dbaeumer.vscode-eslint' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:13:03.840 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:13:03.841 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:13:03.841 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:13:03.841 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:13:04.212 [info] Started local extension host with pid 24746.
+2025-11-18 22:13:04.246 [error] Extension 'google.antigravity' wants API proposal 'cloudCodeUrl' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-18 22:13:04.270 [error] [vscode.git]: property `title` is mandatory and must be of type `string` or `object`
+2025-11-18 22:13:04.270 [error] [vscode.git]: property `title` is mandatory and must be of type `string` or `object`
+2025-11-18 22:13:04.272 [error] [google.antigravity]: Menu item references a command `antigravity.importAntigravitySettings` which is not defined in the 'commands' section.
+2025-11-18 22:13:04.273 [error] [google.antigravity]: Menu item references a command `antigravity.importAntigravityExtensions` which is not defined in the 'commands' section.
+2025-11-18 22:13:05.845 [error] [Extension Host] Failed to update user status Error: LanguageServerClient must be initialized first!
+	at B.getInstance (/home/krishang/.local/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:236055)
+	at a.updateUserStatus (/home/krishang/.local/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:1323396)
+	at a.restartUpdateLoop (/home/krishang/.local/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:1323887)
+	at t.activate (/home/krishang/.local/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:163659)
+	at async qT.n (file:///home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:14106)
+	at async qT.m (file:///home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:14069)
+	at async qT.l (file:///home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:13525)
+2025-11-18 22:13:06.944 [info] [perf] Render performance baseline is 29ms
+2025-11-18 22:19:05.703 [error] [Extension Host] (node:24746) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-11-18 22:20:24.150 [error] Error while getting the latest version for the extension ms-python.python. SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Open VSX Registry</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
+
+    <!-- Eclipse Cookie Consent -->
+    <link rel="stylesheet" type="text/css"
+        href="//www.eclipse.org/eclipse.org-common/themes/solstice/public/stylesheets/vendor/cookieconsent/cookieconsent.min.css" />
+    <script
+        src="//www.eclipse.org/eclipse.org-common/themes/solstice/public/javascript/vendor/cookieconsent/default.min.js">
+    </script>
+    <style>
+        a.cc-btn.cc-allow {
+            background-color: #c160ef;
+        }
+        a.cc-btn.cc-allow:hover, a.cc-btn.cc-allow:focus {
+            background-color: #444;
+        }
+        .cc-revoke {
+            display: none !important;
+        }
+        @media (prefers-color-scheme: dark) {
+          body {
+            background-color: #121212;
+          }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-5WLCZXC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="main"></div>
+    <script src='/bundle.js' ></script>
+</body>
+
+</html>
+
+2025-11-18 22:20:34.126 [error] Cancelled: Canceled: Canceled
+    at pEn.O (vscode-file://vscode-app/home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:4107:37428)
+    at async pEn.N (vscode-file://vscode-app/home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:4107:36157)
+    at async pEn.D (vscode-file://vscode-app/home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:4107:25120)
+    at async vscode-file://vscode-app/home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:4107:24591
+    at async Promise.all (index 0)
+    at async pEn.C (vscode-file://vscode-app/home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:4107:24542)
+    at async pEn.getExtensions (vscode-file://vscode-app/home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:4107:23198)
+    at async O2n.getExtensions (vscode-file://vscode-app/home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:5246:15317)
+    at async v5l.Rc (vscode-file://vscode-app/home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:5242:18096)
+    at async v5l.$c (vscode-file://vscode-app/home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:5242:20740)
+2025-11-18 22:20:37.299 [error] Error while getting the latest version for the extension ms-python.python. SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Open VSX Registry</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
+
+    <!-- Eclipse Cookie Consent -->
+    <link rel="stylesheet" type="text/css"
+        href="//www.eclipse.org/eclipse.org-common/themes/solstice/public/stylesheets/vendor/cookieconsent/cookieconsent.min.css" />
+    <script
+        src="//www.eclipse.org/eclipse.org-common/themes/solstice/public/javascript/vendor/cookieconsent/default.min.js">
+    </script>
+    <style>
+        a.cc-btn.cc-allow {
+            background-color: #c160ef;
+        }
+        a.cc-btn.cc-allow:hover, a.cc-btn.cc-allow:focus {
+            background-color: #444;
+        }
+        .cc-revoke {
+            display: none !important;
+        }
+        @media (prefers-color-scheme: dark) {
+          body {
+            background-color: #121212;
+          }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe title="Google Tag Manager" src="https://www.googletagmanager.com/ns.html?id=GTM-5WLCZXC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="main"></div>
+    <script src='/bundle.js' ></script>
+</body>
+
+</html>
+
+2025-11-18 22:21:39.844 [error] Extension 'ms-python.vscode-python-envs CANNOT USE these API proposals 'terminalShellEnv'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2025-11-18 22:21:39.848 [error] Extension 'ms-python.python' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, codeActionAI, notebookReplDocument, notebookVariableProvider
+product.json (WINS): contribEditorContentMenu, quickPickSortByLabel, portsAttributes, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, notebookReplDocument
+2025-11-18 22:21:39.922 [error] [vscode.git]: property `title` is mandatory and must be of type `string` or `object`
+2025-11-18 22:21:39.922 [error] [vscode.git]: property `title` is mandatory and must be of type `string` or `object`
+2025-11-18 22:21:39.923 [error] [google.antigravity]: Menu item references a command `antigravity.importAntigravitySettings` which is not defined in the 'commands' section.
+2025-11-18 22:21:39.923 [error] [google.antigravity]: Menu item references a command `antigravity.importAntigravityExtensions` which is not defined in the 'commands' section.
+2025-11-18 22:25:36.192 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: http://localhost:38763/proxy/unleash/client/features
+	at Timeout.<anonymous> (/home/krishang/.local/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:2386687)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7)
+2025-11-18 22:28:53.637 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: http://localhost:38763/proxy/unleash/client/features
+	at Timeout.<anonymous> (/home/krishang/.local/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:2386687)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7)
+2025-11-18 22:29:34.338 [error] command 'antigravity.showBrowserOnboardingFullScreenView' not found
+2025-11-18 22:31:03.042 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: http://localhost:38763/proxy/unleash/client/features
+	at Timeout.<anonymous> (/home/krishang/.local/share/antigravity/resources/app/extensions/antigravity/dist/extension.js:2:2386687)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7)
+2025-11-18 22:31:03.048 [error] Unable to read file '/home/krishang/.gemini/antigravity/brain/07d3253d-a683-44a8-a090-990fd0d65e6a/walkthrough.md.resolved' (Error: Unable to resolve nonexistent file '/home/krishang/.gemini/antigravity/brain/07d3253d-a683-44a8-a090-990fd0d65e6a/walkthrough.md.resolved'): Error: Unable to read file '/home/krishang/.gemini/antigravity/brain/07d3253d-a683-44a8-a090-990fd0d65e6a/walkthrough.md.resolved' (Error: Unable to resolve nonexistent file '/home/krishang/.gemini/antigravity/brain/07d3253d-a683-44a8-a090-990fd0d65e6a/walkthrough.md.resolved')
+    at Pqn.G (vscode-file://vscode-app/home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:6626:68365)
+    at Pqn.F (vscode-file://vscode-app/home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:6626:68185)
+    at async Pqn.D (vscode-file://vscode-app/home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:6626:67552)
+    at async a (vscode-file://vscode-app/home/krishang/.local/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:7146:34170)

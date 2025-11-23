@@ -1,0 +1,260 @@
+{
+  "app_name": "b32b4f3b8df34689a2c519fe84d35f66",
+  "app_title": "Gravewood High",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "b32b4f3b8df34689a2c519fe84d35f66",
+      "asset_id": "b32b4f3b8df34689a2c519fe84d35f66",
+      "build_version": "Full_release_2023-05-03",
+      "catalog_item_id": "7e0469a23bd14bd4b43b8c002dddacc2",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "ccec4cbaba974dedbbbfc5f5096e215f"
+      },
+      "namespace": "36d3389b16b14deeb527754f6393469b",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567AlD5MHNKkCz0ZPvsQI66UepV",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-07-02T22:36:25.886Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "GravewoodHigh"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "36d3389b16b14deeb527754f6393469b"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Gravewood High",
+    "developer": "HeroCraft PC",
+    "developerId": "o-8ux7xn386eqvrb5x2rxrjkyvnfdz7v",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2022-07-19T17:01:44.948Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Gravewood High Chapter 1",
+        "developer": "HeroCraft PC",
+        "developerId": "o-8ux7xn386eqvrb5x2rxrjkyvnfdz7v",
+        "endOfSupport": false,
+        "entitlementName": "c01cf9d1f9514fdebb5bc45db12fd637",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c01cf9d1f9514fdebb5bc45db12fd637",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "0a8e4519c0af9e34a0ba9e493a1bf9c1",
+            "size": 988576,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-03-06T12:21:54.755Z",
+            "url": "https://cdn1.epicgames.com/item/36d3389b16b14deeb527754f6393469b/EGS_GravewoodHighChapter1_HeroCraftPC_DLC_S1_2560x1440-0a8e4519c0af9e34a0ba9e493a1bf9c1",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "65babd4a9813557706cae16a88639bf2",
+            "size": 926902,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-03-06T12:21:59.027Z",
+            "url": "https://cdn1.epicgames.com/item/36d3389b16b14deeb527754f6393469b/EGS_GravewoodHighChapter1_HeroCraftPC_DLC_S2_1200x1600-65babd4a9813557706cae16a88639bf2",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-03-15T23:32:13.965Z",
+        "mainGameItem": {
+          "id": "7e0469a23bd14bd4b43b8c002dddacc2",
+          "namespace": "36d3389b16b14deeb527754f6393469b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7e0469a23bd14bd4b43b8c002dddacc2",
+            "namespace": "36d3389b16b14deeb527754f6393469b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "36d3389b16b14deeb527754f6393469b",
+        "releaseInfo": [
+          {
+            "appId": "e34c72d9f97647a2a55f872d1d3a23ad",
+            "id": "8233356f29b64ddda392f052de424ca8",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Gravewood High Chapter 1",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2022-07-19T17:01:50.173Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "GravewoodHighFullSP"
+          }
+        },
+        "description": "Gravewood High [Full Single Player Mode]",
+        "developer": "HeroCraft PC",
+        "developerId": "o-8ux7xn386eqvrb5x2rxrjkyvnfdz7v",
+        "endOfSupport": false,
+        "entitlementName": "6259ad36cc9e436989fe586fa7508ca4",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6259ad36cc9e436989fe586fa7508ca4",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-03-15T23:32:13.955Z",
+        "mainGameItem": {
+          "id": "7e0469a23bd14bd4b43b8c002dddacc2",
+          "namespace": "36d3389b16b14deeb527754f6393469b",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "7e0469a23bd14bd4b43b8c002dddacc2",
+            "namespace": "36d3389b16b14deeb527754f6393469b",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "36d3389b16b14deeb527754f6393469b",
+        "releaseInfo": [
+          {
+            "appId": "fe546cc1835a44548380e17703c06751",
+            "id": "ec55bb7beb1d4cd79c48c3bf6b62e305",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Gravewood High [Full Single Player Mode]",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "7e0469a23bd14bd4b43b8c002dddacc2",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "7e0469a23bd14bd4b43b8c002dddacc2",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "ea866dda7006cbf6510ecbc011a29190",
+        "size": 565751,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-02-10T23:17:30.265Z",
+        "url": "https://cdn1.epicgames.com/36d3389b16b14deeb527754f6393469b/item/EGS_GravewoodHigh_HeroCraft_S1-2560x1440-ea866dda7006cbf6510ecbc011a29190.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "919c38e636b31bc0614fc550d0cb0830",
+        "size": 433883,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-02-10T23:17:32.885Z",
+        "url": "https://cdn1.epicgames.com/36d3389b16b14deeb527754f6393469b/item/EGS_GravewoodHigh_HeroCraft_S2-1200x1600-919c38e636b31bc0614fc550d0cb0830.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-03-15T23:32:14.154Z",
+    "mainGameItemList": [],
+    "namespace": "36d3389b16b14deeb527754f6393469b",
+    "releaseInfo": [
+      {
+        "appId": "b32b4f3b8df34689a2c519fe84d35f66",
+        "dateAdded": "2020-07-02T00:00:00.000Z",
+        "id": "5fb4d8caa2784aba9db9e4f07729d275",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Gravewood High",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

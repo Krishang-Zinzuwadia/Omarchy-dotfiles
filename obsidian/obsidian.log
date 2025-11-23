@@ -1,0 +1,124 @@
+2025-09-29 13:53:23 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-09-29 13:53:23 Checking for update using Github
+2025-09-29 13:53:24 Success.
+2025-09-29 13:53:24 Latest version is 1.9.12
+2025-09-29 13:53:24 App is up to date.
+2025-09-29 18:40:15 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-09-29 18:40:15 Checking for update using Github
+2025-09-29 18:40:16 Success.
+2025-09-29 18:40:16 Latest version is 1.9.12
+2025-09-29 18:40:16 App is up to date.
+2025-09-29 18:41:50 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-09-29 18:41:50 Checking for update using Github
+2025-09-29 18:41:50 Success.
+2025-09-29 18:41:50 Latest version is 1.9.12
+2025-09-29 18:41:50 App is up to date.
+2025-09-29 19:12:24 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-09-29 19:12:24 Checking for update using Github
+2025-09-29 19:12:25 Success.
+2025-09-29 19:12:25 Latest version is 1.9.12
+2025-09-29 19:12:25 App is up to date.
+2025-09-29 19:20:37 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-09-29 19:20:38 Checking for update using Github
+2025-09-29 19:20:38 Success.
+2025-09-29 19:20:38 Latest version is 1.9.12
+2025-09-29 19:20:38 App is up to date.
+2025-10-01 22:02:48 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-10-01 22:02:49 Checking for update using Github
+2025-10-01 22:02:50 Success.
+2025-10-01 22:02:50 Latest version is 1.9.14
+2025-10-01 22:02:50 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.9.14/obsidian-1.9.14.asar.gz
+2025-10-01 22:02:52 Verifying hash & signature. Size= 9033685
+2025-10-01 22:02:52 Saving file
+2025-10-01 22:02:53 Update complete.
+2025-10-07 07:33:13 Loading updated app package /home/krishang/.config/obsidian/obsidian-1.9.14.asar
+2025-10-07 07:33:14 Checking for update using Github
+2025-10-07 07:33:19 Success.
+2025-10-07 07:33:19 Latest version is 1.9.14
+2025-10-07 07:33:19 App is up to date.
+2025-10-12 07:36:45 Loading updated app package /home/krishang/.config/obsidian/obsidian-1.9.14.asar
+2025-10-12 07:36:46 Checking for update using Github
+2025-10-12 07:36:46 Success.
+2025-10-12 07:36:46 Latest version is 1.9.14
+2025-10-12 07:36:46 App is up to date.
+2025-10-14 03:23:07 Loading updated app package /home/krishang/.config/obsidian/obsidian-1.9.14.asar
+2025-10-14 03:23:08 Checking for update using Github
+2025-10-14 03:23:09 Success.
+2025-10-14 03:23:09 Latest version is 1.9.14
+2025-10-14 03:23:09 App is up to date.
+2025-10-14 15:37:19 Loading updated app package /home/krishang/.config/obsidian/obsidian-1.9.14.asar
+2025-10-14 15:37:20 Checking for update using Github
+2025-10-14 15:37:21 Success.
+2025-10-14 15:37:21 Latest version is 1.9.14
+2025-10-14 15:37:21 App is up to date.
+2025-10-14 16:37:19 Checking for update using Github
+2025-10-14 16:37:20 Success.
+2025-10-14 16:37:20 Latest version is 1.9.14
+2025-10-14 16:37:20 App is up to date.
+2025-10-14 17:45:30 Loading updated app package /home/krishang/.config/obsidian/obsidian-1.9.14.asar
+2025-10-14 17:45:30 Checking for update using Github
+2025-10-14 17:45:31 Success.
+2025-10-14 17:45:31 Latest version is 1.9.14
+2025-10-14 17:45:31 App is up to date.
+2025-10-15 12:12:46 Loading updated app package /home/krishang/.config/obsidian/obsidian-1.9.14.asar
+2025-10-15 12:12:47 Checking for update using Github
+2025-10-15 12:12:47 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2025-10-15 12:12:47 Checking for update using obsidian.md
+2025-10-15 12:12:47 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2025-10-15 13:31:22 Loading updated app package /home/krishang/.config/obsidian/obsidian-1.9.14.asar
+2025-10-15 13:31:23 Checking for update using Github
+2025-10-15 13:31:24 Success.
+2025-10-15 13:31:24 Latest version is 1.9.14
+2025-10-15 13:31:24 App is up to date.
+2025-10-15 14:31:22 Checking for update using Github
+2025-10-15 14:31:22 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2025-10-15 14:31:22 Checking for update using obsidian.md
+2025-10-15 14:31:22 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2025-10-15 17:52:51 Loading updated app package /home/krishang/.config/obsidian/obsidian-1.9.14.asar
+2025-10-15 17:52:51 Checking for update using Github
+2025-10-15 17:52:52 Success.
+2025-10-15 17:52:52 Latest version is 1.9.14
+2025-10-15 17:52:52 App is up to date.
+2025-10-17 12:49:13 Loading updated app package /home/krishang/.config/obsidian/obsidian-1.9.14.asar
+2025-10-17 12:49:14 Checking for update using Github
+2025-10-17 12:49:16 Success.
+2025-10-17 12:49:16 Latest version is 1.9.14
+2025-10-17 12:49:16 App is up to date.
+2025-10-17 17:37:26 Loading updated app package /home/krishang/.config/obsidian/obsidian-1.9.14.asar
+2025-10-17 17:37:27 Checking for update using Github
+2025-10-17 17:37:28 Success.
+2025-10-17 17:37:28 Latest version is 1.9.14
+2025-10-17 17:37:28 App is up to date.
+2025-10-21 09:19:51 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-10-21 09:19:51 Checking for update using Github
+2025-10-21 09:19:52 Success.
+2025-10-21 09:19:52 Latest version is 1.9.14
+2025-10-21 09:19:52 App is up to date.
+2025-10-22 10:52:57 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-10-22 10:52:57 Checking for update using Github
+2025-10-22 10:52:58 Success.
+2025-10-22 10:52:58 Latest version is 1.9.14
+2025-10-22 10:52:58 App is up to date.
+2025-10-23 14:41:31 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-10-23 14:41:32 Checking for update using Github
+2025-10-23 14:42:09 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2025-10-23 14:42:09 Checking for update using obsidian.md
+2025-10-23 14:42:09 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2025-10-29 09:56:00 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-10-29 09:56:01 Checking for update using Github
+2025-10-29 09:56:02 Success.
+2025-10-29 09:56:02 Latest version is 1.9.14
+2025-10-29 09:56:02 App is up to date.
+2025-11-15 04:11:31 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-11-15 04:11:32 Checking for update using Github
+2025-11-15 04:11:33 Success.
+2025-11-15 04:11:33 Latest version is 1.10.3
+2025-11-15 04:11:33 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.3/obsidian-1.10.3.asar.gz
+2025-11-15 04:11:35 Verifying hash & signature. Size= 9053948
+2025-11-15 04:11:35 Saving file
+2025-11-15 04:11:36 Update complete.
+2025-11-16 04:24:01 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-11-16 04:24:02 Checking for update using Github
+2025-11-16 04:24:03 Success.
+2025-11-16 04:24:03 Latest version is 1.10.3
+2025-11-16 04:24:03 App is up to date.

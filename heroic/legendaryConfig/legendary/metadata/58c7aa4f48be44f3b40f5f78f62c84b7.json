@@ -1,0 +1,1149 @@
+{
+  "app_name": "58c7aa4f48be44f3b40f5f78f62c84b7",
+  "app_title": "Duet Night Abyss",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "58c7aa4f48be44f3b40f5f78f62c84b7",
+      "asset_id": "58c7aa4f48be44f3b40f5f78f62c84b7",
+      "build_version": "0.0.0.14",
+      "catalog_item_id": "572fcef540b841dd9230d813bd5208fe",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "7aecc738227f4ee7b3d5a5e6571245d8"
+      },
+      "namespace": "ceb703de37854cda9932d2f9dd531520",
+      "sidecar_rev": 1
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567XDST3uaOezWZxad0POoFc5c9",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2025-03-21T07:56:27.429Z",
+    "customAttributes": {
+      "AllowMultipleInstances": {
+        "type": "STRING",
+        "value": "FALSE"
+      },
+      "BackgroundProcessNames": {
+        "type": "STRING",
+        "value": "EMLauncher-Win64-Shipping.exe"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DuetNightAbyss"
+      },
+      "MainWindowProcessName": {
+        "type": "STRING",
+        "value": "EM-Win64-Shipping.exe"
+      },
+      "NeverUpdate": {
+        "type": "STRING",
+        "value": "FALSE"
+      },
+      "NotarizedAndSigned": {
+        "type": "STRING",
+        "value": "FALSE"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "TRUE"
+      },
+      "ProcessNames": {
+        "type": "STRING",
+        "value": "EMLauncher-Win64-Shipping.exe,EM-Win64-Shipping.exe"
+      },
+      "SkipAutoInstallDlc": {
+        "type": "STRING",
+        "value": "TRUE"
+      }
+    },
+    "description": "Duet Night Abyss is a fantasy adventure RPG with a high degree of freedom. The game features \"Multiple Weapon Loadouts x 3D Combat\" at its core, and tells the story of \"Demons\" from dual perspectives.",
+    "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+    "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-11T07:14:48.177Z",
+        "description": "\u300c\u5f85\u5230\u65e5\u6696\u96ea\u878d\u300d\u9650\u5b9a\u793c\u5305\u00b7\u4e8c_ConsumableAudience",
+        "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+        "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+        "endOfSupport": false,
+        "entitlementName": "eb7ac7693ef64f81a00d2d20476a404f",
+        "entitlementType": "AUDIENCE",
+        "id": "eb7ac7693ef64f81a00d2d20476a404f",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-27T13:18:20.658Z",
+        "mainGameItem": {
+          "id": "572fcef540b841dd9230d813bd5208fe",
+          "namespace": "ceb703de37854cda9932d2f9dd531520",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "572fcef540b841dd9230d813bd5208fe",
+            "namespace": "ceb703de37854cda9932d2f9dd531520",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ceb703de37854cda9932d2f9dd531520",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\u300c\u5f85\u5230\u65e5\u6696\u96ea\u878d\u300d\u9650\u5b9a\u793c\u5305\u00b7\u4e8c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-11T07:17:09.259Z",
+        "description": "\u590f\u591c\u4e07\u82b1\u793c\u7bb1\u00b7\u4e94_ConsumableAudience",
+        "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+        "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+        "endOfSupport": false,
+        "entitlementName": "781eaa7046e84e799392130c13234885",
+        "entitlementType": "AUDIENCE",
+        "id": "781eaa7046e84e799392130c13234885",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-27T13:18:20.658Z",
+        "mainGameItem": {
+          "id": "572fcef540b841dd9230d813bd5208fe",
+          "namespace": "ceb703de37854cda9932d2f9dd531520",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "572fcef540b841dd9230d813bd5208fe",
+            "namespace": "ceb703de37854cda9932d2f9dd531520",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ceb703de37854cda9932d2f9dd531520",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\u590f\u591c\u4e07\u82b1\u793c\u7bb1\u00b7\u4e94_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-22T10:16:12.232Z",
+        "description": "\u72e9\u6708\u4eba\u5f62\u8c61\u79ae\u7bb1\u30fb\u661f\u8292_ConsumableAudience",
+        "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+        "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+        "endOfSupport": false,
+        "entitlementName": "8393e62c0eca4a0aa9b3d83538c1070e",
+        "entitlementType": "AUDIENCE",
+        "id": "8393e62c0eca4a0aa9b3d83538c1070e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-27T13:18:20.658Z",
+        "mainGameItem": {
+          "id": "572fcef540b841dd9230d813bd5208fe",
+          "namespace": "ceb703de37854cda9932d2f9dd531520",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "572fcef540b841dd9230d813bd5208fe",
+            "namespace": "ceb703de37854cda9932d2f9dd531520",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ceb703de37854cda9932d2f9dd531520",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\u72e9\u6708\u4eba\u5f62\u8c61\u79ae\u7bb1\u30fb\u661f\u8292_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-11T07:16:08.792Z",
+        "description": "\u542f\u7a0b\u793c\u5305\u00b7\u56db_ConsumableAudience",
+        "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+        "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+        "endOfSupport": false,
+        "entitlementName": "4ed3641716b3461795246c27fe1aeaff",
+        "entitlementType": "AUDIENCE",
+        "id": "4ed3641716b3461795246c27fe1aeaff",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-27T13:18:20.658Z",
+        "mainGameItem": {
+          "id": "572fcef540b841dd9230d813bd5208fe",
+          "namespace": "ceb703de37854cda9932d2f9dd531520",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "572fcef540b841dd9230d813bd5208fe",
+            "namespace": "ceb703de37854cda9932d2f9dd531520",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ceb703de37854cda9932d2f9dd531520",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\u542f\u7a0b\u793c\u5305\u00b7\u56db_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-11T07:15:32.932Z",
+        "description": "\u542f\u7a0b\u793c\u5305\u00b7\u4e00_ConsumableAudience",
+        "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+        "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+        "endOfSupport": false,
+        "entitlementName": "bc74424f8cae4a9f8a301b33ea7375bb",
+        "entitlementType": "AUDIENCE",
+        "id": "bc74424f8cae4a9f8a301b33ea7375bb",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-27T13:18:20.658Z",
+        "mainGameItem": {
+          "id": "572fcef540b841dd9230d813bd5208fe",
+          "namespace": "ceb703de37854cda9932d2f9dd531520",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "572fcef540b841dd9230d813bd5208fe",
+            "namespace": "ceb703de37854cda9932d2f9dd531520",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ceb703de37854cda9932d2f9dd531520",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\u542f\u7a0b\u793c\u5305\u00b7\u4e00_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-11T07:12:59.369Z",
+        "description": "198\u5143\u76f4\u5145_ConsumableAudience",
+        "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+        "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+        "endOfSupport": false,
+        "entitlementName": "4cf78491d9794e9890822743296da14c",
+        "entitlementType": "AUDIENCE",
+        "id": "4cf78491d9794e9890822743296da14c",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-27T13:18:20.658Z",
+        "mainGameItem": {
+          "id": "572fcef540b841dd9230d813bd5208fe",
+          "namespace": "ceb703de37854cda9932d2f9dd531520",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "572fcef540b841dd9230d813bd5208fe",
+            "namespace": "ceb703de37854cda9932d2f9dd531520",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ceb703de37854cda9932d2f9dd531520",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "198\u5143\u76f4\u5145_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-11T07:12:35.954Z",
+        "description": "98\u5143\u76f4\u5145_ConsumableAudience",
+        "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+        "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+        "endOfSupport": false,
+        "entitlementName": "862abe4bd3544734bc7fd8f9964e8210",
+        "entitlementType": "AUDIENCE",
+        "id": "862abe4bd3544734bc7fd8f9964e8210",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-27T13:18:20.658Z",
+        "mainGameItem": {
+          "id": "572fcef540b841dd9230d813bd5208fe",
+          "namespace": "ceb703de37854cda9932d2f9dd531520",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "572fcef540b841dd9230d813bd5208fe",
+            "namespace": "ceb703de37854cda9932d2f9dd531520",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ceb703de37854cda9932d2f9dd531520",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "98\u5143\u76f4\u5145_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-11T07:13:27.647Z",
+        "description": "648\u5143\u76f4\u5145_ConsumableAudience",
+        "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+        "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+        "endOfSupport": false,
+        "entitlementName": "3c46166e2d1845d4a738aa3d0813dd19",
+        "entitlementType": "AUDIENCE",
+        "id": "3c46166e2d1845d4a738aa3d0813dd19",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-27T13:18:20.658Z",
+        "mainGameItem": {
+          "id": "572fcef540b841dd9230d813bd5208fe",
+          "namespace": "ceb703de37854cda9932d2f9dd531520",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "572fcef540b841dd9230d813bd5208fe",
+            "namespace": "ceb703de37854cda9932d2f9dd531520",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ceb703de37854cda9932d2f9dd531520",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "648\u5143\u76f4\u5145_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-11T07:13:40.712Z",
+        "description": "\u6708\u5361_ConsumableAudience",
+        "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+        "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+        "endOfSupport": false,
+        "entitlementName": "d39d17c0e7c44248a6e077d9c6233704",
+        "entitlementType": "AUDIENCE",
+        "id": "d39d17c0e7c44248a6e077d9c6233704",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-27T13:18:20.658Z",
+        "mainGameItem": {
+          "id": "572fcef540b841dd9230d813bd5208fe",
+          "namespace": "ceb703de37854cda9932d2f9dd531520",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "572fcef540b841dd9230d813bd5208fe",
+            "namespace": "ceb703de37854cda9932d2f9dd531520",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ceb703de37854cda9932d2f9dd531520",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\u6708\u5361_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-24T03:08:09.702Z",
+        "description": "\u590f\u591c\u4e07\u82b1\u793c\u7bb1\u00b7\u4e00_ConsumableAudience",
+        "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+        "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+        "endOfSupport": false,
+        "entitlementName": "d4c1ffa8042c48de9d4c07a9e5096dee",
+        "entitlementType": "AUDIENCE",
+        "id": "d4c1ffa8042c48de9d4c07a9e5096dee",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-24T03:08:09.702Z",
+        "mainGameItem": {
+          "id": "572fcef540b841dd9230d813bd5208fe",
+          "namespace": "ceb703de37854cda9932d2f9dd531520",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "572fcef540b841dd9230d813bd5208fe",
+            "namespace": "ceb703de37854cda9932d2f9dd531520",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ceb703de37854cda9932d2f9dd531520",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\u590f\u591c\u4e07\u82b1\u793c\u7bb1\u00b7\u4e00_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-11T07:16:48.299Z",
+        "description": "\u590f\u591c\u4e07\u82b1\u793c\u7bb1\u00b7\u4e09_ConsumableAudience",
+        "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+        "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+        "endOfSupport": false,
+        "entitlementName": "bd3fd83522e7402f8ca4f63ee7734715",
+        "entitlementType": "AUDIENCE",
+        "id": "bd3fd83522e7402f8ca4f63ee7734715",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-27T13:18:21.736Z",
+        "mainGameItem": {
+          "id": "572fcef540b841dd9230d813bd5208fe",
+          "namespace": "ceb703de37854cda9932d2f9dd531520",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "572fcef540b841dd9230d813bd5208fe",
+            "namespace": "ceb703de37854cda9932d2f9dd531520",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ceb703de37854cda9932d2f9dd531520",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\u590f\u591c\u4e07\u82b1\u793c\u7bb1\u00b7\u4e09_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-11T07:14:35.245Z",
+        "description": "\u300c\u5f85\u5230\u65e5\u6696\u96ea\u878d\u300d\u9650\u5b9a\u793c\u5305\u00b7\u4e00_ConsumableAudience",
+        "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+        "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+        "endOfSupport": false,
+        "entitlementName": "b87077ad31a74a68acaae5345700cea8",
+        "entitlementType": "AUDIENCE",
+        "id": "b87077ad31a74a68acaae5345700cea8",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-27T13:18:21.736Z",
+        "mainGameItem": {
+          "id": "572fcef540b841dd9230d813bd5208fe",
+          "namespace": "ceb703de37854cda9932d2f9dd531520",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "572fcef540b841dd9230d813bd5208fe",
+            "namespace": "ceb703de37854cda9932d2f9dd531520",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ceb703de37854cda9932d2f9dd531520",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\u300c\u5f85\u5230\u65e5\u6696\u96ea\u878d\u300d\u9650\u5b9a\u793c\u5305\u00b7\u4e00_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-11T07:15:58.992Z",
+        "description": "\u542f\u7a0b\u793c\u5305\u00b7\u4e09_ConsumableAudience",
+        "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+        "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+        "endOfSupport": false,
+        "entitlementName": "a20a55b8087a41969831fb7dc23dddd6",
+        "entitlementType": "AUDIENCE",
+        "id": "a20a55b8087a41969831fb7dc23dddd6",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-27T13:18:21.736Z",
+        "mainGameItem": {
+          "id": "572fcef540b841dd9230d813bd5208fe",
+          "namespace": "ceb703de37854cda9932d2f9dd531520",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "572fcef540b841dd9230d813bd5208fe",
+            "namespace": "ceb703de37854cda9932d2f9dd531520",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ceb703de37854cda9932d2f9dd531520",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\u542f\u7a0b\u793c\u5305\u00b7\u4e09_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-11T07:17:18.542Z",
+        "description": "\u590f\u591c\u4e07\u82b1\u793c\u7bb1\u00b7\u516d_ConsumableAudience",
+        "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+        "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+        "endOfSupport": false,
+        "entitlementName": "29b304360d91497ba9bc39a05c2478fb",
+        "entitlementType": "AUDIENCE",
+        "id": "29b304360d91497ba9bc39a05c2478fb",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-27T13:18:21.736Z",
+        "mainGameItem": {
+          "id": "572fcef540b841dd9230d813bd5208fe",
+          "namespace": "ceb703de37854cda9932d2f9dd531520",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "572fcef540b841dd9230d813bd5208fe",
+            "namespace": "ceb703de37854cda9932d2f9dd531520",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ceb703de37854cda9932d2f9dd531520",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\u590f\u591c\u4e07\u82b1\u793c\u7bb1\u00b7\u516d_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-11T07:13:13.918Z",
+        "description": "328\u5143\u76f4\u5145_ConsumableAudience",
+        "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+        "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+        "endOfSupport": false,
+        "entitlementName": "d235ebcab65644c0a10962551274a192",
+        "entitlementType": "AUDIENCE",
+        "id": "d235ebcab65644c0a10962551274a192",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-27T13:18:21.736Z",
+        "mainGameItem": {
+          "id": "572fcef540b841dd9230d813bd5208fe",
+          "namespace": "ceb703de37854cda9932d2f9dd531520",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "572fcef540b841dd9230d813bd5208fe",
+            "namespace": "ceb703de37854cda9932d2f9dd531520",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ceb703de37854cda9932d2f9dd531520",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "328\u5143\u76f4\u5145_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-11T07:14:11.076Z",
+        "description": "\u6218\u4ee4128\u6863_ConsumableAudience",
+        "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+        "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+        "endOfSupport": false,
+        "entitlementName": "fec146af2f834669835ce761957f12f2",
+        "entitlementType": "AUDIENCE",
+        "id": "fec146af2f834669835ce761957f12f2",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-27T13:18:21.736Z",
+        "mainGameItem": {
+          "id": "572fcef540b841dd9230d813bd5208fe",
+          "namespace": "ceb703de37854cda9932d2f9dd531520",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "572fcef540b841dd9230d813bd5208fe",
+            "namespace": "ceb703de37854cda9932d2f9dd531520",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ceb703de37854cda9932d2f9dd531520",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\u6218\u4ee4128\u6863_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-11T07:13:52.045Z",
+        "description": "\u6218\u4ee468\u6863_ConsumableAudience",
+        "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+        "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+        "endOfSupport": false,
+        "entitlementName": "fc0a062c8813437cb0ea2be1740da871",
+        "entitlementType": "AUDIENCE",
+        "id": "fc0a062c8813437cb0ea2be1740da871",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-27T13:18:21.736Z",
+        "mainGameItem": {
+          "id": "572fcef540b841dd9230d813bd5208fe",
+          "namespace": "ceb703de37854cda9932d2f9dd531520",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "572fcef540b841dd9230d813bd5208fe",
+            "namespace": "ceb703de37854cda9932d2f9dd531520",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ceb703de37854cda9932d2f9dd531520",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\u6218\u4ee468\u6863_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-11T07:15:01.131Z",
+        "description": "\u300c\u5f85\u5230\u65e5\u6696\u96ea\u878d\u300d\u9650\u5b9a\u793c\u5305\u00b7\u4e09_ConsumableAudience",
+        "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+        "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+        "endOfSupport": false,
+        "entitlementName": "ec55d47c0e8a407fba965a779b4b327e",
+        "entitlementType": "AUDIENCE",
+        "id": "ec55d47c0e8a407fba965a779b4b327e",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-27T13:18:20.658Z",
+        "mainGameItem": {
+          "id": "572fcef540b841dd9230d813bd5208fe",
+          "namespace": "ceb703de37854cda9932d2f9dd531520",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "572fcef540b841dd9230d813bd5208fe",
+            "namespace": "ceb703de37854cda9932d2f9dd531520",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ceb703de37854cda9932d2f9dd531520",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\u300c\u5f85\u5230\u65e5\u6696\u96ea\u878d\u300d\u9650\u5b9a\u793c\u5305\u00b7\u4e09_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-11T07:15:44.363Z",
+        "description": "\u542f\u7a0b\u793c\u5305\u00b7\u4e8c_ConsumableAudience",
+        "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+        "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+        "endOfSupport": false,
+        "entitlementName": "7e1aa9d5a1fc44bfb7ce9fe9485bb9cf",
+        "entitlementType": "AUDIENCE",
+        "id": "7e1aa9d5a1fc44bfb7ce9fe9485bb9cf",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-27T13:18:21.736Z",
+        "mainGameItem": {
+          "id": "572fcef540b841dd9230d813bd5208fe",
+          "namespace": "ceb703de37854cda9932d2f9dd531520",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "572fcef540b841dd9230d813bd5208fe",
+            "namespace": "ceb703de37854cda9932d2f9dd531520",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ceb703de37854cda9932d2f9dd531520",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\u542f\u7a0b\u793c\u5305\u00b7\u4e8c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-11T07:16:37.397Z",
+        "description": "\u590f\u591c\u4e07\u82b1\u793c\u7bb1\u00b7\u4e8c_ConsumableAudience",
+        "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+        "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+        "endOfSupport": false,
+        "entitlementName": "a5b0180b40a648c081dcccace9399ecc",
+        "entitlementType": "AUDIENCE",
+        "id": "a5b0180b40a648c081dcccace9399ecc",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-27T13:18:21.736Z",
+        "mainGameItem": {
+          "id": "572fcef540b841dd9230d813bd5208fe",
+          "namespace": "ceb703de37854cda9932d2f9dd531520",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "572fcef540b841dd9230d813bd5208fe",
+            "namespace": "ceb703de37854cda9932d2f9dd531520",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ceb703de37854cda9932d2f9dd531520",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\u590f\u591c\u4e07\u82b1\u793c\u7bb1\u00b7\u4e8c_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-11T07:17:29.226Z",
+        "description": "\u4e3b\u9898\u76ae\u80a4\u4e13\u7528_ConsumableAudience",
+        "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+        "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+        "endOfSupport": false,
+        "entitlementName": "8b57d428229d459eb84c07ca5903ba86",
+        "entitlementType": "AUDIENCE",
+        "id": "8b57d428229d459eb84c07ca5903ba86",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-27T13:18:22.632Z",
+        "mainGameItem": {
+          "id": "572fcef540b841dd9230d813bd5208fe",
+          "namespace": "ceb703de37854cda9932d2f9dd531520",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "572fcef540b841dd9230d813bd5208fe",
+            "namespace": "ceb703de37854cda9932d2f9dd531520",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ceb703de37854cda9932d2f9dd531520",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\u4e3b\u9898\u76ae\u80a4\u4e13\u7528_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-11T07:14:22.777Z",
+        "description": "\u6218\u4ee468\u5347128\u6863_ConsumableAudience",
+        "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+        "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+        "endOfSupport": false,
+        "entitlementName": "a956ac420acd4f45ab04dc366a067822",
+        "entitlementType": "AUDIENCE",
+        "id": "a956ac420acd4f45ab04dc366a067822",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-27T13:18:21.736Z",
+        "mainGameItem": {
+          "id": "572fcef540b841dd9230d813bd5208fe",
+          "namespace": "ceb703de37854cda9932d2f9dd531520",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "572fcef540b841dd9230d813bd5208fe",
+            "namespace": "ceb703de37854cda9932d2f9dd531520",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ceb703de37854cda9932d2f9dd531520",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\u6218\u4ee468\u5347128\u6863_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-11T07:16:58.793Z",
+        "description": "\u590f\u591c\u4e07\u82b1\u793c\u7bb1\u00b7\u56db_ConsumableAudience",
+        "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+        "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+        "endOfSupport": false,
+        "entitlementName": "fe845bee217448ad9d7cd4470edcc827",
+        "entitlementType": "AUDIENCE",
+        "id": "fe845bee217448ad9d7cd4470edcc827",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-27T13:18:22.632Z",
+        "mainGameItem": {
+          "id": "572fcef540b841dd9230d813bd5208fe",
+          "namespace": "ceb703de37854cda9932d2f9dd531520",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "572fcef540b841dd9230d813bd5208fe",
+            "namespace": "ceb703de37854cda9932d2f9dd531520",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ceb703de37854cda9932d2f9dd531520",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\u590f\u591c\u4e07\u82b1\u793c\u7bb1\u00b7\u56db_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-11T07:11:45.142Z",
+        "description": "30\u5143\u76f4\u5145_ConsumableAudience",
+        "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+        "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+        "endOfSupport": false,
+        "entitlementName": "bd7ec81d2bf949789323a4a705540b84",
+        "entitlementType": "AUDIENCE",
+        "id": "bd7ec81d2bf949789323a4a705540b84",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-27T13:18:22.632Z",
+        "mainGameItem": {
+          "id": "572fcef540b841dd9230d813bd5208fe",
+          "namespace": "ceb703de37854cda9932d2f9dd531520",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "572fcef540b841dd9230d813bd5208fe",
+            "namespace": "ceb703de37854cda9932d2f9dd531520",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ceb703de37854cda9932d2f9dd531520",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "30\u5143\u76f4\u5145_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-09-25T12:55:46.296Z",
+        "description": "6\u5143\u76f4\u5145_ConsumableAudience",
+        "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+        "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+        "endOfSupport": false,
+        "entitlementName": "f6e87a6300c44beca332405a8581e26a",
+        "entitlementType": "AUDIENCE",
+        "id": "f6e87a6300c44beca332405a8581e26a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-27T13:18:22.632Z",
+        "mainGameItem": {
+          "id": "572fcef540b841dd9230d813bd5208fe",
+          "namespace": "ceb703de37854cda9932d2f9dd531520",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "572fcef540b841dd9230d813bd5208fe",
+            "namespace": "ceb703de37854cda9932d2f9dd531520",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ceb703de37854cda9932d2f9dd531520",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "6\u5143\u76f4\u5145_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-11T07:15:11.754Z",
+        "description": "\u300c\u5f85\u5230\u65e5\u6696\u96ea\u878d\u300d\u9650\u5b9a\u793c\u5305\u00b7\u56db_ConsumableAudience",
+        "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+        "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+        "endOfSupport": false,
+        "entitlementName": "1345917f72fe4c5a83eac7d40e008c78",
+        "entitlementType": "AUDIENCE",
+        "id": "1345917f72fe4c5a83eac7d40e008c78",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-27T13:18:22.632Z",
+        "mainGameItem": {
+          "id": "572fcef540b841dd9230d813bd5208fe",
+          "namespace": "ceb703de37854cda9932d2f9dd531520",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "572fcef540b841dd9230d813bd5208fe",
+            "namespace": "ceb703de37854cda9932d2f9dd531520",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ceb703de37854cda9932d2f9dd531520",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "\u300c\u5f85\u5230\u65e5\u6696\u96ea\u878d\u300d\u9650\u5b9a\u793c\u5305\u00b7\u56db_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2025-10-24T03:08:10.847Z",
+        "description": "testpay1000_ConsumableAudience",
+        "developer": "Hong Kong Spiral Rising Technology Co., Limited",
+        "developerId": "o-hz9vqg8bt7t5bjhcx7mqq75x5te55c",
+        "endOfSupport": false,
+        "entitlementName": "5abf06ba719c4315b793b0f9aa20aa86",
+        "entitlementType": "AUDIENCE",
+        "id": "5abf06ba719c4315b793b0f9aa20aa86",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2025-10-24T03:08:10.847Z",
+        "mainGameItem": {
+          "id": "572fcef540b841dd9230d813bd5208fe",
+          "namespace": "ceb703de37854cda9932d2f9dd531520",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "572fcef540b841dd9230d813bd5208fe",
+            "namespace": "ceb703de37854cda9932d2f9dd531520",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "ceb703de37854cda9932d2f9dd531520",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "testpay1000_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "572fcef540b841dd9230d813bd5208fe",
+    "entitlementType": "EXECUTABLE",
+    "id": "572fcef540b841dd9230d813bd5208fe",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Duet Night Abyss Offer",
+        "height": 1440,
+        "md5": "7cefc4ef7c682a2679118e5b58f5068e",
+        "size": 2657259,
+        "type": "DieselGameBox",
+        "uploadedDate": "2025-04-22T07:44:09.413Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/3ee3dfff2735421a88b4e2062d6784cf/duet-night-abyss-zusmt.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Duet Night Abyss Offer",
+        "height": 1600,
+        "md5": "9e1956aeb407e796880d37fad7d863a0",
+        "size": 852356,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2025-04-22T07:43:55.646Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/3ee3dfff2735421a88b4e2062d6784cf/duet-night-abyss-bvsq2.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-11-14T10:38:09.061Z",
+    "mainGameItemList": [],
+    "namespace": "ceb703de37854cda9932d2f9dd531520",
+    "releaseInfo": [
+      {
+        "appId": "58c7aa4f48be44f3b40f5f78f62c84b7",
+        "id": "43e759d9bd93437cbd1f94c69f2edb38",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Duet Night Abyss",
+    "unsearchable": false
+  },
+  "sidecar": {
+    "config": {
+      "deploymentId": "1001e76bc10e490fb29885fe3462e456"
+    },
+    "rev": 1
+  }
+}

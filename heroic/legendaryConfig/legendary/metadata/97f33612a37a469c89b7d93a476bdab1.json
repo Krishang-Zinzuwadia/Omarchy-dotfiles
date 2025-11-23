@@ -1,0 +1,426 @@
+{
+  "app_name": "97f33612a37a469c89b7d93a476bdab1",
+  "app_title": "Raini: The Lords of Light",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "97f33612a37a469c89b7d93a476bdab1",
+      "asset_id": "97f33612a37a469c89b7d93a476bdab1",
+      "build_version": "5.1.0_PC",
+      "catalog_item_id": "f4d56531bd5848bcbe14db13febd432e",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "c94ff0a33c1444d2a6e9dd91be6e5167",
+        "update_type": "PATCH"
+      },
+      "namespace": "5efded9de1d049758206a501425d8209",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "fghi4567hswqoM8u0oW6rKFUHvKpXQQG",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-02-09T06:56:42.382Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "RainiTheLordsofLight"
+      }
+    },
+    "description": "Raini: The Lords of Light",
+    "developer": "Raini Studios",
+    "developerId": "o-jkl48jbja93w9zfdzl5l9y4utpp9z5",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-07-17T00:15:39.836Z",
+        "description": "The Lords of Light - Medium LUX Bundle_ConsumableAudience",
+        "developer": "Raini Studios",
+        "developerId": "o-jkl48jbja93w9zfdzl5l9y4utpp9z5",
+        "endOfSupport": false,
+        "entitlementName": "d5367cb9c8154b85bbbad826a698ac8d",
+        "entitlementType": "AUDIENCE",
+        "id": "d5367cb9c8154b85bbbad826a698ac8d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-12-16T21:57:46.266Z",
+        "mainGameItem": {
+          "id": "f4d56531bd5848bcbe14db13febd432e",
+          "namespace": "5efded9de1d049758206a501425d8209",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f4d56531bd5848bcbe14db13febd432e",
+            "namespace": "5efded9de1d049758206a501425d8209",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5efded9de1d049758206a501425d8209",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "The Lords of Light - Medium LUX Bundle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-07-17T01:38:03.186Z",
+        "description": "The Lords of Light - FREE Welcome Bundle_SeasonPassAudience",
+        "developer": "Raini Studios",
+        "developerId": "o-jkl48jbja93w9zfdzl5l9y4utpp9z5",
+        "endOfSupport": false,
+        "entitlementName": "ebbf14ef0a4a42fb8853a8e9b78f6db1",
+        "entitlementType": "AUDIENCE",
+        "id": "ebbf14ef0a4a42fb8853a8e9b78f6db1",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-12-16T21:57:46.266Z",
+        "mainGameItem": {
+          "id": "f4d56531bd5848bcbe14db13febd432e",
+          "namespace": "5efded9de1d049758206a501425d8209",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f4d56531bd5848bcbe14db13febd432e",
+            "namespace": "5efded9de1d049758206a501425d8209",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5efded9de1d049758206a501425d8209",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "The Lords of Light - FREE Welcome Bundle_SeasonPassAudience",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-07-17T00:31:49.518Z",
+        "description": "The Lords of Light - Large LUX Bundle_ConsumableAudience",
+        "developer": "Raini Studios",
+        "developerId": "o-jkl48jbja93w9zfdzl5l9y4utpp9z5",
+        "endOfSupport": false,
+        "entitlementName": "42fb6a83f87f492ba077975ab6f40d39",
+        "entitlementType": "AUDIENCE",
+        "id": "42fb6a83f87f492ba077975ab6f40d39",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-12-16T21:57:46.266Z",
+        "mainGameItem": {
+          "id": "f4d56531bd5848bcbe14db13febd432e",
+          "namespace": "5efded9de1d049758206a501425d8209",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f4d56531bd5848bcbe14db13febd432e",
+            "namespace": "5efded9de1d049758206a501425d8209",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5efded9de1d049758206a501425d8209",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "The Lords of Light - Large LUX Bundle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-07-17T01:44:25.123Z",
+        "description": "The Lords of Light - PREMIUM Welcome Bundle_SeasonPassAudience",
+        "developer": "Raini Studios",
+        "developerId": "o-jkl48jbja93w9zfdzl5l9y4utpp9z5",
+        "endOfSupport": false,
+        "entitlementName": "d4dbfc5f89cc4a7ab4f7eba322fd2567",
+        "entitlementType": "AUDIENCE",
+        "id": "d4dbfc5f89cc4a7ab4f7eba322fd2567",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-12-16T21:57:46.266Z",
+        "mainGameItem": {
+          "id": "f4d56531bd5848bcbe14db13febd432e",
+          "namespace": "5efded9de1d049758206a501425d8209",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f4d56531bd5848bcbe14db13febd432e",
+            "namespace": "5efded9de1d049758206a501425d8209",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5efded9de1d049758206a501425d8209",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "The Lords of Light - PREMIUM Welcome Bundle_SeasonPassAudience",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-07-17T00:10:03.142Z",
+        "description": "The Lords of Light - Small LUX Bundle_ConsumableAudience",
+        "developer": "Raini Studios",
+        "developerId": "o-jkl48jbja93w9zfdzl5l9y4utpp9z5",
+        "endOfSupport": false,
+        "entitlementName": "7bd3e51cf2d74d3b9ead1cc6e0e7bdab",
+        "entitlementType": "AUDIENCE",
+        "id": "7bd3e51cf2d74d3b9ead1cc6e0e7bdab",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-12-16T21:57:47.013Z",
+        "mainGameItem": {
+          "id": "f4d56531bd5848bcbe14db13febd432e",
+          "namespace": "5efded9de1d049758206a501425d8209",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f4d56531bd5848bcbe14db13febd432e",
+            "namespace": "5efded9de1d049758206a501425d8209",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5efded9de1d049758206a501425d8209",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "The Lords of Light - Small LUX Bundle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-07-17T02:19:32.951Z",
+        "description": "newTestSeasonPass_SeasonPassAudience",
+        "developer": "Raini Studios",
+        "developerId": "o-jkl48jbja93w9zfdzl5l9y4utpp9z5",
+        "endOfSupport": false,
+        "entitlementName": "de224314370f45ada53ecf63cbb9e638",
+        "entitlementType": "AUDIENCE",
+        "id": "de224314370f45ada53ecf63cbb9e638",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-12-16T21:57:46.266Z",
+        "mainGameItem": {
+          "id": "f4d56531bd5848bcbe14db13febd432e",
+          "namespace": "5efded9de1d049758206a501425d8209",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f4d56531bd5848bcbe14db13febd432e",
+            "namespace": "5efded9de1d049758206a501425d8209",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5efded9de1d049758206a501425d8209",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "newTestSeasonPass_SeasonPassAudience",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-07-17T00:34:38.488Z",
+        "description": "The Lords of Light - XXL LUX Bundle_ConsumableAudience",
+        "developer": "Raini Studios",
+        "developerId": "o-jkl48jbja93w9zfdzl5l9y4utpp9z5",
+        "endOfSupport": false,
+        "entitlementName": "6d922643373a4a4bbb3d64391f3b69e2",
+        "entitlementType": "AUDIENCE",
+        "id": "6d922643373a4a4bbb3d64391f3b69e2",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-12-16T21:57:46.266Z",
+        "mainGameItem": {
+          "id": "f4d56531bd5848bcbe14db13febd432e",
+          "namespace": "5efded9de1d049758206a501425d8209",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f4d56531bd5848bcbe14db13febd432e",
+            "namespace": "5efded9de1d049758206a501425d8209",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5efded9de1d049758206a501425d8209",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "The Lords of Light - XXL LUX Bundle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-07-17T00:33:31.598Z",
+        "description": "The Lords of Light - XL LUX Bundle_ConsumableAudience",
+        "developer": "Raini Studios",
+        "developerId": "o-jkl48jbja93w9zfdzl5l9y4utpp9z5",
+        "endOfSupport": false,
+        "entitlementName": "0a9cab9759cc4a88b7b727c389bc3d07",
+        "entitlementType": "AUDIENCE",
+        "id": "0a9cab9759cc4a88b7b727c389bc3d07",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2024-12-16T21:57:46.265Z",
+        "mainGameItem": {
+          "id": "f4d56531bd5848bcbe14db13febd432e",
+          "namespace": "5efded9de1d049758206a501425d8209",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f4d56531bd5848bcbe14db13febd432e",
+            "namespace": "5efded9de1d049758206a501425d8209",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5efded9de1d049758206a501425d8209",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "The Lords of Light - XL LUX Bundle_ConsumableAudience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-12-16T21:57:46.301Z",
+        "description": "1Kin Promo Bundle_SeasonPassAudience",
+        "developer": "Raini Studios",
+        "developerId": "o-jkl48jbja93w9zfdzl5l9y4utpp9z5",
+        "endOfSupport": false,
+        "entitlementName": "fcdc78453cde4d67b8facdd43ccb31fa",
+        "entitlementType": "AUDIENCE",
+        "id": "fcdc78453cde4d67b8facdd43ccb31fa",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-12-16T21:57:46.301Z",
+        "mainGameItem": {
+          "id": "f4d56531bd5848bcbe14db13febd432e",
+          "namespace": "5efded9de1d049758206a501425d8209",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "f4d56531bd5848bcbe14db13febd432e",
+            "namespace": "5efded9de1d049758206a501425d8209",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "5efded9de1d049758206a501425d8209",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1Kin Promo Bundle_SeasonPassAudience",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "f4d56531bd5848bcbe14db13febd432e",
+    "entitlementType": "EXECUTABLE",
+    "id": "f4d56531bd5848bcbe14db13febd432e",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Raini The Lords of Light Offer",
+        "height": 1440,
+        "md5": "604401481ff5cfbfa0016b86a358c685",
+        "size": 2348917,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-05-10T01:33:55.869Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/ce0034d808b1476c9fd58eb96f327b67/raini-the-lords-of-light-19h0p.jpg",
+        "width": 2560
+      },
+      {
+        "alt": "Download Raini The Lords of Light Offer",
+        "height": 1600,
+        "md5": "432d3b4fb435964d8ffc6f850d680a13",
+        "size": 1106157,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-05-10T01:36:00.079Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/ce0034d808b1476c9fd58eb96f327b67/raini-the-lords-of-light-1mqo7.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-07-23T23:58:24.766Z",
+    "mainGameItemList": [],
+    "namespace": "5efded9de1d049758206a501425d8209",
+    "releaseInfo": [
+      {
+        "appId": "97f33612a37a469c89b7d93a476bdab1",
+        "id": "ad14e5a05fb443c2a8c3883c1245985f",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Raini: The Lords of Light",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

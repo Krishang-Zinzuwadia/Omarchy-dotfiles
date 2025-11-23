@@ -1,0 +1,30 @@
+hotkey: '`'
+model: base
+language: en
+audio:
+  sample_rate: 16000
+  channels: 1
+  chunk_duration: 1.0
+typing:
+  speed: 50
+  use_clipboard_fallback: true
+ui:
+  width: 400
+  height: 120
+  border_radius: 16
+  background_opacity: 0.95
+  blur_enabled: true
+  animation_speed: 1.0
+  show_confidence: false
+advanced:
+  min_press_duration: 100
+  auto_start: true
+  log_level: INFO
+  log_file: ~/.local/share/zephyr/logs/zephyr.log
+  vad_enabled: false
+  vad_threshold: 0.5
+  beam_size: 5
+  best_of: 5
+  temperature: 0.0
+  unload_model_after: 300
+  max_recording_duration: 60

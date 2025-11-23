@@ -1,0 +1,84 @@
+{
+  "app_name": "98940aa2155b42cfb31a99101649b355",
+  "app_title": "BlueSuburbia",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "98940aa2155b42cfb31a99101649b355",
+      "asset_id": "98940aa2155b42cfb31a99101649b355",
+      "build_version": "BuildVersion1.1",
+      "catalog_item_id": "757f034ef85b495b9c24e5f11f07565e",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "cdfbf49d7f30479197c330ad622fdb04"
+      },
+      "namespace": "7c68959aff46468bab66fa0bcb6a7047",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2023-12-22T18:59:45.552Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "BlueSuburbiap4bLp"
+      }
+    },
+    "description": "BlueSuburbia",
+    "developer": "alienmelon",
+    "developerId": "o-k8xwvxxefkn38dncqzddg92txy59tt",
+    "endOfSupport": false,
+    "entitlementName": "757f034ef85b495b9c24e5f11f07565e",
+    "entitlementType": "EXECUTABLE",
+    "id": "757f034ef85b495b9c24e5f11f07565e",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "BlueSuburbia Offer",
+        "height": 1440,
+        "md5": "c8a289a6ae891de22abbb21730ae9494",
+        "size": 3467451,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-01-29T22:12:11.343Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/900cbd296bc243ac952935cd549673df/bluesuburbia-1n3eg.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download BlueSuburbia Offer",
+        "height": 1600,
+        "md5": "091bf688e92ee317de2567f1955fcf81",
+        "size": 2216482,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-01-29T22:12:18.647Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/900cbd296bc243ac952935cd549673df/bluesuburbia-orvl2.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2025-02-06T14:01:21.147Z",
+    "mainGameItemList": [],
+    "namespace": "7c68959aff46468bab66fa0bcb6a7047",
+    "releaseInfo": [
+      {
+        "appId": "98940aa2155b42cfb31a99101649b355",
+        "id": "bdee73f56cbd4ed08e1750280bdbc604",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "BlueSuburbia",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

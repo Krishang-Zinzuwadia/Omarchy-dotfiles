@@ -1,0 +1,88 @@
+{
+  "app_name": "2fb0eae795104757977dfe8f93b5e593",
+  "app_title": "Submerged Hidden Depths",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "2fb0eae795104757977dfe8f93b5e593",
+      "asset_id": "2fb0eae795104757977dfe8f93b5e593",
+      "build_version": "1.0.0.3",
+      "catalog_item_id": "6b99f221d59542a5aec6f0cef6319011",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "adc3dfc1d15d47f4b104982d5dd48a4a"
+      },
+      "namespace": "6006c7c9d8534b0ca4605ea3a759f3e1",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-12-06T06:21:09.843Z",
+    "customAttributes": {
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/SubmergedHiddenDepths/EGS/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "SubmergedHiddenDepths"
+      }
+    },
+    "description": "Submerged Hidden Depths",
+    "developer": "Uppercut Games",
+    "developerId": "o-hpdh9zjxpuz4quu95cagfzhgcavmjt",
+    "endOfSupport": false,
+    "entitlementName": "6b99f221d59542a5aec6f0cef6319011",
+    "entitlementType": "EXECUTABLE",
+    "id": "6b99f221d59542a5aec6f0cef6319011",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Download Submerged Hidden Depths Offer",
+        "height": 1600,
+        "md5": "1a5029f22ca26fc673727592c5d1c42b",
+        "size": 1400190,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-01-31T04:15:34.321Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/5409bde4ade34d51a33baabe6ad10234/download-submerged-hidden-depths-offer-10nz8.jpg",
+        "width": 1200
+      },
+      {
+        "alt": "Submerged Hidden Depths Offer",
+        "height": 1440,
+        "md5": "14e7818d73147093426afa42ff00c66e",
+        "size": 2826743,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-01-31T04:15:44.995Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/5409bde4ade34d51a33baabe6ad10234/submerged-hidden-depths-offer-1ysy0.jpg",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2022-02-18T09:25:25.820Z",
+    "mainGameItemList": [],
+    "namespace": "6006c7c9d8534b0ca4605ea3a759f3e1",
+    "releaseInfo": [
+      {
+        "appId": "2fb0eae795104757977dfe8f93b5e593",
+        "id": "2c8d90abf1c74c0aaa4b41e7acd5b69f",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Submerged Hidden Depths",
+    "unsearchable": false
+  },
+  "sidecar": null
+}

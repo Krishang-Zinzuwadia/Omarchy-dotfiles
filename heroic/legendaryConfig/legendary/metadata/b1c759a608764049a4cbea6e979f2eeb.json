@@ -1,0 +1,115 @@
+{
+  "app_name": "b1c759a608764049a4cbea6e979f2eeb",
+  "app_title": "Legends of Runeterra",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "b1c759a608764049a4cbea6e979f2eeb",
+      "asset_id": "b1c759a608764049a4cbea6e979f2eeb",
+      "build_version": "2609-591",
+      "catalog_item_id": "37501f75c0f24e3496b973aee610e3b5",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "4fb89e9f47fe48258314c366649c398e",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-05-05T02:12:36.982Z",
+    "customAttributes": {
+      "BackgroundProcessNames": {
+        "type": "STRING",
+        "value": "RiotClientUx.exe,RiotClientUxRender.exe,RiotClientServices.exe"
+      },
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "LegendsofRuneterra"
+      },
+      "MainWindowProcessName": {
+        "type": "STRING",
+        "value": "LoR.exe"
+      },
+      "ProcessNames": {
+        "type": "STRING",
+        "value": "LoR.exe"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Legends of Runeterra",
+    "developer": "Riot Games, Inc.",
+    "developerId": "o-f78uswldmqghexmu23y5qj6a5xnqrg",
+    "endOfSupport": false,
+    "entitlementName": "37501f75c0f24e3496b973aee610e3b5",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "37501f75c0f24e3496b973aee610e3b5",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "53b4135a798b686f67f2a95de625858f",
+        "size": 762548,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-11-05T18:55:23.813Z",
+        "url": "https://cdn1.epicgames.com/item/4fb89e9f47fe48258314c366649c398e/EGS_LegendsofRuneterra_RiotGames_S1_2560x1440-53b4135a798b686f67f2a95de625858f",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "81d66ade5e34a391494be02ba95f797e",
+        "size": 560671,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-11-05T18:55:27.253Z",
+        "url": "https://cdn1.epicgames.com/item/4fb89e9f47fe48258314c366649c398e/EGS_LegendsofRuneterra_RiotGames_S2_1200x1600-81d66ade5e34a391494be02ba95f797e",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-11-05T18:59:48.284Z",
+    "mainGameItemList": [],
+    "namespace": "4fb89e9f47fe48258314c366649c398e",
+    "releaseInfo": [
+      {
+        "appId": "b1c759a608764049a4cbea6e979f2eeb",
+        "compatibleApps": [],
+        "dateAdded": "2021-11-04T15:08:16.037Z",
+        "id": "4f640aa187864e4db823aaed444162ea",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Legends of Runeterra",
+    "unsearchable": true
+  },
+  "sidecar": null
+}
