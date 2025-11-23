@@ -1,2 +1,0 @@
-2025-11-18 23:01:48.470 [error] #93: https://browser.events.data.microsoft.com/OneCollector/1.0/?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
-2025-11-18 23:01:51.409 [error] #94: https://browser.events.data.microsoft.com/OneCollector/1.0/?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED

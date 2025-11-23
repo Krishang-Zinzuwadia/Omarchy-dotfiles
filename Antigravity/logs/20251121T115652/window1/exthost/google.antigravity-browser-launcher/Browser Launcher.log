@@ -1,8 +1,0 @@
-2025-11-21 11:57:06.719 [info] Launching browser...
-2025-11-21 11:57:06.719 [info] No Chrome with CDP found on port 9222. Safe to launch Chrome.
-2025-11-21 11:57:06.719 [info] Launching browser with command: "/usr/bin/chromium" --remote-debugging-port=9222 --user-data-dir=/home/krishang/.gemini/antigravity-browser-profile --disable-fre --no-default-browser-check --no-first-run --auto-accept-browser-signin-for-tests --ash-no-nudges --disable-features=OfferMigrationToDiceUsers,OptGuideOnDeviceModel
-2025-11-21 11:57:06.719 [info] Starting SSH reverse proxy...
-2025-11-21 11:57:06.719 [info] Not in remote SSH session. Skipping reverse proxy initialization.
-2025-11-21 11:57:06.719 [info] No Chrome with CDP found on port 9222. Safe to launch Chrome.
-2025-11-21 11:57:07.241 [info] Chrome with CDP is already running on port 9222.
-2025-11-21 11:57:07.310 [info] Browser ready on port 9222 after 625ms
