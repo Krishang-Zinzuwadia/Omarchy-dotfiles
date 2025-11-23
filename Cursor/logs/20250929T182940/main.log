@@ -1,6 +1,0 @@
-2025-09-29 18:29:40.531 [info] updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/1.7.12/c08600bc2bef2187f6cff555337f28c9e5716711861fb4a11ffa5c4c391038d3/stable
-2025-09-29 18:29:40.532 [info] update#setState idle
-2025-09-29 18:30:10.534 [info] update#setState checking for updates
-2025-09-29 18:30:11.590 [info] update#setState available for download
-2025-09-29 18:31:37.396 [info] update#setState idle
-2025-09-29 18:37:30.758 [info] Extension host with pid 20410 exited with code: 0, signal: unknown.
