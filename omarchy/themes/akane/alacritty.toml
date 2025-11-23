@@ -1,0 +1,31 @@
+# Name: Akane
+
+[colors]
+[colors.primary]
+background = '#0E1E36'  # oxford-blue
+foreground = '#F4B999'  # peach
+
+# Normal colors
+[colors.normal]
+black = '#0E1E36'       # oxford-blue
+red = '#D2495B'         # amaranth
+green = '#BE6F76'       # old-rose
+yellow = '#F4B999'      # peach
+blue = '#574F72'        # english-violet
+magenta = '#763C5D'     # quinacridone-magenta
+cyan = '#9279AA'        # african-violet
+white = '#FA7E75'       # coral-pink
+
+# Bright colors
+[colors.bright]
+black = '#4A2036'       # dark-purple
+red = '#FA7E75'         # coral-pink
+green = '#C85670'       # blush
+yellow = '#F4B999'      # peach
+blue = '#9279AA'        # african-violet
+magenta = '#BE6F76'     # old-rose
+cyan = '#C85670'        # blush
+white = '#F4B999'       # peach
+
+[colors.selection]
+background = '#9279AA'  # african-violet
