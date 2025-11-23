@@ -1,0 +1,91 @@
+# Sensitive application data and passwords
+1Password/
+Signal/
+obsidian/
+Electron/
+
+# Database files that may contain sensitive data
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.db
+*.db-shm
+*.db-wal
+
+# API Keys and Secrets
+**/*secret*
+**/*password*
+**/*credential*
+**/*key*.pem
+**/*key*.key
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+
+# Specific sensitive config files (allow dotfiles config.json)
+!**/config.json
+!**/config.jsonc
+!**/hosts.yml
+Signal/config.json
+obs-studio/**/config.json
+
+# Environment files
+.env
+.env.*
+!.env.example
+!.env.template
+
+# SSH Keys
+id_rsa
+id_dsa
+id_ecdsa
+id_ed25519
+*.ppk
+known_hosts
+authorized_keys
+
+# Cloud provider credentials
+.aws/
+.gcloud/
+.azure/
+
+# OBS Studio plugin configs (may contain passwords)
+obs-studio/plugin_config/
+
+# Browser data that may contain sensitive info
+**/Cookies
+**/Cookies-journal
+**/Local Storage/
+**/Session Storage/
+**/IndexedDB/
+**/Cache/
+**/GPUCache/
+**/Code Cache/
+**/Crashpad/
+**/Network Persistent State
+Preferences
+DIPS
+Trust Tokens*
+WebStorage*
+SharedStorage*
+
+# Application specific sensitive data
+Ultralytics/
+configstore/
+nextjs-nodejs/
+create-next-app-nodejs/
+turborepo/
+
+# Temporary and backup files
+*.bak
+*.backup
+*.tmp
+*.temp
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
